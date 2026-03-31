@@ -1089,6 +1089,17 @@
     "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
+    "date": "2026-02-18",
+    "code": "1726",
+    "name": "永記",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.97
+  },
+  {
     "date": "2026-02-23",
     "code": "1726",
     "name": "永記",
@@ -1141,7 +1152,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.0,
-    "three_inst_ratio_change_20": 0.02999999999999936
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-03-03",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.98,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-03-10",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.95,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-03-16",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.94,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-03-20",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.94,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": -0.02000000000000135
   },
   {
     "date": "2026-03-23",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.93,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": 12.93
   },
   {
     "date": "2026-03-25",
@@ -1340,5 +1351,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.93,
     "three_inst_ratio_change_20": -0.0600000000000005
+  },
+  {
+    "date": "2026-03-30",
+    "code": "1726",
+    "name": "永記",
+    "market": "TWSE",
+    "foreign_ratio": 12.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.93,
+    "three_inst_ratio_change_20": -0.07000000000000028
   }
 ]

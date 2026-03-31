@@ -1155,6 +1155,17 @@
     "three_inst_ratio_change_20": 0.13
   },
   {
+    "date": "2026-02-18",
+    "code": "00671R",
+    "name": "富邦NASDAQ反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.06
+  },
+  {
     "date": "2026-02-23",
     "code": "00671R",
     "name": "富邦NASDAQ反1",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-03-17",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.24
   },
   {
     "date": "2026-03-19",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
-    "three_inst_ratio_change_20": -0.24
+    "three_inst_ratio_change_20": -0.12
   },
   {
     "date": "2026-03-20",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
-    "three_inst_ratio_change_20": -0.12
+    "three_inst_ratio_change_20": -0.13
   },
   {
     "date": "2026-03-23",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
-    "three_inst_ratio_change_20": -0.13
+    "three_inst_ratio_change_20": 0.06
   },
   {
     "date": "2026-03-24",
@@ -1417,5 +1428,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
     "three_inst_ratio_change_20": -0.22999999999999998
+  },
+  {
+    "date": "2026-03-30",
+    "code": "00671R",
+    "name": "富邦NASDAQ反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.06,
+    "three_inst_ratio_change_20": -0.13
   }
 ]
