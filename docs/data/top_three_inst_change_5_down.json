@@ -707,17 +707,17 @@
     "change": -0.46224060002193035
   },
   {
-    "code": "00946",
-    "name": "群益科技高息成長",
-    "market": "TWSE",
-    "three_inst_ratio": 2.41,
-    "change": -0.45999999999999996
-  },
-  {
     "code": "00896",
     "name": "中信綠能及電動車",
     "market": "TWSE",
     "three_inst_ratio": 0.81,
+    "change": -0.45999999999999996
+  },
+  {
+    "code": "00946",
+    "name": "群益科技高息成長",
+    "market": "TWSE",
+    "three_inst_ratio": 2.41,
     "change": -0.45999999999999996
   },
   {
@@ -777,17 +777,17 @@
     "change": -0.4299999999999997
   },
   {
-    "code": "8163",
-    "name": "達方",
-    "market": "TWSE",
-    "three_inst_ratio": 6.531391785995029,
-    "change": -0.4299999999999997
-  },
-  {
     "code": "6491",
     "name": "晶碩",
     "market": "TWSE",
     "three_inst_ratio": 10.253708974358974,
+    "change": -0.4299999999999997
+  },
+  {
+    "code": "8163",
+    "name": "達方",
+    "market": "TWSE",
+    "three_inst_ratio": 6.531391785995029,
     "change": -0.4299999999999997
   },
   {
@@ -1274,17 +1274,17 @@
     "change": -0.20114547878642242
   },
   {
-    "code": "00663L",
-    "name": "國泰臺灣加權正2",
-    "market": "TWSE",
-    "three_inst_ratio": 2.05,
-    "change": -0.20000000000000018
-  },
-  {
     "code": "00932",
     "name": "兆豐永續高息等權",
     "market": "TWSE",
     "three_inst_ratio": 2.59,
+    "change": -0.20000000000000018
+  },
+  {
+    "code": "00663L",
+    "name": "國泰臺灣加權正2",
+    "market": "TWSE",
+    "three_inst_ratio": 2.05,
     "change": -0.20000000000000018
   },
   {
@@ -1302,13 +1302,6 @@
     "change": -0.19999999999999973
   },
   {
-    "code": "4545",
-    "name": "銘鈺",
-    "market": "TWSE",
-    "three_inst_ratio": 28.96,
-    "change": -0.1999999999999993
-  },
-  {
     "code": "2010",
     "name": "春源",
     "market": "TWSE",
@@ -1316,17 +1309,24 @@
     "change": -0.1999999999999993
   },
   {
-    "code": "2104",
-    "name": "國際中橡",
+    "code": "4545",
+    "name": "銘鈺",
     "market": "TWSE",
-    "three_inst_ratio": 5.140388714257624,
-    "change": -0.1900000000000004
+    "three_inst_ratio": 28.96,
+    "change": -0.1999999999999993
   },
   {
     "code": "1310",
     "name": "台苯",
     "market": "TWSE",
     "three_inst_ratio": 4.5,
+    "change": -0.1900000000000004
+  },
+  {
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "three_inst_ratio": 5.140388714257624,
     "change": -0.1900000000000004
   },
   {
