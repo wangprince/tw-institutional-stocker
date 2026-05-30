@@ -756,17 +756,17 @@
     "change": -1.2929111136614608
   },
   {
-    "code": "6591",
-    "name": "動力-KY",
-    "market": "TWSE",
-    "three_inst_ratio": 20.06513647832152,
-    "change": -1.2899999999999991
-  },
-  {
     "code": "5521",
     "name": "工信",
     "market": "TWSE",
     "three_inst_ratio": 7.4,
+    "change": -1.2899999999999991
+  },
+  {
+    "code": "6591",
+    "name": "動力-KY",
+    "market": "TWSE",
+    "three_inst_ratio": 20.06513647832152,
     "change": -1.2899999999999991
   },
   {
@@ -1309,13 +1309,6 @@
     "change": -0.7120969972582492
   },
   {
-    "code": "00885",
-    "name": "富邦越南",
-    "market": "TWSE",
-    "three_inst_ratio": 2.21,
-    "change": -0.7000000000000002
-  },
-  {
     "code": "1603",
     "name": "華電",
     "market": "TWSE",
@@ -1327,6 +1320,13 @@
     "name": "佳醫",
     "market": "TWSE",
     "three_inst_ratio": 2.94,
+    "change": -0.7000000000000002
+  },
+  {
+    "code": "00885",
+    "name": "富邦越南",
+    "market": "TWSE",
+    "three_inst_ratio": 2.21,
     "change": -0.7000000000000002
   },
   {
