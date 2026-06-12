@@ -1507,6 +1507,17 @@
     "three_inst_ratio_change_20": 0.0800000000000054
   },
   {
+    "date": "2026-05-01",
+    "code": "6887",
+    "name": "寶綠特-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -53.15
+  },
+  {
     "date": "2026-05-04",
     "code": "6887",
     "name": "寶綠特-KY",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.24,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 0.0800000000000054
   },
   {
     "date": "2026-05-05",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.26,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-05-06",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.28,
-    "three_inst_ratio_change_20": 0.13000000000000256
+    "three_inst_ratio_change_20": 0.12000000000000455
   },
   {
     "date": "2026-05-07",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.29,
-    "three_inst_ratio_change_20": 0.13000000000000256
+    "three_inst_ratio_change_20": 0.11999999999999744
   },
   {
     "date": "2026-05-08",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.27,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 0.11000000000000654
   },
   {
     "date": "2026-05-13",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.27,
-    "three_inst_ratio_change_20": 0.11000000000000654
+    "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
     "date": "2026-05-14",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.27,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-05-15",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.28,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-05-20",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.27,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-21",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.26,
-    "three_inst_ratio_change_20": -0.010000000000005116
+    "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
     "date": "2026-05-25",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.26,
-    "three_inst_ratio_change_20": 0.00999999999999801
+    "three_inst_ratio_change_20": 0.01999999999999602
   },
   {
     "date": "2026-05-27",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.33,
-    "three_inst_ratio_change_20": 0.0899999999999963
+    "three_inst_ratio_change_20": 53.33
   },
   {
     "date": "2026-06-02",
@@ -1790,6 +1801,28 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.32,
+    "three_inst_ratio_change_20": 0.03999999999999915
+  },
+  {
+    "date": "2026-06-10",
+    "code": "6887",
+    "name": "寶綠特-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.32,
+    "three_inst_ratio_change_20": 0.04999999999999716
+  },
+  {
+    "date": "2026-06-11",
+    "code": "6887",
+    "name": "寶綠特-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.31,
     "three_inst_ratio_change_20": 0.03999999999999915
   }
 ]

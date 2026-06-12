@@ -1474,6 +1474,17 @@
     "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
+    "date": "2026-05-01",
+    "code": "2254",
+    "name": "巨鎧精密-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.5
+  },
+  {
     "date": "2026-05-04",
     "code": "2254",
     "name": "巨鎧精密-創",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.67,
-    "three_inst_ratio_change_20": 0.1700000000000017
+    "three_inst_ratio_change_20": 0.15000000000000213
   },
   {
     "date": "2026-05-12",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.66,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.120000000000001
   },
   {
     "date": "2026-05-15",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.62,
-    "three_inst_ratio_change_20": 0.08000000000000185
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-05-18",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.81,
-    "three_inst_ratio_change_20": 0.259999999999998
+    "three_inst_ratio_change_20": 0.2099999999999973
   },
   {
     "date": "2026-05-20",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.82,
-    "three_inst_ratio_change_20": 0.21999999999999886
+    "three_inst_ratio_change_20": 0.240000000000002
   },
   {
     "date": "2026-05-22",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.82,
-    "three_inst_ratio_change_20": 0.240000000000002
+    "three_inst_ratio_change_20": 0.23000000000000043
   },
   {
     "date": "2026-05-25",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.82,
-    "three_inst_ratio_change_20": 0.23000000000000043
+    "three_inst_ratio_change_20": 0.21000000000000085
   },
   {
     "date": "2026-05-26",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.84,
-    "three_inst_ratio_change_20": 0.23000000000000043
+    "three_inst_ratio_change_20": 0.21999999999999886
   },
   {
     "date": "2026-05-28",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.84,
-    "three_inst_ratio_change_20": 0.21999999999999886
+    "three_inst_ratio_change_20": 23.84
   },
   {
     "date": "2026-06-02",
@@ -1758,5 +1769,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.8,
     "three_inst_ratio_change_20": 0.129999999999999
+  },
+  {
+    "date": "2026-06-10",
+    "code": "2254",
+    "name": "巨鎧精密-創",
+    "market": "TWSE",
+    "foreign_ratio": 23.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.79,
+    "three_inst_ratio_change_20": 0.11999999999999744
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2254",
+    "name": "巨鎧精密-創",
+    "market": "TWSE",
+    "foreign_ratio": 23.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.79,
+    "three_inst_ratio_change_20": 0.11999999999999744
   }
 ]

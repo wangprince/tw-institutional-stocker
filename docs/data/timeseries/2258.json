@@ -1650,18 +1650,18 @@
     "three_inst_ratio_change_20": 0.10011485579280932
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "2258",
     "name": "鴻華先進-創",
     "market": "TWSE",
-    "foreign_ratio": 0.3,
-    "trust_ratio": 0.00034456737842801467,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.300344567378428,
-    "three_inst_ratio_change_20": 0.08011485579280933
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.2202297115856187
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "2258",
     "name": "鴻華先進-創",
     "market": "TWSE",
@@ -1672,6 +1672,17 @@
     "three_inst_ratio_change_20": 0.07011485579280932
   },
   {
+    "date": "2026-05-05",
+    "code": "2258",
+    "name": "鴻華先進-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.00034456737842801467,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.300344567378428,
+    "three_inst_ratio_change_20": 0.06011485579280934
+  },
+  {
     "date": "2026-05-06",
     "code": "2258",
     "name": "鴻華先進-創",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.00034456737842801467,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.32034456737842804,
-    "three_inst_ratio_change_20": 0.08011485579280936
+    "three_inst_ratio_change_20": 0.09011485579280934
   },
   {
     "date": "2026-05-07",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.00034456737842801467,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34034456737842805,
-    "three_inst_ratio_change_20": 0.11011485579280936
+    "three_inst_ratio_change_20": 0.10011485579280938
   },
   {
     "date": "2026-05-08",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3503426463076891,
-    "three_inst_ratio_change_20": 0.1101129347220704
+    "three_inst_ratio_change_20": 0.10988322313645174
   },
   {
     "date": "2026-05-13",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3603426463076891,
-    "three_inst_ratio_change_20": 0.11988322313645175
+    "three_inst_ratio_change_20": 0.0898832231364517
   },
   {
     "date": "2026-05-14",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3003426463076891,
-    "three_inst_ratio_change_20": 0.029883223136451698
+    "three_inst_ratio_change_20": 0.009998078929261078
   },
   {
     "date": "2026-05-18",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3003426463076891,
-    "three_inst_ratio_change_20": 0.009998078929261078
+    "three_inst_ratio_change_20": -1.9210707389305526e-06
   },
   {
     "date": "2026-05-19",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3103426463076891,
-    "three_inst_ratio_change_20": 0.009998078929261078
+    "three_inst_ratio_change_20": -0.01000192107073894
   },
   {
     "date": "2026-05-20",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3103426463076891,
-    "three_inst_ratio_change_20": -0.01000192107073894
+    "three_inst_ratio_change_20": -1.9210707389305526e-06
   },
   {
     "date": "2026-05-22",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3303426463076891,
-    "three_inst_ratio_change_20": 0.019998078929261087
+    "three_inst_ratio_change_20": 0.029998078929261096
   },
   {
     "date": "2026-05-25",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3103426463076891,
-    "three_inst_ratio_change_20": 0.009998078929261078
+    "three_inst_ratio_change_20": -1.9210707389305526e-06
   },
   {
     "date": "2026-05-28",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3203426463076891,
-    "three_inst_ratio_change_20": 0.009998078929261078
+    "three_inst_ratio_change_20": 0.019998078929261087
   },
   {
     "date": "2026-05-29",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0003426463076890745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3403426463076891,
-    "three_inst_ratio_change_20": 0.039998078929261105
+    "three_inst_ratio_change_20": 0.3403426463076891
   },
   {
     "date": "2026-06-01",
@@ -1945,5 +1956,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3103426463076891,
     "three_inst_ratio_change_20": -0.03999999999999998
+  },
+  {
+    "date": "2026-06-10",
+    "code": "2258",
+    "name": "鴻華先進-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.0003426463076890745,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3003426463076891,
+    "three_inst_ratio_change_20": -0.06
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2258",
+    "name": "鴻華先進-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.0003426463076890745,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3003426463076891,
+    "three_inst_ratio_change_20": -0.030000000000000027
   }
 ]

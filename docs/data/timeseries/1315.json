@@ -1474,6 +1474,17 @@
     "three_inst_ratio_change_20": 0.14000000000000012
   },
   {
+    "date": "2026-05-01",
+    "code": "1315",
+    "name": "達新",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.17
+  },
+  {
     "date": "2026-05-04",
     "code": "1315",
     "name": "達新",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.31,
-    "three_inst_ratio_change_20": 0.14000000000000012
+    "three_inst_ratio_change_20": 0.15000000000000013
   },
   {
     "date": "2026-05-05",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.31,
-    "three_inst_ratio_change_20": 0.15000000000000013
+    "three_inst_ratio_change_20": 0.14000000000000012
   },
   {
     "date": "2026-05-08",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.31,
-    "three_inst_ratio_change_20": 0.14000000000000012
+    "three_inst_ratio_change_20": 0.13000000000000012
   },
   {
     "date": "2026-05-11",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3,
-    "three_inst_ratio_change_20": 0.1200000000000001
+    "three_inst_ratio_change_20": 0.10000000000000009
   },
   {
     "date": "2026-05-13",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.28,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
     "date": "2026-05-15",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.27,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-05-18",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.26,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-05-19",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.26,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-20",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.26,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-05-21",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-05-25",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
-    "three_inst_ratio_change_20": -0.030000000000000027
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-05-26",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.26,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
     "date": "2026-05-29",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": 1.25
   },
   {
     "date": "2026-06-01",
@@ -1769,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
     "three_inst_ratio_change_20": -0.050000000000000044
+  },
+  {
+    "date": "2026-06-10",
+    "code": "1315",
+    "name": "達新",
+    "market": "TWSE",
+    "foreign_ratio": 1.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.24,
+    "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1315",
+    "name": "達新",
+    "market": "TWSE",
+    "foreign_ratio": 1.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.24,
+    "three_inst_ratio_change_20": -0.040000000000000036
   }
 ]

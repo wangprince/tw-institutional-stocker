@@ -1672,6 +1672,17 @@
     "three_inst_ratio_change_20": 0.10000000000000009
   },
   {
+    "date": "2026-05-01",
+    "code": "1459",
+    "name": "聯發",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.48
+  },
+  {
     "date": "2026-05-04",
     "code": "1459",
     "name": "聯發",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.62,
-    "three_inst_ratio_change_20": 0.14000000000000012
+    "three_inst_ratio_change_20": 0.13000000000000012
   },
   {
     "date": "2026-05-07",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.63,
-    "three_inst_ratio_change_20": 0.1399999999999999
+    "three_inst_ratio_change_20": 0.1299999999999999
   },
   {
     "date": "2026-05-08",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.71,
-    "three_inst_ratio_change_20": 0.20999999999999996
+    "three_inst_ratio_change_20": 0.19999999999999996
   },
   {
     "date": "2026-05-11",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7,
-    "three_inst_ratio_change_20": 0.18999999999999995
+    "three_inst_ratio_change_20": 0.15999999999999992
   },
   {
     "date": "2026-05-13",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7,
-    "three_inst_ratio_change_20": 0.15999999999999992
+    "three_inst_ratio_change_20": 0.1499999999999999
   },
   {
     "date": "2026-05-14",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6902788397645814,
-    "three_inst_ratio_change_20": 0.14027883976458133
+    "three_inst_ratio_change_20": 0.12027883976458131
   },
   {
     "date": "2026-05-15",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6602788397645813,
-    "three_inst_ratio_change_20": 0.09027883976458129
+    "three_inst_ratio_change_20": 0.08027883976458128
   },
   {
     "date": "2026-05-21",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6602788397645813,
-    "three_inst_ratio_change_20": 0.08027883976458128
+    "three_inst_ratio_change_20": 0.09027883976458129
   },
   {
     "date": "2026-05-22",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6702788397645814,
-    "three_inst_ratio_change_20": 0.1002788397645813
+    "three_inst_ratio_change_20": 0.08027883976458128
   },
   {
     "date": "2026-05-28",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6802788397645814,
-    "three_inst_ratio_change_20": 0.09027883976458129
+    "three_inst_ratio_change_20": 0.1002788397645813
   },
   {
     "date": "2026-05-29",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6702788397645814,
-    "three_inst_ratio_change_20": 0.09027883976458129
+    "three_inst_ratio_change_20": 1.6702788397645814
   },
   {
     "date": "2026-06-01",
@@ -1967,5 +1978,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7102788397645814,
     "three_inst_ratio_change_20": 0.010278839764581438
+  },
+  {
+    "date": "2026-06-10",
+    "code": "1459",
+    "name": "聯發",
+    "market": "TWSE",
+    "foreign_ratio": 1.72,
+    "trust_ratio": 0.0002788397645814982,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7202788397645814,
+    "three_inst_ratio_change_20": 0.020278839764581447
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1459",
+    "name": "聯發",
+    "market": "TWSE",
+    "foreign_ratio": 1.73,
+    "trust_ratio": 0.0002788397645814982,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7302788397645814,
+    "three_inst_ratio_change_20": 0.040000000000000036
   }
 ]

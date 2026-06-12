@@ -528,6 +528,17 @@
     "three_inst_ratio_change_20": -0.02
   },
   {
+    "date": "2026-05-01",
+    "code": "6225",
+    "name": "天瀚",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.04
+  },
+  {
     "date": "2026-05-05",
     "code": "6225",
     "name": "天瀚",
@@ -602,7 +613,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.03,
-    "three_inst_ratio_change_20": -0.010000000000000002
+    "three_inst_ratio_change_20": 0.019999999999999997
   },
   {
     "date": "2026-05-18",
@@ -613,7 +624,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.01,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.01
   },
   {
     "date": "2026-05-19",
@@ -712,7 +723,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.05,
-    "three_inst_ratio_change_20": 0.05
+    "three_inst_ratio_change_20": 0.04
   },
   {
     "date": "2026-06-08",

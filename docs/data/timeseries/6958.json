@@ -1650,6 +1650,17 @@
     "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
+    "date": "2026-05-01",
+    "code": "6958",
+    "name": "日盛台駿",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.33
+  },
+  {
     "date": "2026-05-04",
     "code": "6958",
     "name": "日盛台駿",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": 0.08999999999999997
+    "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
     "date": "2026-05-06",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
     "date": "2026-05-08",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.10999999999999999
+    "three_inst_ratio_change_20": 0.10000000000000003
   },
   {
     "date": "2026-05-12",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.09000000000000002
+    "three_inst_ratio_change_20": 0.08000000000000002
   },
   {
     "date": "2026-05-13",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.09000000000000002
+    "three_inst_ratio_change_20": 0.07
   },
   {
     "date": "2026-05-14",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-05-15",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-05-18",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-20",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-05-25",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-05-26",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-05-27",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.45
   },
   {
     "date": "2026-06-01",
@@ -1945,5 +1956,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-06-10",
+    "code": "6958",
+    "name": "日盛台駿",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
+    "date": "2026-06-11",
+    "code": "6958",
+    "name": "日盛台駿",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

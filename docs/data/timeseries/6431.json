@@ -1650,18 +1650,18 @@
     "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "6431",
     "name": "光麗-KY",
     "market": "TWSE",
-    "foreign_ratio": 56.99,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.99,
-    "three_inst_ratio_change_20": 0.13000000000000256
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -56.86
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "6431",
     "name": "光麗-KY",
     "market": "TWSE",
@@ -1672,6 +1672,17 @@
     "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
+    "date": "2026-05-05",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 56.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 56.99,
+    "three_inst_ratio_change_20": 0.1600000000000037
+  },
+  {
     "date": "2026-05-06",
     "code": "6431",
     "name": "光麗-KY",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.02,
-    "three_inst_ratio_change_20": 0.19000000000000483
+    "three_inst_ratio_change_20": 0.13000000000000256
   },
   {
     "date": "2026-05-07",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.01,
-    "three_inst_ratio_change_20": 0.11999999999999744
+    "three_inst_ratio_change_20": 0.0899999999999963
   },
   {
     "date": "2026-05-08",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.97,
-    "three_inst_ratio_change_20": 0.04999999999999716
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-05-11",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.91,
-    "three_inst_ratio_change_20": -0.020000000000003126
+    "three_inst_ratio_change_20": 0.02999999999999403
   },
   {
     "date": "2026-05-12",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.96,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-05-13",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.89,
-    "three_inst_ratio_change_20": -0.00999999999999801
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-14",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.82,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio_change_20": -0.0899999999999963
   },
   {
     "date": "2026-05-18",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.8,
-    "three_inst_ratio_change_20": -0.10999999999999943
+    "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
     "date": "2026-05-19",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.79,
-    "three_inst_ratio_change_20": -0.10999999999999943
+    "three_inst_ratio_change_20": -0.13000000000000256
   },
   {
     "date": "2026-05-20",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.8,
-    "three_inst_ratio_change_20": -0.12000000000000455
+    "three_inst_ratio_change_20": -0.13000000000000256
   },
   {
     "date": "2026-05-21",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.82,
-    "three_inst_ratio_change_20": -0.10999999999999943
+    "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
     "date": "2026-05-22",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.83,
-    "three_inst_ratio_change_20": -0.09000000000000341
+    "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
     "date": "2026-05-25",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.83,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.13000000000000256
   },
   {
     "date": "2026-05-26",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.77,
-    "three_inst_ratio_change_20": -0.18999999999999773
+    "three_inst_ratio_change_20": -0.20999999999999375
   },
   {
     "date": "2026-05-27",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.76,
-    "three_inst_ratio_change_20": -0.21999999999999886
+    "three_inst_ratio_change_20": -0.25
   },
   {
     "date": "2026-05-28",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.79,
-    "three_inst_ratio_change_20": -0.21999999999999886
+    "three_inst_ratio_change_20": -0.20000000000000284
   },
   {
     "date": "2026-05-29",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.77,
-    "three_inst_ratio_change_20": -0.21999999999999886
+    "three_inst_ratio_change_20": 56.77
   },
   {
     "date": "2026-06-01",
@@ -1945,5 +1956,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.48,
     "three_inst_ratio_change_20": -0.480000000000004
+  },
+  {
+    "date": "2026-06-10",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 56.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 56.43,
+    "three_inst_ratio_change_20": -0.46000000000000085
+  },
+  {
+    "date": "2026-06-11",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 56.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 56.52,
+    "three_inst_ratio_change_20": -0.30999999999999517
   }
 ]

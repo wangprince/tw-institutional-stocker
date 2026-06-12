@@ -1661,6 +1661,17 @@
     "three_inst_ratio_change_20": 0.0800000000000125
   },
   {
+    "date": "2026-05-01",
+    "code": "2923",
+    "name": "鼎固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -99.32172436085969
+  },
+  {
     "date": "2026-05-04",
     "code": "2923",
     "name": "鼎固-KY",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4117243608597,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
     "date": "2026-05-07",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4217243608597,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
     "date": "2026-05-12",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4217243608597,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.07000000000000739
   },
   {
     "date": "2026-05-13",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4217243608597,
-    "three_inst_ratio_change_20": 0.07000000000000739
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-05-14",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4117243608597,
-    "three_inst_ratio_change_20": 0.04999999999999716
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-05-15",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4017243608597,
-    "three_inst_ratio_change_20": 0.020000000000010232
+    "three_inst_ratio_change_20": 0.010000000000005116
   },
   {
     "date": "2026-05-18",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4017243608597,
-    "three_inst_ratio_change_20": 0.010000000000005116
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-20",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0017243608596914754,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4117243608597,
-    "three_inst_ratio_change_20": 0.009999999999990905
+    "three_inst_ratio_change_20": 99.4117243608597
   },
   {
     "date": "2026-06-01",
@@ -1956,5 +1967,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 99.4117243608597,
     "three_inst_ratio_change_20": -0.010000000000005116
+  },
+  {
+    "date": "2026-06-10",
+    "code": "2923",
+    "name": "鼎固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 99.41,
+    "trust_ratio": 0.0017243608596914754,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 99.4117243608597,
+    "three_inst_ratio_change_20": -0.010000000000005116
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2923",
+    "name": "鼎固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 99.42,
+    "trust_ratio": 0.0017243608596914754,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 99.4217243608597,
+    "three_inst_ratio_change_20": 0.010000000000005116
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-05-01",
+    "code": "4195",
+    "name": "基米-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-05-11",
     "code": "4195",
     "name": "基米-創",
@@ -217,7 +228,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.05,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 1.05
   },
   {
     "date": "2026-06-08",
@@ -240,5 +251,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.02,
     "three_inst_ratio_change_20": 0.8300000000000001
+  },
+  {
+    "date": "2026-06-10",
+    "code": "4195",
+    "name": "基米-創",
+    "market": "TWSE",
+    "foreign_ratio": 1.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0,
+    "three_inst_ratio_change_20": 0.79
+  },
+  {
+    "date": "2026-06-11",
+    "code": "4195",
+    "name": "基米-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.97,
+    "three_inst_ratio_change_20": 0.6
   }
 ]

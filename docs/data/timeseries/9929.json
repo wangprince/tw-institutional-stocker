@@ -1298,6 +1298,17 @@
     "three_inst_ratio_change_20": 0.18000000000000002
   },
   {
+    "date": "2026-05-01",
+    "code": "9929",
+    "name": "秋雨",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.21
+  },
+  {
     "date": "2026-05-04",
     "code": "9929",
     "name": "秋雨",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
-    "three_inst_ratio_change_20": 0.19000000000000003
+    "three_inst_ratio_change_20": 0.12
   },
   {
     "date": "2026-05-05",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.16999999999999998
+    "three_inst_ratio_change_20": 0.16000000000000003
   },
   {
     "date": "2026-05-08",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47,
-    "three_inst_ratio_change_20": 0.18
+    "three_inst_ratio_change_20": 0.18999999999999995
   },
   {
     "date": "2026-05-11",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47,
-    "three_inst_ratio_change_20": 0.18999999999999995
+    "three_inst_ratio_change_20": 0.18
   },
   {
     "date": "2026-05-12",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47,
-    "three_inst_ratio_change_20": 0.18
+    "three_inst_ratio_change_20": 0.15999999999999998
   },
   {
     "date": "2026-05-13",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.47,
-    "three_inst_ratio_change_20": 0.15999999999999998
+    "three_inst_ratio_change_20": 0.12
   },
   {
     "date": "2026-05-14",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.10000000000000003
+    "three_inst_ratio_change_20": 0.07
   },
   {
     "date": "2026-05-15",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.07
+    "three_inst_ratio_change_20": 0.08000000000000002
   },
   {
     "date": "2026-05-18",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.07
+    "three_inst_ratio_change_20": 0.06
   },
   {
     "date": "2026-05-19",
@@ -1427,7 +1438,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.07
+    "three_inst_ratio_change_20": 0.04999999999999999
   },
   {
     "date": "2026-05-20",
@@ -1438,7 +1449,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.03999999999999998
+    "three_inst_ratio_change_20": 0.04999999999999999
   },
   {
     "date": "2026-05-21",
@@ -1460,7 +1471,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-05-26",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.45,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.06
   },
   {
     "date": "2026-05-29",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": 0.03999999999999998
+    "three_inst_ratio_change_20": 0.43
   },
   {
     "date": "2026-06-02",
@@ -1582,5 +1593,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
     "three_inst_ratio_change_20": -0.02999999999999997
+  },
+  {
+    "date": "2026-06-10",
+    "code": "9929",
+    "name": "秋雨",
+    "market": "TWSE",
+    "foreign_ratio": 0.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.43,
+    "three_inst_ratio_change_20": -0.03999999999999998
+  },
+  {
+    "date": "2026-06-11",
+    "code": "9929",
+    "name": "秋雨",
+    "market": "TWSE",
+    "foreign_ratio": 0.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.43,
+    "three_inst_ratio_change_20": -0.03999999999999998
   }
 ]

@@ -1683,18 +1683,18 @@
     "three_inst_ratio_change_20": 0.3699999999999999
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "2069",
     "name": "運錩",
     "market": "TWSE",
-    "foreign_ratio": 1.96,
-    "trust_ratio": 0.0012020181692739202,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.961202018169274,
-    "three_inst_ratio_change_20": 0.4099999999999999
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.551202018169274
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "2069",
     "name": "運錩",
     "market": "TWSE",
@@ -1705,6 +1705,17 @@
     "three_inst_ratio_change_20": 0.3899999999999999
   },
   {
+    "date": "2026-05-05",
+    "code": "2069",
+    "name": "運錩",
+    "market": "TWSE",
+    "foreign_ratio": 1.96,
+    "trust_ratio": 0.0012020181692739202,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.961202018169274,
+    "three_inst_ratio_change_20": 0.3599999999999999
+  },
+  {
     "date": "2026-05-06",
     "code": "2069",
     "name": "運錩",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0312020181692736,
-    "three_inst_ratio_change_20": 0.4299999999999995
+    "three_inst_ratio_change_20": 0.37999999999999967
   },
   {
     "date": "2026-05-07",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.121202018169274,
-    "three_inst_ratio_change_20": 0.47
+    "three_inst_ratio_change_20": 0.48
   },
   {
     "date": "2026-05-08",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.221202018169274,
-    "three_inst_ratio_change_20": 0.5800000000000001
+    "three_inst_ratio_change_20": 0.6099999999999999
   },
   {
     "date": "2026-05-11",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2312020181692738,
-    "three_inst_ratio_change_20": 0.6199999999999997
+    "three_inst_ratio_change_20": 0.6399999999999997
   },
   {
     "date": "2026-05-12",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2612020181692736,
-    "three_inst_ratio_change_20": 0.6699999999999995
+    "three_inst_ratio_change_20": 0.5699999999999996
   },
   {
     "date": "2026-05-14",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.431202018169274,
-    "three_inst_ratio_change_20": 0.74
+    "three_inst_ratio_change_20": 0.78
   },
   {
     "date": "2026-05-15",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.471202018169274,
-    "three_inst_ratio_change_20": 0.8200000000000001
+    "three_inst_ratio_change_20": 0.8
   },
   {
     "date": "2026-05-18",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3612020181692737,
-    "three_inst_ratio_change_20": 0.6899999999999997
+    "three_inst_ratio_change_20": 0.6999999999999997
   },
   {
     "date": "2026-05-19",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3612020181692737,
-    "three_inst_ratio_change_20": 0.6999999999999997
+    "three_inst_ratio_change_20": 0.49999999999999956
   },
   {
     "date": "2026-05-20",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3812020181692737,
-    "three_inst_ratio_change_20": 0.5199999999999996
+    "three_inst_ratio_change_20": 0.5299999999999996
   },
   {
     "date": "2026-05-21",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.411202018169274,
-    "three_inst_ratio_change_20": 0.5599999999999998
+    "three_inst_ratio_change_20": 0.5799999999999998
   },
   {
     "date": "2026-05-22",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.371202018169274,
-    "three_inst_ratio_change_20": 0.5399999999999998
+    "three_inst_ratio_change_20": 0.5599999999999998
   },
   {
     "date": "2026-05-25",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.501202018169274,
-    "three_inst_ratio_change_20": 0.6899999999999997
+    "three_inst_ratio_change_20": 0.6599999999999997
   },
   {
     "date": "2026-05-26",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4812020181692738,
-    "three_inst_ratio_change_20": 0.6399999999999997
+    "three_inst_ratio_change_20": 0.5199999999999998
   },
   {
     "date": "2026-05-27",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.501202018169274,
-    "three_inst_ratio_change_20": 0.5399999999999998
+    "three_inst_ratio_change_20": 0.5
   },
   {
     "date": "2026-05-28",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5712020181692736,
-    "three_inst_ratio_change_20": 0.5699999999999998
+    "three_inst_ratio_change_20": 0.6399999999999997
   },
   {
     "date": "2026-05-29",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0012020181692739202,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7312020181692738,
-    "three_inst_ratio_change_20": 0.7999999999999998
+    "three_inst_ratio_change_20": 2.7312020181692738
   },
   {
     "date": "2026-06-01",
@@ -1978,5 +1989,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8212020181692736,
     "three_inst_ratio_change_20": 0.6199999999999997
+  },
+  {
+    "date": "2026-06-10",
+    "code": "2069",
+    "name": "運錩",
+    "market": "TWSE",
+    "foreign_ratio": 2.79,
+    "trust_ratio": 0.0012020181692739202,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.791202018169274,
+    "three_inst_ratio_change_20": 0.5300000000000002
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2069",
+    "name": "運錩",
+    "market": "TWSE",
+    "foreign_ratio": 2.79,
+    "trust_ratio": 0.0012020181692739202,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.791202018169274,
+    "three_inst_ratio_change_20": 0.3599999999999999
   }
 ]

@@ -33,6 +33,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-05-01",
+    "code": "7760",
+    "name": "享溫馨",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-05-04",
     "code": "7760",
     "name": "享溫馨",
@@ -217,7 +228,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.03
   },
   {
     "date": "2026-05-28",
@@ -228,7 +239,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.11,
-    "three_inst_ratio_change_20": 0.020000000000000004
+    "three_inst_ratio_change_20": 0.1
   },
   {
     "date": "2026-05-29",
@@ -239,7 +250,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
-    "three_inst_ratio_change_20": 0.13999999999999999
+    "three_inst_ratio_change_20": 0.15
   },
   {
     "date": "2026-06-01",
@@ -317,5 +328,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
     "three_inst_ratio_change_20": 0.16999999999999998
+  },
+  {
+    "date": "2026-06-10",
+    "code": "7760",
+    "name": "享溫馨",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": 0.20999999999999996
+  },
+  {
+    "date": "2026-06-11",
+    "code": "7760",
+    "name": "享溫馨",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": 0.20999999999999996
   }
 ]
