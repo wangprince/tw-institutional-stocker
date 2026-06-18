@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -5.499964153410146
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "9941",
     "name": "裕融",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -5.359269270255565
   },
   {
+    "date": "2026-02-18",
+    "code": "9941",
+    "name": "裕融",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.326262320412964
+  },
+  {
     "date": "2026-02-23",
     "code": "9941",
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.42,
-    "trust_ratio": -0.42345658277804443,
+    "trust_ratio": -0.46984003334633073,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.996543417221956,
-    "three_inst_ratio_change_20": -0.3297189031910088
+    "three_inst_ratio": 4.950159966653669,
+    "three_inst_ratio_change_20": -0.3659728515822387
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.32,
-    "trust_ratio": -0.5183081333783603,
+    "trust_ratio": -0.5646915839466468,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.80169186662164,
-    "three_inst_ratio_change_20": -0.5144409516142678
+    "three_inst_ratio": 4.755308416053354,
+    "three_inst_ratio_change_20": -0.6014655889015037
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.37,
-    "trust_ratio": -0.5639967007920658,
+    "trust_ratio": -0.6103801513603521,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.8060032992079345,
-    "three_inst_ratio_change_20": -0.5507707057469231
+    "three_inst_ratio": 4.759619848639648,
+    "three_inst_ratio_change_20": -0.6021162534444962
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.35,
-    "trust_ratio": -0.5645178631580015,
+    "trust_ratio": -0.6109013137262879,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.785482136841998,
-    "three_inst_ratio_change_20": -0.5762539652421461
+    "three_inst_ratio": 4.739098686273712,
+    "three_inst_ratio_change_20": -0.5682943960943012
+  },
+  {
+    "date": "2026-02-27",
+    "code": "9941",
+    "name": "裕融",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.287219361579368
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.33,
-    "trust_ratio": -0.5646915839466468,
+    "trust_ratio": -0.614202008710548,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.765308416053354,
-    "three_inst_ratio_change_20": -0.5420846663146595
+    "three_inst_ratio": 4.7157979912894525,
+    "three_inst_ratio_change_20": -0.6653316648632881
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.33,
-    "trust_ratio": -0.5646915839466468,
+    "trust_ratio": -0.614202008710548,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.765308416053354,
-    "three_inst_ratio_change_20": -0.521910945526014
+    "three_inst_ratio": 4.7157979912894525,
+    "three_inst_ratio_change_20": -0.6115003296890498
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.21,
-    "trust_ratio": -0.5653864671012279,
+    "trust_ratio": -0.614896891865129,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.644613532898772,
-    "three_inst_ratio_change_20": -0.7365161232539688
+    "three_inst_ratio": 4.595103108134871,
+    "three_inst_ratio_change_20": -0.7923910429380712
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.22,
-    "trust_ratio": -0.5653864671012279,
+    "trust_ratio": -0.614896891865129,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.654613532898772,
-    "three_inst_ratio_change_20": -0.6726847880797306
+    "three_inst_ratio": 4.605103108134871,
+    "three_inst_ratio_change_20": -0.7820436013607805
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.36,
-    "trust_ratio": -0.6161129373856459,
+    "trust_ratio": -0.6656233621495471,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.7438870626143546,
-    "three_inst_ratio_change_20": -0.6436070884585874
+    "three_inst_ratio": 4.6943766378504534,
+    "three_inst_ratio_change_20": -0.7796430974495827
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.42,
-    "trust_ratio": -0.6161129373856459,
+    "trust_ratio": -0.6656233621495471,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.803887062614354,
-    "three_inst_ratio_change_20": -0.583259646881297
+    "three_inst_ratio": 4.754376637850453,
+    "three_inst_ratio_change_20": -0.6563424024653228
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.54,
-    "trust_ratio": -0.6161129373856459,
+    "trust_ratio": -0.6656233621495471,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.923887062614354,
-    "three_inst_ratio_change_20": -0.5501326726856819
+    "three_inst_ratio": 4.874376637850453,
+    "three_inst_ratio_change_20": -0.5135091734113679
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.55,
-    "trust_ratio": -0.616807820540227,
+    "trust_ratio": -0.6663182453041282,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.933192179459773,
-    "three_inst_ratio_change_20": -0.4775268608560026
+    "three_inst_ratio": 4.883681754695871,
+    "three_inst_ratio_change_20": -0.5588408214237406
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.42,
-    "trust_ratio": -0.6171552621175175,
+    "trust_ratio": -0.6666656868814187,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.802844737882483,
-    "three_inst_ratio_change_20": -0.5850410733793385
+    "three_inst_ratio": 4.7533343131185815,
+    "three_inst_ratio_change_20": -0.6591882630010302
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.47,
-    "trust_ratio": -0.6173289829061628,
+    "trust_ratio": -0.666839407670064,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.8526710170938365,
-    "three_inst_ratio_change_20": -0.5898515590257754
+    "three_inst_ratio": 4.803160592329935,
+    "three_inst_ratio_change_20": -0.5363329246412807
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.51,
-    "trust_ratio": -0.6180238660607439,
+    "trust_ratio": -0.667534290824645,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.891976133939256,
-    "three_inst_ratio_change_20": -0.5205464421803558
+    "three_inst_ratio": 4.842465709175355,
+    "three_inst_ratio_change_20": -0.24702780779586142
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.41,
-    "trust_ratio": -0.629836879688622,
+    "trust_ratio": -0.6793473044525232,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.780163120311379,
-    "three_inst_ratio_change_20": -0.5593303966598375
+    "three_inst_ratio": 4.730652695547477,
+    "three_inst_ratio_change_20": -0.4388408214237396
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.48,
-    "trust_ratio": -0.6319215291523652,
+    "trust_ratio": -0.6814319539162664,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.848078470847636,
-    "three_inst_ratio_change_20": -0.24141504612358045
+    "three_inst_ratio": 4.798568046083734,
+    "three_inst_ratio_change_20": 4.798568046083734
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.39,
-    "trust_ratio": -0.6930712467554994,
+    "trust_ratio": -0.7425816715194006,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.6969287532445,
-    "three_inst_ratio_change_20": -0.47256476372671585
+    "three_inst_ratio": 4.647418328480599,
+    "three_inst_ratio_change_20": 4.647418328480599
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.97,
-    "trust_ratio": -1.164528446923329,
+    "trust_ratio": -1.2140388716872301,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.8054715530766705,
-    "three_inst_ratio_change_20": 4.8054715530766705
+    "three_inst_ratio": 4.755961128312769,
+    "three_inst_ratio_change_20": 4.755961128312769
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.37,
-    "trust_ratio": -1.6259308615651589,
+    "trust_ratio": -1.6754412863290602,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.744069138434841,
-    "three_inst_ratio_change_20": 4.744069138434841
+    "three_inst_ratio": 4.69455871367094,
+    "three_inst_ratio_change_20": -0.2556012529827294
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.79,
-    "trust_ratio": -2.0908076919798946,
+    "trust_ratio": -2.1403181167437957,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.6991923080201055,
-    "three_inst_ratio_change_20": -0.29735110920185015
+    "three_inst_ratio": 4.649681883256204,
+    "three_inst_ratio_change_20": -0.10562653279714951
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.76,
-    "trust_ratio": -2.5570742887037925,
+    "trust_ratio": -2.606584713467693,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.202925711296207,
-    "three_inst_ratio_change_20": -0.5987661553254329
+    "three_inst_ratio": 4.153415286532306,
+    "three_inst_ratio_change_20": -0.606204562107342
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.11,
-    "trust_ratio": -3.0181292617683315,
+    "trust_ratio": -3.067639686532233,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.091870738231669,
-    "three_inst_ratio_change_20": -0.7141325609762657
+    "three_inst_ratio": 4.042360313467768,
+    "three_inst_ratio_change_20": -0.6967383728059442
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.09,
-    "trust_ratio": -3.0252426069009895,
+    "trust_ratio": -3.0747530316648906,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.06475739309901,
-    "three_inst_ratio_change_20": -0.7207247437429878
+    "three_inst_ratio": 4.015246968335109,
+    "three_inst_ratio_change_20": 4.015246968335109
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.06,
-    "trust_ratio": -3.0252426069009895,
+    "trust_ratio": -3.0747530316648906,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.03475739309901,
+    "three_inst_ratio": 3.985246968335109,
     "three_inst_ratio_change_20": -0.7305510229543435
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.17,
-    "trust_ratio": -3.02559004847828,
+    "trust_ratio": -3.0751004732421814,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.14440995152172,
+    "three_inst_ratio": 4.0948995267578185,
     "three_inst_ratio_change_20": -0.620898464531634
   },
   {
@@ -1468,10 +1490,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.05,
-    "trust_ratio": -3.02559004847828,
+    "trust_ratio": -3.0751004732421814,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.02440995152172,
-    "three_inst_ratio_change_20": -0.6202035813770514
+    "three_inst_ratio": 3.9748995267578184,
+    "three_inst_ratio_change_20": -0.6202035813770523
   },
   {
     "date": "2026-04-02",
@@ -1479,10 +1501,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.08,
-    "trust_ratio": -3.0259374900555707,
+    "trust_ratio": -3.0754479148194718,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.05406250994443,
-    "three_inst_ratio_change_20": -0.6005510229543418
+    "three_inst_ratio": 4.004552085180528,
+    "three_inst_ratio_change_20": -0.6005510229543427
   },
   {
     "date": "2026-04-07",
@@ -1490,9 +1512,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.07,
-    "trust_ratio": -3.026284931632861,
+    "trust_ratio": -3.075795356396762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.043715068367139,
+    "three_inst_ratio": 3.994204643603238,
     "three_inst_ratio_change_20": -0.7001719942472153
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.09,
-    "trust_ratio": -3.026284931632861,
+    "trust_ratio": -3.075795356396762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.063715068367139,
+    "three_inst_ratio": 4.014204643603238,
     "three_inst_ratio_change_20": -0.7401719942472154
   },
   {
@@ -1512,10 +1534,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.04,
-    "trust_ratio": -3.0266323732101514,
+    "trust_ratio": -3.076142797974053,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.013367626789849,
-    "three_inst_ratio_change_20": -0.9105194358245052
+    "three_inst_ratio": 3.963857202025947,
+    "three_inst_ratio_change_20": -0.9105194358245061
   },
   {
     "date": "2026-04-10",
@@ -1523,10 +1545,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.9,
-    "trust_ratio": -3.026806093998797,
+    "trust_ratio": -3.0763165187626984,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.8731939060012035,
-    "three_inst_ratio_change_20": -1.0599982734585698
+    "three_inst_ratio": 3.823683481237302,
+    "three_inst_ratio_change_20": -1.0599982734585693
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.95,
-    "trust_ratio": -3.026806093998797,
+    "trust_ratio": -3.0763165187626984,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.9231939060012033,
-    "three_inst_ratio_change_20": -0.8796508318812792
+    "three_inst_ratio": 3.8736834812373018,
+    "three_inst_ratio_change_20": -0.8796508318812797
   },
   {
     "date": "2026-04-14",
@@ -1545,9 +1567,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.95,
-    "trust_ratio": -3.0269798147874423,
+    "trust_ratio": -3.0764902395513434,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.923020185212558,
+    "three_inst_ratio": 3.873509760448657,
     "three_inst_ratio_change_20": -0.9296508318812786
   },
   {
@@ -1556,10 +1578,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.15,
-    "trust_ratio": -3.0278484187306685,
+    "trust_ratio": -3.07735884349457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.122151581269332,
-    "three_inst_ratio_change_20": -0.7698245526699239
+    "three_inst_ratio": 4.07264115650543,
+    "three_inst_ratio_change_20": -0.7698245526699248
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.21,
-    "trust_ratio": -3.0278484187306685,
+    "trust_ratio": -3.07735884349457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.1821515812693315,
-    "three_inst_ratio_change_20": -0.5980115390420471
+    "three_inst_ratio": 4.13264115650543,
+    "three_inst_ratio_change_20": -0.5980115390420462
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.34,
-    "trust_ratio": -3.0742318692989548,
+    "trust_ratio": -3.1237422940628563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.265768130701045,
-    "three_inst_ratio_change_20": -0.5823103401465906
+    "three_inst_ratio": 4.216257705937144,
+    "three_inst_ratio_change_20": -0.5823103401465897
   },
   {
     "date": "2026-04-20",
@@ -1589,9 +1611,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.41,
-    "trust_ratio": -3.0881295323905764,
+    "trust_ratio": -3.1376399571544775,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.321870467609424,
+    "three_inst_ratio": 4.272360042845523,
     "three_inst_ratio_change_20": -0.3750582856350766
   },
   {
@@ -1600,10 +1622,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.51,
-    "trust_ratio": -3.119051832769434,
+    "trust_ratio": -3.168562257533335,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.390948167230565,
-    "three_inst_ratio_change_20": -0.41452338584610526
+    "three_inst_ratio": 4.341437742466665,
+    "three_inst_ratio_change_20": -0.4145233858461044
   },
   {
     "date": "2026-04-22",
@@ -1611,9 +1633,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.62,
-    "trust_ratio": -3.1407669313500928,
+    "trust_ratio": -3.1902773561139934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.479233068649908,
+    "three_inst_ratio": 4.429722643886007,
     "three_inst_ratio_change_20": -0.26483606978493324
   },
   {
@@ -1622,10 +1644,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.64,
-    "trust_ratio": -3.1409406521387377,
+    "trust_ratio": -3.190451076902639,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.499059347861262,
-    "three_inst_ratio_change_20": -0.20013296015884308
+    "three_inst_ratio": 4.44954892309736,
+    "three_inst_ratio_change_20": -0.20013296015884396
   },
   {
     "date": "2026-04-24",
@@ -1633,9 +1655,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.63,
-    "trust_ratio": -3.141114372927383,
+    "trust_ratio": -3.1906247976912843,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.488885627072617,
+    "three_inst_ratio": 4.439375202308716,
     "three_inst_ratio_change_20": 0.28595991577640945
   },
   {
@@ -1644,10 +1666,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.76,
-    "trust_ratio": -3.1232211316969205,
+    "trust_ratio": -3.172731556460821,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.636778868303079,
-    "three_inst_ratio_change_20": 0.54490813007141
+    "three_inst_ratio": 4.587268443539179,
+    "three_inst_ratio_change_20": 0.5449081300714109
   },
   {
     "date": "2026-04-28",
@@ -1655,9 +1677,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.98,
-    "trust_ratio": -3.105327890466458,
+    "trust_ratio": -3.1548383152303594,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.874672109533543,
+    "three_inst_ratio": 4.8251616847696415,
     "three_inst_ratio_change_20": 0.8099147164345322
   },
   {
@@ -1666,10 +1688,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.87,
-    "trust_ratio": -3.087434649235995,
+    "trust_ratio": -3.1369450739998963,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.7825653507640045,
-    "three_inst_ratio_change_20": 0.7478079576649943
+    "three_inst_ratio": 4.733054926000104,
+    "three_inst_ratio_change_20": 0.7478079576649952
   },
   {
     "date": "2026-04-30",
@@ -1677,9 +1699,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.78,
-    "trust_ratio": -3.0263735292350704,
+    "trust_ratio": -3.0758839539989715,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.75362647076493,
+    "three_inst_ratio": 4.704116046001029,
     "three_inst_ratio_change_20": 0.6092165192432102
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.02440995152172
+    "three_inst_ratio_change_20": -3.9748995267578184
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.65,
-    "trust_ratio": -2.9007257995484528,
+    "trust_ratio": -2.9502362243123543,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.749274200451548,
-    "three_inst_ratio_change_20": 0.6952116905071177
+    "three_inst_ratio": 4.6997637756876465,
+    "three_inst_ratio_change_20": 0.6952116905071186
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.51,
-    "trust_ratio": -2.801685667013111,
+    "trust_ratio": -2.8511960917770125,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.708314332986889,
-    "three_inst_ratio_change_20": 0.66459926461975
+    "three_inst_ratio": 4.658803908222987,
+    "three_inst_ratio_change_20": 0.6645992646197492
   },
   {
     "date": "2026-05-06",
@@ -1721,9 +1743,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.5,
-    "trust_ratio": -2.7636967523937415,
+    "trust_ratio": -2.8132071771576426,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.7363032476062585,
+    "three_inst_ratio": 4.686792822842357,
     "three_inst_ratio_change_20": 0.6725881792391197
   },
   {
@@ -1732,10 +1754,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.44,
-    "trust_ratio": -2.7237510468110715,
+    "trust_ratio": -2.7732614715749726,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.716248953188929,
-    "three_inst_ratio_change_20": 0.7028813263990799
+    "three_inst_ratio": 4.666738528425028,
+    "three_inst_ratio_change_20": 0.7028813263990807
   },
   {
     "date": "2026-05-08",
@@ -1743,10 +1765,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.23,
-    "trust_ratio": -2.6482622415923682,
+    "trust_ratio": -2.6977726663562693,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.581737758407632,
-    "three_inst_ratio_change_20": 0.7085438524064287
+    "three_inst_ratio": 4.532227333643731,
+    "three_inst_ratio_change_20": 0.7085438524064291
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.18,
-    "trust_ratio": -2.6266571082709222,
+    "trust_ratio": -2.6761675330348234,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.553342891729077,
-    "three_inst_ratio_change_20": 0.6301489857278737
+    "three_inst_ratio": 4.503832466965177,
+    "three_inst_ratio_change_20": 0.630148985727875
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 7.09,
-    "trust_ratio": -2.6397775445541445,
+    "trust_ratio": -2.689287969318046,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.450222455445855,
-    "three_inst_ratio_change_20": 0.5272022702332975
+    "three_inst_ratio": 4.400712030681953,
+    "three_inst_ratio_change_20": 0.5272022702332966
   },
   {
     "date": "2026-05-13",
@@ -1776,10 +1798,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.8,
-    "trust_ratio": -2.6584203909876116,
+    "trust_ratio": -2.7079308157515127,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.141579609012388,
-    "three_inst_ratio_change_20": 0.019428027743056298
+    "three_inst_ratio": 4.092069184248487,
+    "three_inst_ratio_change_20": 0.019428027743057186
   },
   {
     "date": "2026-05-14",
@@ -1787,10 +1809,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.7,
-    "trust_ratio": -2.6791845419712255,
+    "trust_ratio": -2.728694966735127,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.020815458028775,
-    "three_inst_ratio_change_20": -0.1613361232405568
+    "three_inst_ratio": 3.971305033264873,
+    "three_inst_ratio_change_20": -0.16133612324055724
   },
   {
     "date": "2026-05-15",
@@ -1798,9 +1820,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.73,
-    "trust_ratio": -2.6887391853467153,
+    "trust_ratio": -2.738249610110617,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.041260814653285,
+    "three_inst_ratio": 3.9917503898893836,
     "three_inst_ratio_change_20": -0.22450731604776042
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.84,
-    "trust_ratio": -2.68997347155004,
+    "trust_ratio": -2.739483896313941,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.15002652844996,
+    "three_inst_ratio": 4.100516103686059,
     "three_inst_ratio_change_20": -0.17184393915946394
   },
   {
@@ -1820,10 +1842,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.81,
-    "trust_ratio": -2.692261895498864,
+    "trust_ratio": -2.7417723202627653,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.117738104501136,
-    "three_inst_ratio_change_20": -0.2732100627294294
+    "three_inst_ratio": 4.068227679737234,
+    "three_inst_ratio_change_20": -0.27321006272943116
   },
   {
     "date": "2026-05-20",
@@ -1831,9 +1853,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.82,
-    "trust_ratio": -2.6846313835784095,
+    "trust_ratio": -2.7341418083423106,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.135368616421591,
+    "three_inst_ratio": 4.08585819165769,
     "three_inst_ratio_change_20": -0.34386445222831696
   },
   {
@@ -1842,10 +1864,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.87,
-    "trust_ratio": -2.685165748724282,
+    "trust_ratio": -2.7346761734881833,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.184834251275718,
-    "three_inst_ratio_change_20": -0.31422509658554443
+    "three_inst_ratio": 4.135323826511817,
+    "three_inst_ratio_change_20": -0.31422509658554354
   },
   {
     "date": "2026-05-22",
@@ -1853,9 +1875,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.77,
-    "trust_ratio": -2.6860609319481714,
+    "trust_ratio": -2.7355713567120725,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.083939068051828,
+    "three_inst_ratio": 4.034428643287927,
     "three_inst_ratio_change_20": -0.4049465590207886
   },
   {
@@ -1864,10 +1886,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.67,
-    "trust_ratio": -2.6873169332500764,
+    "trust_ratio": -2.736827358013978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.9826830667499236,
-    "three_inst_ratio_change_20": -0.6540958015531553
+    "three_inst_ratio": 3.933172641986022,
+    "three_inst_ratio_change_20": -0.6540958015531566
   },
   {
     "date": "2026-05-26",
@@ -1875,10 +1897,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.65,
-    "trust_ratio": -2.688212290194754,
+    "trust_ratio": -2.7377227149586556,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.9617877098052463,
-    "three_inst_ratio_change_20": -0.9128843997282963
+    "three_inst_ratio": 3.9122772850413448,
+    "three_inst_ratio_change_20": -0.9128843997282967
   },
   {
     "date": "2026-05-27",
@@ -1886,10 +1908,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.45,
-    "trust_ratio": -2.690190275094269,
+    "trust_ratio": -2.7397006998581706,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.759809724905731,
-    "three_inst_ratio_change_20": -1.0227556258582733
+    "three_inst_ratio": 3.7102993001418296,
+    "three_inst_ratio_change_20": -1.0227556258582746
   },
   {
     "date": "2026-05-28",
@@ -1897,10 +1919,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.56,
-    "trust_ratio": -2.7027655755427227,
+    "trust_ratio": -2.7522760003066242,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.857234424457277,
-    "three_inst_ratio_change_20": -0.8963920463076529
+    "three_inst_ratio": 3.8077239996933754,
+    "three_inst_ratio_change_20": -0.8963920463076533
   },
   {
     "date": "2026-05-29",
@@ -1908,10 +1930,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.54,
-    "trust_ratio": -2.7118525625551797,
+    "trust_ratio": -2.761362987319081,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.8281474374448203,
-    "three_inst_ratio_change_20": 3.8281474374448203
+    "three_inst_ratio": 3.7786370126809192,
+    "three_inst_ratio_change_20": 3.7786370126809192
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.58,
-    "trust_ratio": -2.713469903097467,
+    "trust_ratio": -2.762980327861368,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.866530096902533,
+    "three_inst_ratio": 3.817019672138632,
     "three_inst_ratio_change_20": -0.8827441035490144
   },
   {
@@ -1930,10 +1952,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.42,
-    "trust_ratio": -2.045580526980831,
+    "trust_ratio": -2.0950909517447323,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.374419473019168,
-    "three_inst_ratio_change_20": -0.33389485996772095
+    "three_inst_ratio": 4.324909048255268,
+    "three_inst_ratio_change_20": -0.33389485996771917
   },
   {
     "date": "2026-06-03",
@@ -1941,9 +1963,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 6.14,
-    "trust_ratio": -1.3702074330101457,
+    "trust_ratio": -1.4197178577740468,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.769792566989854,
+    "three_inst_ratio": 4.720282142225953,
     "three_inst_ratio_change_20": 0.03348931938359545
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.64,
-    "trust_ratio": -0.6925492157856203,
+    "trust_ratio": -0.7420596405495216,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.94745078421438,
+    "three_inst_ratio": 4.8979403594504785,
     "three_inst_ratio_change_20": 0.23120183102545067
   },
   {
@@ -1963,10 +1985,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 5.12,
-    "trust_ratio": -0.016841709296792736,
+    "trust_ratio": -0.06635213406069394,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.103158290703208,
-    "three_inst_ratio_change_20": 0.5214205322955756
+    "three_inst_ratio": 5.053647865939306,
+    "three_inst_ratio_change_20": 0.5214205322955747
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 4.75,
-    "trust_ratio": 0.6066015504865289,
+    "trust_ratio": 0.5570911257226276,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.356601550486529,
-    "three_inst_ratio_change_20": 0.8032586587574517
+    "three_inst_ratio": 5.307091125722628,
+    "three_inst_ratio_change_20": 0.8032586587574508
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 4.77,
-    "trust_ratio": 1.2309137616546542,
+    "trust_ratio": 1.1814033368907528,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.000913761654654,
-    "three_inst_ratio_change_20": 1.5506913062087984
+    "three_inst_ratio": 5.951403336890753,
+    "three_inst_ratio_change_20": 1.5506913062087992
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 4.83,
-    "trust_ratio": 1.8441210451294192,
+    "trust_ratio": 1.7946106203655179,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.67412104512942,
-    "three_inst_ratio_change_20": 2.5325414361170315
+    "three_inst_ratio": 6.624610620365518,
+    "three_inst_ratio_change_20": 2.5325414361170306
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 4.63,
-    "trust_ratio": 2.388561996743687,
+    "trust_ratio": 2.339051571979786,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.018561996743687,
-    "three_inst_ratio_change_20": 2.997746538714912
+    "three_inst_ratio": 6.9690515719797865,
+    "three_inst_ratio_change_20": 2.9977465387149134
   },
   {
     "date": "2026-06-12",
@@ -2018,9 +2040,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 4.59,
-    "trust_ratio": 2.388200831224094,
+    "trust_ratio": 2.3386904064601923,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.978200831224093,
+    "three_inst_ratio": 6.928690406460192,
     "three_inst_ratio_change_20": 2.9369400165708086
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 4.57,
-    "trust_ratio": 2.412521741634431,
+    "trust_ratio": 2.36301131687053,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.982521741634431,
+    "three_inst_ratio": 6.93301131687053,
     "three_inst_ratio_change_20": 2.8324952131844716
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "裕融",
     "market": "TWSE",
     "foreign_ratio": 4.55,
-    "trust_ratio": 2.4319631825333,
+    "trust_ratio": 2.382452757769399,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.9819631825333,
-    "three_inst_ratio_change_20": 2.864225078032164
+    "three_inst_ratio": 6.932452757769399,
+    "three_inst_ratio_change_20": 2.864225078032165
+  },
+  {
+    "date": "2026-06-17",
+    "code": "9941",
+    "name": "裕融",
+    "market": "TWSE",
+    "foreign_ratio": 4.57,
+    "trust_ratio": 2.361416733751555,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.931416733751555,
+    "three_inst_ratio_change_20": 2.8455585420938654
   }
 ]

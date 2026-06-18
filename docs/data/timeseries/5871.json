@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -38.1556424574617
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "5871",
     "name": "中租-KY",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -38.005856276735614
   },
   {
+    "date": "2026-02-18",
+    "code": "5871",
+    "name": "中租-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -37.94563736827022
+  },
+  {
     "date": "2026-02-23",
     "code": "5871",
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.83,
-    "trust_ratio": -5.633514075732525,
+    "trust_ratio": -5.648180249420206,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.19648592426747,
-    "three_inst_ratio_change_20": 0.2508485559972513
+    "three_inst_ratio": 38.18181975057979,
+    "three_inst_ratio_change_20": 0.2007645771244455
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.7,
-    "trust_ratio": -5.648288229854369,
+    "trust_ratio": -5.662954403542051,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.05171177014563,
-    "three_inst_ratio_change_20": 0.07065659669028435
+    "three_inst_ratio": 38.03704559645795,
+    "three_inst_ratio_change_20": 0.19470282456089905
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.66,
-    "trust_ratio": -5.688027133141191,
+    "trust_ratio": -5.702693306828873,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.971972866858806,
-    "three_inst_ratio_change_20": 0.1296300949617546
+    "three_inst_ratio": 37.95730669317112,
+    "three_inst_ratio_change_20": 0.09669130928198655
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.57,
-    "trust_ratio": -5.718140235149283,
+    "trust_ratio": -5.732806408836966,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.851859764850715,
-    "three_inst_ratio_change_20": -0.008755619038417706
+    "three_inst_ratio": 37.837193591163036,
+    "three_inst_ratio_change_20": -0.07512903561673312
+  },
+  {
+    "date": "2026-02-27",
+    "code": "5871",
+    "name": "中租-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -37.9478800684176
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.36,
-    "trust_ratio": -5.729284073051145,
+    "trust_ratio": -5.748055548320989,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.63071592694885,
-    "three_inst_ratio_change_20": -0.2816066998309168
+    "three_inst_ratio": 37.61194445167901,
+    "three_inst_ratio_change_20": -0.3448503402372083
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.26,
-    "trust_ratio": -5.734519429609881,
+    "trust_ratio": -5.753290904879725,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.525480570390116,
-    "three_inst_ratio_change_20": -0.422399498027481
+    "three_inst_ratio": 37.50670909512027,
+    "three_inst_ratio_change_20": -0.4159415386181564
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.13,
-    "trust_ratio": -5.75477744720956,
+    "trust_ratio": -5.773548922479404,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.37522255279044,
-    "three_inst_ratio_change_20": -0.5815722391257765
+    "three_inst_ratio": 37.356451077520596,
+    "three_inst_ratio_change_20": -0.610416948753624
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.03,
-    "trust_ratio": -5.759545297570385,
+    "trust_ratio": -5.77831677284023,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.27045470242962,
-    "three_inst_ratio_change_20": -0.6521959313088104
+    "three_inst_ratio": 37.25168322715977,
+    "three_inst_ratio_change_20": -0.7023281809473829
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.0,
-    "trust_ratio": -5.7642782062106335,
+    "trust_ratio": -5.783049681480478,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.23572179378937,
-    "three_inst_ratio_change_20": -0.7311462324848534
+    "three_inst_ratio": 37.21695031851952,
+    "three_inst_ratio_change_20": -0.652955788005471
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 42.94,
-    "trust_ratio": -5.7639219525812555,
+    "trust_ratio": -5.7826934278511,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.17607804741874,
-    "three_inst_ratio_change_20": -0.7779333606884151
+    "three_inst_ratio": 37.1573065721489,
+    "three_inst_ratio_change_20": -0.700163839355497
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.24,
-    "trust_ratio": -5.773154045978282,
+    "trust_ratio": -5.791925521248127,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.46684595402172,
-    "three_inst_ratio_change_20": -0.4030601525032722
+    "three_inst_ratio": 37.44807447875188,
+    "three_inst_ratio_change_20": -0.40513047187921103
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.16,
-    "trust_ratio": -5.778237540443734,
+    "trust_ratio": -5.797009015713579,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.38176245955626,
-    "three_inst_ratio_change_20": -0.47570795194813087
+    "three_inst_ratio": 37.36299098428642,
+    "three_inst_ratio_change_20": -0.5157186380319629
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.03,
-    "trust_ratio": -5.780685914985014,
+    "trust_ratio": -5.799457390254858,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.24931408501499,
-    "three_inst_ratio_change_20": -0.6038908656161013
+    "three_inst_ratio": 37.23054260974514,
+    "three_inst_ratio_change_20": -0.6220291896694619
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.1,
-    "trust_ratio": -5.780422917185141,
+    "trust_ratio": -5.799194392454985,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.31957708281486,
-    "three_inst_ratio_change_20": -0.5591325395035227
+    "three_inst_ratio": 37.300805607545016,
+    "three_inst_ratio_change_20": -0.4091367981805618
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.43,
-    "trust_ratio": -5.81076489330612,
+    "trust_ratio": -5.829536368575964,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.61923510669388,
-    "three_inst_ratio_change_20": -0.23333669272072655
+    "three_inst_ratio": 37.600463631424034,
+    "three_inst_ratio_change_20": -0.24099120833530918
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.39,
-    "trust_ratio": -5.816319107672877,
+    "trust_ratio": -5.835090582942723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.573680892327125,
-    "three_inst_ratio_change_20": -0.13626151339845194
+    "three_inst_ratio": 37.554909417057274,
+    "three_inst_ratio_change_20": -0.48532667629555704
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.58,
-    "trust_ratio": -5.822073097529031,
+    "trust_ratio": -5.840844572798875,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.75792690247097,
-    "three_inst_ratio_change_20": -0.08352793728837327
+    "three_inst_ratio": 37.739155427201126,
+    "three_inst_ratio_change_20": 37.739155427201126
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.58,
-    "trust_ratio": -5.827893406537118,
+    "trust_ratio": -5.846664881806963,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.752106593462884,
-    "three_inst_ratio_change_20": -0.28812949988994774
+    "three_inst_ratio": 37.73333511819303,
+    "three_inst_ratio_change_20": 37.73333511819303
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.65,
-    "trust_ratio": -5.832022431093453,
+    "trust_ratio": -5.850793906363298,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.81797756890654,
-    "three_inst_ratio_change_20": 37.81797756890654
+    "three_inst_ratio": 37.7992060936367,
+    "three_inst_ratio_change_20": 37.7992060936367
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.7,
-    "trust_ratio": -5.832167573625088,
+    "trust_ratio": -5.850939048894932,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.86783242637492,
-    "three_inst_ratio_change_20": 37.86783242637492
+    "three_inst_ratio": 37.84906095110507,
+    "three_inst_ratio_change_20": -0.33275879947471765
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.75,
-    "trust_ratio": -5.832050711683353,
+    "trust_ratio": -5.850822186953197,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.91794928831665,
-    "three_inst_ratio_change_20": -0.2785366359508217
+    "three_inst_ratio": 37.899177813046805,
+    "three_inst_ratio_change_20": -0.1378677834111457
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.91,
-    "trust_ratio": -5.834037364692839,
+    "trust_ratio": -5.852808839962684,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.07596263530716,
-    "three_inst_ratio_change_20": 0.024250865161526747
+    "three_inst_ratio": 38.05719116003731,
+    "three_inst_ratio_change_20": 0.09988446686619312
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.16,
-    "trust_ratio": -5.834738536343247,
+    "trust_ratio": -5.853510011613091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.32526146365675,
-    "three_inst_ratio_change_20": 0.35328859679794533
+    "three_inst_ratio": 38.30648998838691,
+    "three_inst_ratio_change_20": 0.4692963972238715
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.56,
-    "trust_ratio": -5.842100838672521,
+    "trust_ratio": -5.860872313942365,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.71789916132748,
-    "three_inst_ratio_change_20": 0.866039396476765
+    "three_inst_ratio": 38.699127686057636,
+    "three_inst_ratio_change_20": 38.699127686057636
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.47,
-    "trust_ratio": -5.841867114789053,
+    "trust_ratio": -5.860638590058897,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.628132885210945,
+    "three_inst_ratio": 38.6093614099411,
     "three_inst_ratio_change_20": 0.9974169582620931
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.74,
-    "trust_ratio": -5.843269458089866,
+    "trust_ratio": -5.862040933359711,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.89673054191014,
+    "three_inst_ratio": 38.877959066640294,
     "three_inst_ratio_change_20": 1.3712499715200224
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.66,
-    "trust_ratio": -5.843269458089866,
+    "trust_ratio": -5.862040933359711,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.81673054191013,
+    "three_inst_ratio": 38.79795906664029,
     "three_inst_ratio_change_20": 1.4415079891196925
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.58,
-    "trust_ratio": -5.844514446786135,
+    "trust_ratio": -5.863285922055979,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.73548555321386,
+    "three_inst_ratio": 38.71671407794402,
     "three_inst_ratio_change_20": 1.4650308507842453
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.49,
-    "trust_ratio": -5.829407820440056,
+    "trust_ratio": -5.8481792957099,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.66059217955995,
+    "three_inst_ratio": 38.641820704290105,
     "three_inst_ratio_change_20": 1.424870385770582
   },
   {
@@ -1501,10 +1523,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.52,
-    "trust_ratio": -5.8349587626724455,
+    "trust_ratio": -5.85373023794229,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.68504123732756,
-    "three_inst_ratio_change_20": 1.508963189908819
+    "three_inst_ratio": 38.66626976205771,
+    "three_inst_ratio_change_20": 1.5089631899088118
   },
   {
     "date": "2026-04-09",
@@ -1512,9 +1534,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.4,
-    "trust_ratio": -5.842585698868778,
+    "trust_ratio": -5.861357174138622,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.55741430113122,
+    "three_inst_ratio": 38.53864282586137,
     "three_inst_ratio_change_20": 1.090568347109496
   },
   {
@@ -1523,10 +1545,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.37,
-    "trust_ratio": -5.849475878953444,
+    "trust_ratio": -5.868247354223289,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.520524121046556,
-    "three_inst_ratio_change_20": 1.1387616614902925
+    "three_inst_ratio": 38.501752645776705,
+    "three_inst_ratio_change_20": 1.1387616614902853
   },
   {
     "date": "2026-04-13",
@@ -1534,9 +1556,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.38,
-    "trust_ratio": -5.857563368062153,
+    "trust_ratio": -5.876334843331997,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.52243663193785,
+    "three_inst_ratio": 38.503665156668006,
     "three_inst_ratio_change_20": 1.2731225469228633
   },
   {
@@ -1545,9 +1567,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.59,
-    "trust_ratio": -5.884320311965571,
+    "trust_ratio": -5.903091787235415,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.70567968803443,
+    "three_inst_ratio": 38.686908212764585,
     "three_inst_ratio_change_20": 1.3861026052195697
   },
   {
@@ -1556,9 +1578,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.91,
-    "trust_ratio": -5.90520494329683,
+    "trust_ratio": -5.923976418566674,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.004795056703166,
+    "three_inst_ratio": 38.98602358143332,
     "three_inst_ratio_change_20": 1.3855599500092879
   },
   {
@@ -1567,10 +1589,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.06,
-    "trust_ratio": -5.925053242928787,
+    "trust_ratio": -5.9438247181986315,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.13494675707121,
-    "three_inst_ratio_change_20": 1.5612658647440867
+    "three_inst_ratio": 39.11617528180137,
+    "three_inst_ratio_change_20": 1.5612658647440938
   },
   {
     "date": "2026-04-17",
@@ -1578,9 +1600,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.28,
-    "trust_ratio": -5.9244105022492475,
+    "trust_ratio": -5.9431819775190915,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.34092332406308,
+    "three_inst_ratio": 39.32215184879323,
     "three_inst_ratio_change_20": 1.5829964215921066
   },
   {
@@ -1589,10 +1611,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.66,
-    "trust_ratio": -6.034522030781411,
+    "trust_ratio": -6.053293506051256,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.61081179553091,
-    "three_inst_ratio_change_20": 1.8587052020680233
+    "three_inst_ratio": 39.59204032026106,
+    "three_inst_ratio_change_20": 1.8587052020680304
   },
   {
     "date": "2026-04-21",
@@ -1600,9 +1622,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.87,
-    "trust_ratio": -6.227564577834503,
+    "trust_ratio": -6.246336053104348,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.62776924847781,
+    "three_inst_ratio": 39.60899777320797,
     "three_inst_ratio_change_20": 1.8097916795712692
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.26,
-    "trust_ratio": -6.3774675390962985,
+    "trust_ratio": -6.3962390143661425,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.86786628721602,
+    "three_inst_ratio": 39.84909481194617,
     "three_inst_ratio_change_20": 2.0000338608411
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.6,
-    "trust_ratio": -6.5215313765773875,
+    "trust_ratio": -6.540302851847231,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.063802449734936,
+    "three_inst_ratio": 40.04503097446509,
     "three_inst_ratio_change_20": 2.1458531614182874
   },
   {
@@ -1633,10 +1655,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 47.04,
-    "trust_ratio": -6.6700672868447715,
+    "trust_ratio": -6.688838762114617,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.35526653946755,
-    "three_inst_ratio_change_20": 2.2793039041603933
+    "three_inst_ratio": 40.3364950641977,
+    "three_inst_ratio_change_20": 2.279303904160386
   },
   {
     "date": "2026-04-27",
@@ -1644,9 +1666,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.93,
-    "trust_ratio": -6.6726676403412775,
+    "trust_ratio": -6.691439115611122,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.24266618597104,
+    "three_inst_ratio": 40.223894710701195,
     "three_inst_ratio_change_20": 1.9174047223142878
   },
   {
@@ -1655,10 +1677,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 47.02,
-    "trust_ratio": -6.679088444436967,
+    "trust_ratio": -6.697859919706812,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.32624538187536,
-    "three_inst_ratio_change_20": 1.6083462205478796
+    "three_inst_ratio": 40.30747390660551,
+    "three_inst_ratio_change_20": 1.6083462205478725
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 47.09,
-    "trust_ratio": -6.700240455890915,
+    "trust_ratio": -6.719011931160759,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.37509337042141,
+    "three_inst_ratio": 40.35632189515157,
     "three_inst_ratio_change_20": 1.7469604852104652
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 47.02,
-    "trust_ratio": -6.718202603783277,
+    "trust_ratio": -6.736974079053122,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.28713122252905,
+    "three_inst_ratio": 40.268359747259204,
     "three_inst_ratio_change_20": 1.3904006806189102
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -38.81673054191013
+    "three_inst_ratio_change_20": -38.79795906664029
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 47.03,
-    "trust_ratio": -6.7454599505212025,
+    "trust_ratio": -6.764231425791048,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.26987387579112,
+    "three_inst_ratio": 40.251102400521276,
     "three_inst_ratio_change_20": 1.5343883225772572
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.94,
-    "trust_ratio": -6.748257274820501,
+    "trust_ratio": -6.767028750090347,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.177076551491815,
+    "three_inst_ratio": 40.15830507622197,
     "three_inst_ratio_change_20": 1.5164843719318668
   },
   {
@@ -1721,10 +1743,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.95,
-    "trust_ratio": -6.769381064115521,
+    "trust_ratio": -6.788152539385366,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.1659527621968,
-    "three_inst_ratio_change_20": 1.4809115248692422
+    "three_inst_ratio": 40.14718128692696,
+    "three_inst_ratio_change_20": 1.4809115248692493
   },
   {
     "date": "2026-05-07",
@@ -1732,9 +1754,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.87,
-    "trust_ratio": -6.7836839140263505,
+    "trust_ratio": -6.8024553892961945,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.07164991228597,
+    "three_inst_ratio": 40.052878437016126,
     "three_inst_ratio_change_20": 1.5142356111547528
   },
   {
@@ -1743,10 +1765,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.65,
-    "trust_ratio": -6.8442839009631715,
+    "trust_ratio": -6.8630553762330155,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.79104992534915,
-    "three_inst_ratio_change_20": 1.2705258043025935
+    "three_inst_ratio": 39.772278450079305,
+    "three_inst_ratio_change_20": 1.2705258043026006
   },
   {
     "date": "2026-05-11",
@@ -1754,9 +1776,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.68,
-    "trust_ratio": -6.84762626935872,
+    "trust_ratio": -6.866397744628565,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.8177075569536,
+    "three_inst_ratio": 39.798936081683756,
     "three_inst_ratio_change_20": 1.2952709250157497
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.4,
-    "trust_ratio": -6.849448497616187,
+    "trust_ratio": -6.868219972886032,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.53588532869613,
+    "three_inst_ratio": 39.51711385342629,
     "three_inst_ratio_change_20": 0.8302056406617027
   },
   {
@@ -1776,10 +1798,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.28,
-    "trust_ratio": -6.860431007607485,
+    "trust_ratio": -6.879202482877328,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.404902818704834,
-    "three_inst_ratio_change_20": 0.4001077620016673
+    "three_inst_ratio": 39.386131343435,
+    "three_inst_ratio_change_20": 0.4001077620016744
   },
   {
     "date": "2026-05-14",
@@ -1787,9 +1809,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.3,
-    "trust_ratio": -6.867428759109517,
+    "trust_ratio": -6.886200234379363,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.4179050672028,
+    "three_inst_ratio": 39.39913359193296,
     "three_inst_ratio_change_20": 0.28295831013159045
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.16,
-    "trust_ratio": -6.885542418509338,
+    "trust_ratio": -6.904313893779183,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.25979140780298,
+    "three_inst_ratio": 39.241019932533135,
     "three_inst_ratio_change_20": -0.08113191626009808
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.35,
-    "trust_ratio": -6.897780025754864,
+    "trust_ratio": -6.916551501024709,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.43755380055746,
+    "three_inst_ratio": 39.418782325287616,
     "three_inst_ratio_change_20": -0.17325799497344718
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.27,
-    "trust_ratio": -6.898296204951506,
+    "trust_ratio": -6.917067680221351,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.35703762136082,
+    "three_inst_ratio": 39.33826614609097,
     "three_inst_ratio_change_20": -0.2707316271169944
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.28,
-    "trust_ratio": -6.827511173913783,
+    "trust_ratio": -6.846282649183628,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.43782265239854,
+    "three_inst_ratio": 39.419051177128694,
     "three_inst_ratio_change_20": -0.43004363481747987
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.33,
-    "trust_ratio": -6.719496674495075,
+    "trust_ratio": -6.73826814976492,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.59583715181724,
+    "three_inst_ratio": 39.5770656765474,
     "three_inst_ratio_change_20": -0.4679652979176936
   },
   {
@@ -1853,10 +1875,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.24,
-    "trust_ratio": -6.610313146642224,
+    "trust_ratio": -6.629084621912069,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.615020679670096,
-    "three_inst_ratio_change_20": -0.7402458597974544
+    "three_inst_ratio": 39.59624920440025,
+    "three_inst_ratio_change_20": -0.7402458597974473
   },
   {
     "date": "2026-05-25",
@@ -1864,9 +1886,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 46.05,
-    "trust_ratio": -6.5261873316290036,
+    "trust_ratio": -6.544958806898847,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.509146494683314,
+    "three_inst_ratio": 39.49037501941347,
     "three_inst_ratio_change_20": -0.7335196912877251
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.87,
-    "trust_ratio": -6.449048867405,
+    "trust_ratio": -6.467820342674845,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.40628495890732,
+    "three_inst_ratio": 39.38751348363747,
     "three_inst_ratio_change_20": -0.9199604229680389
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.82,
-    "trust_ratio": -6.392105490625051,
+    "trust_ratio": -6.4108769658948965,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.41322833568727,
+    "three_inst_ratio": 39.39445686041743,
     "three_inst_ratio_change_20": -0.9618650347341386
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.66,
-    "trust_ratio": -6.307210665604244,
+    "trust_ratio": -6.32598214087409,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.33812316070807,
+    "three_inst_ratio": 39.31935168543823,
     "three_inst_ratio_change_20": -0.949008061820976
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.59,
-    "trust_ratio": -6.212949648108271,
+    "trust_ratio": -6.231721123378117,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.36238417820405,
-    "three_inst_ratio_change_20": 39.36238417820405
+    "three_inst_ratio": 39.34361270293421,
+    "three_inst_ratio_change_20": 39.34361270293421
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.58,
-    "trust_ratio": -6.082395752263343,
+    "trust_ratio": -6.101167227533188,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 39.482938074048974,
+    "three_inst_ratio": 39.46416659877913,
     "three_inst_ratio_change_20": -0.7869358017421462
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.5,
-    "trust_ratio": -5.403033169577596,
+    "trust_ratio": -5.421804644847441,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.08230065673472,
+    "three_inst_ratio": 40.06352918146488,
     "three_inst_ratio_change_20": -0.0947758947570918
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 45.06,
-    "trust_ratio": -4.837177480710139,
+    "trust_ratio": -4.855948955979983,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.208156345602184,
+    "three_inst_ratio": 40.18938487033234,
     "three_inst_ratio_change_20": 0.04220358340538155
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.85,
-    "trust_ratio": -4.3062640967310095,
+    "trust_ratio": -4.3250355720008535,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.529069729581316,
+    "three_inst_ratio": 40.51029825431147,
     "three_inst_ratio_change_20": 0.45741981729534587
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 44.41,
-    "trust_ratio": -3.779898278352537,
+    "trust_ratio": -3.7986697536223817,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.61543554795978,
+    "three_inst_ratio": 40.59666407268993,
     "three_inst_ratio_change_20": 0.8243856226106274
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.95,
-    "trust_ratio": -3.2921899228520757,
+    "trust_ratio": -3.31096139812192,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.64314390346025,
+    "three_inst_ratio": 40.624372428190405,
     "three_inst_ratio_change_20": 0.825436346506649
   },
   {
@@ -1985,10 +2007,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.67,
-    "trust_ratio": -2.808863831735688,
+    "trust_ratio": -2.827635307005533,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 40.84646999457664,
-    "three_inst_ratio_change_20": 1.310584665880505
+    "three_inst_ratio": 40.827698519306786,
+    "three_inst_ratio_change_20": 1.3105846658804978
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.59,
-    "trust_ratio": -2.3171571033297513,
+    "trust_ratio": -2.335928578599596,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 41.258176722982576,
-    "three_inst_ratio_change_20": 1.8532739042777422
+    "three_inst_ratio": 41.23940524771273,
+    "three_inst_ratio_change_20": 1.853273904277735
   },
   {
     "date": "2026-06-11",
@@ -2007,9 +2029,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.62,
-    "trust_ratio": -1.8705107620204307,
+    "trust_ratio": -1.8892822372902751,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 41.73482306429189,
+    "three_inst_ratio": 41.716051589022044,
     "three_inst_ratio_change_20": 2.316917997089085
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.73,
-    "trust_ratio": -1.8695172602227745,
+    "trust_ratio": -1.888288735492619,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 41.845816566089546,
+    "three_inst_ratio": 41.8270450908197,
     "three_inst_ratio_change_20": 2.586025158286567
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.63,
-    "trust_ratio": -1.8422884277986322,
+    "trust_ratio": -1.861059903068477,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 41.77304539851369,
+    "three_inst_ratio": 41.754273923243844,
     "three_inst_ratio_change_20": 2.335491597956228
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "中租-KY",
     "market": "TWSE",
     "foreign_ratio": 43.13,
-    "trust_ratio": -1.7054145212827598,
+    "trust_ratio": -1.7241859965526043,
     "dealer_ratio": -0.014666173687681777,
-    "three_inst_ratio": 41.40991930502956,
+    "three_inst_ratio": 41.39114782975972,
     "three_inst_ratio_change_20": 2.052881683668744
+  },
+  {
+    "date": "2026-06-17",
+    "code": "5871",
+    "name": "中租-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.05,
+    "trust_ratio": -1.7282745868770988,
+    "dealer_ratio": -0.014666173687681777,
+    "three_inst_ratio": 41.30705923943522,
+    "three_inst_ratio_change_20": 1.8880080623065254
   }
 ]

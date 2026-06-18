@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -18.90293963758019
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2912",
     "name": "統一超",
     "market": "TWSE",
@@ -1177,6 +1177,17 @@
     "three_inst_ratio_change_20": -18.666472096155733
   },
   {
+    "date": "2026-02-18",
+    "code": "2912",
+    "name": "統一超",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.545336246192615
+  },
+  {
     "date": "2026-02-23",
     "code": "2912",
     "name": "統一超",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.5345974437609553,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.184597443760953,
-    "three_inst_ratio_change_20": -0.360738802431662
+    "three_inst_ratio_change_20": -0.36141483889261394
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.43377793985374047,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.103777939853742,
-    "three_inst_ratio_change_20": -0.442234342799825
+    "three_inst_ratio_change_20": -0.3978080452404278
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.32536134963751806,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.12536134963752,
-    "three_inst_ratio_change_20": -0.3762246354566514
+    "three_inst_ratio_change_20": -0.1942097595823391
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 0.2690893722739708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.06908937227397,
-    "three_inst_ratio_change_20": -0.25048173694588627
+    "three_inst_ratio_change_20": -0.16334082122934035
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2912",
+    "name": "統一超",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.298678030319774
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.73,
-    "trust_ratio": 0.2638635318556161,
+    "trust_ratio": 0.2513589900016136,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.993863531855617,
-    "three_inst_ratio_change_20": -0.23856666164769535
+    "three_inst_ratio": 17.981358990001613,
+    "three_inst_ratio_change_20": -0.21346729062663528
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.79,
-    "trust_ratio": 0.24941953556005783,
+    "trust_ratio": 0.2369149937060553,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.039419535560057,
-    "three_inst_ratio_change_20": -0.25925849475971674
+    "three_inst_ratio": 18.026914993706054,
+    "three_inst_ratio_change_20": 0.07277827820259475
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.78,
-    "trust_ratio": 0.24877988014983385,
+    "trust_ratio": 0.2362753382958313,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.028779880149834,
-    "three_inst_ratio_change_20": -0.16604640047841457
+    "three_inst_ratio": 18.01627533829583,
+    "three_inst_ratio_change_20": -0.06379123559643674
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.75,
-    "trust_ratio": 0.2427044042068915,
+    "trust_ratio": 0.23019986235288895,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.99270440420689,
-    "three_inst_ratio_change_20": 0.03856768870343075
+    "three_inst_ratio": 17.98019986235289,
+    "three_inst_ratio_change_20": -0.07925822129499949
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.7,
-    "trust_ratio": 0.2427044042068915,
+    "trust_ratio": 0.23019986235288895,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.94270440420689,
-    "three_inst_ratio_change_20": -0.13736216968537818
+    "three_inst_ratio": 17.93019986235289,
+    "three_inst_ratio_change_20": -0.12675367944099847
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.76,
-    "trust_ratio": 0.24943338674488072,
+    "trust_ratio": 0.23692884489087818,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.00943338674488,
-    "three_inst_ratio_change_20": -0.0500246969030087
+    "three_inst_ratio": 17.99692884489088,
+    "three_inst_ratio_change_20": -0.04915565293472568
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.77,
-    "trust_ratio": 0.24925235945434818,
+    "trust_ratio": 0.23674781760034563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.01925235945435,
-    "three_inst_ratio_change_20": -0.03770118233953923
+    "three_inst_ratio": 18.006747817600345,
+    "three_inst_ratio_change_20": -0.030872067277936566
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.71,
-    "trust_ratio": 0.24907835394501054,
+    "trust_ratio": 0.23657381209100803,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.95907835394501,
-    "three_inst_ratio_change_20": -0.08700614388059691
+    "three_inst_ratio": 17.94657381209101,
+    "three_inst_ratio_change_20": -0.20316414979977182
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.65,
-    "trust_ratio": 0.21743503365075617,
+    "trust_ratio": 0.20493049179675363,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.867435033650754,
-    "three_inst_ratio_change_20": -0.17018485122752836
+    "three_inst_ratio": 17.854930491796754,
+    "three_inst_ratio_change_20": -0.3769236233308604
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.67,
-    "trust_ratio": 0.21673064318924185,
+    "trust_ratio": 0.2042261013352393,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.886730643189242,
-    "three_inst_ratio_change_20": -0.2630073187015398
+    "three_inst_ratio": 17.874226101335243,
+    "three_inst_ratio_change_20": -0.29982945536308847
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.67,
-    "trust_ratio": 0.21519229597484904,
+    "trust_ratio": 0.2026877541208465,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.88519229597485,
-    "three_inst_ratio_change_20": -0.3466618191527644
+    "three_inst_ratio": 17.872687754120847,
+    "three_inst_ratio_change_20": -0.32712183729656985
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.73,
-    "trust_ratio": 0.21227777583503155,
+    "trust_ratio": 0.199773233981029,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.94227777583503,
-    "three_inst_ratio_change_20": -0.23177778086330036
+    "three_inst_ratio": 17.92977323398103,
+    "three_inst_ratio_change_20": -0.2906098566541324
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.7,
-    "trust_ratio": 0.2084459994558312,
+    "trust_ratio": 0.19594145760182866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.90844599945583,
-    "three_inst_ratio_change_20": -0.2913635919615878
+    "three_inst_ratio": 17.89594145760183,
+    "three_inst_ratio_change_20": 17.89594145760183
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.56,
-    "trust_ratio": 0.2084459994558312,
+    "trust_ratio": 0.19594145760182866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.768445999455828,
-    "three_inst_ratio_change_20": -0.4519370911793352
+    "three_inst_ratio": 17.75594145760183,
+    "three_inst_ratio_change_20": 17.75594145760183
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 18.91,
-    "trust_ratio": -0.9828844035278947,
+    "trust_ratio": -0.9953889453818974,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.927115596472106,
-    "three_inst_ratio_change_20": 17.927115596472106
+    "three_inst_ratio": 17.914611054618103,
+    "three_inst_ratio_change_20": 17.914611054618103
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 18.98,
-    "trust_ratio": -0.9842500918759189,
+    "trust_ratio": -0.9967546337299216,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.995749908124083,
-    "three_inst_ratio_change_20": 17.995749908124083
+    "three_inst_ratio": 17.98324536627008,
+    "three_inst_ratio_change_20": -0.20135207749087414
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.11,
-    "trust_ratio": -0.9843462806594112,
+    "trust_ratio": -0.9968508225134138,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.125653719340587,
-    "three_inst_ratio_change_20": -0.05894372442036655
+    "three_inst_ratio": 18.113149177486587,
+    "three_inst_ratio_change_20": 0.009371237632844753
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.11,
-    "trust_ratio": -1.0183009212322027,
+    "trust_ratio": -1.0308054630862051,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.091699078767796,
-    "three_inst_ratio_change_20": -0.012078861085946357
+    "three_inst_ratio": 18.079194536913793,
+    "three_inst_ratio_change_20": -0.046166812723726025
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.26,
-    "trust_ratio": -1.0185894875826798,
+    "trust_ratio": -1.0310940294366822,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.24141051241732,
-    "three_inst_ratio_change_20": 0.11604916277980237
+    "three_inst_ratio": 18.228905970563318,
+    "three_inst_ratio_change_20": 0.15981659828934625
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.34,
-    "trust_ratio": -1.0193589978506183,
+    "trust_ratio": -1.0318635397046207,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.320641002149383,
-    "three_inst_ratio_change_20": 0.25155162987541146
+    "three_inst_ratio": 18.30813646029538,
+    "three_inst_ratio_change_20": 18.30813646029538
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.3,
-    "trust_ratio": -1.0191666202836336,
+    "trust_ratio": -1.0316711621376362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.280833379716366,
+    "three_inst_ratio": 18.268328837862363,
     "three_inst_ratio_change_20": 0.28696984786074964
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.34,
-    "trust_ratio": -1.0191666202836336,
+    "trust_ratio": -1.0316711621376362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.320833379716365,
+    "three_inst_ratio": 18.308328837862362,
     "three_inst_ratio_change_20": 0.2814138441563081
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.38,
-    "trust_ratio": -1.0335949378074827,
+    "trust_ratio": -1.0460994796614853,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.346405062192517,
+    "three_inst_ratio": 18.333900520338513,
     "three_inst_ratio_change_20": 0.31762518204268275
   },
   {
@@ -1479,10 +1501,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.51,
-    "trust_ratio": -1.0385967545490837,
+    "trust_ratio": -1.0511012964030864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.47140324545092,
-    "three_inst_ratio_change_20": 0.4786988412440287
+    "three_inst_ratio": 18.458898703596915,
+    "three_inst_ratio_change_20": 0.4786988412440252
   },
   {
     "date": "2026-04-07",
@@ -1490,10 +1512,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.61,
-    "trust_ratio": -1.0329999139927992,
+    "trust_ratio": -1.0455044558468019,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.5770000860072,
-    "three_inst_ratio_change_20": 0.6342956818003103
+    "three_inst_ratio": 18.564495544153196,
+    "three_inst_ratio_change_20": 0.6342956818003067
   },
   {
     "date": "2026-04-08",
@@ -1501,10 +1523,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.63,
-    "trust_ratio": -1.0329999139927992,
+    "trust_ratio": -1.0455044558468019,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.5970000860072,
-    "three_inst_ratio_change_20": 0.5875666992623181
+    "three_inst_ratio": 18.584495544153196,
+    "three_inst_ratio_change_20": 0.5875666992623145
   },
   {
     "date": "2026-04-09",
@@ -1512,9 +1534,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.69,
-    "trust_ratio": -1.0329999139927992,
+    "trust_ratio": -1.0455044558468019,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.6570000860072,
+    "three_inst_ratio": 18.644495544153198,
     "three_inst_ratio_change_20": 0.6377477265528526
   },
   {
@@ -1523,10 +1545,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.65,
-    "trust_ratio": -1.0333253206473538,
+    "trust_ratio": -1.0458298625013562,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.616674679352645,
-    "three_inst_ratio_change_20": 0.6575963254076349
+    "three_inst_ratio": 18.60417013749864,
+    "three_inst_ratio_change_20": 0.6575963254076314
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.59,
-    "trust_ratio": -1.0330513749919676,
+    "trust_ratio": -1.0455559168459703,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.556948625008033,
-    "three_inst_ratio_change_20": 0.6895135913572794
+    "three_inst_ratio": 18.54444408315403,
+    "three_inst_ratio_change_20": 0.6895135913572759
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.62,
-    "trust_ratio": -1.045267350495493,
+    "trust_ratio": -1.0577718923494956,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.574732649504508,
-    "three_inst_ratio_change_20": 0.6880020063152656
+    "three_inst_ratio": 18.562228107650505,
+    "three_inst_ratio_change_20": 0.6880020063152621
   },
   {
     "date": "2026-04-15",
@@ -1556,9 +1578,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.73,
-    "trust_ratio": -1.0516304309010776,
+    "trust_ratio": -1.0641349727550802,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.678369569098923,
+    "three_inst_ratio": 18.66586502724492,
     "three_inst_ratio_change_20": 0.7931772731240727
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.79,
-    "trust_ratio": -1.0643563993346796,
+    "trust_ratio": -1.076860941188682,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.725643600665318,
+    "three_inst_ratio": 18.71313905881132,
     "three_inst_ratio_change_20": 0.7833658248302875
   },
   {
@@ -1578,9 +1600,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.89,
-    "trust_ratio": -1.0643563993346796,
+    "trust_ratio": -1.076860941188682,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.82564360066532,
+    "three_inst_ratio": 18.81313905881132,
     "three_inst_ratio_change_20": 0.9171976012094909
   },
   {
@@ -1589,10 +1611,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 20.03,
-    "trust_ratio": -1.120274979107676,
+    "trust_ratio": -1.1327795209616787,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.909725020892324,
-    "three_inst_ratio_change_20": 1.141279021436496
+    "three_inst_ratio": 18.89722047903832,
+    "three_inst_ratio_change_20": 1.1412790214364925
   },
   {
     "date": "2026-04-21",
@@ -1600,9 +1622,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 20.01,
-    "trust_ratio": -1.1418860978500311,
+    "trust_ratio": -1.1543906397040335,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.86811390214997,
+    "three_inst_ratio": 18.85560936029597,
     "three_inst_ratio_change_20": 0.9409983056778657
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 20.04,
-    "trust_ratio": -1.1651557997861444,
+    "trust_ratio": -1.177660341640147,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.874844200213854,
+    "three_inst_ratio": 18.86233965835985,
     "three_inst_ratio_change_20": 0.8790942920897713
   },
   {
@@ -1622,10 +1644,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 20.02,
-    "trust_ratio": -1.186143326645119,
+    "trust_ratio": -1.1986478684991213,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.83385667335488,
-    "three_inst_ratio_change_20": 0.7082029540142933
+    "three_inst_ratio": 18.821352131500877,
+    "three_inst_ratio_change_20": 0.7082029540142898
   },
   {
     "date": "2026-04-24",
@@ -1633,9 +1655,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.86,
-    "trust_ratio": -1.1863270472215892,
+    "trust_ratio": -1.1988315890755916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.67367295277841,
+    "three_inst_ratio": 18.661168410924407,
     "three_inst_ratio_change_20": 0.5819738740106146
   },
   {
@@ -1644,10 +1666,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.89,
-    "trust_ratio": -1.2315504923468572,
+    "trust_ratio": -1.2440550342008598,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.658449507653142,
-    "three_inst_ratio_change_20": 0.41703899523582066
+    "three_inst_ratio": 18.645944965799142,
+    "three_inst_ratio_change_20": 0.4170389952358242
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.74,
-    "trust_ratio": -1.2333927961170859,
+    "trust_ratio": -1.2458973379710885,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.50660720388291,
-    "three_inst_ratio_change_20": 0.18596620173352818
+    "three_inst_ratio": 18.49410266202891,
+    "three_inst_ratio_change_20": 0.18596620173353173
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.65,
-    "trust_ratio": -1.2790824682759412,
+    "trust_ratio": -1.2915870101299438,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.370917531724057,
+    "three_inst_ratio": 18.358412989870054,
     "three_inst_ratio_change_20": 0.09008415200769093
   },
   {
@@ -1677,10 +1699,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.58,
-    "trust_ratio": -1.2793810382599013,
+    "trust_ratio": -1.291885580113904,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.300618961740096,
-    "three_inst_ratio_change_20": -0.020214417976269772
+    "three_inst_ratio": 18.288114419886096,
+    "three_inst_ratio_change_20": -0.02021441797626622
   },
   {
     "date": "2026-05-01",
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -18.346405062192517
+    "three_inst_ratio_change_20": -18.333900520338513
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.57,
-    "trust_ratio": -1.2793810382599013,
+    "trust_ratio": -1.291885580113904,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.290618961740098,
-    "three_inst_ratio_change_20": -0.18078428371082111
+    "three_inst_ratio": 18.278114419886098,
+    "three_inst_ratio_change_20": -0.18078428371081756
   },
   {
     "date": "2026-05-05",
@@ -1710,9 +1732,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.58,
-    "trust_ratio": -1.2797610801434796,
+    "trust_ratio": -1.292265621997482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.30023891985652,
+    "three_inst_ratio": 18.287734378002515,
     "three_inst_ratio_change_20": -0.27676116615068125
   },
   {
@@ -1721,9 +1743,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.62,
-    "trust_ratio": -1.2797610801434796,
+    "trust_ratio": -1.292265621997482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.34023891985652,
+    "three_inst_ratio": 18.327734378002518,
     "three_inst_ratio_change_20": -0.2567611661506781
   },
   {
@@ -1732,9 +1754,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.59,
-    "trust_ratio": -1.2963008376537688,
+    "trust_ratio": -1.3088053795077712,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.293699162346233,
+    "three_inst_ratio": 18.28119462049223,
     "three_inst_ratio_change_20": -0.3633009236609688
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.66,
-    "trust_ratio": -1.3043759822167331,
+    "trust_ratio": -1.3168805240707357,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.355624017783267,
+    "three_inst_ratio": 18.343119475929264,
     "three_inst_ratio_change_20": -0.26105066156937795
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.64,
-    "trust_ratio": -1.3094887046257009,
+    "trust_ratio": -1.3219932464797033,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.3305112953743,
+    "three_inst_ratio": 18.318006753520297,
     "three_inst_ratio_change_20": -0.22643732963373253
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.65,
-    "trust_ratio": -1.313143878398409,
+    "trust_ratio": -1.3256484202524117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.33685612160159,
+    "three_inst_ratio": 18.324351579747585,
     "three_inst_ratio_change_20": -0.23787652790291958
   },
   {
@@ -1776,9 +1798,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.64,
-    "trust_ratio": -1.313143878398409,
+    "trust_ratio": -1.3256484202524117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.32685612160159,
+    "three_inst_ratio": 18.314351579747587,
     "three_inst_ratio_change_20": -0.35151344749733227
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.64,
-    "trust_ratio": -1.3139085792271732,
+    "trust_ratio": -1.3264131210811758,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.326091420772826,
+    "three_inst_ratio": 18.313586878918827,
     "three_inst_ratio_change_20": -0.3995521798924919
   },
   {
@@ -1798,10 +1820,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.67,
-    "trust_ratio": -1.3140047680106655,
+    "trust_ratio": -1.326509309864668,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.355995231989336,
-    "three_inst_ratio_change_20": -0.46964836867598336
+    "three_inst_ratio": 18.343490690135333,
+    "three_inst_ratio_change_20": -0.4696483686759869
   },
   {
     "date": "2026-05-18",
@@ -1809,9 +1831,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.67,
-    "trust_ratio": -1.3140047680106655,
+    "trust_ratio": -1.326509309864668,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.355995231989336,
+    "three_inst_ratio": 18.343490690135333,
     "three_inst_ratio_change_20": -0.553729788902988
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.69,
-    "trust_ratio": -1.2888994955191682,
+    "trust_ratio": -1.3014040373731706,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.401100504480834,
+    "three_inst_ratio": 18.38859596262683,
     "three_inst_ratio_change_20": -0.4670133976691382
   },
   {
@@ -1831,10 +1853,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.56,
-    "trust_ratio": -1.2680558670802982,
+    "trust_ratio": -1.2805604089343008,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.2919441329197,
-    "three_inst_ratio_change_20": -0.5829000672941547
+    "three_inst_ratio": 18.2794395910657,
+    "three_inst_ratio_change_20": -0.5829000672941511
   },
   {
     "date": "2026-05-21",
@@ -1842,10 +1864,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.36,
-    "trust_ratio": -1.17802316573148,
+    "trust_ratio": -1.1905277075854825,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.181976834268518,
-    "three_inst_ratio_change_20": -0.6518798390863623
+    "three_inst_ratio": 18.169472292414518,
+    "three_inst_ratio_change_20": -0.6518798390863587
   },
   {
     "date": "2026-05-22",
@@ -1853,9 +1875,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 19.11,
-    "trust_ratio": -1.0021852600683314,
+    "trust_ratio": -1.0146898019223338,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.10781473993167,
+    "three_inst_ratio": 18.095310198077666,
     "three_inst_ratio_change_20": -0.5658582128467415
   },
   {
@@ -1864,10 +1886,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 18.77,
-    "trust_ratio": -0.8509764924183929,
+    "trust_ratio": -0.8634810342723955,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.919023507581606,
-    "three_inst_ratio_change_20": -0.7394260000715356
+    "three_inst_ratio": 17.906518965727603,
+    "three_inst_ratio_change_20": -0.7394260000715391
   },
   {
     "date": "2026-05-26",
@@ -1875,10 +1897,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 18.16,
-    "trust_ratio": -0.6241439108092198,
+    "trust_ratio": -0.6366484526632223,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.53585608919078,
-    "three_inst_ratio_change_20": -0.9707511146921313
+    "three_inst_ratio": 17.523351547336777,
+    "three_inst_ratio_change_20": -0.9707511146921348
   },
   {
     "date": "2026-05-27",
@@ -1886,10 +1908,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 17.31,
-    "trust_ratio": -0.35399992471303915,
+    "trust_ratio": -0.36650446656704166,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.95600007528696,
-    "three_inst_ratio_change_20": -1.4149174564370988
+    "three_inst_ratio": 16.94349553343296,
+    "three_inst_ratio_change_20": -1.4149174564370952
   },
   {
     "date": "2026-05-28",
@@ -1897,10 +1919,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 16.61,
-    "trust_ratio": 0.0939512400107287,
+    "trust_ratio": 0.08144669815672616,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.703951240010728,
-    "three_inst_ratio_change_20": -1.5966677217293679
+    "three_inst_ratio": 16.691446698156724,
+    "three_inst_ratio_change_20": -1.5966677217293714
   },
   {
     "date": "2026-05-29",
@@ -1908,10 +1930,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 15.95,
-    "trust_ratio": 0.682798869095006,
+    "trust_ratio": 0.6702943272410035,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.632798869095005,
-    "three_inst_ratio_change_20": 16.632798869095005
+    "three_inst_ratio": 16.620294327241,
+    "three_inst_ratio_change_20": 16.620294327241
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 15.76,
-    "trust_ratio": 1.4517514344669353,
+    "trust_ratio": 1.4392468926129327,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.211751434466937,
-    "three_inst_ratio_change_20": -1.078867527273161
+    "three_inst_ratio": 17.199246892612933,
+    "three_inst_ratio_change_20": -1.0788675272731645
   },
   {
     "date": "2026-06-02",
@@ -1930,9 +1952,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 15.31,
-    "trust_ratio": 2.197050985600534,
+    "trust_ratio": 2.1845464437465316,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.507050985600536,
+    "three_inst_ratio": 17.494546443746533,
     "three_inst_ratio_change_20": -0.7931879342559824
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 15.04,
-    "trust_ratio": 2.887888255143211,
+    "trust_ratio": 2.875383713289208,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.92788825514321,
+    "three_inst_ratio": 17.915383713289206,
     "three_inst_ratio_change_20": -0.41235066471331194
   },
   {
@@ -1952,10 +1974,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.8,
-    "trust_ratio": 3.6212131684310664,
+    "trust_ratio": 3.608708626577064,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.421213168431066,
-    "three_inst_ratio_change_20": 0.12751400608483365
+    "three_inst_ratio": 18.408708626577067,
+    "three_inst_ratio_change_20": 0.1275140060848372
   },
   {
     "date": "2026-06-05",
@@ -1963,9 +1985,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.74,
-    "trust_ratio": 3.620852652870537,
+    "trust_ratio": 3.608348111016534,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.360852652870538,
+    "three_inst_ratio": 18.348348111016534,
     "three_inst_ratio_change_20": 0.005228635087270561
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.5,
-    "trust_ratio": 3.6207564640870444,
+    "trust_ratio": 3.6082519222330425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.120756464087044,
+    "three_inst_ratio": 18.10825192223304,
     "three_inst_ratio_change_20": -0.20975483128725614
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.38,
-    "trust_ratio": 3.62069326805629,
+    "trust_ratio": 3.6081887262022874,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.000693268056292,
+    "three_inst_ratio": 17.98818872620229,
     "three_inst_ratio_change_20": -0.3361628535452965
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.34,
-    "trust_ratio": 3.6638935744983643,
+    "trust_ratio": 3.6513890326443614,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.003893574498363,
+    "three_inst_ratio": 17.99138903264436,
     "three_inst_ratio_change_20": -0.32296254710322714
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.26,
-    "trust_ratio": 3.710545134492143,
+    "trust_ratio": 3.69804059263814,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.97054513449214,
+    "three_inst_ratio": 17.95804059263814,
     "three_inst_ratio_change_20": -0.35554628628068485
   },
   {
@@ -2018,10 +2040,10 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.23,
-    "trust_ratio": 3.746934024608775,
+    "trust_ratio": 3.7344294827547726,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.976934024608774,
-    "three_inst_ratio_change_20": -0.3790612073805626
+    "three_inst_ratio": 17.964429482754774,
+    "three_inst_ratio_change_20": -0.37906120738055904
   },
   {
     "date": "2026-06-15",
@@ -2029,9 +2051,9 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.1,
-    "trust_ratio": 3.8209804387075192,
+    "trust_ratio": 3.8084758968535164,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.92098043870752,
+    "three_inst_ratio": 17.908475896853517,
     "three_inst_ratio_change_20": -0.435014793281816
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "統一超",
     "market": "TWSE",
     "foreign_ratio": 14.03,
-    "trust_ratio": 3.9267128809203875,
+    "trust_ratio": 3.914208339066385,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.956712880920385,
-    "three_inst_ratio_change_20": -0.4443876235604485
+    "three_inst_ratio": 17.944208339066385,
+    "three_inst_ratio_change_20": -0.4443876235604449
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2912",
+    "name": "統一超",
+    "market": "TWSE",
+    "foreign_ratio": 13.95,
+    "trust_ratio": 3.994512603041573,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.944512603041574,
+    "three_inst_ratio_change_20": -0.3349269880241259
   }
 ]

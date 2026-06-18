@@ -935,6 +935,17 @@
     "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
+    "date": "2026-02-27",
+    "code": "9912",
+    "name": "偉聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.59
+  },
+  {
     "date": "2026-03-02",
     "code": "9912",
     "name": "偉聯",
@@ -1031,7 +1042,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.66,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
     "date": "2026-03-13",
@@ -1097,7 +1108,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.67,
-    "three_inst_ratio_change_20": 0.08999999999999986
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-03-23",
@@ -1108,7 +1119,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.67,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-03-24",
@@ -1152,7 +1163,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.65,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 15.65
   },
   {
     "date": "2026-03-30",
@@ -1747,5 +1758,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.96,
     "three_inst_ratio_change_20": 0.1700000000000017
+  },
+  {
+    "date": "2026-06-17",
+    "code": "9912",
+    "name": "偉聯",
+    "market": "TWSE",
+    "foreign_ratio": 15.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.94,
+    "three_inst_ratio_change_20": 0.1399999999999988
   }
 ]

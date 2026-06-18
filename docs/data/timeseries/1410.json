@@ -1012,6 +1012,17 @@
     "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
+    "date": "2026-02-27",
+    "code": "1410",
+    "name": "南染",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.71
+  },
+  {
     "date": "2026-03-02",
     "code": "1410",
     "name": "南染",
@@ -1020,7 +1031,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.75,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.05000000000000071
   },
   {
     "date": "2026-03-03",
@@ -1064,7 +1075,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.73,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-03-09",
@@ -1097,7 +1108,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.68,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.019999999999999574
   },
   {
     "date": "2026-03-12",
@@ -1108,7 +1119,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.68,
-    "three_inst_ratio_change_20": -0.019999999999999574
+    "three_inst_ratio_change_20": -0.010000000000001563
   },
   {
     "date": "2026-03-13",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.67,
-    "three_inst_ratio_change_20": -0.019999999999999574
+    "three_inst_ratio_change_20": -0.029999999999997584
   },
   {
     "date": "2026-03-23",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.67,
-    "three_inst_ratio_change_20": -0.029999999999997584
+    "three_inst_ratio_change_20": -0.03999999999999915
   },
   {
     "date": "2026-03-24",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.66,
-    "three_inst_ratio_change_20": -0.05000000000000071
+    "three_inst_ratio_change_20": -0.05999999999999872
   },
   {
     "date": "2026-03-26",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.66,
-    "three_inst_ratio_change_20": -0.05999999999999872
+    "three_inst_ratio_change_20": -0.0799999999999983
   },
   {
     "date": "2026-03-27",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.66,
-    "three_inst_ratio_change_20": -0.0799999999999983
+    "three_inst_ratio_change_20": 18.66
   },
   {
     "date": "2026-03-30",
@@ -1824,5 +1835,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.89,
     "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-06-17",
+    "code": "1410",
+    "name": "南染",
+    "market": "TWSE",
+    "foreign_ratio": 18.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.86,
+    "three_inst_ratio_change_20": -0.07000000000000028
   }
 ]

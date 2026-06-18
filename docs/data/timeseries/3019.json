@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -6.888259239903686
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "3019",
     "name": "亞光",
     "market": "TWSE",
@@ -1177,6 +1177,17 @@
     "three_inst_ratio_change_20": -6.727901130023248
   },
   {
+    "date": "2026-02-18",
+    "code": "3019",
+    "name": "亞光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.983164471620814
+  },
+  {
     "date": "2026-02-23",
     "code": "3019",
     "name": "亞光",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.6551262152722899,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.34512621527229,
-    "three_inst_ratio_change_20": -0.6380382563485236
+    "three_inst_ratio_change_20": -0.4680382563485237
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.6551262152722899,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.81512621527229,
-    "three_inst_ratio_change_20": 0.0019617436514760556
+    "three_inst_ratio_change_20": -0.6479021745939582
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.6550331067033761,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.805033106703377,
-    "three_inst_ratio_change_20": -0.6579952831628715
+    "three_inst_ratio_change_20": -0.6179057556927621
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 0.6550331067033761,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.975033106703377,
-    "three_inst_ratio_change_20": -0.44790575569276214
+    "three_inst_ratio_change_20": -0.19371674373650816
+  },
+  {
+    "date": "2026-02-27",
+    "code": "3019",
+    "name": "亞光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.1963867620514295
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.72,
-    "trust_ratio": 0.6549865524189192,
+    "trust_ratio": 0.654850470664353,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.374986552418919,
-    "three_inst_ratio_change_20": 0.20623670197903454
+    "three_inst_ratio": 7.374850470664352,
+    "three_inst_ratio_change_20": -0.11140020963251107
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.28,
-    "trust_ratio": 0.6549399981344624,
+    "trust_ratio": 0.6548039163798962,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.934939998134462,
-    "three_inst_ratio_change_20": -0.2614467639169673
+    "three_inst_ratio": 6.934803916379897,
+    "three_inst_ratio_change_20": -1.9011781815066389
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.14,
-    "trust_ratio": 0.6549399981344624,
+    "trust_ratio": 0.6548039163798962,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.794939998134462,
-    "three_inst_ratio_change_20": -0.6913106821624018
+    "three_inst_ratio": 6.794803916379896,
+    "three_inst_ratio_change_20": -3.5610886540365296
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.89,
-    "trust_ratio": 0.6547609431942437,
+    "trust_ratio": 0.6546248614396775,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.544760943194244,
-    "three_inst_ratio_change_20": -2.291221154692292
+    "three_inst_ratio": 6.544624861439678,
+    "three_inst_ratio_change_20": -2.554215303595834
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.64,
-    "trust_ratio": 0.6547609431942437,
+    "trust_ratio": 0.6546248614396775,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.294760943194244,
-    "three_inst_ratio_change_20": -4.061131627222182
+    "three_inst_ratio": 6.294624861439678,
+    "three_inst_ratio_change_20": -1.1140792218412674
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.72,
-    "trust_ratio": 0.6547143889097868,
+    "trust_ratio": 0.6545783071552206,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.374714388909787,
-    "three_inst_ratio_change_20": -2.7241257761257245
+    "three_inst_ratio": 6.37457830715522,
+    "three_inst_ratio_change_20": -1.324125776125726
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.97,
-    "trust_ratio": 0.6547143889097868,
+    "trust_ratio": 0.6545783071552206,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.624714388909787,
-    "three_inst_ratio_change_20": -0.783989694371158
+    "three_inst_ratio": 6.62457830715522,
+    "three_inst_ratio_change_20": -0.423631584490721
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.97,
-    "trust_ratio": 0.6547143889097868,
+    "trust_ratio": 0.6545783071552206,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.624714388909787,
-    "three_inst_ratio_change_20": -1.0739896943711589
+    "three_inst_ratio": 6.62457830715522,
+    "three_inst_ratio_change_20": 0.026368415509278265
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.78,
-    "trust_ratio": 0.6368088948879138,
+    "trust_ratio": 0.6366728131333476,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.4168088948879145,
-    "three_inst_ratio_change_20": -0.6314009967580265
+    "three_inst_ratio": 6.4166728131333475,
+    "three_inst_ratio_change_20": 0.068552448957516
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.73,
-    "trust_ratio": 0.6009979068441678,
+    "trust_ratio": 0.6008618250896015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.330997906844168,
-    "three_inst_ratio_change_20": -0.267211984801774
+    "three_inst_ratio": 6.330861825089602,
+    "three_inst_ratio_change_20": 0.16573560981731195
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.67,
-    "trust_ratio": 0.6009979068441678,
+    "trust_ratio": 0.6008618250896015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.270997906844167,
-    "three_inst_ratio_change_20": -0.07712245733166423
+    "three_inst_ratio": 6.270861825089601,
+    "three_inst_ratio_change_20": -0.704264390182689
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.69,
-    "trust_ratio": 0.6009979068441678,
+    "trust_ratio": 0.6008618250896015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.290997906844169,
-    "three_inst_ratio_change_20": 0.12587169157187894
+    "three_inst_ratio": 6.290861825089602,
+    "three_inst_ratio_change_20": -0.19426439018268837
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.85,
-    "trust_ratio": 0.6009979068441678,
+    "trust_ratio": 0.6008618250896015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.450997906844167,
-    "three_inst_ratio_change_20": -1.5241283084281232
+    "three_inst_ratio": 5.450861825089601,
+    "three_inst_ratio_change_20": 5.450861825089601
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.58,
-    "trust_ratio": 0.6009979068441678,
+    "trust_ratio": 0.6008618250896015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.180997906844167,
-    "three_inst_ratio_change_20": -1.3041283084281226
+    "three_inst_ratio": 5.180861825089601,
+    "three_inst_ratio_change_20": 5.180861825089601
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.58,
-    "trust_ratio": 0.6021732234717635,
+    "trust_ratio": 0.6020371417171972,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.1821732234717635,
-    "three_inst_ratio_change_20": 5.1821732234717635
+    "three_inst_ratio": 5.182037141717197,
+    "three_inst_ratio_change_20": 5.182037141717197
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.71,
-    "trust_ratio": 0.6021732234717635,
+    "trust_ratio": 0.6020371417171972,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.312173223471763,
-    "three_inst_ratio_change_20": 5.312173223471763
+    "three_inst_ratio": 5.312037141717197,
+    "three_inst_ratio_change_20": -1.033089073555093
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.74,
-    "trust_ratio": 0.6021732234717635,
+    "trust_ratio": 0.6020371417171972,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.342173223471764,
-    "three_inst_ratio_change_20": -1.0029529918005267
+    "three_inst_ratio": 5.3420371417171975,
+    "three_inst_ratio_change_20": -1.4730890735550926
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.87,
-    "trust_ratio": 0.6021248786379044,
+    "trust_ratio": 0.6019887968833382,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.472124878637905,
-    "three_inst_ratio_change_20": -1.3430013366343854
+    "three_inst_ratio": 5.4719887968833385,
+    "three_inst_ratio_change_20": -1.3330443098200382
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.79,
-    "trust_ratio": 0.6020783243534475,
+    "trust_ratio": 0.6019422425988814,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.392078324353448,
-    "three_inst_ratio_change_20": -1.4129547823499289
+    "three_inst_ratio": 5.391942242598882,
+    "three_inst_ratio_change_20": -1.583090864104495
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.81,
-    "trust_ratio": 0.6019422425988814,
+    "trust_ratio": 0.601806160844315,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.411942242598881,
-    "three_inst_ratio_change_20": -1.5630908641044954
+    "three_inst_ratio": 5.411806160844314,
+    "three_inst_ratio_change_20": 5.411806160844314
   },
   {
     "date": "2026-03-30",
@@ -1446,10 +1468,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.79,
-    "trust_ratio": 0.6017237955718145,
+    "trust_ratio": 0.6015877138172482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.3917237955718145,
-    "three_inst_ratio_change_20": -1.9832627568471048
+    "three_inst_ratio": 5.391587713817248,
+    "three_inst_ratio_change_20": -1.983262756847104
   },
   {
     "date": "2026-03-31",
@@ -1457,10 +1479,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.83,
-    "trust_ratio": 0.601569450213346,
+    "trust_ratio": 0.6014333684587797,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.431569450213346,
-    "three_inst_ratio_change_20": -1.503370547921116
+    "three_inst_ratio": 5.43143336845878,
+    "three_inst_ratio_change_20": -1.5033705479211168
   },
   {
     "date": "2026-04-01",
@@ -1468,10 +1490,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.94,
-    "trust_ratio": 0.601569450213346,
+    "trust_ratio": 0.6014333684587797,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.541569450213347,
-    "three_inst_ratio_change_20": -1.253370547921115
+    "three_inst_ratio": 5.54143336845878,
+    "three_inst_ratio_change_20": -1.253370547921116
   },
   {
     "date": "2026-04-02",
@@ -1479,9 +1501,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.94,
-    "trust_ratio": 0.601569450213346,
+    "trust_ratio": 0.6014333684587797,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.541569450213347,
+    "three_inst_ratio": 5.54143336845878,
     "three_inst_ratio_change_20": -1.0031914929808972
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.01,
-    "trust_ratio": 0.6017485051535647,
+    "trust_ratio": 0.6016124233989983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.611748505153565,
+    "three_inst_ratio": 5.611612423398999,
     "three_inst_ratio_change_20": -0.683012438040679
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.19,
-    "trust_ratio": 0.6017485051535647,
+    "trust_ratio": 0.6016124233989983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.791748505153565,
+    "three_inst_ratio": 5.791612423398998,
     "three_inst_ratio_change_20": -0.5829658837562217
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.21,
-    "trust_ratio": 0.6017485051535647,
+    "trust_ratio": 0.6016124233989983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.811748505153565,
+    "three_inst_ratio": 5.811612423398998,
     "three_inst_ratio_change_20": -0.8129658837562221
   },
   {
@@ -1523,10 +1545,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.17,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.771353868065322,
-    "three_inst_ratio_change_20": -0.8533605208444648
+    "three_inst_ratio": 5.771217786310756,
+    "three_inst_ratio_change_20": -0.8533605208444639
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.09,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.691353868065322,
-    "three_inst_ratio_change_20": -0.7254550268225923
+    "three_inst_ratio": 5.691217786310756,
+    "three_inst_ratio_change_20": -0.7254550268225914
   },
   {
     "date": "2026-04-14",
@@ -1545,9 +1567,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.17,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.771353868065322,
+    "three_inst_ratio": 5.771217786310756,
     "three_inst_ratio_change_20": -0.5596440387788455
   },
   {
@@ -1556,9 +1578,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.75,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.351353868065322,
+    "three_inst_ratio": 5.351217786310756,
     "three_inst_ratio_change_20": -0.9196440387788449
   },
   {
@@ -1567,10 +1589,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.93,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.531353868065322,
-    "three_inst_ratio_change_20": -0.7596440387788466
+    "three_inst_ratio": 5.531217786310756,
+    "three_inst_ratio_change_20": -0.7596440387788457
   },
   {
     "date": "2026-04-17",
@@ -1578,9 +1600,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.97,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.571353868065322,
+    "three_inst_ratio": 5.571217786310756,
     "three_inst_ratio_change_20": 0.1203559612211551
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.09,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.691353868065322,
+    "three_inst_ratio": 5.691217786310756,
     "three_inst_ratio_change_20": 0.5103559612211548
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.13,
-    "trust_ratio": 0.6013538680653226,
+    "trust_ratio": 0.6012177863107563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.731353868065322,
+    "three_inst_ratio": 5.731217786310756,
     "three_inst_ratio_change_20": 0.5491806445935588
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.07,
-    "trust_ratio": 0.6012177863107563,
+    "trust_ratio": 0.6010817045561901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.6712177863107565,
+    "three_inst_ratio": 5.67108170455619,
     "three_inst_ratio_change_20": 0.3590445628389931
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.71,
-    "trust_ratio": 0.6012177863107563,
+    "trust_ratio": 0.6010817045561901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.311217786310756,
+    "three_inst_ratio": 5.31108170455619,
     "three_inst_ratio_change_20": -0.03095543716100746
   },
   {
@@ -1633,9 +1655,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.97,
-    "trust_ratio": 0.6012177863107563,
+    "trust_ratio": 0.6010817045561901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.571217786310756,
+    "three_inst_ratio": 5.57108170455619,
     "three_inst_ratio_change_20": 0.09909290767285128
   },
   {
@@ -1644,9 +1666,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.43,
-    "trust_ratio": 0.6012177863107563,
+    "trust_ratio": 0.6010817045561901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.031217786310756,
+    "three_inst_ratio": 5.03108170455619,
     "three_inst_ratio_change_20": -0.3608605380426919
   },
   {
@@ -1655,10 +1677,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.51,
-    "trust_ratio": 0.6012177863107563,
+    "trust_ratio": 0.6010817045561901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.111217786310756,
-    "three_inst_ratio_change_20": -0.3007244562881253
+    "three_inst_ratio": 5.11108170455619,
+    "three_inst_ratio_change_20": -0.3007244562881244
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.46,
-    "trust_ratio": 0.6010759747981032,
+    "trust_ratio": 0.6009398930435369,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.061075974798103,
+    "three_inst_ratio": 5.060939893043537,
     "three_inst_ratio_change_20": -0.33064782077371113
   },
   {
@@ -1677,10 +1699,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.47,
-    "trust_ratio": 0.6009982649540482,
+    "trust_ratio": 0.600862183199482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.0709982649540475,
-    "three_inst_ratio_change_20": -0.36057118525929877
+    "three_inst_ratio": 5.070862183199482,
+    "three_inst_ratio_change_20": -0.3605711852592979
   },
   {
     "date": "2026-05-01",
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.541569450213347
+    "three_inst_ratio_change_20": -5.54143336845878
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.66,
-    "trust_ratio": 0.6009982649540482,
+    "trust_ratio": 0.600862183199482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.260998264954049,
-    "three_inst_ratio_change_20": -0.2805711852592978
+    "three_inst_ratio": 5.260862183199482,
+    "three_inst_ratio_change_20": -0.2805711852592987
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.68,
-    "trust_ratio": 0.60089333875908,
+    "trust_ratio": 0.6007572570045138,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.28089333875908,
-    "three_inst_ratio_change_20": -0.33085516639448453
+    "three_inst_ratio": 5.280757257004513,
+    "three_inst_ratio_change_20": -0.3308551663944854
   },
   {
     "date": "2026-05-06",
@@ -1721,10 +1743,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 4.81,
-    "trust_ratio": 0.6008009464099271,
+    "trust_ratio": 0.600664864655361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.4108009464099265,
-    "three_inst_ratio_change_20": -0.38094755874363884
+    "three_inst_ratio": 5.41066486465536,
+    "three_inst_ratio_change_20": -0.38094755874363795
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1754,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.01,
-    "trust_ratio": 0.6007053310718503,
+    "trust_ratio": 0.6005692493172841,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.61070533107185,
-    "three_inst_ratio_change_20": -0.20104317408171468
+    "three_inst_ratio": 5.610569249317284,
+    "three_inst_ratio_change_20": -0.2010431740817138
   },
   {
     "date": "2026-05-08",
@@ -1743,9 +1765,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.09,
-    "trust_ratio": 0.6005273504612729,
+    "trust_ratio": 0.6003912687067067,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.690527350461273,
+    "three_inst_ratio": 5.690391268706707,
     "three_inst_ratio_change_20": -0.08082651760404946
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.46,
-    "trust_ratio": 0.600449640617218,
+    "trust_ratio": 0.6003135588626518,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.060449640617218,
+    "three_inst_ratio": 6.060313558862652,
     "three_inst_ratio_change_20": 0.36909577255189596
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.32,
-    "trust_ratio": 0.6002738086659233,
+    "trust_ratio": 0.6001377269113569,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.9202738086659235,
+    "three_inst_ratio": 5.920137726911357,
     "three_inst_ratio_change_20": 0.1489199406006012
   },
   {
@@ -1776,9 +1798,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.31,
-    "trust_ratio": 0.6002738086659233,
+    "trust_ratio": 0.6001377269113569,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.910273808665923,
+    "three_inst_ratio": 5.910137726911357,
     "three_inst_ratio_change_20": 0.5589199406006005
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.04,
-    "trust_ratio": 0.6002738086659233,
+    "trust_ratio": 0.6001377269113569,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.640273808665923,
+    "three_inst_ratio": 6.640137726911357,
     "three_inst_ratio_change_20": 1.1089199406006012
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.47,
-    "trust_ratio": 0.6002738086659233,
+    "trust_ratio": 0.6001377269113569,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.070273808665923,
+    "three_inst_ratio": 6.070137726911357,
     "three_inst_ratio_change_20": 0.49891994060060085
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.65,
-    "trust_ratio": 0.6002738086659233,
+    "trust_ratio": 0.6001377269113569,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.2502738086659235,
+    "three_inst_ratio": 6.250137726911357,
     "three_inst_ratio_change_20": 0.5589199406006014
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.63,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.229341290537264,
+    "three_inst_ratio": 6.229205208782698,
     "three_inst_ratio_change_20": 0.49798742247194205
   },
   {
@@ -1831,10 +1853,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.66,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.2593412905372645,
-    "three_inst_ratio_change_20": 0.588123504226508
+    "three_inst_ratio": 6.2592052087826975,
+    "three_inst_ratio_change_20": 0.5881235042265072
   },
   {
     "date": "2026-05-21",
@@ -1842,9 +1864,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.36,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.959341290537265,
+    "three_inst_ratio": 5.9592052087826985,
     "three_inst_ratio_change_20": 0.6481235042265086
   },
   {
@@ -1853,10 +1875,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.77,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.369341290537264,
-    "three_inst_ratio_change_20": 1.798123504226508
+    "three_inst_ratio": 7.369205208782697,
+    "three_inst_ratio_change_20": 1.7981235042265071
   },
   {
     "date": "2026-05-25",
@@ -1864,10 +1886,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 7.65,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.249341290537265,
-    "three_inst_ratio_change_20": 3.218123504226509
+    "three_inst_ratio": 8.249205208782698,
+    "three_inst_ratio_change_20": 3.218123504226508
   },
   {
     "date": "2026-05-26",
@@ -1875,10 +1897,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 7.52,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.119341290537264,
-    "three_inst_ratio_change_20": 3.008123504226508
+    "three_inst_ratio": 8.119205208782697,
+    "three_inst_ratio_change_20": 3.008123504226507
   },
   {
     "date": "2026-05-27",
@@ -1886,10 +1908,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 7.4,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.999341290537265,
-    "three_inst_ratio_change_20": 2.9382653157391614
+    "three_inst_ratio": 7.999205208782698,
+    "three_inst_ratio_change_20": 2.9382653157391605
   },
   {
     "date": "2026-05-28",
@@ -1897,9 +1919,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 7.79,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.389341290537264,
+    "three_inst_ratio": 8.389205208782698,
     "three_inst_ratio_change_20": 3.318343025583216
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 7.64,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.239341290537263,
-    "three_inst_ratio_change_20": 8.239341290537263
+    "three_inst_ratio": 8.239205208782698,
+    "three_inst_ratio_change_20": 8.239205208782698
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 7.6,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.199341290537264,
+    "three_inst_ratio": 8.199205208782697,
     "three_inst_ratio_change_20": 2.9383430255832153
   },
   {
@@ -1930,10 +1952,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.95,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.5493412905372645,
-    "three_inst_ratio_change_20": 2.2684479517781844
+    "three_inst_ratio": 7.549205208782698,
+    "three_inst_ratio_change_20": 2.2684479517781853
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.9,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.499341290537265,
-    "three_inst_ratio_change_20": 2.0885403441273382
+    "three_inst_ratio": 7.499205208782698,
+    "three_inst_ratio_change_20": 2.0885403441273374
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.9,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.499341290537265,
-    "three_inst_ratio_change_20": 1.8886359594654145
+    "three_inst_ratio": 7.499205208782698,
+    "three_inst_ratio_change_20": 1.8886359594654136
   },
   {
     "date": "2026-06-05",
@@ -1963,9 +1985,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.05,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.649341290537264,
+    "three_inst_ratio": 6.649205208782698,
     "three_inst_ratio_change_20": 0.9588139400759914
   },
   {
@@ -1974,10 +1996,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.85,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.449341290537264,
-    "three_inst_ratio_change_20": 0.3888916499200459
+    "three_inst_ratio": 6.449205208782697,
+    "three_inst_ratio_change_20": 0.388891649920045
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.23,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.829341290537265,
-    "three_inst_ratio_change_20": 0.9090674818713413
+    "three_inst_ratio": 6.829205208782698,
+    "three_inst_ratio_change_20": 0.9090674818713405
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 6.51,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.109341290537264,
-    "three_inst_ratio_change_20": 1.1990674818713414
+    "three_inst_ratio": 7.109205208782697,
+    "three_inst_ratio_change_20": 1.1990674818713405
   },
   {
     "date": "2026-06-11",
@@ -2007,9 +2029,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.79,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.389341290537264,
+    "three_inst_ratio": 6.389205208782698,
     "three_inst_ratio_change_20": -0.2509325181286588
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 5.46,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.059341290537264,
+    "three_inst_ratio": 6.059205208782698,
     "three_inst_ratio_change_20": -0.010932518128658586
   },
   {
@@ -2029,10 +2051,10 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 7.81,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.409341290537263,
-    "three_inst_ratio_change_20": 2.1590674818713396
+    "three_inst_ratio": 8.409205208782698,
+    "three_inst_ratio_change_20": 2.1590674818713405
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "亞光",
     "market": "TWSE",
     "foreign_ratio": 8.9,
-    "trust_ratio": 0.599341290537264,
+    "trust_ratio": 0.5992052087826978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.499341290537265,
-    "three_inst_ratio_change_20": 3.2700000000000005
+    "three_inst_ratio": 9.499205208782698,
+    "three_inst_ratio_change_20": 3.2699999999999996
+  },
+  {
+    "date": "2026-06-17",
+    "code": "3019",
+    "name": "亞光",
+    "market": "TWSE",
+    "foreign_ratio": 7.46,
+    "trust_ratio": 0.5992052087826978,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.059205208782698,
+    "three_inst_ratio_change_20": 1.8000000000000007
   }
 ]

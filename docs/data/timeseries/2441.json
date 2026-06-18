@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -15.928316800200806
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2441",
     "name": "超豐",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -16.349351279289564
   },
   {
+    "date": "2026-02-18",
+    "code": "2441",
+    "name": "超豐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.1284114424194
+  },
+  {
     "date": "2026-02-23",
     "code": "2441",
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.11,
-    "trust_ratio": 3.913543048856634,
+    "trust_ratio": 3.934814186704874,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.023543048856634,
-    "three_inst_ratio_change_20": -1.1048683935627643
+    "three_inst_ratio": 15.044814186704873,
+    "three_inst_ratio_change_20": -1.0263963718217504
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.35,
-    "trust_ratio": 3.9260244603213037,
+    "trust_ratio": 3.9472955981695437,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.276024460321302,
-    "three_inst_ratio_change_20": -0.7951860982053205
+    "three_inst_ratio": 15.297295598169544,
+    "three_inst_ratio_change_20": 0.10012831377936493
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.48,
-    "trust_ratio": 3.939033255368988,
+    "trust_ratio": 3.9603043932172275,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.419033255368989,
-    "three_inst_ratio_change_20": 0.22186597097880956
+    "three_inst_ratio": 15.440304393217229,
+    "three_inst_ratio_change_20": 0.050250042242986126
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.79,
-    "trust_ratio": 3.937978488202959,
+    "trust_ratio": 3.959249626051199,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.727978488202957,
-    "three_inst_ratio_change_20": 0.3379241372287147
+    "three_inst_ratio": 15.7492496260512,
+    "three_inst_ratio_change_20": 0.20839745474767923
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2441",
+    "name": "超豐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.629790605969731
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.6,
-    "trust_ratio": 3.972961599209569,
+    "trust_ratio": 3.967863557907098,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.572961599209568,
-    "three_inst_ratio_change_20": 0.03210942790604854
+    "three_inst_ratio": 15.567863557907097,
+    "three_inst_ratio_change_20": -0.16702508936510618
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.74,
-    "trust_ratio": 3.97682907881834,
+    "trust_ratio": 3.9717310375158688,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.71682907881834,
-    "three_inst_ratio_change_20": 0.087038472848608
+    "three_inst_ratio": 15.711731037515868,
+    "three_inst_ratio_change_20": 1.5679919060542922
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.87,
-    "trust_ratio": 3.975774311652311,
+    "trust_ratio": 3.9706762703498404,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.84577431165231,
-    "three_inst_ratio_change_20": 0.11088566438010616
+    "three_inst_ratio": 15.840676270349839,
+    "three_inst_ratio_change_20": 1.6269371388882643
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.05,
-    "trust_ratio": 3.962238133021613,
+    "trust_ratio": 3.957140091719143,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.012238133021615,
-    "three_inst_ratio_change_20": 1.8684990015600391
+    "three_inst_ratio": 16.007140091719144,
+    "three_inst_ratio_change_20": 1.5535767547852402
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.09,
-    "trust_ratio": 3.9618865439662705,
+    "trust_ratio": 3.9567885026637994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.05188654396627,
-    "three_inst_ratio_change_20": 1.8381474125046946
+    "three_inst_ratio": 16.046788502663798,
+    "three_inst_ratio_change_20": 1.0795943448806042
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.05,
-    "trust_ratio": 3.9618865439662705,
+    "trust_ratio": 3.9567885026637994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.01188654396627,
-    "three_inst_ratio_change_20": 1.558323207032366
+    "three_inst_ratio": 16.0067885026638,
+    "three_inst_ratio_change_20": 1.2301893908631882
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.02,
-    "trust_ratio": 3.961534954910927,
+    "trust_ratio": 3.956436913608457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.981534954910927,
-    "three_inst_ratio_change_20": 1.0143407971277334
+    "three_inst_ratio": 15.976436913608456,
+    "three_inst_ratio_change_20": 1.2898378018078454
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.88,
-    "trust_ratio": 3.961534954910927,
+    "trust_ratio": 3.956436913608457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.841534954910928,
-    "three_inst_ratio_change_20": 1.0649358431103177
+    "three_inst_ratio": 15.836436913608457,
+    "three_inst_ratio_change_20": 1.4438202117124792
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.81,
-    "trust_ratio": 3.9073902403881347,
+    "trust_ratio": 3.902292199085664,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.717390240388134,
-    "three_inst_ratio_change_20": 1.0307911285875235
+    "three_inst_ratio": 15.712292199085665,
+    "three_inst_ratio_change_20": 1.240939836870167
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.67,
-    "trust_ratio": 3.9068628568051205,
+    "trust_ratio": 3.90176481550265,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.576862856805121,
-    "three_inst_ratio_change_20": 1.1842461549091432
+    "three_inst_ratio": 15.57176481550265,
+    "three_inst_ratio_change_20": 0.5704124532871511
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.67,
-    "trust_ratio": 3.9075660349158063,
+    "trust_ratio": 3.9024679936133357,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.577566034915806,
-    "three_inst_ratio_change_20": 1.1062136727003082
+    "three_inst_ratio": 15.572467993613335,
+    "three_inst_ratio_change_20": 0.7811156313978369
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.69,
-    "trust_ratio": 3.9073902403881347,
+    "trust_ratio": 3.902292199085664,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.597390240388133,
-    "three_inst_ratio_change_20": 0.5960378781726341
+    "three_inst_ratio": 15.592292199085664,
+    "three_inst_ratio_change_20": 0.8909398368701655
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.64,
-    "trust_ratio": 3.886998075178252,
+    "trust_ratio": 3.881900033875781,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.526998075178252,
-    "three_inst_ratio_change_20": 0.7356457129627536
+    "three_inst_ratio": 15.52190003387578,
+    "three_inst_ratio_change_20": 15.52190003387578
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.58,
-    "trust_ratio": 3.702589615650949,
+    "trust_ratio": 3.697491574348478,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.282589615650949,
-    "three_inst_ratio_change_20": 0.5812372534354502
+    "three_inst_ratio": 15.277491574348478,
+    "three_inst_ratio_change_20": 15.277491574348478
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.42,
-    "trust_ratio": 3.70275187399999,
+    "trust_ratio": 3.697653832697519,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.12275187399999,
-    "three_inst_ratio_change_20": 15.12275187399999
+    "three_inst_ratio": 15.117653832697519,
+    "three_inst_ratio_change_20": 15.117653832697519
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.45,
-    "trust_ratio": 3.7024002849446465,
+    "trust_ratio": 3.6973022436421763,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.152400284944646,
-    "three_inst_ratio_change_20": 15.152400284944646
+    "three_inst_ratio": 15.147302243642176,
+    "three_inst_ratio_change_20": 0.1024880569373039
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.43,
-    "trust_ratio": 3.7024002849446465,
+    "trust_ratio": 3.6973022436421763,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.132400284944646,
-    "three_inst_ratio_change_20": 0.10885723608801179
+    "three_inst_ratio": 15.127302243642177,
+    "three_inst_ratio_change_20": -0.1699933545273673
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.51,
-    "trust_ratio": 3.570701529210754,
+    "trust_ratio": 3.565603487908284,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.080701529210753,
-    "three_inst_ratio_change_20": -0.19532293111054955
+    "three_inst_ratio": 15.075603487908284,
+    "three_inst_ratio_change_20": -0.36470090530894517
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.75,
-    "trust_ratio": 3.570146545886896,
+    "trust_ratio": 3.565048504584425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.320146545886896,
-    "three_inst_ratio_change_20": -0.09888670948209288
+    "three_inst_ratio": 15.315048504584425,
+    "three_inst_ratio_change_20": -0.43420112146677425
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.62,
-    "trust_ratio": 3.4384764446610134,
+    "trust_ratio": 3.4333784033585433,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.058476444661013,
-    "three_inst_ratio_change_20": -0.6695020435419448
+    "three_inst_ratio": 15.053378403358543,
+    "three_inst_ratio_change_20": 15.053378403358543
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.55,
-    "trust_ratio": 3.438381691410599,
+    "trust_ratio": 3.4332836501081285,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.9883816914106,
+    "three_inst_ratio": 14.98328365010813,
     "three_inst_ratio_change_20": -0.5845799077989682
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.97,
-    "trust_ratio": 3.464126624193548,
+    "trust_ratio": 3.459028582891078,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.43412662419355,
+    "three_inst_ratio": 15.429028582891078,
     "three_inst_ratio_change_20": -0.2827024546247898
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.91,
-    "trust_ratio": 3.4551611032823066,
+    "trust_ratio": 3.4500630619798365,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.365161103282308,
+    "three_inst_ratio": 15.360063061979837,
     "three_inst_ratio_change_20": -0.4806132083700021
   },
   {
@@ -1479,10 +1501,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.87,
-    "trust_ratio": 3.457094843086692,
+    "trust_ratio": 3.451996801784222,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.327094843086691,
-    "three_inst_ratio_change_20": -0.6851432899349241
+    "three_inst_ratio": 15.321996801784222,
+    "three_inst_ratio_change_20": -0.6851432899349224
   },
   {
     "date": "2026-04-07",
@@ -1490,10 +1512,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.36,
-    "trust_ratio": 2.7319424164421493,
+    "trust_ratio": 2.7268443751396787,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.091942416442148,
-    "three_inst_ratio_change_20": -0.9599441275241212
+    "three_inst_ratio": 15.086844375139679,
+    "three_inst_ratio_change_20": -0.9599441275241194
   },
   {
     "date": "2026-04-08",
@@ -1501,9 +1523,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.45,
-    "trust_ratio": 1.8698460527415823,
+    "trust_ratio": 1.8647480114391115,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.319846052741582,
+    "three_inst_ratio": 15.31474801143911,
     "three_inst_ratio_change_20": -0.692040491224688
   },
   {
@@ -1512,10 +1534,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.15,
-    "trust_ratio": 1.8700218472692538,
+    "trust_ratio": 1.8649238059667832,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.020021847269254,
-    "three_inst_ratio_change_20": -0.9615131076416734
+    "three_inst_ratio": 15.014923805966784,
+    "three_inst_ratio_change_20": -0.9615131076416716
   },
   {
     "date": "2026-04-10",
@@ -1523,9 +1545,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.13,
-    "trust_ratio": 1.8708315568637082,
+    "trust_ratio": 1.8657335155612373,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.000831556863709,
+    "three_inst_ratio": 14.995733515561238,
     "three_inst_ratio_change_20": -0.8407033980472196
   },
   {
@@ -1534,10 +1556,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.33,
-    "trust_ratio": 1.7982284169354181,
+    "trust_ratio": 1.7931303756329473,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.128228416935418,
-    "three_inst_ratio_change_20": -0.5891618234527165
+    "three_inst_ratio": 15.123130375632947,
+    "three_inst_ratio_change_20": -0.5891618234527183
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.62,
-    "trust_ratio": 1.8274103085288713,
+    "trust_ratio": 1.8223122672264007,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.44741030852887,
-    "three_inst_ratio_change_20": -1.1294525482762516
+    "three_inst_ratio": 14.4423122672264,
+    "three_inst_ratio_change_20": -1.1294525482762499
   },
   {
     "date": "2026-04-15",
@@ -1556,9 +1578,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.71,
-    "trust_ratio": 1.825476568724486,
+    "trust_ratio": 1.8203785274220154,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.535476568724487,
+    "three_inst_ratio": 14.530378527422016,
     "three_inst_ratio_change_20": -1.0420894661913191
   },
   {
@@ -1567,10 +1589,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.6,
-    "trust_ratio": 1.825476568724486,
+    "trust_ratio": 1.8203785274220154,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.425476568724486,
-    "three_inst_ratio_change_20": -1.1719136716636473
+    "three_inst_ratio": 14.420378527422015,
+    "three_inst_ratio_change_20": -1.1719136716636491
   },
   {
     "date": "2026-04-17",
@@ -1578,9 +1600,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.62,
-    "trust_ratio": 1.846747706572726,
+    "trust_ratio": 1.8416496652702552,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.466747706572725,
+    "three_inst_ratio": 14.461649665270254,
     "three_inst_ratio_change_20": -1.0602503686055265
   },
   {
@@ -1589,10 +1611,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.12,
-    "trust_ratio": 1.810709828400088,
+    "trust_ratio": 1.8056117870976174,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.930709828400087,
-    "three_inst_ratio_change_20": -0.3518797872508621
+    "three_inst_ratio": 14.925611787097617,
+    "three_inst_ratio_change_20": -0.35187978725086033
   },
   {
     "date": "2026-04-21",
@@ -1600,9 +1622,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.09,
-    "trust_ratio": 1.8075455269020027,
+    "trust_ratio": 1.8024474855995318,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.897545526902002,
+    "three_inst_ratio": 14.892447485599531,
     "three_inst_ratio_change_20": -0.2252063470979877
   },
   {
@@ -1611,10 +1633,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.0,
-    "trust_ratio": 1.7161323725128723,
+    "trust_ratio": 1.7110343312104017,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.716132372512872,
-    "three_inst_ratio_change_20": -0.43626791243177365
+    "three_inst_ratio": 14.711034331210401,
+    "three_inst_ratio_change_20": -0.43626791243177543
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.11,
-    "trust_ratio": 1.6830830013106484,
+    "trust_ratio": 1.6779849600081775,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.793083001310649,
-    "three_inst_ratio_change_20": -0.3393172836339975
+    "three_inst_ratio": 14.787984960008178,
+    "three_inst_ratio_change_20": -0.33931728363399927
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.16,
-    "trust_ratio": 1.6827314122553056,
+    "trust_ratio": 1.677633370952835,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.842731412255306,
-    "three_inst_ratio_change_20": -0.2379701169554469
+    "three_inst_ratio": 14.837633370952835,
+    "three_inst_ratio_change_20": -0.23797011695544867
   },
   {
     "date": "2026-04-27",
@@ -1644,9 +1666,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.16,
-    "trust_ratio": 1.681149261506263,
+    "trust_ratio": 1.6760512202037923,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.841149261506263,
+    "three_inst_ratio": 14.836051220203792,
     "three_inst_ratio_change_20": -0.4789972843806325
   },
   {
@@ -1655,10 +1677,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.26,
-    "trust_ratio": 1.681149261506263,
+    "trust_ratio": 1.6760512202037923,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.941149261506263,
-    "three_inst_ratio_change_20": -0.11732718315474955
+    "three_inst_ratio": 14.936051220203792,
+    "three_inst_ratio_change_20": -0.11732718315475132
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.1,
-    "trust_ratio": 1.681149261506263,
+    "trust_ratio": 1.6760512202037923,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.781149261506263,
+    "three_inst_ratio": 14.776051220203792,
     "three_inst_ratio_change_20": -0.20723242990433732
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.34,
-    "trust_ratio": 1.6458145614443107,
+    "trust_ratio": 1.64071652014184,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.985814561444311,
+    "three_inst_ratio": 13.98071652014184,
     "three_inst_ratio_change_20": -1.4483120627492383
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -15.365161103282308
+    "three_inst_ratio_change_20": -15.360063061979837
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.86,
-    "trust_ratio": 1.5909666688108326,
+    "trust_ratio": 1.585868627508362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.450966668810832,
-    "three_inst_ratio_change_20": 0.1238718257241409
+    "three_inst_ratio": 15.44586862750836,
+    "three_inst_ratio_change_20": 0.12387182572413913
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 14.15,
-    "trust_ratio": 1.574617777737392,
+    "trust_ratio": 1.5695197364349212,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.724617777737393,
-    "three_inst_ratio_change_20": 0.6326753612952452
+    "three_inst_ratio": 15.719519736434922,
+    "three_inst_ratio_change_20": 0.6326753612952434
   },
   {
     "date": "2026-05-06",
@@ -1721,9 +1743,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.88,
-    "trust_ratio": 1.4798645273225048,
+    "trust_ratio": 1.4747664860200342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.359864527322506,
+    "three_inst_ratio": 15.354766486020035,
     "three_inst_ratio_change_20": 0.04001847458092378
   },
   {
@@ -1732,10 +1754,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.84,
-    "trust_ratio": 1.4629882526660503,
+    "trust_ratio": 1.4578902113635794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.30298825266605,
-    "three_inst_ratio_change_20": 0.28296640539679707
+    "three_inst_ratio": 15.29789021136358,
+    "three_inst_ratio_change_20": 0.2829664053967953
   },
   {
     "date": "2026-05-08",
@@ -1743,9 +1765,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.43,
-    "trust_ratio": 1.4587691840019366,
+    "trust_ratio": 1.4536711426994657,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.888769184001937,
+    "three_inst_ratio": 14.883671142699466,
     "three_inst_ratio_change_20": -0.11206237286177156
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.48,
-    "trust_ratio": 1.4601755402233076,
+    "trust_ratio": 1.4550774989208368,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.940175540223308,
+    "three_inst_ratio": 14.935077498920837,
     "three_inst_ratio_change_20": -0.1880528767121099
   },
   {
@@ -1765,10 +1787,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 13.54,
-    "trust_ratio": 1.43169682674054,
+    "trust_ratio": 1.4265987854380693,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.971696826740539,
-    "three_inst_ratio_change_20": 0.5242865182116692
+    "three_inst_ratio": 14.966598785438068,
+    "three_inst_ratio_change_20": 0.5242865182116674
   },
   {
     "date": "2026-05-13",
@@ -1776,9 +1798,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.7,
-    "trust_ratio": 1.3844080987969325,
+    "trust_ratio": 1.3793100574944617,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.084408098796931,
+    "three_inst_ratio": 14.07931005749446,
     "three_inst_ratio_change_20": -0.4510684699275558
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.48,
-    "trust_ratio": 1.320770479779884,
+    "trust_ratio": 1.3156724384774132,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.800770479779885,
+    "three_inst_ratio": 13.795672438477414,
     "three_inst_ratio_change_20": -0.6247060889446008
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.46,
-    "trust_ratio": 1.2836778344412179,
+    "trust_ratio": 1.278579793138747,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.743677834441218,
+    "three_inst_ratio": 13.738579793138747,
     "three_inst_ratio_change_20": -0.7230698721315072
   },
   {
@@ -1809,10 +1831,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 12.04,
-    "trust_ratio": 1.283326245385875,
+    "trust_ratio": 1.278228204083404,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.323326245385875,
-    "three_inst_ratio_change_20": -1.6073835830142116
+    "three_inst_ratio": 13.318228204083404,
+    "three_inst_ratio_change_20": -1.6073835830142134
   },
   {
     "date": "2026-05-19",
@@ -1820,10 +1842,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.18,
-    "trust_ratio": 1.2205675990071834,
+    "trust_ratio": 1.2154695577047128,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.400567599007182,
-    "three_inst_ratio_change_20": -2.49697792789482
+    "three_inst_ratio": 12.395469557704713,
+    "three_inst_ratio_change_20": -2.496977927894818
   },
   {
     "date": "2026-05-20",
@@ -1831,9 +1853,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.94,
-    "trust_ratio": 1.2138874069556702,
+    "trust_ratio": 1.2087893656531994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.15388740695567,
+    "three_inst_ratio": 12.1487893656532,
     "three_inst_ratio_change_20": -2.562244965557202
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.12,
-    "trust_ratio": 1.2070314203764854,
+    "trust_ratio": 1.2019333790740148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.327031420376485,
+    "three_inst_ratio": 12.321933379074014,
     "three_inst_ratio_change_20": -2.466051580934163
   },
   {
@@ -1853,10 +1875,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.62,
-    "trust_ratio": 1.2038671188784,
+    "trust_ratio": 1.1987690775759294,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.823867118878399,
-    "three_inst_ratio_change_20": -2.0188642933769074
+    "three_inst_ratio": 12.81876907757593,
+    "three_inst_ratio_change_20": -2.0188642933769056
   },
   {
     "date": "2026-05-25",
@@ -1864,9 +1886,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.56,
-    "trust_ratio": 1.2019333790740148,
+    "trust_ratio": 1.196835337771544,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.761933379074016,
+    "three_inst_ratio": 12.756835337771545,
     "three_inst_ratio_change_20": -2.0792158824322478
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.96,
-    "trust_ratio": 1.2935223279908163,
+    "trust_ratio": 1.2884242866883455,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.253522327990817,
+    "three_inst_ratio": 12.248424286688346,
     "three_inst_ratio_change_20": -2.687626933515446
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.96,
-    "trust_ratio": 1.2965108349612302,
+    "trust_ratio": 1.2914127936587594,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.256510834961231,
+    "three_inst_ratio": 12.25141279365876,
     "three_inst_ratio_change_20": -2.5246384265450317
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 11.01,
-    "trust_ratio": 1.2945770951568447,
+    "trust_ratio": 1.2894790538543741,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.304577095156844,
+    "three_inst_ratio": 12.299479053854373,
     "three_inst_ratio_change_20": -1.6812374662874667
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.31,
-    "trust_ratio": 1.2926433553524594,
+    "trust_ratio": 1.2875453140499886,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.602643355352459,
-    "three_inst_ratio_change_20": 11.602643355352459
+    "three_inst_ratio": 11.59754531404999,
+    "three_inst_ratio_change_20": 11.59754531404999
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 9.97,
-    "trust_ratio": 1.3640159335870494,
+    "trust_ratio": 1.3589178922845788,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.33401593358705,
+    "three_inst_ratio": 11.32891789228458,
     "three_inst_ratio_change_20": -4.1169507352237815
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.18,
-    "trust_ratio": 1.4023391406194157,
+    "trust_ratio": 1.3972410993169448,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.582339140619416,
+    "three_inst_ratio": 11.577241099316945,
     "three_inst_ratio_change_20": -4.142278637117977
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.15,
-    "trust_ratio": 1.3882755784057033,
+    "trust_ratio": 1.3831775371032327,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.538275578405704,
+    "three_inst_ratio": 11.533177537103233,
     "three_inst_ratio_change_20": -3.8215889489168013
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.13,
-    "trust_ratio": 1.3756183724133622,
+    "trust_ratio": 1.3705203311108913,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.505618372413362,
+    "three_inst_ratio": 11.500520331110891,
     "three_inst_ratio_change_20": -3.7973698802526883
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.16,
-    "trust_ratio": 1.3118049588686425,
+    "trust_ratio": 1.3067069175661716,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.471804958868642,
+    "three_inst_ratio": 11.46670691756617,
     "three_inst_ratio_change_20": -3.4169642251332952
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 10.16,
-    "trust_ratio": 1.3109259862302853,
+    "trust_ratio": 1.3058279449278147,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.470925986230286,
+    "three_inst_ratio": 11.465827944927815,
     "three_inst_ratio_change_20": -3.4692495539930217
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 9.68,
-    "trust_ratio": 1.2522106139880362,
+    "trust_ratio": 1.2471125726855654,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.932210613988037,
+    "three_inst_ratio": 10.927112572685566,
     "three_inst_ratio_change_20": -4.039486212752502
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 9.36,
-    "trust_ratio": 1.3238859103992766,
+    "trust_ratio": 1.3187878690968058,
     "dealer_ratio": -0.032170398563867,
-    "three_inst_ratio": 10.651715511835409,
+    "three_inst_ratio": 10.646617470532938,
     "three_inst_ratio_change_20": -3.4326925869615224
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 1.3238859103992766,
+    "trust_ratio": 1.3187878690968058,
     "dealer_ratio": -0.032170398563867,
-    "three_inst_ratio": 10.731715511835409,
+    "three_inst_ratio": 10.726617470532938,
     "three_inst_ratio_change_20": -3.069054967944476
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 9.66,
-    "trust_ratio": 1.1700656986867979,
+    "trust_ratio": 1.164967657384327,
     "dealer_ratio": -0.032170398563867,
-    "three_inst_ratio": 10.797895300122931,
+    "three_inst_ratio": 10.79279725882046,
     "three_inst_ratio_change_20": -2.945782534318287
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 9.34,
-    "trust_ratio": 1.11152612097222,
+    "trust_ratio": 1.1064280796697494,
     "dealer_ratio": -0.032170398563867,
-    "three_inst_ratio": 10.419355722408353,
+    "three_inst_ratio": 10.414257681105882,
     "three_inst_ratio_change_20": -2.903970522977522
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "超豐",
     "market": "TWSE",
     "foreign_ratio": 9.27,
-    "trust_ratio": 0.7866578338354648,
+    "trust_ratio": 0.7815597925329941,
     "dealer_ratio": -0.032170398563867,
-    "three_inst_ratio": 10.024487435271597,
-    "three_inst_ratio_change_20": -2.376080163735585
+    "three_inst_ratio": 10.019389393969126,
+    "three_inst_ratio_change_20": -2.376080163735587
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2441",
+    "name": "超豐",
+    "market": "TWSE",
+    "foreign_ratio": 9.53,
+    "trust_ratio": 0.48235750643626396,
+    "dealer_ratio": -0.032170398563867,
+    "three_inst_ratio": 9.980187107872396,
+    "three_inst_ratio_change_20": -2.168602257780803
   }
 ]

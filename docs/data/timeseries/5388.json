@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -19.128482739889808
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "5388",
     "name": "中磊",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -19.22318562713117
   },
   {
+    "date": "2026-02-18",
+    "code": "5388",
+    "name": "中磊",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.35236513525025
+  },
+  {
     "date": "2026-02-23",
     "code": "5388",
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 17.6,
-    "trust_ratio": -0.7250202445137702,
+    "trust_ratio": -0.6434703415418448,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.87497975548623,
-    "three_inst_ratio_change_20": -2.4773853797640193
+    "three_inst_ratio": 16.956529658458155,
+    "three_inst_ratio_change_20": -2.018300900981302
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 17.1,
-    "trust_ratio": -0.7250202445137702,
+    "trust_ratio": -0.6434703415418448,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.37497975548623,
-    "three_inst_ratio_change_20": -2.5998508039532275
+    "three_inst_ratio": 16.456529658458155,
+    "three_inst_ratio_change_20": -2.526665212437731
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.87,
-    "trust_ratio": -0.7265021227506315,
+    "trust_ratio": -0.644952219778706,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.14349787724937,
-    "three_inst_ratio_change_20": -2.839696993646516
+    "three_inst_ratio": 16.225047780221296,
+    "three_inst_ratio_change_20": -2.538147090674588
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.8,
-    "trust_ratio": -0.7270080650058043,
+    "trust_ratio": -0.6454581620338788,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.072991934994196,
-    "three_inst_ratio_change_20": -2.690202935901688
+    "three_inst_ratio": 16.15454183796612,
+    "three_inst_ratio_change_20": -2.8520884321688946
+  },
+  {
+    "date": "2026-02-27",
+    "code": "5388",
+    "name": "中磊",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.143288675519134
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.85,
-    "trust_ratio": -0.727580245753595,
+    "trust_ratio": -0.6460303427816696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.122419754246405,
-    "three_inst_ratio_change_20": -2.8842105158886113
+    "three_inst_ratio": 16.20396965721833,
+    "three_inst_ratio_change_20": -1.6953533325294643
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.54,
-    "trust_ratio": -0.727580245753595,
+    "trust_ratio": -0.6460303427816696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.812419754246404,
-    "three_inst_ratio_change_20": -2.33086892127273
+    "three_inst_ratio": 15.89396965721833,
+    "three_inst_ratio_change_20": -1.9493905062771777
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.92,
-    "trust_ratio": -0.7279131025004192,
+    "trust_ratio": -0.6463631995284937,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.19208689749958,
-    "three_inst_ratio_change_20": -2.7072360922482144
+    "three_inst_ratio": 15.273636800471506,
+    "three_inst_ratio_change_20": -2.519723363024001
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.96,
-    "trust_ratio": -0.7279131025004192,
+    "trust_ratio": -0.6463631995284937,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.232086897499581,
-    "three_inst_ratio_change_20": -2.6112732659959264
+    "three_inst_ratio": 15.313636800471507,
+    "three_inst_ratio_change_20": -2.2788166612456493
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.93,
-    "trust_ratio": -0.7279131025004192,
+    "trust_ratio": -0.6463631995284937,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.20208689749958,
-    "three_inst_ratio_change_20": -2.5912732659959268
+    "three_inst_ratio": 15.283636800471506,
+    "three_inst_ratio_change_20": -1.208816661245649
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.9,
-    "trust_ratio": -0.7279131025004192,
+    "trust_ratio": -0.6463631995284937,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.17208689749958,
-    "three_inst_ratio_change_20": -2.4203665642175753
+    "three_inst_ratio": 15.253636800471506,
+    "three_inst_ratio_change_20": -1.4488166612456492
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.02,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.29151571532203,
-    "three_inst_ratio_change_20": -1.200937746395125
+    "three_inst_ratio": 15.373065618293955,
+    "three_inst_ratio_change_20": -1.8693878434231994
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.98,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.25151571532203,
-    "three_inst_ratio_change_20": -1.450937746395125
+    "three_inst_ratio": 15.333065618293956,
+    "three_inst_ratio_change_20": -1.2488143312484201
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.92,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.19151571532203,
-    "three_inst_ratio_change_20": -2.0509377463951246
+    "three_inst_ratio": 15.273065618293955,
+    "three_inst_ratio_change_20": -1.16881433124842
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.64,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.91151571532203,
-    "three_inst_ratio_change_20": -1.6703642342203455
+    "three_inst_ratio": 14.993065618293956,
+    "three_inst_ratio_change_20": -1.4688143312484225
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.7,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.97151571532203,
-    "three_inst_ratio_change_20": -1.4703642342203462
+    "three_inst_ratio": 15.053065618293955,
+    "three_inst_ratio_change_20": -1.1388143312484207
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.78,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.05151571532203,
-    "three_inst_ratio_change_20": -1.4103642342203493
+    "three_inst_ratio": 15.133065618293955,
+    "three_inst_ratio_change_20": -1.2388143312484239
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.53,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.80151571532203,
-    "three_inst_ratio_change_20": -1.3903642342203462
+    "three_inst_ratio": 14.883065618293955,
+    "three_inst_ratio_change_20": 14.883065618293955
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.68,
-    "trust_ratio": -0.7284842846779696,
+    "trust_ratio": -0.6469343817060441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.95151571532203,
-    "three_inst_ratio_change_20": -1.420364234220349
+    "three_inst_ratio": 15.033065618293955,
+    "three_inst_ratio_change_20": 15.033065618293955
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.59,
-    "trust_ratio": -0.7287342600948344,
+    "trust_ratio": -0.6471843571229091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.861265739905166,
-    "three_inst_ratio_change_20": 14.861265739905166
+    "three_inst_ratio": 14.942815642877092,
+    "three_inst_ratio_change_20": 14.942815642877092
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.29,
-    "trust_ratio": -0.7287342600948344,
+    "trust_ratio": -0.6471843571229091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.561265739905165,
-    "three_inst_ratio_change_20": 14.561265739905165
+    "three_inst_ratio": 14.64281564287709,
+    "three_inst_ratio_change_20": -2.3137140155810645
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.04,
-    "trust_ratio": -0.7287342600948344,
+    "trust_ratio": -0.6471843571229091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.311265739905165,
-    "three_inst_ratio_change_20": -2.5637140155810645
+    "three_inst_ratio": 14.39281564287709,
+    "three_inst_ratio_change_20": -2.0637140155810645
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.02,
-    "trust_ratio": -0.7287462429377202,
+    "trust_ratio": -0.6471963399657947,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.291253757062279,
-    "three_inst_ratio_change_20": -2.083725998423951
+    "three_inst_ratio": 14.372803660034204,
+    "three_inst_ratio_change_20": -1.8522441201870912
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.56,
-    "trust_ratio": -0.728757892923859,
+    "trust_ratio": -0.6472079899519335,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.831242107076141,
-    "three_inst_ratio_change_20": -2.3122557701732287
+    "three_inst_ratio": 13.912792010048067,
+    "three_inst_ratio_change_20": -2.2417498279180545
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.7,
-    "trust_ratio": -0.7293260793906878,
+    "trust_ratio": -0.6477761764187624,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.970673920609311,
-    "three_inst_ratio_change_20": -2.1023180143848847
+    "three_inst_ratio": 14.052223823581237,
+    "three_inst_ratio_change_20": 14.052223823581237
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.56,
-    "trust_ratio": -0.7293260793906878,
+    "trust_ratio": -0.6477761764187624,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.830673920609312,
+    "three_inst_ratio": 13.912223823581238,
     "three_inst_ratio_change_20": -2.2917458336370924
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.0,
-    "trust_ratio": -0.7293260793906878,
+    "trust_ratio": -0.6477761764187624,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.270673920609312,
+    "three_inst_ratio": 13.352223823581237,
     "three_inst_ratio_change_20": -2.5417458336370924
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 13.62,
-    "trust_ratio": -0.25933235287493794,
+    "trust_ratio": -0.17778244990301253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.36066764712506,
+    "three_inst_ratio": 13.442217550096986,
     "three_inst_ratio_change_20": -1.8314192503745197
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 13.9,
-    "trust_ratio": -0.25933235287493794,
+    "trust_ratio": -0.17778244990301253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.640667647125062,
+    "three_inst_ratio": 13.722217550096987,
     "three_inst_ratio_change_20": -1.5914192503745195
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 13.31,
-    "trust_ratio": -0.25933235287493794,
+    "trust_ratio": -0.17778244990301253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.050667647125062,
+    "three_inst_ratio": 13.132217550096987,
     "three_inst_ratio_change_20": -2.151419250374518
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 13.38,
-    "trust_ratio": -0.25933235287493794,
+    "trust_ratio": -0.17778244990301253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.120667647125062,
+    "three_inst_ratio": 13.202217550096988,
     "three_inst_ratio_change_20": -2.0514192503745186
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.02,
-    "trust_ratio": -0.25933235287493794,
+    "trust_ratio": -0.17778244990301253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.76066764712506,
+    "three_inst_ratio": 14.842217550096986,
     "three_inst_ratio_change_20": -0.5308480681969687
   },
   {
@@ -1523,9 +1545,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.6,
-    "trust_ratio": -0.2589994961281138,
+    "trust_ratio": -0.17744959315618836,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.341000503871886,
+    "three_inst_ratio": 14.422550406843811,
     "three_inst_ratio_change_20": -0.9105152114501447
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.61,
-    "trust_ratio": -0.1970881412188153,
+    "trust_ratio": -0.11553823824688986,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.412911858781184,
+    "three_inst_ratio": 14.49446176175311,
     "three_inst_ratio_change_20": -0.7786038565408457
   },
   {
@@ -1545,9 +1567,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 13.9,
-    "trust_ratio": -0.1970881412188153,
+    "trust_ratio": -0.11553823824688986,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.702911858781185,
+    "three_inst_ratio": 13.78446176175311,
     "three_inst_ratio_change_20": -1.2086038565408455
   },
   {
@@ -1556,9 +1578,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.11,
-    "trust_ratio": -0.2636594905836524,
+    "trust_ratio": -0.18210958761172694,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.846340509416347,
+    "three_inst_ratio": 13.927890412388273,
     "three_inst_ratio_change_20": -1.1251752059056823
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.46,
-    "trust_ratio": -0.2639923473304766,
+    "trust_ratio": -0.18244244435855111,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.196007652669524,
+    "three_inst_ratio": 14.27755755564145,
     "three_inst_ratio_change_20": -0.8555080626525058
   },
   {
@@ -1578,9 +1600,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.43,
-    "trust_ratio": -0.18244244435855111,
+    "trust_ratio": -0.10089254138662569,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.247557555641448,
+    "three_inst_ratio": 14.329107458613374,
     "three_inst_ratio_change_20": -0.5539581596805814
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.69,
-    "trust_ratio": -0.18263916269592423,
+    "trust_ratio": -0.10108925972399876,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.507360837304075,
+    "three_inst_ratio": 14.588910740276,
     "three_inst_ratio_change_20": -0.4441548780179545
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.04,
-    "trust_ratio": -0.3530618170699072,
+    "trust_ratio": -0.27151191409798175,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.686938182930092,
+    "three_inst_ratio": 14.768488085902018,
     "three_inst_ratio_change_20": -0.17432755697507396
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.3,
-    "trust_ratio": -0.3530618170699072,
+    "trust_ratio": -0.27151191409798175,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.946938182930094,
+    "three_inst_ratio": 15.02848808590202,
     "three_inst_ratio_change_20": 0.3856724430249283
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.94,
-    "trust_ratio": -0.3530618170699072,
+    "trust_ratio": -0.27151191409798175,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.586938182930092,
+    "three_inst_ratio": 14.668488085902018,
     "three_inst_ratio_change_20": 0.2756724430249271
   },
   {
@@ -1633,9 +1655,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 14.72,
-    "trust_ratio": -0.541125879025572,
+    "trust_ratio": -0.4595759760536466,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.17887412097443,
+    "three_inst_ratio": 14.260424023946355,
     "three_inst_ratio_change_20": -0.11237963608784973
   },
   {
@@ -1644,9 +1666,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.12,
-    "trust_ratio": -0.7015628309948294,
+    "trust_ratio": -0.6200129280229039,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.41843716900517,
+    "three_inst_ratio": 14.499987071977095,
     "three_inst_ratio_change_20": 0.5871950619290285
   },
   {
@@ -1655,9 +1677,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.18,
-    "trust_ratio": -0.9135925787218356,
+    "trust_ratio": -0.8320426757499101,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.266407421278164,
+    "three_inst_ratio": 14.347957324250089,
     "three_inst_ratio_change_20": 0.2957335006688524
   },
   {
@@ -1666,9 +1688,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.21,
-    "trust_ratio": -1.1519180094479524,
+    "trust_ratio": -1.0703681064760269,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.058081990552049,
+    "three_inst_ratio": 14.139631893523974,
     "three_inst_ratio_change_20": 0.22740806994273655
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.06,
-    "trust_ratio": -1.1519180094479524,
+    "trust_ratio": -1.0703681064760269,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.908081990552049,
+    "three_inst_ratio": 13.989631893523974,
     "three_inst_ratio_change_20": 0.6374080699427367
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -13.36066764712506
+    "three_inst_ratio_change_20": -13.442217550096986
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.2,
-    "trust_ratio": -1.1522508661947766,
+    "trust_ratio": -1.070700963222851,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.047749133805222,
+    "three_inst_ratio": 14.129299036777148,
     "three_inst_ratio_change_20": 0.40708148668016086
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.65,
-    "trust_ratio": -1.1522508661947766,
+    "trust_ratio": -1.070700963222851,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.497749133805224,
+    "three_inst_ratio": 14.57929903677715,
     "three_inst_ratio_change_20": 1.4470814866801618
   },
   {
@@ -1721,9 +1743,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 15.6,
-    "trust_ratio": -1.1522508661947766,
+    "trust_ratio": -1.070700963222851,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.447749133805223,
+    "three_inst_ratio": 14.529299036777148,
     "three_inst_ratio_change_20": 1.3270814866801608
   },
   {
@@ -1732,9 +1754,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.47,
-    "trust_ratio": -1.1522508661947766,
+    "trust_ratio": -1.070700963222851,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.317749133805222,
+    "three_inst_ratio": 15.399299036777148,
     "three_inst_ratio_change_20": 0.5570814866801612
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.19,
-    "trust_ratio": -1.1522508661947766,
+    "trust_ratio": -1.070700963222851,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.037749133805224,
+    "three_inst_ratio": 18.11929903677715,
     "three_inst_ratio_change_20": 3.6967486299333387
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.73,
-    "trust_ratio": -1.1688937035359857,
+    "trust_ratio": -1.0873438005640603,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.561106296464015,
+    "three_inst_ratio": 18.64265619943594,
     "three_inst_ratio_change_20": 4.148194437682831
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 20.13,
-    "trust_ratio": -1.2308050584452843,
+    "trust_ratio": -1.149255155473359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.899194941554715,
+    "three_inst_ratio": 18.98074484452664,
     "three_inst_ratio_change_20": 5.19628308277353
   },
   {
@@ -1776,9 +1798,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 17.58,
-    "trust_ratio": -1.2311379151921087,
+    "trust_ratio": -1.149588012220183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.34886208480789,
+    "three_inst_ratio": 16.430411987779816,
     "three_inst_ratio_change_20": 2.502521575391544
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.38,
-    "trust_ratio": -1.2311379151921087,
+    "trust_ratio": -1.149588012220183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.14886208480789,
+    "three_inst_ratio": 15.230411987779815,
     "three_inst_ratio_change_20": 0.9528544321383663
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.77,
-    "trust_ratio": -1.2311379151921087,
+    "trust_ratio": -1.149588012220183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.53886208480789,
+    "three_inst_ratio": 15.620411987779816,
     "three_inst_ratio_change_20": 1.2913045291664424
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 16.47,
-    "trust_ratio": -1.2311379151921087,
+    "trust_ratio": -1.149588012220183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.23886208480789,
+    "three_inst_ratio": 15.320411987779815,
     "three_inst_ratio_change_20": 0.7315012475038145
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 17.37,
-    "trust_ratio": -1.2346958209589123,
+    "trust_ratio": -1.1531459179869867,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.13530417904109,
+    "three_inst_ratio": 16.216854082013015,
     "three_inst_ratio_change_20": 1.4483659961109971
   },
   {
@@ -1831,10 +1853,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 17.92,
-    "trust_ratio": -1.2419154837975288,
+    "trust_ratio": -1.1603655808256035,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.678084516202475,
-    "three_inst_ratio_change_20": 1.731146333272381
+    "three_inst_ratio": 16.759634419174397,
+    "three_inst_ratio_change_20": 1.7311463332723775
   },
   {
     "date": "2026-05-21",
@@ -1842,9 +1864,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 18.01,
-    "trust_ratio": -1.2509026159617818,
+    "trust_ratio": -1.1693527129898564,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.75909738403822,
+    "three_inst_ratio": 16.840647287010146,
     "three_inst_ratio_change_20": 2.172159201108128
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.12,
-    "trust_ratio": -1.2515683294554303,
+    "trust_ratio": -1.1700184264835047,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.86843167054457,
+    "three_inst_ratio": 17.949981573516496,
     "three_inst_ratio_change_20": 3.689557549570141
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.69,
-    "trust_ratio": -1.2515683294554303,
+    "trust_ratio": -1.1700184264835047,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.43843167054457,
+    "three_inst_ratio": 18.519981573516496,
     "three_inst_ratio_change_20": 4.019994501539401
   },
   {
@@ -1875,10 +1897,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.69,
-    "trust_ratio": -1.2841882906442004,
+    "trust_ratio": -1.202638387672275,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.405811709355802,
-    "three_inst_ratio_change_20": 4.139404288077639
+    "three_inst_ratio": 18.487361612327724,
+    "three_inst_ratio_change_20": 4.139404288077635
   },
   {
     "date": "2026-05-27",
@@ -1886,9 +1908,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.89,
-    "trust_ratio": -1.2841882906442004,
+    "trust_ratio": -1.202638387672275,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.6058117093558,
+    "three_inst_ratio": 18.687361612327727,
     "three_inst_ratio_change_20": 4.547729718803753
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 20.13,
-    "trust_ratio": -1.2838807310101348,
+    "trust_ratio": -1.2023308280382095,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.846119268989863,
+    "three_inst_ratio": 18.92766917196179,
     "three_inst_ratio_change_20": 4.938037278437815
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 20.2,
-    "trust_ratio": -1.2838807310101348,
+    "trust_ratio": -1.2023308280382095,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.916119268989863,
-    "three_inst_ratio_change_20": 18.916119268989863
+    "three_inst_ratio": 18.99766917196179,
+    "three_inst_ratio_change_20": 18.99766917196179
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.22,
-    "trust_ratio": -1.2838807310101348,
+    "trust_ratio": -1.2023308280382095,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.936119268989863,
+    "three_inst_ratio": 18.01766917196179,
     "three_inst_ratio_change_20": 3.8883701351846405
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 18.99,
-    "trust_ratio": -1.2838807310101348,
+    "trust_ratio": -1.2023308280382095,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.706119268989863,
+    "three_inst_ratio": 17.787669171961788,
     "three_inst_ratio_change_20": 3.208370135184639
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 18.82,
-    "trust_ratio": -1.2838807310101348,
+    "trust_ratio": -1.2023308280382095,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.536119268989864,
+    "three_inst_ratio": 17.61766917196179,
     "three_inst_ratio_change_20": 3.0883701351846415
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 18.65,
-    "trust_ratio": -1.2838807310101348,
+    "trust_ratio": -1.2023308280382095,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.366119268989863,
+    "three_inst_ratio": 17.44766917196179,
     "three_inst_ratio_change_20": 2.0483701351846406
   },
   {
@@ -1963,10 +1985,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.23,
-    "trust_ratio": -1.2673735898545528,
+    "trust_ratio": -1.1868721921892864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.962626410145447,
-    "three_inst_ratio_change_20": -0.07512272365977779
+    "three_inst_ratio": 18.043127807810713,
+    "three_inst_ratio_change_20": -0.07617122896643735
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.06,
-    "trust_ratio": -1.2673735898545528,
+    "trust_ratio": -1.1868721921892864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.792626410145445,
-    "three_inst_ratio_change_20": -0.7684798863185698
+    "three_inst_ratio": 17.87312780781071,
+    "three_inst_ratio_change_20": -0.7695283916252293
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 18.97,
-    "trust_ratio": -1.2673735898545528,
+    "trust_ratio": -1.1868721921892864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.702626410145445,
-    "three_inst_ratio_change_20": -1.1965685314092696
+    "three_inst_ratio": 17.78312780781071,
+    "three_inst_ratio_change_20": -1.1976170367159291
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.11,
-    "trust_ratio": -1.2673735898545528,
+    "trust_ratio": -1.1868721921892864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.842626410145446,
-    "three_inst_ratio_change_20": 1.4937643253375548
+    "three_inst_ratio": 17.92312780781071,
+    "three_inst_ratio_change_20": 1.4927158200308952
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.7,
-    "trust_ratio": -1.2673735898545528,
+    "trust_ratio": -1.1868721921892864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.432626410145446,
-    "three_inst_ratio_change_20": 3.2837643253375557
+    "three_inst_ratio": 18.51312780781071,
+    "three_inst_ratio_change_20": 3.282715820030896
   },
   {
     "date": "2026-06-12",
@@ -2018,10 +2040,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.33,
-    "trust_ratio": -1.2679292137870097,
+    "trust_ratio": -1.1874278161217435,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.06207078621299,
-    "three_inst_ratio_change_20": 2.523208701405098
+    "three_inst_ratio": 18.142572183878254,
+    "three_inst_ratio_change_20": 2.5221601960984383
   },
   {
     "date": "2026-06-15",
@@ -2029,10 +2051,10 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.4,
-    "trust_ratio": -1.2679292137870097,
+    "trust_ratio": -1.1874278161217435,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.13207078621299,
-    "three_inst_ratio_change_20": 2.893208701405099
+    "three_inst_ratio": 18.212572183878255,
+    "three_inst_ratio_change_20": 2.8921601960984393
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "中磊",
     "market": "TWSE",
     "foreign_ratio": 19.21,
-    "trust_ratio": -1.2680964595478734,
+    "trust_ratio": -1.1875950618826074,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.941903540452127,
-    "three_inst_ratio_change_20": 1.8065993614110383
+    "three_inst_ratio": 18.022404938117393,
+    "three_inst_ratio_change_20": 1.8055508561043787
+  },
+  {
+    "date": "2026-06-17",
+    "code": "5388",
+    "name": "中磊",
+    "market": "TWSE",
+    "foreign_ratio": 19.49,
+    "trust_ratio": -1.1875950618826074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.30240493811739,
+    "three_inst_ratio_change_20": 1.5427705189429943
   }
 ]

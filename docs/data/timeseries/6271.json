@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -25.335291041687068
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "6271",
     "name": "同欣電",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -25.517637664077416
   },
   {
+    "date": "2026-02-18",
+    "code": "6271",
+    "name": "同欣電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -25.537637664077415
+  },
+  {
     "date": "2026-02-23",
     "code": "6271",
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 27.14,
-    "trust_ratio": 0.9762787196343156,
+    "trust_ratio": 0.967190333722852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.116278719634316,
-    "three_inst_ratio_change_20": 2.5786410555569006
+    "three_inst_ratio": 28.10719033372285,
+    "three_inst_ratio_change_20": 2.218072603230958
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 26.81,
-    "trust_ratio": 1.0097622466765495,
+    "trust_ratio": 1.000673860765086,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.819762246676547,
-    "three_inst_ratio_change_20": 1.9306445161846533
+    "three_inst_ratio": 27.810673860765085,
+    "three_inst_ratio_change_20": 1.7082077775689655
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.06,
-    "trust_ratio": 1.1470447075497088,
+    "trust_ratio": 1.1379563216382453,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.207044707549706,
-    "three_inst_ratio_change_20": 3.104578624353586
+    "three_inst_ratio": 29.197956321638245,
+    "three_inst_ratio_change_20": 2.4802285413354888
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 26.43,
-    "trust_ratio": 1.1470447075497088,
+    "trust_ratio": 1.1379563216382453,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.57704470754971,
-    "three_inst_ratio_change_20": 0.8593169272469545
+    "three_inst_ratio": 27.567956321638245,
+    "three_inst_ratio_change_20": 0.1402285413354889
+  },
+  {
+    "date": "2026-02-27",
+    "code": "6271",
+    "name": "同欣電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -27.280712067574118
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 26.47,
-    "trust_ratio": 1.0518558235296436,
+    "trust_ratio": 1.0427674376181801,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.52185582352964,
-    "three_inst_ratio_change_20": 0.09412804322688473
+    "three_inst_ratio": 27.51276743761818,
+    "three_inst_ratio_change_20": -0.11511967146498847
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 27.68,
-    "trust_ratio": 0.9758003835337122,
+    "trust_ratio": 0.9667119976222487,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.655800383533713,
-    "three_inst_ratio_change_20": 1.3750883159595944
+    "three_inst_ratio": 28.646711997622248,
+    "three_inst_ratio_change_20": 1.5088248885390776
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.17,
-    "trust_ratio": 0.8997449435377806,
+    "trust_ratio": 0.8906565576263172,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.06974494353778,
-    "three_inst_ratio_change_20": 1.4418578344546127
+    "three_inst_ratio": 29.06065655762632,
+    "three_inst_ratio_change_20": 0.9151160709334967
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.18,
-    "trust_ratio": 0.807904412221939,
+    "trust_ratio": 0.7988160263104754,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.987904412221937,
-    "three_inst_ratio_change_20": 1.8500173031387668
+    "three_inst_ratio": 28.978816026310476,
+    "three_inst_ratio_change_20": 0.932752145404379
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.36,
-    "trust_ratio": 0.6701436152481762,
+    "trust_ratio": 0.6610552293367128,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.030143615248175,
-    "three_inst_ratio_change_20": 0.8846031285553515
+    "three_inst_ratio": 29.021055229336714,
+    "three_inst_ratio_change_20": 0.9949913484306165
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.19,
-    "trust_ratio": 0.6701436152481762,
+    "trust_ratio": 0.6610552293367128,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.860143615248177,
-    "three_inst_ratio_change_20": 0.81407973434208
+    "three_inst_ratio": 28.851055229336716,
+    "three_inst_ratio_change_20": 1.023032945915535
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.5,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.14622681021801,
-    "three_inst_ratio_change_20": 1.1201629293119133
+    "three_inst_ratio": 29.137138424306546,
+    "three_inst_ratio_change_20": 0.08954941887330037
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.22,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.86622681021801,
-    "three_inst_ratio_change_20": 1.0382045267968287
+    "three_inst_ratio": 28.857138424306545,
+    "three_inst_ratio_change_20": -0.41862735294963116
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.17,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.816226810218012,
-    "three_inst_ratio_change_20": -0.23136219521523316
+    "three_inst_ratio": 28.807138424306547,
+    "three_inst_ratio_change_20": 0.3313275889377003
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.36,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.00622681021801,
-    "three_inst_ratio_change_20": -0.2695389670381658
+    "three_inst_ratio": 28.997138424306545,
+    "three_inst_ratio_change_20": 0.9560208337183909
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.41,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.05622681021801,
-    "three_inst_ratio_change_20": 0.5804159748491635
+    "three_inst_ratio": 29.047138424306546,
+    "three_inst_ratio_change_20": 0.6560208337183937
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 27.99,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.63622681021801,
-    "three_inst_ratio_change_20": 0.5951092196298546
+    "three_inst_ratio": 28.627138424306544,
+    "three_inst_ratio_change_20": 0.4926829328493021
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.24,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.88622681021801,
-    "three_inst_ratio_change_20": 0.49510921962985677
+    "three_inst_ratio": 28.877138424306544,
+    "three_inst_ratio_change_20": 28.877138424306544
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.13,
-    "trust_ratio": 0.6462268102180092,
+    "trust_ratio": 0.6371384243065457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.77622681021801,
-    "three_inst_ratio_change_20": 0.6417713187607674
+    "three_inst_ratio": 28.767138424306545,
+    "three_inst_ratio_change_20": 28.767138424306545
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.13,
-    "trust_ratio": 1.0306502275176963,
+    "trust_ratio": 1.0215618416062329,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.160650227517696,
-    "three_inst_ratio_change_20": 29.160650227517696
+    "three_inst_ratio": 29.15156184160623,
+    "three_inst_ratio_change_20": 29.15156184160623
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.02,
-    "trust_ratio": 1.0033850697833058,
+    "trust_ratio": 0.9942966838718422,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.023385069783306,
-    "three_inst_ratio_change_20": 29.023385069783306
+    "three_inst_ratio": 29.01429668387184,
+    "three_inst_ratio_change_20": 0.9071063501489895
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.07,
-    "trust_ratio": 1.0033850697833058,
+    "trust_ratio": 0.9942966838718422,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.073385069783306,
-    "three_inst_ratio_change_20": 0.9571063501489903
+    "three_inst_ratio": 29.06429668387184,
+    "three_inst_ratio_change_20": 1.253622823106756
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.13,
-    "trust_ratio": 1.0033391495176478,
+    "trust_ratio": 0.9942507636061844,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.133339149517646,
-    "three_inst_ratio_change_20": 1.313576902841099
+    "three_inst_ratio": 29.124250763606184,
+    "three_inst_ratio_change_20": -0.07370555803206003
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 27.94,
-    "trust_ratio": 1.0032946642602916,
+    "trust_ratio": 0.9942062783488281,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.943294664260293,
-    "three_inst_ratio_change_20": -0.26375004328941287
+    "three_inst_ratio": 28.934206278348828,
+    "three_inst_ratio_change_20": 1.3662499567105826
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.05,
-    "trust_ratio": 1.0032946642602916,
+    "trust_ratio": 0.9942062783488281,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.053294664260292,
-    "three_inst_ratio_change_20": 1.476249956710582
+    "three_inst_ratio": 29.044206278348828,
+    "three_inst_ratio_change_20": 29.044206278348828
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 27.89,
-    "trust_ratio": 0.8117516694790916,
+    "trust_ratio": 0.8026632835676281,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.70175166947909,
+    "three_inst_ratio": 28.69266328356763,
     "three_inst_ratio_change_20": 1.1798958459494493
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.11,
-    "trust_ratio": 0.6204172292377546,
+    "trust_ratio": 0.611328843326291,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.730417229237755,
+    "three_inst_ratio": 28.72132884332629,
     "three_inst_ratio_change_20": 0.07461684570404259
   },
   {
@@ -1468,10 +1490,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.57,
-    "trust_ratio": 0.6204172292377546,
+    "trust_ratio": 0.611328843326291,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.190417229237756,
-    "three_inst_ratio_change_20": 0.12067228569997468
+    "three_inst_ratio": 29.18132884332629,
+    "three_inst_ratio_change_20": 0.12067228569997113
   },
   {
     "date": "2026-04-02",
@@ -1479,10 +1501,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.55,
-    "trust_ratio": 0.6204172292377546,
+    "trust_ratio": 0.611328843326291,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.170417229237756,
-    "three_inst_ratio_change_20": 0.18251281701581945
+    "three_inst_ratio": 29.16132884332629,
+    "three_inst_ratio_change_20": 0.1825128170158159
   },
   {
     "date": "2026-04-07",
@@ -1490,10 +1512,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.47,
-    "trust_ratio": 0.6204172292377546,
+    "trust_ratio": 0.611328843326291,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.090417229237755,
-    "three_inst_ratio_change_20": 0.060273613989579644
+    "three_inst_ratio": 29.08132884332629,
+    "three_inst_ratio_change_20": 0.06027361398957609
   },
   {
     "date": "2026-04-08",
@@ -1501,9 +1523,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 30.38,
-    "trust_ratio": 0.6202545949635495,
+    "trust_ratio": 0.611166209052086,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.000254594963547,
+    "three_inst_ratio": 30.991166209052086,
     "three_inst_ratio_change_20": 2.14011097971537
   },
   {
@@ -1512,10 +1534,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 30.72,
-    "trust_ratio": 0.6202545949635495,
+    "trust_ratio": 0.611166209052086,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.340254594963547,
-    "three_inst_ratio_change_20": 2.1940277847455363
+    "three_inst_ratio": 31.331166209052085,
+    "three_inst_ratio_change_20": 2.19402778474554
   },
   {
     "date": "2026-04-10",
@@ -1523,10 +1545,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 30.81,
-    "trust_ratio": 0.6202545949635495,
+    "trust_ratio": 0.611166209052086,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.430254594963547,
-    "three_inst_ratio_change_20": 2.5640277847455373
+    "three_inst_ratio": 31.421166209052085,
+    "three_inst_ratio_change_20": 2.564027784745541
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 30.99,
-    "trust_ratio": 0.6202545949635495,
+    "trust_ratio": 0.611166209052086,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.610254594963546,
-    "three_inst_ratio_change_20": 2.794027784745534
+    "three_inst_ratio": 31.601166209052085,
+    "three_inst_ratio_change_20": 2.7940277847455377
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 31.21,
-    "trust_ratio": 0.6202545949635495,
+    "trust_ratio": 0.611166209052086,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.83025459496355,
-    "three_inst_ratio_change_20": 2.824027784745539
+    "three_inst_ratio": 31.821166209052087,
+    "three_inst_ratio_change_20": 2.8240277847455424
   },
   {
     "date": "2026-04-15",
@@ -1556,9 +1578,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.95,
-    "trust_ratio": 1.9969058924999692,
+    "trust_ratio": 1.987817506588506,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.94690589249997,
+    "three_inst_ratio": 31.937817506588505,
     "three_inst_ratio_change_20": 2.8906790822819595
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.67,
-    "trust_ratio": 1.9969058924999692,
+    "trust_ratio": 1.987817506588506,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.666905892499972,
+    "three_inst_ratio": 30.657817506588508,
     "three_inst_ratio_change_20": 2.0306790822819636
   },
   {
@@ -1578,9 +1600,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.12,
-    "trust_ratio": 1.987817506588506,
+    "trust_ratio": 1.9787291206770423,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.107817506588507,
+    "three_inst_ratio": 31.098729120677042,
     "three_inst_ratio_change_20": 2.221590696370498
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.72,
-    "trust_ratio": 2.1466250919888155,
+    "trust_ratio": 2.137536706077352,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.866625091988816,
+    "three_inst_ratio": 30.85753670607735,
     "three_inst_ratio_change_20": 2.090398281770806
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.08,
-    "trust_ratio": 2.3212177687090354,
+    "trust_ratio": 2.312129382797572,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.401217768709035,
+    "three_inst_ratio": 31.39212938279757,
     "three_inst_ratio_change_20": 2.2405675411913393
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.41,
-    "trust_ratio": 2.3212177687090354,
+    "trust_ratio": 2.312129382797572,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.731217768709037,
+    "three_inst_ratio": 30.722129382797572,
     "three_inst_ratio_change_20": 1.7078326989257313
   },
   {
@@ -1622,10 +1644,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.73,
-    "trust_ratio": 2.5599074829101034,
+    "trust_ratio": 2.55081909699864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.289907482910102,
-    "three_inst_ratio_change_20": 2.216522413126796
+    "three_inst_ratio": 31.28081909699864,
+    "three_inst_ratio_change_20": 2.2165224131267998
   },
   {
     "date": "2026-04-24",
@@ -1633,9 +1655,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.22,
-    "trust_ratio": 2.5599074829101034,
+    "trust_ratio": 2.55081909699864,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.7799074829101,
+    "three_inst_ratio": 30.77081909699864,
     "three_inst_ratio_change_20": 1.6465683333924552
   },
   {
@@ -1644,10 +1666,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.29,
-    "trust_ratio": 2.5321639890751095,
+    "trust_ratio": 2.523075603163646,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.822163989075108,
-    "three_inst_ratio_change_20": 1.878869324814815
+    "three_inst_ratio": 30.813075603163647,
+    "three_inst_ratio_change_20": 1.8788693248148185
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.28,
-    "trust_ratio": 2.5321639890751095,
+    "trust_ratio": 2.523075603163646,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.81216398907511,
-    "three_inst_ratio_change_20": 1.7588693248148175
+    "three_inst_ratio": 30.80307560316365,
+    "three_inst_ratio_change_20": 1.758869324814821
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.12,
-    "trust_ratio": 2.5321639890751095,
+    "trust_ratio": 2.523075603163646,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.65216398907511,
+    "three_inst_ratio": 30.64307560316365,
     "three_inst_ratio_change_20": 1.950412319596019
   },
   {
@@ -1677,10 +1699,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.52,
-    "trust_ratio": 2.5321639890751095,
+    "trust_ratio": 2.523075603163646,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.052163989075108,
-    "three_inst_ratio_change_20": 2.321746759837353
+    "three_inst_ratio": 31.043075603163647,
+    "three_inst_ratio_change_20": 2.3217467598373567
   },
   {
     "date": "2026-05-01",
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -29.190417229237756
+    "three_inst_ratio_change_20": -29.18132884332629
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.79,
-    "trust_ratio": 2.5321639890751095,
+    "trust_ratio": 2.523075603163646,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.322163989075108,
-    "three_inst_ratio_change_20": 2.1517467598373514
+    "three_inst_ratio": 31.313075603163647,
+    "three_inst_ratio_change_20": 2.151746759837355
   },
   {
     "date": "2026-05-05",
@@ -1710,9 +1732,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.23,
-    "trust_ratio": 1.557793352146101,
+    "trust_ratio": 1.5487049662346373,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.787793352146103,
+    "three_inst_ratio": 29.77870496623464,
     "three_inst_ratio_change_20": 0.6973761229083486
   },
   {
@@ -1721,10 +1743,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.49,
-    "trust_ratio": 1.557793352146101,
+    "trust_ratio": 1.5487049662346373,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.0477933521461,
-    "three_inst_ratio_change_20": -0.9524612428174457
+    "three_inst_ratio": 30.038704966234636,
+    "three_inst_ratio_change_20": -0.9524612428174493
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1754,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.02,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.499623781386166,
-    "three_inst_ratio_change_20": -1.8406308135773806
+    "three_inst_ratio": 29.4905353954747,
+    "three_inst_ratio_change_20": -1.8406308135773841
   },
   {
     "date": "2026-05-08",
@@ -1743,10 +1765,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.37,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.849623781386168,
-    "three_inst_ratio_change_20": -2.580630813577379
+    "three_inst_ratio": 28.840535395474703,
+    "three_inst_ratio_change_20": -2.5806308135773826
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.76,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.239623781386168,
-    "three_inst_ratio_change_20": -2.370630813577378
+    "three_inst_ratio": 29.230535395474703,
+    "three_inst_ratio_change_20": -2.3706308135773817
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 28.9,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.379623781386165,
-    "three_inst_ratio_change_20": -2.4506308135773835
+    "three_inst_ratio": 29.3705353954747,
+    "three_inst_ratio_change_20": -2.450630813577387
   },
   {
     "date": "2026-05-13",
@@ -1776,9 +1798,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.08,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.559623781386165,
+    "three_inst_ratio": 29.5505353954747,
     "three_inst_ratio_change_20": -2.387282111113805
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.57,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.049623781386167,
+    "three_inst_ratio": 30.040535395474702,
     "three_inst_ratio_change_20": -0.6172821111138056
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.22,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.699623781386165,
+    "three_inst_ratio": 29.6905353954747,
     "three_inst_ratio_change_20": -1.4081937252023415
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 30.15,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.629623781386165,
+    "three_inst_ratio": 30.6205353954747,
     "three_inst_ratio_change_20": -0.2370013106026505
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 29.73,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.209623781386167,
+    "three_inst_ratio": 30.200535395474702,
     "three_inst_ratio_change_20": -1.191593987322868
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 30.78,
-    "trust_ratio": 0.47962378138616674,
+    "trust_ratio": 0.4705353954747032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.259623781386168,
+    "three_inst_ratio": 31.250535395474703,
     "three_inst_ratio_change_20": 0.5284060126771308
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.18,
-    "trust_ratio": 0.9947917617359667,
+    "trust_ratio": 0.9857033758245032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.17479176173597,
+    "three_inst_ratio": 33.165703375824506,
     "three_inst_ratio_change_20": 1.884884278825865
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.58,
-    "trust_ratio": 1.0072285003516537,
+    "trust_ratio": 0.9981401144401901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.58722850035165,
+    "three_inst_ratio": 33.57814011444019,
     "three_inst_ratio_change_20": 2.8073210174415486
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 31.91,
-    "trust_ratio": 1.0072285003516537,
+    "trust_ratio": 0.9981401144401901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.917228500351655,
+    "three_inst_ratio": 32.908140114440194,
     "three_inst_ratio_change_20": 2.095064511276547
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.56,
-    "trust_ratio": 1.0072285003516537,
+    "trust_ratio": 0.9981401144401901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.56722850035165,
+    "three_inst_ratio": 33.55814011444019,
     "three_inst_ratio_change_20": 2.7550645112765437
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.54,
-    "trust_ratio": 1.0072285003516537,
+    "trust_ratio": 0.9981401144401901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.54722850035165,
+    "three_inst_ratio": 33.53814011444019,
     "three_inst_ratio_change_20": 2.8950645112765407
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.57,
-    "trust_ratio": 1.0072285003516537,
+    "trust_ratio": 0.9981401144401901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.57722850035165,
+    "three_inst_ratio": 33.56814011444019,
     "three_inst_ratio_change_20": 2.5250645112765433
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.51,
-    "trust_ratio": 1.0072285003516537,
+    "trust_ratio": 0.9981401144401901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.51722850035165,
-    "three_inst_ratio_change_20": 33.51722850035165
+    "three_inst_ratio": 33.50814011444019,
+    "three_inst_ratio_change_20": 33.50814011444019
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.3,
-    "trust_ratio": 0.9182579856394318,
+    "trust_ratio": 0.9091695997279683,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.218257985639426,
+    "three_inst_ratio": 33.209169599727964,
     "three_inst_ratio_change_20": 1.8960939965643178
   },
   {
@@ -1930,10 +1952,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.96,
-    "trust_ratio": 0.9096479358285716,
+    "trust_ratio": 0.9005595499171081,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.869647935828574,
-    "three_inst_ratio_change_20": 4.081854583682471
+    "three_inst_ratio": 33.860559549917106,
+    "three_inst_ratio_change_20": 4.081854583682468
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 33.02,
-    "trust_ratio": 0.9096479358285716,
+    "trust_ratio": 0.9005595499171081,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.92964793582858,
-    "three_inst_ratio_change_20": 3.8818545836824754
+    "three_inst_ratio": 33.92055954991711,
+    "three_inst_ratio_change_20": 3.881854583682472
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 33.21,
-    "trust_ratio": 0.8201990850157467,
+    "trust_ratio": 0.8111106991042831,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.030199085015745,
-    "three_inst_ratio_change_20": 4.530575303629579
+    "three_inst_ratio": 34.021110699104284,
+    "three_inst_ratio_change_20": 4.530575303629583
   },
   {
     "date": "2026-06-05",
@@ -1963,10 +1985,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 33.38,
-    "trust_ratio": 0.8201990850157467,
+    "trust_ratio": 0.8111106991042831,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.20019908501575,
-    "three_inst_ratio_change_20": 5.350575303629579
+    "three_inst_ratio": 34.191110699104286,
+    "three_inst_ratio_change_20": 5.350575303629583
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 33.49,
-    "trust_ratio": 0.8201990850157467,
+    "trust_ratio": 0.8111106991042831,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.310199085015746,
-    "three_inst_ratio_change_20": 5.070575303629578
+    "three_inst_ratio": 34.301110699104285,
+    "three_inst_ratio_change_20": 5.070575303629582
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 33.44,
-    "trust_ratio": 0.8201990850157467,
+    "trust_ratio": 0.8111106991042831,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.26019908501574,
-    "three_inst_ratio_change_20": 4.880575303629577
+    "three_inst_ratio": 34.25111069910428,
+    "three_inst_ratio_change_20": 4.8805753036295805
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 33.13,
-    "trust_ratio": 0.8201990850157467,
+    "trust_ratio": 0.8111106991042831,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.95019908501575,
-    "three_inst_ratio_change_20": 4.390575303629582
+    "three_inst_ratio": 33.941110699104286,
+    "three_inst_ratio_change_20": 4.390575303629586
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 33.35,
-    "trust_ratio": 0.7771488359614458,
+    "trust_ratio": 0.7680604500499822,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.12714883596145,
-    "three_inst_ratio_change_20": 4.077525054575283
+    "three_inst_ratio": 34.11806045004998,
+    "three_inst_ratio_change_20": 4.077525054575279
   },
   {
     "date": "2026-06-12",
@@ -2018,10 +2040,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 32.81,
-    "trust_ratio": 1.282750094299179,
+    "trust_ratio": 1.2736617083877153,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.092750094299184,
-    "three_inst_ratio_change_20": 4.393126312913019
+    "three_inst_ratio": 34.083661708387716,
+    "three_inst_ratio_change_20": 4.393126312913015
   },
   {
     "date": "2026-06-15",
@@ -2029,10 +2051,10 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 31.59,
-    "trust_ratio": 1.6678106552848695,
+    "trust_ratio": 1.6587222693734063,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.25781065528487,
-    "three_inst_ratio_change_20": 2.6281868738987058
+    "three_inst_ratio": 33.2487222693734,
+    "three_inst_ratio_change_20": 2.628186873898702
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "同欣電",
     "market": "TWSE",
     "foreign_ratio": 31.42,
-    "trust_ratio": 1.992122531493936,
+    "trust_ratio": 1.9830341455824723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.412122531493935,
-    "three_inst_ratio_change_20": 3.202498750107768
+    "three_inst_ratio": 33.403034145582474,
+    "three_inst_ratio_change_20": 3.2024987501077717
+  },
+  {
+    "date": "2026-06-17",
+    "code": "6271",
+    "name": "同欣電",
+    "market": "TWSE",
+    "foreign_ratio": 31.52,
+    "trust_ratio": 1.9830341455824723,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.503034145582475,
+    "three_inst_ratio_change_20": 2.2524987501077725
   }
 ]

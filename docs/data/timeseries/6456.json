@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -49.15194944780106
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "6456",
     "name": "GIS-KY",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -49.14194944780105
   },
   {
+    "date": "2026-02-18",
+    "code": "6456",
+    "name": "GIS-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -49.211949447801054
+  },
+  {
     "date": "2026-02-23",
     "code": "6456",
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 48.9,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.845848343403176,
-    "three_inst_ratio_change_20": -0.36610110439787746
+    "three_inst_ratio": 48.82779779120423,
+    "three_inst_ratio_change_20": -0.32415165659682543
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 49.08,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 49.025848343403176,
-    "three_inst_ratio_change_20": -0.12610110439788258
+    "three_inst_ratio": 49.00779779120423,
+    "three_inst_ratio_change_20": -0.034151656596826285
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 48.91,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.855848343403174,
-    "three_inst_ratio_change_20": -0.18610110439788485
+    "three_inst_ratio": 48.83779779120423,
+    "three_inst_ratio_change_20": -0.18415165659682486
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 48.33,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.275848343403176,
-    "three_inst_ratio_change_20": -0.74610110439788
+    "three_inst_ratio": 48.25779779120423,
+    "three_inst_ratio_change_20": -0.7841516565968263
+  },
+  {
+    "date": "2026-02-27",
+    "code": "6456",
+    "name": "GIS-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -49.101949447801054
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 48.26,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.205848343403176,
-    "three_inst_ratio_change_20": -0.8361011043978834
+    "three_inst_ratio": 48.18779779120423,
+    "three_inst_ratio_change_20": -0.6341516565968277
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 48.13,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.07584834340318,
-    "three_inst_ratio_change_20": -1.026101104397874
+    "three_inst_ratio": 48.05779779120424,
+    "three_inst_ratio_change_20": -0.7241516565968169
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 48.32,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.26584834340318,
-    "three_inst_ratio_change_20": -0.5561011043978823
+    "three_inst_ratio": 48.247797791204235,
+    "three_inst_ratio_change_20": -0.27415165659682117
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.8,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.745848343403175,
-    "three_inst_ratio_change_20": -1.0361011043978792
+    "three_inst_ratio": 47.72779779120423,
+    "three_inst_ratio_change_20": -0.7641516565968232
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.98,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.925848343403175,
-    "three_inst_ratio_change_20": -0.5961011043978814
+    "three_inst_ratio": 47.90779779120423,
+    "three_inst_ratio_change_20": -0.5341516565968263
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.93,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.87584834340318,
-    "three_inst_ratio_change_20": -0.6161011043978775
+    "three_inst_ratio": 47.857797791204234,
+    "three_inst_ratio_change_20": -0.5841516565968234
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.19,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.135848343403175,
-    "three_inst_ratio_change_20": -1.3061011043978823
+    "three_inst_ratio": 47.11779779120423,
+    "three_inst_ratio_change_20": -1.2441516565968271
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.1,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.04584834340318,
-    "three_inst_ratio_change_20": -1.3961011043978786
+    "three_inst_ratio": 47.027797791204236,
+    "three_inst_ratio_change_20": -1.3241516565968183
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.09,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.03584834340318,
-    "three_inst_ratio_change_20": -1.3261011043978783
+    "three_inst_ratio": 47.01779779120424,
+    "three_inst_ratio_change_20": -1.3641516565968175
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.43,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.37584834340318,
-    "three_inst_ratio_change_20": -1.976101104397877
+    "three_inst_ratio": 46.357797791204234,
+    "three_inst_ratio_change_20": -2.0641516565968203
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.71,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.65584834340318,
-    "three_inst_ratio_change_20": -2.726101104397877
+    "three_inst_ratio": 45.637797791204235,
+    "three_inst_ratio_change_20": -3.0541516565968223
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.48,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.425848343403175,
-    "three_inst_ratio_change_20": -2.99610110439788
+    "three_inst_ratio": 45.40779779120423,
+    "three_inst_ratio_change_20": -3.3741516565968226
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.66,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.605848343403174,
-    "three_inst_ratio_change_20": -3.0861011043978834
+    "three_inst_ratio": 45.58779779120423,
+    "three_inst_ratio_change_20": 45.58779779120423
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.39,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.33584834340318,
-    "three_inst_ratio_change_20": -3.4461011043978758
+    "three_inst_ratio": 45.317797791204235,
+    "three_inst_ratio_change_20": 45.317797791204235
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.18,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.12584834340318,
-    "three_inst_ratio_change_20": 45.12584834340318
+    "three_inst_ratio": 45.107797791204234,
+    "three_inst_ratio_change_20": 45.107797791204234
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.06,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.00584834340318,
-    "three_inst_ratio_change_20": 45.00584834340318
+    "three_inst_ratio": 44.98779779120424,
+    "three_inst_ratio_change_20": -3.8399999999999963
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.1,
-    "trust_ratio": -0.05415165659682583,
+    "trust_ratio": -0.07220220879576777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.04584834340318,
-    "three_inst_ratio_change_20": -3.799999999999997
+    "three_inst_ratio": 45.027797791204236,
+    "three_inst_ratio_change_20": -3.979999999999997
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.19,
-    "trust_ratio": -0.054187165879840134,
+    "trust_ratio": -0.07223771807878207,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.13581283412016,
-    "three_inst_ratio_change_20": -3.890035509283017
+    "three_inst_ratio": 45.117762281921216,
+    "three_inst_ratio_change_20": -3.720035509283015
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.25,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.19577850847991,
-    "three_inst_ratio_change_20": -3.660069834923263
+    "three_inst_ratio": 45.17772795628097,
+    "three_inst_ratio_change_20": -3.0800698349232647
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.28,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.22577850847991,
-    "three_inst_ratio_change_20": -3.0500698349232636
+    "three_inst_ratio": 45.20772795628097,
+    "three_inst_ratio_change_20": 45.20772795628097
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.19,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.13577850847991,
+    "three_inst_ratio": 45.117727956280966,
     "three_inst_ratio_change_20": -3.0700698349232667
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.26,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.20577850847991,
+    "three_inst_ratio": 46.187727956280966,
     "three_inst_ratio_change_20": -1.870069834923271
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.6,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.54577850847991,
+    "three_inst_ratio": 46.52772795628097,
     "three_inst_ratio_change_20": -1.7200698349232653
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.77,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.715778508479914,
+    "three_inst_ratio": 46.69772795628097,
     "three_inst_ratio_change_20": -1.0300698349232604
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.63,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.575778508479914,
+    "three_inst_ratio": 46.55772795628097,
     "three_inst_ratio_change_20": -1.3500698349232607
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.78,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.72577850847991,
+    "three_inst_ratio": 46.70772795628097,
     "three_inst_ratio_change_20": -1.150069834923265
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.6,
-    "trust_ratio": -0.0542214915200873,
+    "trust_ratio": -0.07227204371902925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.54577850847991,
+    "three_inst_ratio": 46.52772795628097,
     "three_inst_ratio_change_20": -0.5900698349232627
   },
   {
@@ -1523,10 +1545,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.31,
-    "trust_ratio": -0.054501127123825016,
+    "trust_ratio": -0.07255167932276696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.255498872876174,
-    "three_inst_ratio_change_20": -0.7903494705270049
+    "three_inst_ratio": 46.23744832067724,
+    "three_inst_ratio_change_20": -0.7903494705269978
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.08,
-    "trust_ratio": -0.054501127123825016,
+    "trust_ratio": -0.07255167932276696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.02549887287617,
-    "three_inst_ratio_change_20": -1.0103494705270109
+    "three_inst_ratio": 46.007448320677234,
+    "three_inst_ratio_change_20": -1.0103494705270037
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.97,
-    "trust_ratio": -0.054501127123825016,
+    "trust_ratio": -0.07255167932276696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.91549887287617,
-    "three_inst_ratio_change_20": -0.4603494705270066
+    "three_inst_ratio": 45.897448320677235,
+    "three_inst_ratio_change_20": -0.4603494705269995
   },
   {
     "date": "2026-04-15",
@@ -1556,10 +1578,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.16,
-    "trust_ratio": -0.054501127123825016,
+    "trust_ratio": -0.07255167932276696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.10549887287617,
-    "three_inst_ratio_change_20": 1.44965052947299
+    "three_inst_ratio": 47.08744832067723,
+    "three_inst_ratio_change_20": 1.449650529472997
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.56,
-    "trust_ratio": -0.054501127123825016,
+    "trust_ratio": -0.07255167932276696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.505498872876174,
-    "three_inst_ratio_change_20": 1.0796505294729997
+    "three_inst_ratio": 46.48744832067724,
+    "three_inst_ratio_change_20": 1.0796505294730068
   },
   {
     "date": "2026-04-17",
@@ -1578,9 +1600,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.35,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.27744832067724,
+    "three_inst_ratio": 45.259397768478294,
     "three_inst_ratio_change_20": -0.32840002272593694
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.43,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.357448320677236,
+    "three_inst_ratio": 44.33939776847829,
     "three_inst_ratio_change_20": -0.9784000227259426
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.5,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.427448320677236,
+    "three_inst_ratio": 44.40939776847829,
     "three_inst_ratio_change_20": -0.6984000227259415
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.64,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.56744832067724,
+    "three_inst_ratio": 44.54939776847829,
     "three_inst_ratio_change_20": -0.4384000227259435
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.75,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.677448320677236,
+    "three_inst_ratio": 44.65939776847829,
     "three_inst_ratio_change_20": -0.3684000227259432
   },
   {
@@ -1633,9 +1655,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.73,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.65744832067723,
+    "three_inst_ratio": 44.63939776847829,
     "three_inst_ratio_change_20": -0.4783645134429264
   },
   {
@@ -1644,9 +1666,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.99,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.91744832067724,
+    "three_inst_ratio": 44.899397768478295,
     "three_inst_ratio_change_20": -0.2783301878026734
   },
   {
@@ -1655,9 +1677,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.1,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.02744832067724,
+    "three_inst_ratio": 45.009397768478294,
     "three_inst_ratio_change_20": -0.19833018780267508
   },
   {
@@ -1666,9 +1688,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.94,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.867448320677234,
+    "three_inst_ratio": 44.84939776847829,
     "three_inst_ratio_change_20": -0.26833018780267537
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.89,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.81744832067724,
+    "three_inst_ratio": 44.79939776847829,
     "three_inst_ratio_change_20": -1.3883301878026728
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -46.54577850847991
+    "three_inst_ratio_change_20": -46.52772795628097
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.95,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.87744832067724,
+    "three_inst_ratio": 44.859397768478296,
     "three_inst_ratio_change_20": -1.8383301878026757
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.79,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.717448320677235,
+    "three_inst_ratio": 44.69939776847829,
     "three_inst_ratio_change_20": -1.8583301878026788
   },
   {
@@ -1721,9 +1743,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 43.57,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.497448320677236,
+    "three_inst_ratio": 43.47939776847829,
     "three_inst_ratio_change_20": -3.228330187802676
   },
   {
@@ -1732,9 +1754,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 43.67,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.59744832067724,
+    "three_inst_ratio": 43.579397768478294,
     "three_inst_ratio_change_20": -2.948330187802675
   },
   {
@@ -1743,10 +1765,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 43.69,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.617448320677234,
-    "three_inst_ratio_change_20": -2.6380505521989406
+    "three_inst_ratio": 43.59939776847829,
+    "three_inst_ratio_change_20": -2.6380505521989477
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 43.22,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.147448320677235,
-    "three_inst_ratio_change_20": -2.8780505521989355
+    "three_inst_ratio": 43.12939776847829,
+    "three_inst_ratio_change_20": -2.8780505521989426
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 42.93,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.857448320677236,
-    "three_inst_ratio_change_20": -3.058050552198935
+    "three_inst_ratio": 42.83939776847829,
+    "three_inst_ratio_change_20": -3.0580505521989423
   },
   {
     "date": "2026-05-13",
@@ -1776,10 +1798,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 42.76,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.687448320677234,
-    "three_inst_ratio_change_20": -4.418050552198935
+    "three_inst_ratio": 42.66939776847829,
+    "three_inst_ratio_change_20": -4.418050552198942
   },
   {
     "date": "2026-05-14",
@@ -1787,10 +1809,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 42.66,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.58744832067723,
-    "three_inst_ratio_change_20": -3.9180505521989417
+    "three_inst_ratio": 42.56939776847829,
+    "three_inst_ratio_change_20": -3.918050552198949
   },
   {
     "date": "2026-05-15",
@@ -1798,9 +1820,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 42.82,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.747448320677236,
+    "three_inst_ratio": 42.72939776847829,
     "three_inst_ratio_change_20": -2.530000000000001
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 42.9,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.827448320677235,
+    "three_inst_ratio": 42.80939776847829,
     "three_inst_ratio_change_20": -1.5300000000000011
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 43.01,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.937448320677234,
+    "three_inst_ratio": 42.91939776847829,
     "three_inst_ratio_change_20": -1.490000000000002
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 43.22,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.147448320677235,
+    "three_inst_ratio": 43.12939776847829,
     "three_inst_ratio_change_20": -1.4200000000000017
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.33,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.257448320677234,
+    "three_inst_ratio": 44.23939776847829,
     "three_inst_ratio_change_20": -0.4200000000000017
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.61,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.537448320677235,
+    "three_inst_ratio": 45.51939776847829,
     "three_inst_ratio_change_20": 0.8800000000000026
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.11,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.037448320677235,
+    "three_inst_ratio": 46.01939776847829,
     "three_inst_ratio_change_20": 1.1199999999999974
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.37,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.29744832067723,
+    "three_inst_ratio": 46.27939776847829,
     "three_inst_ratio_change_20": 1.269999999999996
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.06,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.98744832067724,
+    "three_inst_ratio": 45.969397768478295,
     "three_inst_ratio_change_20": 1.1200000000000045
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.46,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.38744832067724,
+    "three_inst_ratio": 44.369397768478294,
     "three_inst_ratio_change_20": -0.4299999999999997
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 44.71,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 44.63744832067724,
-    "three_inst_ratio_change_20": 44.63744832067724
+    "three_inst_ratio": 44.619397768478294,
+    "three_inst_ratio_change_20": 44.619397768478294
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.15,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.077448320677235,
+    "three_inst_ratio": 47.05939776847829,
     "three_inst_ratio_change_20": 2.1999999999999957
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.95,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.87744832067724,
+    "three_inst_ratio": 47.859397768478296,
     "three_inst_ratio_change_20": 3.1600000000000037
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 47.81,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.73744832067724,
+    "three_inst_ratio": 47.719397768478295,
     "three_inst_ratio_change_20": 4.240000000000002
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.61,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.537448320677235,
+    "three_inst_ratio": 46.51939776847829,
     "three_inst_ratio_change_20": 2.9399999999999977
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.47,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.397448320677235,
+    "three_inst_ratio": 46.37939776847829,
     "three_inst_ratio_change_20": 2.780000000000001
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 46.5,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.427448320677236,
+    "three_inst_ratio": 46.40939776847829,
     "three_inst_ratio_change_20": 3.280000000000001
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.84,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.76744832067724,
+    "three_inst_ratio": 45.749397768478296,
     "three_inst_ratio_change_20": 2.9100000000000037
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.58,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.507448320677234,
+    "three_inst_ratio": 45.48939776847829,
     "three_inst_ratio_change_20": 2.8200000000000003
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.53,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.45744832067724,
+    "three_inst_ratio": 45.439397768478294,
     "three_inst_ratio_change_20": 2.8700000000000045
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.48,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.40744832067723,
+    "three_inst_ratio": 45.38939776847829,
     "three_inst_ratio_change_20": 2.6599999999999966
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.59,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.51744832067724,
+    "three_inst_ratio": 45.499397768478296,
     "three_inst_ratio_change_20": 2.690000000000005
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "GIS-KY",
     "market": "TWSE",
     "foreign_ratio": 45.44,
-    "trust_ratio": -0.07255167932276696,
+    "trust_ratio": -0.0906022315217089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 45.367448320677234,
+    "three_inst_ratio": 45.34939776847829,
     "three_inst_ratio_change_20": 2.4299999999999997
+  },
+  {
+    "date": "2026-06-17",
+    "code": "6456",
+    "name": "GIS-KY",
+    "market": "TWSE",
+    "foreign_ratio": 45.9,
+    "trust_ratio": -0.0906022315217089,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 45.80939776847829,
+    "three_inst_ratio_change_20": 2.6799999999999997
   }
 ]

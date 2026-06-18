@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -43.7521223778956
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2357",
     "name": "華碩",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -43.2884962233037
   },
   {
+    "date": "2026-02-18",
+    "code": "2357",
+    "name": "華碩",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -43.182908597643376
+  },
+  {
     "date": "2026-02-23",
     "code": "2357",
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 37.02,
-    "trust_ratio": 5.002439818133516,
+    "trust_ratio": 5.028423975498528,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.02243981813352,
-    "three_inst_ratio_change_20": -1.1604687795098556
+    "three_inst_ratio": 42.04842397549853,
+    "three_inst_ratio_change_20": -0.8826303528239237
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.8,
-    "trust_ratio": 5.008089016283962,
+    "trust_ratio": 5.034073173648973,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.80808901628396,
-    "three_inst_ratio_change_20": -1.1229653120384953
+    "three_inst_ratio": 41.83407317364897,
+    "three_inst_ratio_change_20": -0.9032258607043531
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.91,
-    "trust_ratio": 4.937155767133913,
+    "trust_ratio": 4.9631399244989245,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.84715576713391,
-    "three_inst_ratio_change_20": -0.8901432672194076
+    "three_inst_ratio": 41.87313992449892,
+    "three_inst_ratio_change_20": -0.9014560918631744
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.82,
-    "trust_ratio": 4.942651079834263,
+    "trust_ratio": 4.968635237199275,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.762651079834264,
-    "three_inst_ratio_change_20": -1.0119449365278328
+    "three_inst_ratio": 41.78863523719927,
+    "three_inst_ratio_change_20": -0.7757455086316725
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2357",
+    "name": "華碩",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -42.34439843175244
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.72,
-    "trust_ratio": 4.951084891076836,
+    "trust_ratio": 4.98129221449483,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.67108489107684,
-    "three_inst_ratio_change_20": -0.8932958547541077
+    "three_inst_ratio": 41.70129221449483,
+    "three_inst_ratio_change_20": -0.5602627884194362
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.7,
-    "trust_ratio": 4.956623555583774,
+    "trust_ratio": 4.986830879001769,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.65662355558378,
-    "three_inst_ratio_change_20": -0.6877748761686604
+    "three_inst_ratio": 41.686830879001775,
+    "three_inst_ratio_change_20": -0.6256273876142018
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.49,
-    "trust_ratio": 4.994589775317549,
+    "trust_ratio": 5.024797098735544,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.48458977531755,
-    "three_inst_ratio_change_20": -0.7769652275967118
+    "three_inst_ratio": 41.51479709873554,
+    "three_inst_ratio_change_20": -0.8415034686561356
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.59,
-    "trust_ratio": 5.019817026295483,
+    "trust_ratio": 5.050024349713477,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.60981702629549,
-    "three_inst_ratio_change_20": -0.7026412403204887
+    "three_inst_ratio": 41.64002434971348,
+    "three_inst_ratio_change_20": -0.4923585413048741
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.66,
-    "trust_ratio": 5.024044096703717,
+    "trust_ratio": 5.0542514201217115,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.684044096703715,
-    "three_inst_ratio_change_20": -0.6722564706879623
+    "three_inst_ratio": 41.714251420121705,
+    "three_inst_ratio_change_20": -0.3523546369496273
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.67,
-    "trust_ratio": 5.060622923993728,
+    "trust_ratio": 5.090830247411722,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.73062292399373,
-    "three_inst_ratio_change_20": -0.40175996702462413
+    "three_inst_ratio": 41.760830247411725,
+    "three_inst_ratio_change_20": -0.32896795666025724
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.72,
-    "trust_ratio": 5.062797380603066,
+    "trust_ratio": 5.093004704021061,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.782797380603064,
-    "three_inst_ratio_change_20": -0.2838086764682686
+    "three_inst_ratio": 41.81300470402106,
+    "three_inst_ratio_change_20": -0.22520348503288545
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 37.03,
-    "trust_ratio": 5.070959098674474,
+    "trust_ratio": 5.101166422092469,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.10095909867447,
-    "three_inst_ratio_change_20": 0.011160894602490146
+    "three_inst_ratio": 42.13116642209247,
+    "three_inst_ratio_change_20": 0.028458530927373715
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.96,
-    "trust_ratio": 5.089006105711523,
+    "trust_ratio": 5.119213429129517,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.04900610571153,
-    "three_inst_ratio_change_20": 0.010797916657580231
+    "three_inst_ratio": 42.07921342912952,
+    "three_inst_ratio_change_20": -0.11768491228421851
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.79,
-    "trust_ratio": 5.08902131923371,
+    "trust_ratio": 5.119228642651705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.87902131923371,
-    "three_inst_ratio_change_20": -0.2236865719313883
+    "three_inst_ratio": 41.909228642651705,
+    "three_inst_ratio_change_20": -0.12645800230458804
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.71,
-    "trust_ratio": 5.1591815060439155,
+    "trust_ratio": 5.189388829461909,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.869181506043915,
-    "three_inst_ratio_change_20": -0.3277168353698201
+    "three_inst_ratio": 41.89938882946191,
+    "three_inst_ratio_change_20": -0.24526262282091693
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.69,
-    "trust_ratio": 5.260252877280944,
+    "trust_ratio": 5.290460200698939,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.950252877280946,
-    "three_inst_ratio_change_20": -0.08543376767534738
+    "three_inst_ratio": 41.980460200698936,
+    "three_inst_ratio_change_20": -0.1316332257293027
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.73,
-    "trust_ratio": 5.260328137094246,
+    "trust_ratio": 5.29053546051224,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.990328137094245,
-    "three_inst_ratio_change_20": -0.15432331518858433
+    "three_inst_ratio": 42.020535460512235,
+    "three_inst_ratio_change_20": 42.020535460512235
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.72,
-    "trust_ratio": 5.2594671594447675,
+    "trust_ratio": 5.289674482862761,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.979467159444766,
-    "three_inst_ratio_change_20": -0.1326262669834719
+    "three_inst_ratio": 42.00967448286276,
+    "three_inst_ratio_change_20": 42.00967448286276
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.68,
-    "trust_ratio": 5.328859130700958,
+    "trust_ratio": 5.359066454118952,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.008859130700955,
-    "three_inst_ratio_change_20": 42.008859130700955
+    "three_inst_ratio": 42.03906645411895,
+    "three_inst_ratio_change_20": 42.03906645411895
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.55,
-    "trust_ratio": 5.454930357880742,
+    "trust_ratio": 5.485137681298736,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.00493035788074,
-    "three_inst_ratio_change_20": 42.00493035788074
+    "three_inst_ratio": 42.035137681298735,
+    "three_inst_ratio_change_20": -0.013286294199794213
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.5,
-    "trust_ratio": 5.481696194093739,
+    "trust_ratio": 5.511903517511733,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.981696194093736,
-    "three_inst_ratio_change_20": -0.040743624039784265
+    "three_inst_ratio": 42.01190351751173,
+    "three_inst_ratio_change_20": 0.17783034386276597
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.28,
-    "trust_ratio": 5.508723891374482,
+    "trust_ratio": 5.538931214792477,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.78872389137448,
-    "three_inst_ratio_change_20": -0.01936512490947706
+    "three_inst_ratio": 41.81893121479248,
+    "three_inst_ratio_change_20": -0.05420870970644387
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.41,
-    "trust_ratio": 5.508237597196231,
+    "trust_ratio": 5.538444920614226,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.918237597196224,
-    "three_inst_ratio_change_20": 0.07108183006231172
+    "three_inst_ratio": 41.94844492061422,
+    "three_inst_ratio_change_20": 0.15980968341494872
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.37,
-    "trust_ratio": 5.546278538211548,
+    "trust_ratio": 5.576485861629543,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.91627853821154,
-    "three_inst_ratio_change_20": 0.15362745837727942
+    "three_inst_ratio": 41.94648586162954,
+    "three_inst_ratio_change_20": 41.94648586162954
   },
   {
     "date": "2026-03-30",
@@ -1446,10 +1468,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.26,
-    "trust_ratio": 5.588198523485936,
+    "trust_ratio": 5.618405846903929,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.848198523485934,
-    "three_inst_ratio_change_20": 0.17711363240909606
+    "three_inst_ratio": 41.87840584690393,
+    "three_inst_ratio_change_20": 0.17711363240910316
   },
   {
     "date": "2026-03-31",
@@ -1457,9 +1479,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.2,
-    "trust_ratio": 5.606807757679234,
+    "trust_ratio": 5.637015081097228,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.80680775767924,
+    "three_inst_ratio": 41.837015081097235,
     "three_inst_ratio_change_20": 0.1501842020954598
   },
   {
@@ -1468,10 +1490,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 36.17,
-    "trust_ratio": 5.6566853574884215,
+    "trust_ratio": 5.686892680906416,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.82668535748842,
-    "three_inst_ratio_change_20": 0.3420955821708702
+    "three_inst_ratio": 41.85689268090642,
+    "three_inst_ratio_change_20": 0.3420955821708773
   },
   {
     "date": "2026-04-02",
@@ -1479,10 +1501,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.98,
-    "trust_ratio": 5.712490980266203,
+    "trust_ratio": 5.7426983036841985,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.6924909802662,
-    "three_inst_ratio_change_20": 0.08267395397071198
+    "three_inst_ratio": 41.7226983036842,
+    "three_inst_ratio_change_20": 0.08267395397071908
   },
   {
     "date": "2026-04-07",
@@ -1490,9 +1512,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.85,
-    "trust_ratio": 5.7494273926440975,
+    "trust_ratio": 5.779634716062092,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.5994273926441,
+    "three_inst_ratio": 41.62963471606209,
     "three_inst_ratio_change_20": -0.08461670405961286
   },
   {
@@ -1501,10 +1523,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.9,
-    "trust_ratio": 5.750003756259018,
+    "trust_ratio": 5.780211079677013,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.65000375625902,
-    "three_inst_ratio_change_20": -0.08061916773471012
+    "three_inst_ratio": 41.68021107967701,
+    "three_inst_ratio_change_20": -0.08061916773471722
   },
   {
     "date": "2026-04-09",
@@ -1512,10 +1534,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.93,
-    "trust_ratio": 5.751767851668105,
+    "trust_ratio": 5.7819751750860995,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.681767851668106,
-    "three_inst_ratio_change_20": -0.10102952893495853
+    "three_inst_ratio": 41.711975175086096,
+    "three_inst_ratio_change_20": -0.10102952893496564
   },
   {
     "date": "2026-04-10",
@@ -1523,9 +1545,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.9,
-    "trust_ratio": 5.733640872664866,
+    "trust_ratio": 5.7638481960828605,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.63364087266486,
+    "three_inst_ratio": 41.66384819608286,
     "three_inst_ratio_change_20": -0.4673182260096098
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.82,
-    "trust_ratio": 5.74500375814388,
+    "trust_ratio": 5.775211081561873,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.56500375814388,
+    "three_inst_ratio": 41.59521108156187,
     "three_inst_ratio_change_20": -0.48400234756764604
   },
   {
@@ -1545,10 +1567,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.65,
-    "trust_ratio": 5.7383200404846635,
+    "trust_ratio": 5.768527363902658,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.388320040484665,
-    "three_inst_ratio_change_20": -0.490701278749043
+    "three_inst_ratio": 41.418527363902655,
+    "three_inst_ratio_change_20": -0.4907012787490501
   },
   {
     "date": "2026-04-15",
@@ -1556,9 +1578,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.51,
-    "trust_ratio": 5.7285090689017455,
+    "trust_ratio": 5.758716392319741,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.23850906890174,
+    "three_inst_ratio": 41.26871639231974,
     "three_inst_ratio_change_20": -0.6306724371421737
   },
   {
@@ -1567,10 +1589,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.43,
-    "trust_ratio": 5.7084183338398224,
+    "trust_ratio": 5.738625657257817,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.13841833383982,
-    "three_inst_ratio_change_20": -0.8118345434411225
+    "three_inst_ratio": 41.16862565725782,
+    "three_inst_ratio_change_20": -0.8118345434411154
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.57,
-    "trust_ratio": 5.734402491204834,
+    "trust_ratio": 5.764609814622828,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.30440249120483,
-    "three_inst_ratio_change_20": -0.6859256458894123
+    "three_inst_ratio": 41.33460981462283,
+    "three_inst_ratio_change_20": -0.6859256458894052
   },
   {
     "date": "2026-04-20",
@@ -1589,9 +1611,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.55,
-    "trust_ratio": 5.752150343849835,
+    "trust_ratio": 5.78235766726783,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.30215034384983,
+    "three_inst_ratio": 41.33235766726783,
     "three_inst_ratio_change_20": -0.677316815594935
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.35,
-    "trust_ratio": 5.794306744566362,
+    "trust_ratio": 5.8245140679843574,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.144306744566364,
+    "three_inst_ratio": 41.17451406798436,
     "three_inst_ratio_change_20": -0.8645523861345907
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.45,
-    "trust_ratio": 5.812189095518139,
+    "trust_ratio": 5.842396418936134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.26218909551814,
+    "three_inst_ratio": 41.292396418936136,
     "three_inst_ratio_change_20": -0.7427412623625997
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.37,
-    "trust_ratio": 5.859560099255711,
+    "trust_ratio": 5.889767422673706,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.22956009925571,
+    "three_inst_ratio": 41.259767422673704,
     "three_inst_ratio_change_20": -0.7521360948380291
   },
   {
@@ -1633,10 +1655,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.03,
-    "trust_ratio": 5.871174613699052,
+    "trust_ratio": 5.901381937117047,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.901174613699055,
-    "three_inst_ratio_change_20": -0.8875492776754257
+    "three_inst_ratio": 40.931381937117045,
+    "three_inst_ratio_change_20": -0.8875492776754328
   },
   {
     "date": "2026-04-27",
@@ -1644,9 +1666,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.04,
-    "trust_ratio": 5.8518756549555935,
+    "trust_ratio": 5.882082978373588,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.89187565495559,
+    "three_inst_ratio": 40.92208297837359,
     "three_inst_ratio_change_20": -1.0263619422406336
   },
   {
@@ -1655,9 +1677,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.95,
-    "trust_ratio": 5.807469268550547,
+    "trust_ratio": 5.837676591968542,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.75746926855055,
+    "three_inst_ratio": 40.78767659196855,
     "three_inst_ratio_change_20": -1.158809269660992
   },
   {
@@ -1666,9 +1688,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.82,
-    "trust_ratio": 5.762342730550966,
+    "trust_ratio": 5.79255005396896,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.58234273055096,
+    "three_inst_ratio": 40.61255005396896,
     "three_inst_ratio_change_20": -1.2658557929349712
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.66,
-    "trust_ratio": 5.7664577863533575,
+    "trust_ratio": 5.796665109771352,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.42645778635335,
+    "three_inst_ratio": 40.45666510977135,
     "three_inst_ratio_change_20": -1.3803499713258844
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -41.82668535748842
+    "three_inst_ratio_change_20": -41.85689268090642
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.68,
-    "trust_ratio": 5.728302811238102,
+    "trust_ratio": 5.758510134656096,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.4083028112381,
+    "three_inst_ratio": 40.4385101346561,
     "three_inst_ratio_change_20": -1.2841881690280985
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.69,
-    "trust_ratio": 5.669889483050978,
+    "trust_ratio": 5.700096806468973,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.35988948305098,
+    "three_inst_ratio": 40.39009680646897,
     "three_inst_ratio_change_20": -1.2395379095931247
   },
   {
@@ -1721,10 +1743,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.99,
-    "trust_ratio": 5.781798536669193,
+    "trust_ratio": 5.812005860087187,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.771798536669195,
-    "three_inst_ratio_change_20": -0.8782052195898231
+    "three_inst_ratio": 40.80200586008719,
+    "three_inst_ratio_change_20": -0.878205219589816
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1754,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.86,
-    "trust_ratio": 5.931297914853498,
+    "trust_ratio": 5.961505238271492,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.791297914853494,
-    "three_inst_ratio_change_20": -0.8904699368146112
+    "three_inst_ratio": 40.82150523827149,
+    "three_inst_ratio_change_20": -0.8904699368146041
   },
   {
     "date": "2026-05-08",
@@ -1743,9 +1765,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.26,
-    "trust_ratio": 5.79710064733133,
+    "trust_ratio": 5.827307970749325,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.057100647331325,
+    "three_inst_ratio": 41.08730797074932,
     "three_inst_ratio_change_20": -0.5765402253335381
   },
   {
@@ -1754,10 +1776,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.68,
-    "trust_ratio": 5.808810212630109,
+    "trust_ratio": 5.839017536048105,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.488810212630106,
-    "three_inst_ratio_change_20": -0.07619354551377455
+    "three_inst_ratio": 41.5190175360481,
+    "three_inst_ratio_change_20": -0.07619354551376745
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.67,
-    "trust_ratio": 5.8750871815601124,
+    "trust_ratio": 5.905294504978107,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.54508718156011,
-    "three_inst_ratio_change_20": 0.15676714107544854
+    "three_inst_ratio": 41.57529450497811,
+    "three_inst_ratio_change_20": 0.15676714107545564
   },
   {
     "date": "2026-05-13",
@@ -1776,9 +1798,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 35.78,
-    "trust_ratio": 5.854568852281654,
+    "trust_ratio": 5.884776175699648,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.63456885228165,
+    "three_inst_ratio": 41.66477617569965,
     "three_inst_ratio_change_20": 0.3960597833799113
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 32.91,
-    "trust_ratio": 5.793465154060204,
+    "trust_ratio": 5.823672477478198,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.7034651540602,
+    "three_inst_ratio": 38.733672477478194,
     "three_inst_ratio_change_20": -2.434953179779626
   },
   {
@@ -1798,10 +1820,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 32.7,
-    "trust_ratio": 5.750766047963685,
+    "trust_ratio": 5.7809733713816795,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.45076604796369,
-    "three_inst_ratio_change_20": -2.853636443241143
+    "three_inst_ratio": 38.48097337138168,
+    "three_inst_ratio_change_20": -2.8536364432411503
   },
   {
     "date": "2026-05-18",
@@ -1809,9 +1831,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 32.71,
-    "trust_ratio": 5.73860061553103,
+    "trust_ratio": 5.768807938949024,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.44860061553103,
+    "three_inst_ratio": 38.478807938949025,
     "three_inst_ratio_change_20": -2.8535497283188036
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 32.78,
-    "trust_ratio": 5.780635173437115,
+    "trust_ratio": 5.810842496855109,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.56063517343711,
+    "three_inst_ratio": 38.59084249685511,
     "three_inst_ratio_change_20": -2.5836715711292513
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 32.73,
-    "trust_ratio": 5.805142811352271,
+    "trust_ratio": 5.835350134770265,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.535142811352266,
+    "three_inst_ratio": 38.56535013477026,
     "three_inst_ratio_change_20": -2.7270462841658727
   },
   {
@@ -1842,10 +1864,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 32.87,
-    "trust_ratio": 5.652432706821641,
+    "trust_ratio": 5.682640030239635,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.52243270682164,
-    "three_inst_ratio_change_20": -2.7071273924340673
+    "three_inst_ratio": 38.55264003023963,
+    "three_inst_ratio_change_20": -2.7071273924340744
   },
   {
     "date": "2026-05-22",
@@ -1853,9 +1875,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 33.08,
-    "trust_ratio": 5.76724108079662,
+    "trust_ratio": 5.797448404214614,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.84724108079662,
+    "three_inst_ratio": 38.87744840421461,
     "three_inst_ratio_change_20": -2.053933532902434
   },
   {
@@ -1864,10 +1886,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 33.26,
-    "trust_ratio": 5.910246977665526,
+    "trust_ratio": 5.940454301083521,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.17024697766553,
-    "three_inst_ratio_change_20": -1.721628677290063
+    "three_inst_ratio": 39.20045430108352,
+    "three_inst_ratio_change_20": -1.7216286772900702
   },
   {
     "date": "2026-05-26",
@@ -1875,9 +1897,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 33.23,
-    "trust_ratio": 5.97507233423952,
+    "trust_ratio": 6.005279657657515,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.20507233423952,
+    "three_inst_ratio": 39.235279657657514,
     "three_inst_ratio_change_20": -1.5523969343110338
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 33.4,
-    "trust_ratio": 6.086811481087815,
+    "trust_ratio": 6.117018804505809,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.48681148108781,
+    "three_inst_ratio": 39.51701880450581,
     "three_inst_ratio_change_20": -1.09553124946315
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 33.09,
-    "trust_ratio": 6.153657812719873,
+    "trust_ratio": 6.183865136137866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.243657812719874,
+    "three_inst_ratio": 39.27386513613787,
     "three_inst_ratio_change_20": -1.1827999736334789
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 33.9,
-    "trust_ratio": 6.236024225743466,
+    "trust_ratio": 6.266231549161461,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.13602422574346,
-    "three_inst_ratio_change_20": 40.13602422574346
+    "three_inst_ratio": 40.16623154916146,
+    "three_inst_ratio_change_20": 40.16623154916146
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 33.92,
-    "trust_ratio": 6.234667125711138,
+    "trust_ratio": 6.264874449129132,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.15466712571114,
-    "three_inst_ratio_change_20": -0.2536356855269588
+    "three_inst_ratio": 40.18487444912913,
+    "three_inst_ratio_change_20": -0.2536356855269659
   },
   {
     "date": "2026-06-02",
@@ -1930,9 +1952,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.37,
-    "trust_ratio": 6.333709847812541,
+    "trust_ratio": 6.3639171712305345,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.70370984781254,
+    "three_inst_ratio": 40.73391717123053,
     "three_inst_ratio_change_20": 0.3438203647615623
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.54,
-    "trust_ratio": 6.601330243453514,
+    "trust_ratio": 6.631537566871508,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.14133024345351,
+    "three_inst_ratio": 41.17153756687151,
     "three_inst_ratio_change_20": 0.3695317067843149
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.55,
-    "trust_ratio": 6.725908391331857,
+    "trust_ratio": 6.7561157147498525,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.27590839133185,
+    "three_inst_ratio": 41.30611571474985,
     "three_inst_ratio_change_20": 0.484610476478359
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.26,
-    "trust_ratio": 6.653935237355449,
+    "trust_ratio": 6.684142560773444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.913935237355446,
+    "three_inst_ratio": 40.94414256077344,
     "three_inst_ratio_change_20": -0.1431654099758788
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.46,
-    "trust_ratio": 6.510442103877715,
+    "trust_ratio": 6.540649427295708,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.970442103877716,
+    "three_inst_ratio": 41.00064942729571,
     "three_inst_ratio_change_20": -0.5183681087523908
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.44,
-    "trust_ratio": 6.422724704665145,
+    "trust_ratio": 6.452932028083139,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.86272470466514,
+    "three_inst_ratio": 40.89293202808314,
     "three_inst_ratio_change_20": -0.6823624768949728
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.43,
-    "trust_ratio": 6.325796796780786,
+    "trust_ratio": 6.356004120198781,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.755796796780785,
+    "three_inst_ratio": 40.78600412019878,
     "three_inst_ratio_change_20": -0.8787720555008676
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.33,
-    "trust_ratio": 6.295792769101761,
+    "trust_ratio": 6.326000092519757,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.62579276910176,
+    "three_inst_ratio": 40.656000092519754,
     "three_inst_ratio_change_20": 1.92232761504156
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.32,
-    "trust_ratio": 6.202076126095489,
+    "trust_ratio": 6.232283449513482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.52207612609549,
+    "three_inst_ratio": 40.55228344951348,
     "three_inst_ratio_change_20": 2.071310078131802
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.29,
-    "trust_ratio": 6.165240553789441,
+    "trust_ratio": 6.195447877207435,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.45524055378944,
+    "three_inst_ratio": 40.485447877207434,
     "three_inst_ratio_change_20": 2.0066399382584095
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "華碩",
     "market": "TWSE",
     "foreign_ratio": 34.21,
-    "trust_ratio": 6.210293447570998,
+    "trust_ratio": 6.240500770988993,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.420293447571,
+    "three_inst_ratio": 40.450500770988995,
     "three_inst_ratio_change_20": 1.859658274133885
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2357",
+    "name": "華碩",
+    "market": "TWSE",
+    "foreign_ratio": 34.2,
+    "trust_ratio": 6.212162960571882,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.412162960571884,
+    "three_inst_ratio_change_20": 1.8468128258016208
   }
 ]

@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -37.875295511780294
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "8105",
     "name": "凌巨",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -37.875295511780294
   },
   {
+    "date": "2026-02-18",
+    "code": "8105",
+    "name": "凌巨",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -37.7452955117803
+  },
+  {
     "date": "2026-02-23",
     "code": "8105",
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 37.91,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.04588653534089,
-    "three_inst_ratio_change_20": 0.3005910235605924
+    "three_inst_ratio": 38.09118204712119,
+    "three_inst_ratio_change_20": 0.46588653534089275
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.06,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.1958865353409,
-    "three_inst_ratio_change_20": 0.5705910235606027
+    "three_inst_ratio": 38.24118204712119,
+    "three_inst_ratio_change_20": 0.37588653534089644
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 37.93,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.065886535340894,
-    "three_inst_ratio_change_20": 0.2005910235605981
+    "three_inst_ratio": 38.11118204712119,
+    "three_inst_ratio_change_20": 0.39588653534089246
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.07,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.205886535340895,
-    "three_inst_ratio_change_20": 0.49059102356059725
+    "three_inst_ratio": 38.25118204712119,
+    "three_inst_ratio_change_20": 0.44588653534089673
+  },
+  {
+    "date": "2026-02-27",
+    "code": "8105",
+    "name": "凌巨",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -38.02529551178029
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.27,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.4058865353409,
-    "three_inst_ratio_change_20": 0.6005910235606038
+    "three_inst_ratio": 38.45118204712119,
+    "three_inst_ratio_change_20": 0.6658865353408956
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.15,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.28588653534089,
-    "three_inst_ratio_change_20": 0.2605910235606004
+    "three_inst_ratio": 38.33118204712119,
+    "three_inst_ratio_change_20": 0.545886535340891
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.21,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.345886535340895,
-    "three_inst_ratio_change_20": 0.5605910235605975
+    "three_inst_ratio": 38.39118204712119,
+    "three_inst_ratio_change_20": 0.265886535340897
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.15,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.28588653534089,
-    "three_inst_ratio_change_20": 0.5005910235605953
+    "three_inst_ratio": 38.33118204712119,
+    "three_inst_ratio_change_20": 0.2658865353408899
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.31,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.4458865353409,
-    "three_inst_ratio_change_20": 0.32059102356060265
+    "three_inst_ratio": 38.49118204712119,
+    "three_inst_ratio_change_20": 0.37588653534089644
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.17,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.305886535340896,
-    "three_inst_ratio_change_20": 0.24059102356059725
+    "three_inst_ratio": 38.35118204712119,
+    "three_inst_ratio_change_20": 0.28588653534089303
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.15,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.28588653534089,
-    "three_inst_ratio_change_20": 0.17059102356059697
+    "three_inst_ratio": 38.33118204712119,
+    "three_inst_ratio_change_20": 0.7158865353408927
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.29,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.425886535340894,
-    "three_inst_ratio_change_20": 0.3605910235605947
+    "three_inst_ratio": 38.47118204712119,
+    "three_inst_ratio_change_20": 0.8458865353408953
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.36,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.495886535340894,
-    "three_inst_ratio_change_20": 0.8805910235605978
+    "three_inst_ratio": 38.54118204712119,
+    "three_inst_ratio_change_20": 0.9558865353408947
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.22,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.35588653534089,
-    "three_inst_ratio_change_20": 0.7305910235605992
+    "three_inst_ratio": 38.40118204712119,
+    "three_inst_ratio_change_20": 0.8058865353408962
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.24,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.375886535340896,
-    "three_inst_ratio_change_20": 0.7905910235606015
+    "three_inst_ratio": 38.42118204712119,
+    "three_inst_ratio_change_20": 0.7058865353408947
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.64,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.775886535340895,
-    "three_inst_ratio_change_20": 1.180591023560602
+    "three_inst_ratio": 38.82118204712119,
+    "three_inst_ratio_change_20": 1.1058865353408933
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.96,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.095886535340895,
-    "three_inst_ratio_change_20": 1.3805910235605978
+    "three_inst_ratio": 39.14118204712119,
+    "three_inst_ratio_change_20": 39.14118204712119
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.0,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.135886535340894,
-    "three_inst_ratio_change_20": 1.420591023560597
+    "three_inst_ratio": 39.18118204712119,
+    "three_inst_ratio_change_20": 39.18118204712119
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.04,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.175886535340894,
-    "three_inst_ratio_change_20": 39.175886535340894
+    "three_inst_ratio": 39.22118204712119,
+    "three_inst_ratio_change_20": 39.22118204712119
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.01,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.14588653534089,
-    "three_inst_ratio_change_20": 39.14588653534089
+    "three_inst_ratio": 39.19118204712119,
+    "three_inst_ratio_change_20": 1.1000000000000014
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.98,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.11588653534089,
-    "three_inst_ratio_change_20": 1.0700000000000003
+    "three_inst_ratio": 39.16118204712119,
+    "three_inst_ratio_change_20": 0.9199999999999946
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.98,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.11588653534089,
-    "three_inst_ratio_change_20": 0.9199999999999946
+    "three_inst_ratio": 39.16118204712119,
+    "three_inst_ratio_change_20": 1.0499999999999972
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.94,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.07588653534089,
-    "three_inst_ratio_change_20": 1.009999999999998
+    "three_inst_ratio": 39.12118204712119,
+    "three_inst_ratio_change_20": 0.8699999999999974
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.92,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.055886535340896,
-    "three_inst_ratio_change_20": 0.8500000000000014
+    "three_inst_ratio": 39.10118204712119,
+    "three_inst_ratio_change_20": 39.10118204712119
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.86,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.995886535340894,
+    "three_inst_ratio": 39.04118204712119,
     "three_inst_ratio_change_20": 0.5899999999999963
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.77,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.9058865353409,
+    "three_inst_ratio": 38.95118204712119,
     "three_inst_ratio_change_20": 0.6200000000000045
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.79,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.925886535340894,
+    "three_inst_ratio": 38.97118204712119,
     "three_inst_ratio_change_20": 0.5799999999999983
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.0,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.135886535340894,
+    "three_inst_ratio": 39.18118204712119,
     "three_inst_ratio_change_20": 0.8500000000000014
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.95,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.0858865353409,
+    "three_inst_ratio": 39.13118204712119,
     "three_inst_ratio_change_20": 0.6400000000000006
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.04,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.175886535340894,
+    "three_inst_ratio": 39.22118204712119,
     "three_inst_ratio_change_20": 0.8699999999999974
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.16,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.29588653534089,
+    "three_inst_ratio": 39.34118204712119,
     "three_inst_ratio_change_20": 1.009999999999998
   },
   {
@@ -1523,9 +1545,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.29,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.425886535340894,
+    "three_inst_ratio": 39.47118204712119,
     "three_inst_ratio_change_20": 1.0
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.67,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.805886535340896,
+    "three_inst_ratio": 39.85118204712119,
     "three_inst_ratio_change_20": 1.3100000000000023
   },
   {
@@ -1545,9 +1567,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.0,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.135886535340894,
+    "three_inst_ratio": 40.18118204712119,
     "three_inst_ratio_change_20": 1.7800000000000011
   },
   {
@@ -1556,9 +1578,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.15,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.28588653534089,
+    "three_inst_ratio": 40.33118204712119,
     "three_inst_ratio_change_20": 1.9099999999999966
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.17,
-    "trust_ratio": 0.13588653534089112,
+    "trust_ratio": 0.18118204712118816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.305886535340896,
+    "three_inst_ratio": 40.35118204712119,
     "three_inst_ratio_change_20": 1.5300000000000011
   },
   {
@@ -1578,9 +1600,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.21,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.39118204712119,
+    "three_inst_ratio": 40.43647755890149,
     "three_inst_ratio_change_20": 1.2952955117802958
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.34,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.521182047121194,
+    "three_inst_ratio": 40.56647755890149,
     "three_inst_ratio_change_20": 1.3852955117802992
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.42,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.60118204712119,
+    "three_inst_ratio": 40.64647755890149,
     "three_inst_ratio_change_20": 1.4252955117802983
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.54,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.72118204712119,
+    "three_inst_ratio": 40.766477558901485,
     "three_inst_ratio_change_20": 1.575295511780297
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.48,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.66118204712119,
+    "three_inst_ratio": 40.70647755890148,
     "three_inst_ratio_change_20": 1.5452955117802958
   },
   {
@@ -1633,9 +1655,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.19,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.37118204712119,
+    "three_inst_ratio": 40.416477558901484,
     "three_inst_ratio_change_20": 1.2552955117802966
   },
   {
@@ -1644,9 +1666,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.15,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.33118204712119,
+    "three_inst_ratio": 40.376477558901485,
     "three_inst_ratio_change_20": 1.2552955117802966
   },
   {
@@ -1655,9 +1677,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.23,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.41118204712119,
+    "three_inst_ratio": 40.45647755890148,
     "three_inst_ratio_change_20": 1.355295511780291
   },
   {
@@ -1666,9 +1688,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.24,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.42118204712119,
+    "three_inst_ratio": 40.46647755890149,
     "three_inst_ratio_change_20": 1.4252955117802983
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.21,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.39118204712119,
+    "three_inst_ratio": 40.43647755890149,
     "three_inst_ratio_change_20": 1.4852955117802935
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -38.925886535340894
+    "three_inst_ratio_change_20": -38.97118204712119
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.29,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.47118204712119,
+    "three_inst_ratio": 40.516477558901485,
     "three_inst_ratio_change_20": 1.335295511780295
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.37,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.55118204712119,
+    "three_inst_ratio": 40.59647755890148,
     "three_inst_ratio_change_20": 1.4652955117802904
   },
   {
@@ -1721,9 +1743,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.39,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.57118204712119,
+    "three_inst_ratio": 40.61647755890149,
     "three_inst_ratio_change_20": 1.3952955117802972
   },
   {
@@ -1732,9 +1754,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.57,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.75118204712119,
+    "three_inst_ratio": 40.796477558901486,
     "three_inst_ratio_change_20": 1.4552955117802995
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.54,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.72118204712119,
+    "three_inst_ratio": 40.766477558901485,
     "three_inst_ratio_change_20": 1.2952955117802958
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.49,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.67118204712119,
+    "three_inst_ratio": 40.71647755890149,
     "three_inst_ratio_change_20": 0.8652955117802961
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.11,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.29118204712119,
+    "three_inst_ratio": 41.336477558901485,
     "three_inst_ratio_change_20": 1.1552955117802952
   },
   {
@@ -1776,9 +1798,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.17,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.35118204712119,
+    "three_inst_ratio": 41.39647755890149,
     "three_inst_ratio_change_20": 1.065295511780299
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.97,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.15118204712119,
+    "three_inst_ratio": 41.196477558901485,
     "three_inst_ratio_change_20": 0.8452955117802929
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.05,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.23118204712119,
+    "three_inst_ratio": 41.27647755890148,
     "three_inst_ratio_change_20": 0.8399999999999963
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.92,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.10118204712119,
+    "three_inst_ratio": 41.14647755890149,
     "three_inst_ratio_change_20": 0.5799999999999983
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.97,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.15118204712119,
+    "three_inst_ratio": 41.196477558901485,
     "three_inst_ratio_change_20": 0.5499999999999972
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.04,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.22118204712119,
+    "three_inst_ratio": 41.266477558901485,
     "three_inst_ratio_change_20": 0.5
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.67,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.85118204712119,
+    "three_inst_ratio": 41.89647755890149,
     "three_inst_ratio_change_20": 1.1900000000000048
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 42.22,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.40118204712119,
+    "three_inst_ratio": 42.446477558901485,
     "three_inst_ratio_change_20": 2.030000000000001
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.54,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.72118204712119,
+    "three_inst_ratio": 41.766477558901485,
     "three_inst_ratio_change_20": 1.3900000000000006
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.86,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.04118204712119,
+    "three_inst_ratio": 42.086477558901485,
     "three_inst_ratio_change_20": 1.6300000000000026
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 42.07,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.25118204712119,
+    "three_inst_ratio": 42.296477558901486,
     "three_inst_ratio_change_20": 1.8299999999999983
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 42.09,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.271182047121194,
+    "three_inst_ratio": 42.31647755890149,
     "three_inst_ratio_change_20": 1.8800000000000026
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 42.63,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.81118204712119,
-    "three_inst_ratio_change_20": 42.81118204712119
+    "three_inst_ratio": 42.85647755890149,
+    "three_inst_ratio_change_20": 42.85647755890149
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 43.18,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.36118204712119,
+    "three_inst_ratio": 43.406477558901486,
     "three_inst_ratio_change_20": 2.8900000000000006
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 42.74,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.92118204712119,
+    "three_inst_ratio": 42.96647755890149,
     "three_inst_ratio_change_20": 2.3700000000000045
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.76,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.94118204712119,
+    "three_inst_ratio": 40.986477558901484,
     "three_inst_ratio_change_20": 0.36999999999999744
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.09,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.271182047121194,
+    "three_inst_ratio": 41.31647755890149,
     "three_inst_ratio_change_20": 0.5200000000000031
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.38,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.56118204712119,
+    "three_inst_ratio": 41.60647755890149,
     "three_inst_ratio_change_20": 0.8400000000000034
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.16,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.34118204712119,
+    "three_inst_ratio": 41.38647755890148,
     "three_inst_ratio_change_20": 0.6699999999999946
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 40.82,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.00118204712119,
+    "three_inst_ratio": 41.046477558901486,
     "three_inst_ratio_change_20": -0.28999999999999915
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.48,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.66118204712119,
+    "three_inst_ratio": 39.70647755890148,
     "three_inst_ratio_change_20": -1.6900000000000048
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 39.49,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.67118204712119,
+    "three_inst_ratio": 39.71647755890149,
     "three_inst_ratio_change_20": -1.4799999999999969
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 41.13,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.31118204712119,
+    "three_inst_ratio": 41.35647755890149,
     "three_inst_ratio_change_20": 0.0800000000000054
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.47,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.65118204712119,
+    "three_inst_ratio": 38.696477558901485,
     "three_inst_ratio_change_20": -2.450000000000003
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "凌巨",
     "market": "TWSE",
     "foreign_ratio": 38.93,
-    "trust_ratio": 0.18118204712118816,
+    "trust_ratio": 0.2264775589014852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.11118204712119,
+    "three_inst_ratio": 39.156477558901486,
     "three_inst_ratio_change_20": -2.039999999999999
+  },
+  {
+    "date": "2026-06-17",
+    "code": "8105",
+    "name": "凌巨",
+    "market": "TWSE",
+    "foreign_ratio": 38.74,
+    "trust_ratio": 0.2264775589014852,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.96647755890149,
+    "three_inst_ratio_change_20": -2.299999999999997
   }
 ]

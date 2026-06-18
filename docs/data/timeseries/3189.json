@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -24.122834854445586
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "3189",
     "name": "景碩",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -25.737304625051326
   },
   {
+    "date": "2026-02-18",
+    "code": "3189",
+    "name": "景碩",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -24.205958143979636
+  },
+  {
     "date": "2026-02-23",
     "code": "3189",
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 12.2,
-    "trust_ratio": 7.6761009698593705,
+    "trust_ratio": 7.704112992094088,
     "dealer_ratio": 1.0808896163066386,
-    "three_inst_ratio": 20.956990586166008,
-    "three_inst_ratio_change_20": -3.2489675578136286
+    "three_inst_ratio": 20.985002608400727,
+    "three_inst_ratio_change_20": -2.7466785691743425
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 12.12,
-    "trust_ratio": 7.900853679508238,
+    "trust_ratio": 7.928865701742955,
     "dealer_ratio": 1.0808896163066386,
-    "three_inst_ratio": 21.101743295814874,
-    "three_inst_ratio_change_20": -2.6299378817601955
+    "three_inst_ratio": 21.129755318049593,
+    "three_inst_ratio_change_20": -1.6773777771671625
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 12.12,
-    "trust_ratio": 8.104650477727288,
+    "trust_ratio": 8.132663768983491,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 21.305589061299997,
-    "three_inst_ratio_change_20": -1.5015440339167583
+    "three_inst_ratio": 21.3336023525562,
+    "three_inst_ratio_change_20": -1.5707286066602144
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 10.61,
-    "trust_ratio": 8.045553813576275,
+    "trust_ratio": 8.073567104832478,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 19.736492397148986,
-    "three_inst_ratio_change_20": -3.167838562067427
+    "three_inst_ratio": 19.764505688405187,
+    "three_inst_ratio_change_20": -4.031795443879542
+  },
+  {
+    "date": "2026-02-27",
+    "code": "3189",
+    "name": "景碩",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.55036184986642
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 9.63,
-    "trust_ratio": 8.020823329889158,
+    "trust_ratio": 8.267291707391719,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 18.731761913461867,
-    "three_inst_ratio_change_20": -5.064539218822862
+    "three_inst_ratio": 18.97823029096443,
+    "three_inst_ratio_change_20": 1.6741316230805232
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 10.58,
-    "trust_ratio": 8.047961205793603,
+    "trust_ratio": 8.294429583296164,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 19.708899789366313,
-    "three_inst_ratio_change_20": -3.841462060500106
+    "three_inst_ratio": 19.955368166868872,
+    "three_inst_ratio_change_20": 1.7447844203983323
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 10.95,
-    "trust_ratio": 7.939409702175819,
+    "trust_ratio": 8.18587807967838,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 19.97034828574853,
-    "three_inst_ratio_change_20": 2.6662496178646222
+    "three_inst_ratio": 20.216816663251088,
+    "three_inst_ratio_change_20": 2.3571768584651203
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 9.77,
-    "trust_ratio": 7.951227809424529,
+    "trust_ratio": 8.19769618692709,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 18.802166392997236,
-    "three_inst_ratio_change_20": 0.591582646526696
+    "three_inst_ratio": 19.0486347704998,
+    "three_inst_ratio_change_20": 2.0030812159558167
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 9.53,
-    "trust_ratio": 7.968298408783777,
+    "trust_ratio": 8.214766786286338,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 18.579236992356485,
-    "three_inst_ratio_change_20": 0.7195971875705176
+    "three_inst_ratio": 18.825705369859048,
+    "three_inst_ratio_change_20": 1.681706625235332
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 10.21,
-    "trust_ratio": 7.809410522440004,
+    "trust_ratio": 8.055878899942565,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 19.100349106012715,
-    "three_inst_ratio_change_20": 2.0547955514687324
+    "three_inst_ratio": 19.346817483515274,
+    "three_inst_ratio_change_20": 0.9607146806191977
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 9.87,
-    "trust_ratio": 7.811599060819393,
+    "trust_ratio": 8.058067438321954,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 18.762537644392104,
-    "three_inst_ratio_change_20": 1.6185388997683887
+    "three_inst_ratio": 19.009006021894663,
+    "three_inst_ratio_change_20": -4.114739030536622
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 9.13,
-    "trust_ratio": 7.869376474035312,
+    "trust_ratio": 8.115844851537874,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 18.080315057608022,
-    "three_inst_ratio_change_20": -0.30578774528805397
+    "three_inst_ratio": 18.326783435110585,
+    "three_inst_ratio_change_20": -3.3706076301835566
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 8.56,
-    "trust_ratio": 7.573267231303732,
+    "trust_ratio": 7.819735608806293,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 17.214205814876443,
-    "three_inst_ratio_change_20": -5.909539237554842
+    "three_inst_ratio": 17.460674192379003,
+    "three_inst_ratio_change_20": -4.097944733514886
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 9.77,
-    "trust_ratio": 8.48389966724587,
+    "trust_ratio": 8.730368044748431,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 19.334838250818578,
-    "three_inst_ratio_change_20": -2.3625528144755634
+    "three_inst_ratio": 19.58130662832114,
+    "three_inst_ratio_change_20": -1.581891826833342
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 8.95,
-    "trust_ratio": 8.62724893109597,
+    "trust_ratio": 8.87371730859853,
     "dealer_ratio": 1.0809385835727083,
-    "three_inst_ratio": 18.65818751466868,
-    "three_inst_ratio_change_20": -2.9004314112252096
+    "three_inst_ratio": 18.90465589217124,
+    "three_inst_ratio_change_20": -0.6589067210230404
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 15.06,
-    "trust_ratio": 7.240512500086351,
+    "trust_ratio": 7.454238542356122,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 23.237852729062734,
-    "three_inst_ratio_change_20": 2.0746542739082514
+    "three_inst_ratio": 23.451578771332503,
+    "three_inst_ratio_change_20": 2.32886147824626
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.05,
-    "trust_ratio": 7.2420307399544335,
+    "trust_ratio": 7.455756782224205,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.229370968930816,
-    "three_inst_ratio_change_20": 4.665808355736534
+    "three_inst_ratio": 24.443097011200585,
+    "three_inst_ratio_change_20": 24.443097011200585
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.39,
-    "trust_ratio": 7.9597786375907535,
+    "trust_ratio": 8.173504679860526,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.287118866567134,
-    "three_inst_ratio_change_20": 4.164401573480891
+    "three_inst_ratio": 25.50084490883691,
+    "three_inst_ratio_change_20": 25.50084490883691
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.26,
-    "trust_ratio": 8.076597516660595,
+    "trust_ratio": 8.290323558930366,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.273937745636978,
-    "three_inst_ratio_change_20": 25.273937745636978
+    "three_inst_ratio": 25.487663787906747,
+    "three_inst_ratio_change_20": 25.487663787906747
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.16,
-    "trust_ratio": 8.011106531930976,
+    "trust_ratio": 8.224832574200747,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.108446760907356,
-    "three_inst_ratio_change_20": 25.108446760907356
+    "three_inst_ratio": 25.32217280317713,
+    "three_inst_ratio_change_20": 4.337170194776402
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.45,
-    "trust_ratio": 7.772039548023028,
+    "trust_ratio": 7.985765590292799,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.15937977699941,
-    "three_inst_ratio_change_20": 4.202389190833401
+    "three_inst_ratio": 25.37310581926918,
+    "three_inst_ratio_change_20": 4.243350501219588
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.6,
-    "trust_ratio": 7.772002730706226,
+    "trust_ratio": 7.985728772975999,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.30934295968261,
-    "three_inst_ratio_change_20": 4.207599663867736
+    "three_inst_ratio": 25.523069001952383,
+    "three_inst_ratio_change_20": 4.189466649396184
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.78,
-    "trust_ratio": 7.71958796640044,
+    "trust_ratio": 7.933314008670213,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.436928195376822,
-    "three_inst_ratio_change_20": 4.131339134076825
+    "three_inst_ratio": 25.650654237646595,
+    "three_inst_ratio_change_20": 5.886148549241408
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.86,
-    "trust_ratio": 7.704502165731215,
+    "trust_ratio": 7.918228208000988,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.501842394707595,
-    "three_inst_ratio_change_20": 5.765349997558609
+    "three_inst_ratio": 25.71556843697737,
+    "three_inst_ratio_change_20": 25.71556843697737
   },
   {
     "date": "2026-03-30",
@@ -1446,10 +1468,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.85,
-    "trust_ratio": 7.472321538304927,
+    "trust_ratio": 7.686047580574698,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.259661767281308,
-    "three_inst_ratio_change_20": 6.5278998538194415
+    "three_inst_ratio": 25.47338780955108,
+    "three_inst_ratio_change_20": 6.495157518586652
   },
   {
     "date": "2026-03-31",
@@ -1457,10 +1479,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.81,
-    "trust_ratio": 7.2253012548480235,
+    "trust_ratio": 7.439027297117796,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.972641483824404,
-    "three_inst_ratio_change_20": 5.263741694458091
+    "three_inst_ratio": 25.186367526094177,
+    "three_inst_ratio_change_20": 5.230999359225304
   },
   {
     "date": "2026-04-01",
@@ -1468,10 +1490,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.03,
-    "trust_ratio": 6.821579449226604,
+    "trust_ratio": 7.035305491496377,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.788919678202987,
-    "three_inst_ratio_change_20": 4.818571392454459
+    "three_inst_ratio": 25.00264572047276,
+    "three_inst_ratio_change_20": 4.785829057221672
   },
   {
     "date": "2026-04-02",
@@ -1479,10 +1501,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.39,
-    "trust_ratio": 6.6469818643970395,
+    "trust_ratio": 6.8607079066668115,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.974322093373424,
-    "three_inst_ratio_change_20": 6.172155700376187
+    "three_inst_ratio": 25.188048135643193,
+    "three_inst_ratio_change_20": 6.139413365143394
   },
   {
     "date": "2026-04-07",
@@ -1490,10 +1512,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.64,
-    "trust_ratio": 6.612821467365168,
+    "trust_ratio": 6.826547509634941,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.19016169634155,
-    "three_inst_ratio_change_20": 6.6109247039850665
+    "three_inst_ratio": 25.403887738611324,
+    "three_inst_ratio_change_20": 6.578182368752277
   },
   {
     "date": "2026-04-08",
@@ -1501,10 +1523,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.99,
-    "trust_ratio": 6.599985508400459,
+    "trust_ratio": 6.81371155067023,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.527325737376838,
-    "three_inst_ratio_change_20": 6.4269766313641234
+    "three_inst_ratio": 25.74105177964661,
+    "three_inst_ratio_change_20": 6.394234296131337
   },
   {
     "date": "2026-04-09",
@@ -1512,10 +1534,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.37,
-    "trust_ratio": 6.621051086570113,
+    "trust_ratio": 6.834777128839884,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.928391315546495,
-    "three_inst_ratio_change_20": 6.165853671154391
+    "three_inst_ratio": 25.142117357816268,
+    "three_inst_ratio_change_20": 6.133111335921605
   },
   {
     "date": "2026-04-10",
@@ -1523,10 +1545,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 16.89,
-    "trust_ratio": 6.386642631917396,
+    "trust_ratio": 6.600368674187167,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.21398286089378,
-    "three_inst_ratio_change_20": 6.133667803285757
+    "three_inst_ratio": 24.42770890316355,
+    "three_inst_ratio_change_20": 6.100925468052964
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.06,
-    "trust_ratio": 6.290218458775499,
+    "trust_ratio": 6.50394450104527,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.28755868775188,
-    "three_inst_ratio_change_20": 7.073352872875436
+    "three_inst_ratio": 24.501284730021652,
+    "three_inst_ratio_change_20": 7.0406105376426495
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.65,
-    "trust_ratio": 5.906271917215846,
+    "trust_ratio": 6.119997959485617,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.493612146192227,
-    "three_inst_ratio_change_20": 5.158773895373649
+    "three_inst_ratio": 24.707338188461996,
+    "three_inst_ratio_change_20": 5.126031560140856
   },
   {
     "date": "2026-04-15",
@@ -1556,10 +1578,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.43,
-    "trust_ratio": 5.761760722512134,
+    "trust_ratio": 5.975486764781905,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.129100951488518,
-    "three_inst_ratio_change_20": 6.470913436819838
+    "three_inst_ratio": 25.342826993758287,
+    "three_inst_ratio_change_20": 6.438171101587045
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.0,
-    "trust_ratio": 5.733673284952596,
+    "trust_ratio": 5.947399327222367,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.671013513928976,
-    "three_inst_ratio_change_20": 1.4331607848662422
+    "three_inst_ratio": 24.88473955619875,
+    "three_inst_ratio_change_20": 1.4331607848662458
   },
   {
     "date": "2026-04-17",
@@ -1578,9 +1600,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.76,
-    "trust_ratio": 5.757965122841926,
+    "trust_ratio": 5.9716911651116975,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 24.45530535181831,
+    "three_inst_ratio": 24.66903139408808,
     "three_inst_ratio_change_20": 0.22593438288749468
   },
   {
@@ -1589,10 +1611,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.52,
-    "trust_ratio": 5.757965122841926,
+    "trust_ratio": 5.9716911651116975,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.21530535181831,
-    "three_inst_ratio_change_20": -0.07181351474882547
+    "three_inst_ratio": 25.429031394088078,
+    "three_inst_ratio_change_20": -0.07181351474883257
   },
   {
     "date": "2026-04-21",
@@ -1600,9 +1622,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.08,
-    "trust_ratio": 5.8889133114641,
+    "trust_ratio": 6.102639353733872,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.90625354044048,
+    "three_inst_ratio": 26.11997958271025,
     "three_inst_ratio_change_20": 0.6323157948035032
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.38,
-    "trust_ratio": 6.013788540613942,
+    "trust_ratio": 6.227514582883713,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.331128769590322,
+    "three_inst_ratio": 26.544854811860095,
     "three_inst_ratio_change_20": 1.2226820086829662
   },
   {
@@ -1622,10 +1644,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.4,
-    "trust_ratio": 5.979438363598559,
+    "trust_ratio": 6.193164405868331,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.31677859257494,
-    "three_inst_ratio_change_20": 1.157398815575533
+    "three_inst_ratio": 26.53050463484471,
+    "three_inst_ratio_change_20": 1.1573988155755295
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 20.61,
-    "trust_ratio": 6.460340841813905,
+    "trust_ratio": 6.674066884083676,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 28.007681070790287,
-    "three_inst_ratio_change_20": 2.6983381111076774
+    "three_inst_ratio": 28.221407113060057,
+    "three_inst_ratio_change_20": 2.698338111107674
   },
   {
     "date": "2026-04-27",
@@ -1644,9 +1666,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.8,
-    "trust_ratio": 6.524486476240419,
+    "trust_ratio": 6.738212518510191,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.2618267052168,
+    "three_inst_ratio": 26.475552747486574,
     "three_inst_ratio_change_20": 0.8248985098399793
   },
   {
@@ -1655,10 +1677,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.05,
-    "trust_ratio": 6.869145714513667,
+    "trust_ratio": 7.082871756783439,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.85648594349005,
-    "three_inst_ratio_change_20": 0.3546435487824553
+    "three_inst_ratio": 26.070211985759823,
+    "three_inst_ratio_change_20": 0.35464354878245175
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.16,
-    "trust_ratio": 7.017652347210222,
+    "trust_ratio": 7.231378389479995,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.114992576186605,
+    "three_inst_ratio": 26.328718618456378,
     "three_inst_ratio_change_20": 0.8553308089052969
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.09,
-    "trust_ratio": 7.050674064341032,
+    "trust_ratio": 7.264400106610804,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.078014293317413,
+    "three_inst_ratio": 26.291740335587185,
     "three_inst_ratio_change_20": 1.1053728094930086
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -24.788919678202987
+    "three_inst_ratio_change_20": -25.00264572047276
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.23,
-    "trust_ratio": 7.26968016531203,
+    "trust_ratio": 7.483406207581801,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.43702039428841,
-    "three_inst_ratio_change_20": 1.4626983009149868
+    "three_inst_ratio": 26.650746436558183,
+    "three_inst_ratio_change_20": 1.4626983009149903
   },
   {
     "date": "2026-05-05",
@@ -1710,9 +1732,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.17,
-    "trust_ratio": 7.286380803860945,
+    "trust_ratio": 7.500106846130716,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.393721032837327,
+    "three_inst_ratio": 26.6074470751071,
     "three_inst_ratio_change_20": 1.2035593364957755
   },
   {
@@ -1721,10 +1743,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.62,
-    "trust_ratio": 7.216972950051654,
+    "trust_ratio": 7.4306989923214255,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.774313179028038,
-    "three_inst_ratio_change_20": 0.2469874416511999
+    "three_inst_ratio": 25.988039221297807,
+    "three_inst_ratio_change_20": 0.24698744165119635
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1754,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 17.87,
-    "trust_ratio": 7.147529417605464,
+    "trust_ratio": 7.361255459875235,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.954869646581848,
-    "three_inst_ratio_change_20": 1.026478331035353
+    "three_inst_ratio": 26.168595688851617,
+    "three_inst_ratio_change_20": 1.0264783310353494
   },
   {
     "date": "2026-05-08",
@@ -1743,9 +1765,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 18.56,
-    "trust_ratio": 6.474000256127066,
+    "trust_ratio": 6.6877262983968375,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.971340485103447,
+    "three_inst_ratio": 26.185066527373216,
     "three_inst_ratio_change_20": 1.7573576242096678
   },
   {
@@ -1754,10 +1776,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.39,
-    "trust_ratio": 5.728164920931206,
+    "trust_ratio": 5.9418909632009775,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.05550514990759,
-    "three_inst_ratio_change_20": 1.7679464621557095
+    "three_inst_ratio": 26.269231192177358,
+    "three_inst_ratio_change_20": 1.767946462155706
   },
   {
     "date": "2026-05-12",
@@ -1765,9 +1787,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.17,
-    "trust_ratio": 5.50683040934252,
+    "trust_ratio": 5.720556451612291,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.614170638318903,
+    "three_inst_ratio": 25.827896680588672,
     "three_inst_ratio_change_20": 1.1205584921266762
   },
   {
@@ -1776,10 +1798,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.31,
-    "trust_ratio": 5.297620751120328,
+    "trust_ratio": 5.5113467933901,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.544960980096707,
-    "three_inst_ratio_change_20": 0.41586002860818994
+    "three_inst_ratio": 25.75868702236648,
+    "three_inst_ratio_change_20": 0.4158600286081935
   },
   {
     "date": "2026-05-14",
@@ -1787,10 +1809,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 20.59,
-    "trust_ratio": 5.213980347447675,
+    "trust_ratio": 5.427706389717447,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.74132057642406,
-    "three_inst_ratio_change_20": 2.0703070624950826
+    "three_inst_ratio": 26.955046618693828,
+    "three_inst_ratio_change_20": 2.070307062495079
   },
   {
     "date": "2026-05-15",
@@ -1798,9 +1820,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.36,
-    "trust_ratio": 5.307921439285322,
+    "trust_ratio": 5.521647481555093,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.605261668261704,
+    "three_inst_ratio": 25.818987710531474,
     "three_inst_ratio_change_20": 1.1499563164433937
   },
   {
@@ -1809,10 +1831,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.55,
-    "trust_ratio": 5.424256569177195,
+    "trust_ratio": 5.637982611446967,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 25.911596798153578,
-    "three_inst_ratio_change_20": 0.6962914463352696
+    "three_inst_ratio": 26.12532284042335,
+    "three_inst_ratio_change_20": 0.6962914463352732
   },
   {
     "date": "2026-05-19",
@@ -1820,9 +1842,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.78,
-    "trust_ratio": 5.505572357831829,
+    "trust_ratio": 5.719298400101601,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.222912586808214,
+    "three_inst_ratio": 26.436638629077983,
     "three_inst_ratio_change_20": 0.31665904636773234
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 19.65,
-    "trust_ratio": 5.531192655605732,
+    "trust_ratio": 5.744918697875504,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 26.118532884582113,
+    "three_inst_ratio": 26.332258926851885,
     "three_inst_ratio_change_20": -0.21259588500820925
   },
   {
@@ -1842,10 +1864,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 21.88,
-    "trust_ratio": 5.868431686303708,
+    "trust_ratio": 6.082157728573479,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 28.68577191528009,
-    "three_inst_ratio_change_20": 2.3689933227051476
+    "three_inst_ratio": 28.899497957549862,
+    "three_inst_ratio_change_20": 2.368993322705151
   },
   {
     "date": "2026-05-22",
@@ -1853,9 +1875,9 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 22.05,
-    "trust_ratio": 5.979263196673779,
+    "trust_ratio": 6.192989238943551,
     "dealer_ratio": 0.9373402289763821,
-    "three_inst_ratio": 28.966603425650163,
+    "three_inst_ratio": 29.180329467919933,
     "three_inst_ratio_change_20": 0.958922354859876
   },
   {
@@ -1864,10 +1886,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 22.05,
-    "trust_ratio": 6.1993382016131005,
+    "trust_ratio": 6.413068381177288,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 29.18669657555887,
-    "three_inst_ratio_change_20": 2.924869870342068
+    "three_inst_ratio": 29.400426755123057,
+    "three_inst_ratio_change_20": 2.9248740076364825
   },
   {
     "date": "2026-05-26",
@@ -1875,10 +1897,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 22.88,
-    "trust_ratio": 6.637169098908714,
+    "trust_ratio": 6.850899278472901,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.454527472854483,
-    "three_inst_ratio_change_20": 4.598041529364433
+    "three_inst_ratio": 30.66825765241867,
+    "three_inst_ratio_change_20": 4.598045666658848
   },
   {
     "date": "2026-05-27",
@@ -1886,10 +1908,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 22.55,
-    "trust_ratio": 6.8021273457449825,
+    "trust_ratio": 7.015857525309169,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.289485719690752,
-    "three_inst_ratio_change_20": 4.174493143504147
+    "three_inst_ratio": 30.50321589925494,
+    "three_inst_ratio_change_20": 4.174497280798562
   },
   {
     "date": "2026-05-28",
@@ -1897,10 +1919,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 22.54,
-    "trust_ratio": 6.802561191185476,
+    "trust_ratio": 7.016291370749663,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.279919565131244,
-    "three_inst_ratio_change_20": 4.201905271813832
+    "three_inst_ratio": 30.493649744695432,
+    "three_inst_ratio_change_20": 4.2019094091082465
   },
   {
     "date": "2026-05-29",
@@ -1908,10 +1930,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 22.86,
-    "trust_ratio": 6.802389436975656,
+    "trust_ratio": 7.016119616539843,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.599747810921425,
-    "three_inst_ratio_change_20": 30.599747810921425
+    "three_inst_ratio": 30.813477990485612,
+    "three_inst_ratio_change_20": 30.813477990485612
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 23.04,
-    "trust_ratio": 6.805272440513072,
+    "trust_ratio": 7.019002620077258,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.78263081445884,
-    "three_inst_ratio_change_20": 4.345610420170431
+    "three_inst_ratio": 30.99636099402303,
+    "three_inst_ratio_change_20": 4.345614557464845
   },
   {
     "date": "2026-06-02",
@@ -1930,10 +1952,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 23.07,
-    "trust_ratio": 6.803013066073409,
+    "trust_ratio": 7.0167432456375955,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.81037144001918,
-    "three_inst_ratio_change_20": 4.4166504071818515
+    "three_inst_ratio": 31.024101619583366,
+    "three_inst_ratio_change_20": 4.416654544476266
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 23.31,
-    "trust_ratio": 6.631117657213366,
+    "trust_ratio": 6.844847836777553,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.878476031159135,
-    "three_inst_ratio_change_20": 5.104162852131097
+    "three_inst_ratio": 31.092206210723322,
+    "three_inst_ratio_change_20": 5.104166989425515
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 23.2,
-    "trust_ratio": 6.462057616192767,
+    "trust_ratio": 6.675787795756953,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.599415990138535,
-    "three_inst_ratio_change_20": 4.644546343556687
+    "three_inst_ratio": 30.813146169702723,
+    "three_inst_ratio_change_20": 4.644550480851105
   },
   {
     "date": "2026-06-05",
@@ -1963,10 +1985,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 23.64,
-    "trust_ratio": 6.363957494837505,
+    "trust_ratio": 6.577687674401692,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.941315868783278,
-    "three_inst_ratio_change_20": 4.969975383679831
+    "three_inst_ratio": 31.15504604834746,
+    "three_inst_ratio_change_20": 4.9699795209742454
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 24.13,
-    "trust_ratio": 6.070362177058435,
+    "trust_ratio": 6.284092356622622,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 31.137720551004204,
-    "three_inst_ratio_change_20": 5.082215401096615
+    "three_inst_ratio": 31.35145073056839,
+    "three_inst_ratio_change_20": 5.082219538391033
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 24.25,
-    "trust_ratio": 6.00279919507437,
+    "trust_ratio": 6.216529374638557,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 31.19015756902014,
-    "three_inst_ratio_change_20": 5.575986930701237
+    "three_inst_ratio": 31.403887748584328,
+    "three_inst_ratio_change_20": 5.5759910679956555
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 24.6,
-    "trust_ratio": 5.937134049662891,
+    "trust_ratio": 6.150864229227078,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 31.474492423608663,
-    "three_inst_ratio_change_20": 5.929531443511955
+    "three_inst_ratio": 31.68822260317285,
+    "three_inst_ratio_change_20": 5.92953558080637
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 24.55,
-    "trust_ratio": 5.727061570525049,
+    "trust_ratio": 5.940791750089236,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 31.21441994447082,
-    "three_inst_ratio_change_20": 4.473099368046761
+    "three_inst_ratio": 31.428150124035007,
+    "three_inst_ratio_change_20": 4.473103505341179
   },
   {
     "date": "2026-06-12",
@@ -2018,10 +2040,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 24.19,
-    "trust_ratio": 5.648491136419985,
+    "trust_ratio": 5.862221315984171,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.775849510365756,
-    "three_inst_ratio_change_20": 5.170587842104052
+    "three_inst_ratio": 30.989579689929943,
+    "three_inst_ratio_change_20": 5.17059197939847
   },
   {
     "date": "2026-06-15",
@@ -2029,10 +2051,10 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 24.17,
-    "trust_ratio": 5.731444624089437,
+    "trust_ratio": 5.945174803653623,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.83880299803521,
-    "three_inst_ratio_change_20": 4.927206199881631
+    "three_inst_ratio": 31.052533177599393,
+    "three_inst_ratio_change_20": 4.927210337176042
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "景碩",
     "market": "TWSE",
     "foreign_ratio": 23.75,
-    "trust_ratio": 5.643403036568881,
+    "trust_ratio": 5.857133216133068,
     "dealer_ratio": 0.9373583739457708,
-    "three_inst_ratio": 30.33076141051465,
-    "three_inst_ratio_change_20": 4.107848823706437
+    "three_inst_ratio": 30.544491590078838,
+    "three_inst_ratio_change_20": 4.107852961000855
+  },
+  {
+    "date": "2026-06-17",
+    "code": "3189",
+    "name": "景碩",
+    "market": "TWSE",
+    "foreign_ratio": 24.56,
+    "trust_ratio": 5.881425524262171,
+    "dealer_ratio": 0.9373583739457708,
+    "three_inst_ratio": 31.37878389820794,
+    "three_inst_ratio_change_20": 5.046524971356053
   }
 ]

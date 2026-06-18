@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -0.8356502203501021
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "00713",
     "name": "元大台灣高息低波",
     "market": "TWSE",
@@ -1177,6 +1177,17 @@
     "three_inst_ratio_change_20": -0.8356236541222314
   },
   {
+    "date": "2026-02-18",
+    "code": "00713",
+    "name": "元大台灣高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.8622680445539775
+  },
+  {
     "date": "2026-02-23",
     "code": "00713",
     "name": "元大台灣高息低波",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.01043213745554632,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8504321374555462,
-    "three_inst_ratio_change_20": -0.011835907098431298
+    "three_inst_ratio_change_20": -0.02197233748748406
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.01047898813179744,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8004789881317975,
-    "three_inst_ratio_change_20": -0.07192548681123279
+    "three_inst_ratio_change_20": -0.028388366202579896
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.007531702009716325,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8075317020097164,
-    "three_inst_ratio_change_20": -0.02133565232466106
+    "three_inst_ratio_change_20": -0.04167659236011945
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 0.0041063110975867,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7641063110975868,
-    "three_inst_ratio_change_20": -0.08510198327224905
+    "three_inst_ratio_change_20": -0.040914092093837784
+  },
+  {
+    "date": "2026-02-27",
+    "code": "00713",
+    "name": "元大台灣高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.8550781447082701
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.77,
-    "trust_ratio": 0.004113423095441808,
+    "trust_ratio": 0.0008226846190883615,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7741134230954418,
-    "three_inst_ratio_change_20": -0.030906980095982695
+    "three_inst_ratio": 0.7708226846190884,
+    "three_inst_ratio_change_20": -0.0643642402338791
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.71,
-    "trust_ratio": 0.007602045514966908,
+    "trust_ratio": 0.004300585748466993,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7176020455149669,
-    "three_inst_ratio_change_20": -0.13747609919330328
+    "three_inst_ratio": 0.714300585748467,
+    "three_inst_ratio_change_20": -0.12094463150454315
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.59,
-    "trust_ratio": 0.007626894084668113,
+    "trust_ratio": 0.004314642939326532,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.5976268940846681,
-    "three_inst_ratio_change_20": -0.23756003076829946
+    "three_inst_ratio": 0.5943146429393265,
+    "three_inst_ratio_change_20": -0.31101104244538724
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.51,
-    "trust_ratio": 0.007660279306915437,
+    "trust_ratio": 0.004333529436483591,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.5176602793069155,
-    "three_inst_ratio_change_20": -0.31758493794609466
+    "three_inst_ratio": 0.5143335294364836,
+    "three_inst_ratio_change_20": -0.37101416561135003
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.5,
-    "trust_ratio": 0.007677081761359449,
+    "trust_ratio": 0.004343034824997631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.5076770817613594,
-    "three_inst_ratio_change_20": -0.3976486036233543
+    "three_inst_ratio": 0.5043430348249976,
+    "three_inst_ratio_change_20": -0.37786125087979006
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.38,
-    "trust_ratio": 0.007678766061784668,
+    "trust_ratio": 0.004343987657809612,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3876787660617847,
-    "three_inst_ratio_change_20": -0.4976689289860489
+    "three_inst_ratio": 0.38434398765780964,
+    "three_inst_ratio_change_20": -0.44038573106346024
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.39,
-    "trust_ratio": 0.007697342261663893,
+    "trust_ratio": 0.004354496479455574,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3976973422616639,
-    "three_inst_ratio_change_20": -0.4845069434431238
+    "three_inst_ratio": 0.3943544964794556,
+    "three_inst_ratio_change_20": -0.22959795357077323
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.37,
-    "trust_ratio": 0.007710908776864806,
+    "trust_ratio": 0.00436217125091209,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3777109087768648,
-    "three_inst_ratio_change_20": -0.44701880994440507
+    "three_inst_ratio": 0.3743621712509121,
+    "three_inst_ratio_change_20": -0.189613561870157
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.35,
-    "trust_ratio": 0.007727934318740638,
+    "trust_ratio": 0.004371802843173275,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3577279343187406,
-    "three_inst_ratio_change_20": -0.2662245157314882
+    "three_inst_ratio": 0.35437180284317327,
+    "three_inst_ratio_change_20": -0.21964779613770657
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.33,
-    "trust_ratio": 0.007670351942045451,
+    "trust_ratio": 0.0043392276700714265,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3376703519420455,
-    "three_inst_ratio_change_20": -0.2263053811790236
+    "three_inst_ratio": 0.33433922767007146,
+    "three_inst_ratio_change_20": -0.2859483543366537
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.31,
-    "trust_ratio": 0.007682136880753921,
+    "trust_ratio": 0.004345894578255075,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3176821368807539,
-    "three_inst_ratio_change_20": -0.2563374621001259
+    "three_inst_ratio": 0.31434589457825507,
+    "three_inst_ratio_change_20": -0.3859698427738088
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.32,
-    "trust_ratio": 0.007695649803079316,
+    "trust_ratio": 0.004353539031456298,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3276956498030793,
-    "three_inst_ratio_change_20": -0.2925919322036459
+    "three_inst_ratio": 0.3243535390314563,
+    "three_inst_ratio_change_20": -0.5260123909913232
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.3,
-    "trust_ratio": 0.0077024241069149285,
+    "trust_ratio": 0.004357371351911874,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3077024241069149,
-    "three_inst_ratio_change_20": -0.392613313245149
+    "three_inst_ratio": 0.3043573713519119,
+    "three_inst_ratio_change_20": 0.3043573713519119
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.23,
-    "trust_ratio": 0.007707512666746531,
+    "trust_ratio": 0.004360250022902324,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.23770751266674653,
-    "three_inst_ratio_change_20": -0.6126584173560331
+    "three_inst_ratio": 0.23436025002290234,
+    "three_inst_ratio_change_20": 0.23436025002290234
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.24,
-    "trust_ratio": 0.007707512666746531,
+    "trust_ratio": 0.004360250022902324,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.2477075126667465,
-    "three_inst_ratio_change_20": 0.2477075126667465
+    "three_inst_ratio": 0.24436025002290232,
+    "three_inst_ratio_change_20": 0.24436025002290232
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.27,
-    "trust_ratio": 0.007709210347786708,
+    "trust_ratio": 0.004361210425319338,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.27770921034778673,
-    "three_inst_ratio_change_20": 0.27770921034778673
+    "three_inst_ratio": 0.27436121042531936,
+    "three_inst_ratio_change_20": -0.5760709270302269
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.35,
-    "trust_ratio": 0.007709210347786708,
+    "trust_ratio": 0.004361210425319338,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3577092103477867,
-    "three_inst_ratio_change_20": -0.49272292710775956
+    "three_inst_ratio": 0.3543612104253193,
+    "three_inst_ratio_change_20": -0.4461177777064782
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.37,
-    "trust_ratio": 0.004625526208672025,
+    "trust_ratio": 0.0012775262862046543,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.374625526208672,
-    "three_inst_ratio_change_20": -0.4258534619231255
+    "three_inst_ratio": 0.37127752628620464,
+    "three_inst_ratio_change_20": -0.4362541757235117
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.39,
-    "trust_ratio": 0.004626545266118884,
+    "trust_ratio": 0.0012778077401661679,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.3946265452661189,
-    "three_inst_ratio_change_20": -0.41290515674359746
+    "three_inst_ratio": 0.3912778077401662,
+    "three_inst_ratio_change_20": -0.37282850335742057
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.44,
-    "trust_ratio": 0.004624507600047918,
+    "trust_ratio": 0.001277244956203711,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.4446245076000479,
-    "three_inst_ratio_change_20": -0.31948180349753885
+    "three_inst_ratio": 0.44127724495620374,
+    "three_inst_ratio_change_20": 0.44127724495620374
   },
   {
     "date": "2026-03-30",
@@ -1446,10 +1468,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.41,
-    "trust_ratio": 0.004627564772685204,
+    "trust_ratio": 0.0012780893181701992,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.4146275647726852,
-    "three_inst_ratio_change_20": -0.35948585832275665
+    "three_inst_ratio": 0.41127808931817017,
+    "three_inst_ratio_change_20": -0.35954459530091826
   },
   {
     "date": "2026-03-31",
@@ -1457,10 +1479,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.43,
-    "trust_ratio": 0.001983242045436516,
+    "trust_ratio": -0.0013662334090784886,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.43198324204543653,
-    "three_inst_ratio_change_20": -0.28561880346953034
+    "three_inst_ratio": 0.4286337665909215,
+    "three_inst_ratio_change_20": -0.2856668191575455
   },
   {
     "date": "2026-04-01",
@@ -1468,10 +1490,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.44,
-    "trust_ratio": 0.0019836791694291234,
+    "trust_ratio": -0.001366534538940063,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.4419836791694291,
-    "three_inst_ratio_change_20": -0.15564321491523897
+    "three_inst_ratio": 0.4386334654610599,
+    "three_inst_ratio_change_20": -0.15568117747826654
   },
   {
     "date": "2026-04-02",
@@ -1479,10 +1501,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.44,
-    "trust_ratio": 0.0019867444410890537,
+    "trust_ratio": -0.001368646170528015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.44198674444108904,
-    "three_inst_ratio_change_20": -0.07567353486582645
+    "three_inst_ratio": 0.438631353829472,
+    "three_inst_ratio_change_20": -0.07570217560701159
   },
   {
     "date": "2026-04-07",
@@ -1490,10 +1512,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.46,
-    "trust_ratio": 0.00198937936668771,
+    "trust_ratio": -0.0013704613414959779,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.4619893793666877,
-    "three_inst_ratio_change_20": -0.04568770239467168
+    "three_inst_ratio": 0.45862953865850403,
+    "three_inst_ratio_change_20": -0.04571349616649362
   },
   {
     "date": "2026-04-08",
@@ -1501,10 +1523,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.5,
-    "trust_ratio": 0.006415895136839981,
+    "trust_ratio": 0.003053081134082474,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.5064158951368399,
-    "three_inst_ratio_change_20": 0.11873712907505524
+    "three_inst_ratio": 0.5030530811340824,
+    "three_inst_ratio_change_20": 0.11870909347627279
   },
   {
     "date": "2026-04-09",
@@ -1512,10 +1534,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.55,
-    "trust_ratio": 0.0006651849302797501,
+    "trust_ratio": -0.0027050853831376504,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.5506651849302798,
-    "three_inst_ratio_change_20": 0.1529678426686159
+    "three_inst_ratio": 0.5472949146168624,
+    "three_inst_ratio_change_20": 0.15294041813740683
   },
   {
     "date": "2026-04-10",
@@ -1523,10 +1545,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.61,
-    "trust_ratio": 0.0006674046679172347,
+    "trust_ratio": -0.0027141123161967544,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6106674046679172,
-    "three_inst_ratio_change_20": 0.23295649589105244
+    "three_inst_ratio": 0.6072858876838032,
+    "three_inst_ratio_change_20": 0.23292371643289111
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.62,
-    "trust_ratio": 0.0006693404586856294,
+    "trust_ratio": -0.0027219845319882267,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6206693404586856,
-    "three_inst_ratio_change_20": 0.262941406139945
+    "three_inst_ratio": 0.6172780154680118,
+    "three_inst_ratio_change_20": 0.2629062126248385
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.79,
-    "trust_ratio": 0.0006721899770200653,
+    "trust_ratio": -0.002733572573214932,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.79067218997702,
-    "three_inst_ratio_change_20": 0.45300183803497457
+    "three_inst_ratio": 0.7872664274267851,
+    "three_inst_ratio_change_20": 0.45292719975671364
   },
   {
     "date": "2026-04-15",
@@ -1556,10 +1578,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.96,
-    "trust_ratio": 0.0006756720233944681,
+    "trust_ratio": -0.0027477328951375037,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9606756720233944,
-    "three_inst_ratio_change_20": 0.6429935351426406
+    "three_inst_ratio": 0.9572522671048624,
+    "three_inst_ratio_change_20": 0.6429063725266073
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 1.0,
-    "trust_ratio": -0.0024892374424759856,
+    "trust_ratio": -0.005928910999351894,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.997510762557524,
-    "three_inst_ratio_change_20": 0.6698151127544447
+    "three_inst_ratio": 0.9940710890006481,
+    "three_inst_ratio_change_20": 0.6697175499691919
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 1.13,
-    "trust_ratio": -0.0025125490403889975,
+    "trust_ratio": -0.005984434987108339,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.127487450959611,
-    "three_inst_ratio_change_20": 0.819785026852696
+    "three_inst_ratio": 1.1240155650128916,
+    "three_inst_ratio_change_20": 0.8196581936609797
   },
   {
     "date": "2026-04-20",
@@ -1589,10 +1611,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 1.09,
-    "trust_ratio": -0.0025316315859244963,
+    "trust_ratio": -0.006029886141020164,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0874683684140756,
-    "three_inst_ratio_change_20": 0.8497608557473291
+    "three_inst_ratio": 1.08397011385898,
+    "three_inst_ratio_change_20": 0.8496098638360776
   },
   {
     "date": "2026-04-21",
@@ -1600,10 +1622,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.8,
-    "trust_ratio": -0.002551597949814244,
+    "trust_ratio": -0.006077442389557562,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7974484020501857,
-    "three_inst_ratio_change_20": 0.5497408893834392
+    "three_inst_ratio": 0.7939225576104425,
+    "three_inst_ratio_change_20": 0.5495623075875402
   },
   {
     "date": "2026-04-22",
@@ -1611,10 +1633,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.77,
-    "trust_ratio": -0.0025736869984819923,
+    "trust_ratio": -0.006130054487293473,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.767426313001518,
-    "three_inst_ratio_change_20": 0.48971710265373125
+    "three_inst_ratio": 0.7638699455127066,
+    "three_inst_ratio_change_20": 0.48950873508738724
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.68,
-    "trust_ratio": 0.06247017932948988,
+    "trust_ratio": 0.05888698413776066,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7424701793294899,
-    "three_inst_ratio_change_20": 0.3847609689817032
+    "three_inst_ratio": 0.7388869841377607,
+    "three_inst_ratio_change_20": 0.38452577371244134
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.72,
-    "trust_ratio": 0.05882319455486971,
+    "trust_ratio": 0.05521790198537769,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7788231945548697,
-    "three_inst_ratio_change_20": 0.4041976683461977
+    "three_inst_ratio": 0.7752179019853777,
+    "three_inst_ratio_change_20": 0.403940375699173
   },
   {
     "date": "2026-04-27",
@@ -1644,10 +1666,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.75,
-    "trust_ratio": 0.05513094913060164,
+    "trust_ratio": 0.05150328494538456,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8051309491306017,
-    "three_inst_ratio_change_20": 0.4105044038644828
+    "three_inst_ratio": 0.8015032849453846,
+    "three_inst_ratio_change_20": 0.4102254772052184
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.62,
-    "trust_ratio": 0.05535554073017553,
+    "trust_ratio": 0.051713098223254886,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6753555407301756,
-    "three_inst_ratio_change_20": 0.23073103313012766
+    "three_inst_ratio": 0.6717130982232549,
+    "three_inst_ratio_change_20": 0.23043585326705113
   },
   {
     "date": "2026-04-29",
@@ -1666,10 +1688,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.52,
-    "trust_ratio": 0.05572947225396042,
+    "trust_ratio": 0.05206242472902448,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.5757294722539604,
-    "three_inst_ratio_change_20": 0.16110190748127523
+    "three_inst_ratio": 0.5720624247290245,
+    "three_inst_ratio_change_20": 0.1607843354108543
   },
   {
     "date": "2026-04-30",
@@ -1677,10 +1699,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.6,
-    "trust_ratio": 0.05609486491579456,
+    "trust_ratio": 0.052403774237352665,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6560948649157945,
-    "three_inst_ratio_change_20": 0.22411162287035796
+    "three_inst_ratio": 0.6524037742373526,
+    "three_inst_ratio_change_20": 0.22377000764643112
   },
   {
     "date": "2026-05-01",
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.4419836791694291
+    "three_inst_ratio_change_20": -0.4386334654610599
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.67,
-    "trust_ratio": 0.05638238877780555,
+    "trust_ratio": 0.052672378780304924,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7263823887778056,
-    "three_inst_ratio_change_20": 0.28439564433671655
+    "three_inst_ratio": 0.722672378780305,
+    "three_inst_ratio_change_20": 0.284041024950833
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.64,
-    "trust_ratio": 0.0493490831382285,
+    "trust_ratio": 0.045617212174541566,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6893490831382285,
-    "three_inst_ratio_change_20": 0.2273597037715408
+    "three_inst_ratio": 0.6856172121745416,
+    "three_inst_ratio_change_20": 0.2269876735160376
   },
   {
     "date": "2026-05-06",
@@ -1721,10 +1743,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.63,
-    "trust_ratio": 0.04961708447049438,
+    "trust_ratio": 0.04586494673939231,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6796170844704944,
-    "three_inst_ratio_change_20": 0.17320118933365447
+    "three_inst_ratio": 0.6758649467393923,
+    "three_inst_ratio_change_20": 0.17281186560530992
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1754,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.8,
-    "trust_ratio": 0.04999970149431943,
+    "trust_ratio": 0.046218629540520154,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8499997014943195,
-    "three_inst_ratio_change_20": 0.29933451656403964
+    "three_inst_ratio": 0.8462186295405202,
+    "three_inst_ratio_change_20": 0.29892371492365777
   },
   {
     "date": "2026-05-08",
@@ -1743,10 +1765,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.82,
-    "trust_ratio": 0.050438843028297944,
+    "trust_ratio": 0.04662456236148139,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8704388430282979,
-    "three_inst_ratio_change_20": 0.25977143836038064
+    "three_inst_ratio": 0.8666245623614813,
+    "three_inst_ratio_change_20": 0.2593386746776781
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.75,
-    "trust_ratio": 0.05739535335310229,
+    "trust_ratio": 0.05355214026514125,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8073953533531023,
-    "three_inst_ratio_change_20": 0.1867260128944167
+    "three_inst_ratio": 0.8035521402651412,
+    "three_inst_ratio_change_20": 0.18627412479712946
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.67,
-    "trust_ratio": 0.05789304018542095,
+    "trust_ratio": 0.054016501811771624,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.727893040185421,
-    "three_inst_ratio_change_20": -0.06277914979159904
+    "three_inst_ratio": 0.7240165018117717,
+    "three_inst_ratio_change_20": -0.06324992561501341
   },
   {
     "date": "2026-05-13",
@@ -1776,10 +1798,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.7,
-    "trust_ratio": 0.05824957711320228,
+    "trust_ratio": 0.05434916490121693,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7582495771132023,
-    "three_inst_ratio_change_20": -0.20242609491019214
+    "three_inst_ratio": 0.7543491649012168,
+    "three_inst_ratio_change_20": -0.2029031022036456
   },
   {
     "date": "2026-05-14",
@@ -1787,10 +1809,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.72,
-    "trust_ratio": 0.05880792451031392,
+    "trust_ratio": 0.05487012515984356,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7788079245103139,
-    "three_inst_ratio_change_20": -0.21870283804721014
+    "three_inst_ratio": 0.7748701251598435,
+    "three_inst_ratio_change_20": -0.21920096384080456
   },
   {
     "date": "2026-05-15",
@@ -1798,10 +1820,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.53,
-    "trust_ratio": 0.14173756155012343,
+    "trust_ratio": 0.13776995393398736,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6717375615501234,
-    "three_inst_ratio_change_20": -0.45574988940948746
+    "three_inst_ratio": 0.6677699539339874,
+    "three_inst_ratio_change_20": -0.45624561107890416
   },
   {
     "date": "2026-05-18",
@@ -1809,10 +1831,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.5,
-    "trust_ratio": 0.14207132137317818,
+    "trust_ratio": 0.1380943709406325,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.6420713213731781,
-    "three_inst_ratio_change_20": -0.44539704704089744
+    "three_inst_ratio": 0.6380943709406325,
+    "three_inst_ratio_change_20": -0.4458757429183474
   },
   {
     "date": "2026-05-19",
@@ -1820,10 +1842,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.6,
-    "trust_ratio": 0.14233200105687407,
+    "trust_ratio": 0.13834775351347722,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.742332001056874,
-    "three_inst_ratio_change_20": -0.05511640099331172
+    "three_inst_ratio": 0.7383477535134773,
+    "three_inst_ratio_change_20": -0.05557480409696525
   },
   {
     "date": "2026-05-20",
@@ -1831,10 +1853,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.55,
-    "trust_ratio": 0.1502485931268098,
+    "trust_ratio": 0.14625597316959388,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7002485931268099,
-    "three_inst_ratio_change_20": -0.06717771987470811
+    "three_inst_ratio": 0.6962559731695939,
+    "three_inst_ratio_change_20": -0.06761397234311273
   },
   {
     "date": "2026-05-21",
@@ -1842,10 +1864,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.57,
-    "trust_ratio": 0.17119385158205278,
+    "trust_ratio": 0.16718438078999234,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7411938515820528,
-    "three_inst_ratio_change_20": -0.0012763277474371337
+    "three_inst_ratio": 0.7371843807899923,
+    "three_inst_ratio_change_20": -0.0017026033477683944
   },
   {
     "date": "2026-05-22",
@@ -1853,10 +1875,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.61,
-    "trust_ratio": 0.171601237855709,
+    "trust_ratio": 0.16758222581347976,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.781601237855709,
-    "three_inst_ratio_change_20": 0.0027780433008393057
+    "three_inst_ratio": 0.7775822258134797,
+    "three_inst_ratio_change_20": 0.002364323828102033
   },
   {
     "date": "2026-05-25",
@@ -1864,10 +1886,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.61,
-    "trust_ratio": 0.17260528124288568,
+    "trust_ratio": 0.16856275385476263,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7826052812428856,
-    "three_inst_ratio_change_20": -0.02252566788771604
+    "three_inst_ratio": 0.7785627538547626,
+    "three_inst_ratio_change_20": -0.022940531090621996
   },
   {
     "date": "2026-05-26",
@@ -1875,10 +1897,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.64,
-    "trust_ratio": 0.1734819129735602,
+    "trust_ratio": 0.16941885430299297,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8134819129735602,
-    "three_inst_ratio_change_20": 0.13812637224338464
+    "three_inst_ratio": 0.809418854302993,
+    "three_inst_ratio_change_20": 0.13770575607973812
   },
   {
     "date": "2026-05-27",
@@ -1886,10 +1908,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 0.17464903348309913,
+    "trust_ratio": 0.17055864009489713,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0346490334830991,
-    "three_inst_ratio_change_20": 0.4589195612291387
+    "three_inst_ratio": 1.0305586400948972,
+    "three_inst_ratio_change_20": 0.4584962153658727
   },
   {
     "date": "2026-05-28",
@@ -1897,10 +1919,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.61,
-    "trust_ratio": 0.1857866940925798,
+    "trust_ratio": 0.18166412803388315,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7957866940925797,
-    "three_inst_ratio_change_20": 0.13969182917678524
+    "three_inst_ratio": 0.7916641280338832,
+    "three_inst_ratio_change_20": 0.13926035379653057
   },
   {
     "date": "2026-05-29",
@@ -1908,10 +1930,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.72,
-    "trust_ratio": 0.18685093169057268,
+    "trust_ratio": 0.18270475043262127,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9068509316905726,
-    "three_inst_ratio_change_20": 0.9068509316905726
+    "three_inst_ratio": 0.9027047504326212,
+    "three_inst_ratio_change_20": 0.9027047504326212
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.87,
-    "trust_ratio": 0.18803060314727546,
+    "trust_ratio": 0.18385824523802205,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0580306031472755,
-    "three_inst_ratio_change_20": 0.3316482143694699
+    "three_inst_ratio": 1.053858245238022,
+    "three_inst_ratio_change_20": 0.3311858664577171
   },
   {
     "date": "2026-06-02",
@@ -1930,10 +1952,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 1.05,
-    "trust_ratio": 0.20120979107212064,
+    "trust_ratio": 0.1970259486312229,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2512097910721207,
-    "three_inst_ratio_change_20": 0.5618607079338922
+    "three_inst_ratio": 1.247025948631223,
+    "three_inst_ratio_change_20": 0.5614087364566813
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.82,
-    "trust_ratio": 0.2154130385603201,
+    "trust_ratio": 0.21119903832078746,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.03541303856032,
-    "three_inst_ratio_change_20": 0.35579595408982556
+    "three_inst_ratio": 1.0311990383207874,
+    "three_inst_ratio_change_20": 0.35533409158139506
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 0.23822632559715398,
+    "trust_ratio": 0.23399119091987125,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.098226325597154,
-    "three_inst_ratio_change_20": 0.24822662410283458
+    "three_inst_ratio": 1.0939911909198712,
+    "three_inst_ratio_change_20": 0.247772561379351
   },
   {
     "date": "2026-06-05",
@@ -1963,10 +1985,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.77,
-    "trust_ratio": 0.22548046618295936,
+    "trust_ratio": 0.2212334982945071,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9954804661829594,
-    "three_inst_ratio_change_20": 0.1250416231546615
+    "three_inst_ratio": 0.9912334982945071,
+    "three_inst_ratio_change_20": 0.1246089359330258
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 0.22592233422843744,
+    "trust_ratio": 0.22166704367047926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0859223342284374,
-    "three_inst_ratio_change_20": 0.2785269808753351
+    "three_inst_ratio": 1.0816670436704792,
+    "three_inst_ratio_change_20": 0.27811490340533795
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.85,
-    "trust_ratio": 0.22655658692922898,
+    "trust_ratio": 0.2222893500998309,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0765565869292288,
-    "three_inst_ratio_change_20": 0.34866354674380784
+    "three_inst_ratio": 1.072289350099831,
+    "three_inst_ratio_change_20": 0.34827284828805927
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.81,
-    "trust_ratio": 0.2308369330088936,
+    "trust_ratio": 0.22656009075909447,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0408369330088936,
-    "three_inst_ratio_change_20": 0.2825873558956913
+    "three_inst_ratio": 1.0365600907590946,
+    "three_inst_ratio_change_20": 0.28221092585787777
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.81,
-    "trust_ratio": 0.2310319502205561,
+    "trust_ratio": 0.22675149478009723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.041031950220556,
-    "three_inst_ratio_change_20": 0.26222402571024217
+    "three_inst_ratio": 1.0367514947800973,
+    "three_inst_ratio_change_20": 0.26188136962025377
   },
   {
     "date": "2026-06-12",
@@ -2018,10 +2040,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.83,
-    "trust_ratio": 0.232077632287645,
+    "trust_ratio": 0.22777780292297872,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0620776322876448,
-    "three_inst_ratio_change_20": 0.3903400707375214
+    "three_inst_ratio": 1.0577778029229787,
+    "three_inst_ratio_change_20": 0.3900078489889913
   },
   {
     "date": "2026-06-15",
@@ -2029,10 +2051,10 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 0.23247220761320975,
+    "trust_ratio": 0.22816506773544187,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0924722076132096,
-    "three_inst_ratio_change_20": 0.4504008862400315
+    "three_inst_ratio": 1.0881650677354417,
+    "three_inst_ratio_change_20": 0.45007069679480927
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "元大台灣高息低波",
     "market": "TWSE",
     "foreign_ratio": 0.81,
-    "trust_ratio": 0.23313282319188502,
+    "trust_ratio": 0.228813443727579,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.043132823191885,
-    "three_inst_ratio_change_20": 0.300800822135011
+    "three_inst_ratio": 1.0388134437275791,
+    "three_inst_ratio_change_20": 0.30046569021410185
+  },
+  {
+    "date": "2026-06-17",
+    "code": "00713",
+    "name": "元大台灣高息低波",
+    "market": "TWSE",
+    "foreign_ratio": 0.78,
+    "trust_ratio": 0.2293348037495614,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0093348037495615,
+    "three_inst_ratio_change_20": 0.31307883057996766
   }
 ]

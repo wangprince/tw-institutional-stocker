@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -7.839978837493009
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2208",
     "name": "台船",
     "market": "TWSE",
@@ -1177,6 +1177,17 @@
     "three_inst_ratio_change_20": -7.870135756919988
   },
   {
+    "date": "2026-02-18",
+    "code": "2208",
+    "name": "台船",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.930135756919988
+  },
+  {
     "date": "2026-02-23",
     "code": "2208",
     "name": "台船",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0490373209311311,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.929037320931132,
-    "three_inst_ratio_change_20": 0.9989015640111436
+    "three_inst_ratio_change_20": 0.9189015640111435
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.05013575691998844,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.45013575691999,
-    "three_inst_ratio_change_20": 1.4400000000000013
+    "three_inst_ratio_change_20": 1.3100000000000005
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.05013575691998844,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.640135756919989,
-    "three_inst_ratio_change_20": 1.5
+    "three_inst_ratio_change_20": 1.6802353791404698
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 0.05013575691998844,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.880135756919989,
-    "three_inst_ratio_change_20": 1.92023537914047
+    "three_inst_ratio_change_20": 1.6102353791404695
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2208",
+    "name": "台船",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.31958653892556
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.35,
-    "trust_ratio": 0.05021421663347825,
+    "trust_ratio": 0.04997883749300882,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.400214216633477,
-    "three_inst_ratio_change_20": 1.130313838853958
+    "three_inst_ratio": 9.399978837493009,
+    "three_inst_ratio_change_20": 1.1003922985674492
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.67,
-    "trust_ratio": 0.05021421663347825,
+    "trust_ratio": 0.04997883749300882,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.720214216633478,
-    "three_inst_ratio_change_20": 1.4006276777079183
+    "three_inst_ratio": 9.71997883749301,
+    "three_inst_ratio_change_20": 1.1203922985674488
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.6,
-    "trust_ratio": 0.05021421663347825,
+    "trust_ratio": 0.04997883749300882,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.650214216633477,
-    "three_inst_ratio_change_20": 1.3506276777079176
+    "three_inst_ratio": 9.649978837493009,
+    "three_inst_ratio_change_20": 0.9200784597134906
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.58,
-    "trust_ratio": 0.0498219180660292,
+    "trust_ratio": 0.04958653892555977,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.62982191806603,
-    "three_inst_ratio_change_20": 1.0302353791404695
+    "three_inst_ratio": 9.62958653892556,
+    "three_inst_ratio_change_20": 1.169686161146041
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.57,
-    "trust_ratio": 0.0498219180660292,
+    "trust_ratio": 0.04958653892555977,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.61982191806603,
-    "three_inst_ratio_change_20": 0.8899215402865117
+    "three_inst_ratio": 9.61958653892556,
+    "three_inst_ratio_change_20": 1.2399215402865114
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.34,
-    "trust_ratio": 0.0498219180660292,
+    "trust_ratio": 0.04958653892555977,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.38982191806603,
-    "three_inst_ratio_change_20": 0.9299215402865109
+    "three_inst_ratio": 9.38958653892556,
+    "three_inst_ratio_change_20": 1.0699215402865114
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.25,
-    "trust_ratio": 0.04958653892555977,
+    "trust_ratio": 0.04935115978509034,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.29958653892556,
-    "three_inst_ratio_change_20": 0.9199215402865111
+    "three_inst_ratio": 9.29935115978509,
+    "three_inst_ratio_change_20": 0.9096861611460412
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.28,
-    "trust_ratio": 0.04935115978509034,
+    "trust_ratio": 0.0491157806446209,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.329351159785089,
-    "three_inst_ratio_change_20": 1.0096861611460408
+    "three_inst_ratio": 9.32911578064462,
+    "three_inst_ratio_change_20": 1.0394507820055718
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.28,
-    "trust_ratio": 0.04919424035811072,
+    "trust_ratio": 0.048958861217641286,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.32919424035811,
-    "three_inst_ratio_change_20": 0.939529241719061
+    "three_inst_ratio": 9.328958861217641,
+    "three_inst_ratio_change_20": 1.0195292417190611
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.26,
-    "trust_ratio": 0.048723482077171865,
+    "trust_ratio": 0.04848810293670243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.308723482077172,
-    "three_inst_ratio_change_20": 1.0190584834381227
+    "three_inst_ratio": 9.308488102936701,
+    "three_inst_ratio_change_20": 0.9792154028651012
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.22,
-    "trust_ratio": 0.04856656265019224,
+    "trust_ratio": 0.04833118350972281,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.268566562650193,
-    "three_inst_ratio_change_20": 0.9591369431516128
+    "three_inst_ratio": 9.268331183509723,
+    "three_inst_ratio_change_20": 0.7292938625785919
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.21,
-    "trust_ratio": 0.048252723796233,
+    "trust_ratio": 0.04801734465576357,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.258252723796234,
-    "three_inst_ratio_change_20": 0.928980023724634
+    "three_inst_ratio": 9.258017344655764,
+    "three_inst_ratio_change_20": 0.2289800237246329
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.21,
-    "trust_ratio": 0.048252723796233,
+    "trust_ratio": 0.04801734465576357,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.258252723796234,
-    "three_inst_ratio_change_20": 0.7192154028651032
+    "three_inst_ratio": 9.258017344655764,
+    "three_inst_ratio_change_20": 9.258017344655764
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.28,
-    "trust_ratio": 0.04542817411059985,
+    "trust_ratio": 0.04519279497013042,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.325428174110598,
-    "three_inst_ratio_change_20": 0.29639085317946723
+    "three_inst_ratio": 9.32519279497013,
+    "three_inst_ratio_change_20": 9.32519279497013
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.31,
-    "trust_ratio": 0.046325831692636765,
+    "trust_ratio": 0.04609045255216734,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.356325831692637,
-    "three_inst_ratio_change_20": 9.356325831692637
+    "three_inst_ratio": 9.356090452552168,
+    "three_inst_ratio_change_20": 9.356090452552168
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.19,
-    "trust_ratio": 0.04616891226565715,
+    "trust_ratio": 0.04593353312518772,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.236168912265656,
-    "three_inst_ratio_change_20": 9.236168912265656
+    "three_inst_ratio": 9.235933533125188,
+    "three_inst_ratio_change_20": 0.30689621219405616
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.2,
-    "trust_ratio": 0.04616891226565715,
+    "trust_ratio": 0.04593353312518772,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.246168912265656,
-    "three_inst_ratio_change_20": 0.3171315913345243
+    "three_inst_ratio": 9.245933533125188,
+    "three_inst_ratio_change_20": -0.2042022237948018
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.48,
-    "trust_ratio": 0.04616891226565715,
+    "trust_ratio": 0.04593353312518772,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.526168912265657,
-    "three_inst_ratio_change_20": 0.07603315534566768
+    "three_inst_ratio": 9.525933533125189,
+    "three_inst_ratio_change_20": -0.11420222379480016
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.51,
-    "trust_ratio": 0.04616891226565715,
+    "trust_ratio": 0.04593353312518772,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.556168912265656,
-    "three_inst_ratio_change_20": -0.08396684465433246
+    "three_inst_ratio": 9.555933533125188,
+    "three_inst_ratio_change_20": -0.324202223794801
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.55,
-    "trust_ratio": 0.045462774844248856,
+    "trust_ratio": 0.04522739570377943,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.595462774844249,
-    "three_inst_ratio_change_20": -0.2846729820757403
+    "three_inst_ratio": 9.59522739570378,
+    "three_inst_ratio_change_20": 9.59522739570378
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.59,
-    "trust_ratio": 0.045462774844248856,
+    "trust_ratio": 0.04522739570377943,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.635462774844248,
+    "three_inst_ratio": 9.63522739570378,
     "three_inst_ratio_change_20": 0.2352485582107704
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.51,
-    "trust_ratio": 0.045462774844248856,
+    "trust_ratio": 0.04522739570377943,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.555462774844248,
+    "three_inst_ratio": 9.55522739570378,
     "three_inst_ratio_change_20": -0.16475144178922996
   },
   {
@@ -1468,10 +1490,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.04522739570377943,
+    "trust_ratio": 0.04499201656331,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.495227395703779,
-    "three_inst_ratio_change_20": -0.1549868209296985
+    "three_inst_ratio": 9.494992016563309,
+    "three_inst_ratio_change_20": -0.1549868209297003
   },
   {
     "date": "2026-04-02",
@@ -1479,9 +1501,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.04522739570377943,
+    "trust_ratio": 0.04499201656331,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.48522739570378,
+    "three_inst_ratio": 9.484992016563309,
     "three_inst_ratio_change_20": -0.1445945223622509
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.48,
-    "trust_ratio": 0.04491355684982019,
+    "trust_ratio": 0.04467817770935076,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.524913556849821,
+    "three_inst_ratio": 9.524678177709351,
     "three_inst_ratio_change_20": -0.09490836121620916
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.53,
-    "trust_ratio": 0.04491355684982019,
+    "trust_ratio": 0.04467817770935076,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.57491355684982,
+    "three_inst_ratio": 9.57467817770935,
     "three_inst_ratio_change_20": 0.1850916387837902
   },
   {
@@ -1512,10 +1534,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.53,
-    "trust_ratio": 0.04365820143398324,
+    "trust_ratio": 0.0434228222935138,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.573658201433982,
-    "three_inst_ratio_change_20": 0.2740716625084225
+    "three_inst_ratio": 9.573422822293514,
+    "three_inst_ratio_change_20": 0.2740716625084243
   },
   {
     "date": "2026-04-10",
@@ -1523,9 +1545,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.54,
-    "trust_ratio": 0.04365820143398324,
+    "trust_ratio": 0.0434228222935138,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.583658201433982,
+    "three_inst_ratio": 9.583422822293514,
     "three_inst_ratio_change_20": 0.25430704164889306
   },
   {
@@ -1534,10 +1556,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.38,
-    "trust_ratio": 0.043344362580024,
+    "trust_ratio": 0.04310898343955456,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.423344362580025,
-    "three_inst_ratio_change_20": 0.09415012222191521
+    "three_inst_ratio": 9.423108983439555,
+    "three_inst_ratio_change_20": 0.09415012222191343
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.39,
-    "trust_ratio": 0.04310898343955456,
+    "trust_ratio": 0.042873604299085134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.433108983439555,
-    "three_inst_ratio_change_20": 0.12438550136238291
+    "three_inst_ratio": 9.432873604299086,
+    "three_inst_ratio_change_20": 0.12438550136238469
   },
   {
     "date": "2026-04-15",
@@ -1556,9 +1578,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.042873604299085134,
+    "trust_ratio": 0.042638225158615706,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.482873604299085,
+    "three_inst_ratio": 9.482638225158615,
     "three_inst_ratio_change_20": 0.21430704164889214
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.51,
-    "trust_ratio": 0.04216746687767685,
+    "trust_ratio": 0.04193208773720742,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.552167466877677,
+    "three_inst_ratio": 9.551932087737207,
     "three_inst_ratio_change_20": 0.2939147430814426
   },
   {
@@ -1578,9 +1600,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.62,
-    "trust_ratio": 0.04216746687767685,
+    "trust_ratio": 0.04193208773720742,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.662167466877676,
+    "three_inst_ratio": 9.661932087737206,
     "three_inst_ratio_change_20": 0.40391474308144204
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.67,
-    "trust_ratio": 0.04161824888324818,
+    "trust_ratio": 0.04138286974277875,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.711618248883248,
+    "three_inst_ratio": 9.71138286974278,
     "three_inst_ratio_change_20": 0.38619007477264944
   },
   {
@@ -1600,10 +1622,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.75,
-    "trust_ratio": 0.04114749060230932,
+    "trust_ratio": 0.04091211146183989,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.79114749060231,
-    "three_inst_ratio_change_20": 0.43482165890967295
+    "three_inst_ratio": 9.79091211146184,
+    "three_inst_ratio_change_20": 0.43482165890967117
   },
   {
     "date": "2026-04-22",
@@ -1611,10 +1633,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.79,
-    "trust_ratio": 0.040362893467411225,
+    "trust_ratio": 0.040127514326941796,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.830362893467411,
-    "three_inst_ratio_change_20": 0.5941939812017552
+    "three_inst_ratio": 9.830127514326941,
+    "three_inst_ratio_change_20": 0.5941939812017534
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.86,
-    "trust_ratio": 0.0393429171920437,
+    "trust_ratio": 0.03910753805157427,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.899342917192044,
-    "three_inst_ratio_change_20": 0.6531740049263881
+    "three_inst_ratio": 9.899107538051574,
+    "three_inst_ratio_change_20": 0.6531740049263863
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.88,
-    "trust_ratio": 0.03793064234922712,
+    "trust_ratio": 0.03769526320875769,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.917930642349228,
-    "three_inst_ratio_change_20": 0.3917617300835712
+    "three_inst_ratio": 9.917695263208758,
+    "three_inst_ratio_change_20": 0.3917617300835694
   },
   {
     "date": "2026-04-27",
@@ -1644,10 +1666,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.96,
-    "trust_ratio": 0.03643990779292074,
+    "trust_ratio": 0.03620452865245131,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.996439907792922,
-    "three_inst_ratio_change_20": 0.4402709955272659
+    "three_inst_ratio": 9.996204528652452,
+    "three_inst_ratio_change_20": 0.4402709955272641
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.95,
-    "trust_ratio": 0.035733770371512444,
+    "trust_ratio": 0.035498391231043015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.985733770371512,
-    "three_inst_ratio_change_20": 0.3902709955272634
+    "three_inst_ratio": 9.985498391231042,
+    "three_inst_ratio_change_20": 0.39027099552726163
   },
   {
     "date": "2026-04-29",
@@ -1666,10 +1688,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.95,
-    "trust_ratio": 0.03526301209057359,
+    "trust_ratio": 0.03502763295010416,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.985263012090574,
-    "three_inst_ratio_change_20": 0.3498002372463258
+    "three_inst_ratio": 9.985027632950104,
+    "three_inst_ratio_change_20": 0.34980023724632403
   },
   {
     "date": "2026-04-30",
@@ -1677,9 +1699,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.85,
-    "trust_ratio": 0.03447841495567549,
+    "trust_ratio": 0.03424303581520606,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.884478414955675,
+    "three_inst_ratio": 9.884243035815206,
     "three_inst_ratio_change_20": 0.32901564011142703
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.495227395703779
+    "three_inst_ratio_change_20": -9.494992016563309
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.99,
-    "trust_ratio": 0.032909220685879294,
+    "trust_ratio": 0.032673841545409865,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.022909220685879,
-    "three_inst_ratio_change_20": 0.5376818249820996
+    "three_inst_ratio": 10.02267384154541,
+    "three_inst_ratio_change_20": 0.5376818249821014
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 10.05,
-    "trust_ratio": 0.032909220685879294,
+    "trust_ratio": 0.032673841545409865,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.08290922068588,
-    "three_inst_ratio_change_20": 0.5579956638360581
+    "three_inst_ratio": 10.082673841545411,
+    "three_inst_ratio_change_20": 0.5579956638360599
   },
   {
     "date": "2026-05-06",
@@ -1721,9 +1743,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 10.07,
-    "trust_ratio": 0.032360002691450625,
+    "trust_ratio": 0.032124623550981196,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.102360002691452,
+    "three_inst_ratio": 10.102124623550981,
     "three_inst_ratio_change_20": 0.5274464458416315
   },
   {
@@ -1732,10 +1754,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 10.18,
-    "trust_ratio": 0.03118310698910348,
+    "trust_ratio": 0.03094772784863405,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.211183106989104,
-    "three_inst_ratio_change_20": 0.6375249055551215
+    "three_inst_ratio": 10.210947727848634,
+    "three_inst_ratio_change_20": 0.6375249055551198
   },
   {
     "date": "2026-05-08",
@@ -1743,9 +1765,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 10.26,
-    "trust_ratio": 0.030869268135144245,
+    "trust_ratio": 0.030633888994674816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.290869268135143,
+    "three_inst_ratio": 10.290633888994675,
     "three_inst_ratio_change_20": 0.7072110667011611
   },
   {
@@ -1754,10 +1776,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.79,
-    "trust_ratio": 0.030869268135144245,
+    "trust_ratio": 0.030633888994674816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.820869268135143,
-    "three_inst_ratio_change_20": 0.39752490555511777
+    "three_inst_ratio": 9.820633888994674,
+    "three_inst_ratio_change_20": 0.39752490555511955
   },
   {
     "date": "2026-05-12",
@@ -1765,9 +1787,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.67,
-    "trust_ratio": 0.030241590427225767,
+    "trust_ratio": 0.030006211286756335,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.700241590427225,
+    "three_inst_ratio": 9.700006211286757,
     "three_inst_ratio_change_20": 0.26713260698767094
   },
   {
@@ -1776,10 +1798,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.61,
-    "trust_ratio": 0.029692372432797095,
+    "trust_ratio": 0.029456993292327666,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.639692372432796,
-    "three_inst_ratio_change_20": 0.15681876813371076
+    "three_inst_ratio": 9.639456993292328,
+    "three_inst_ratio_change_20": 0.15681876813371254
   },
   {
     "date": "2026-05-14",
@@ -1787,9 +1809,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.53,
-    "trust_ratio": 0.029456993292327666,
+    "trust_ratio": 0.029221614151858238,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.559456993292327,
+    "three_inst_ratio": 9.559221614151857,
     "three_inst_ratio_change_20": 0.007289526414650638
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.029456993292327666,
+    "trust_ratio": 0.029221614151858238,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.479456993292327,
+    "three_inst_ratio": 9.479221614151857,
     "three_inst_ratio_change_20": -0.18271047358534886
   },
   {
@@ -1809,10 +1831,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.29,
-    "trust_ratio": 0.028044718449511088,
+    "trust_ratio": 0.02780933930904166,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.31804471844951,
-    "three_inst_ratio_change_20": -0.3935735304337378
+    "three_inst_ratio": 9.31780933930904,
+    "three_inst_ratio_change_20": -0.39357353043373955
   },
   {
     "date": "2026-05-19",
@@ -1820,9 +1842,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.18,
-    "trust_ratio": 0.028044718449511088,
+    "trust_ratio": 0.02780933930904166,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.20804471844951,
+    "three_inst_ratio": 9.20780933930904,
     "three_inst_ratio_change_20": -0.5831027721527988
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.14,
-    "trust_ratio": 0.02773087959555185,
+    "trust_ratio": 0.027495500455082426,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.167730879595553,
+    "three_inst_ratio": 9.167495500455082,
     "three_inst_ratio_change_20": -0.6626320138718587
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.12,
-    "trust_ratio": 0.027260121314612994,
+    "trust_ratio": 0.027024742174143565,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.147260121314613,
+    "three_inst_ratio": 9.147024742174143,
     "three_inst_ratio_change_20": -0.7520827958774312
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 9.05,
-    "trust_ratio": 0.027260121314612994,
+    "trust_ratio": 0.027024742174143565,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.077260121314614,
+    "three_inst_ratio": 9.077024742174144,
     "three_inst_ratio_change_20": -0.8406705210346139
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 8.89,
-    "trust_ratio": 0.027260121314612994,
+    "trust_ratio": 0.027024742174143565,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.917260121314614,
+    "three_inst_ratio": 8.917024742174144,
     "three_inst_ratio_change_20": -1.0791797864783081
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 8.83,
-    "trust_ratio": 0.026553983893204708,
+    "trust_ratio": 0.026318604752735276,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.856553983893205,
+    "three_inst_ratio": 8.856318604752735,
     "three_inst_ratio_change_20": -1.129179786478307
   },
   {
@@ -1886,10 +1908,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 8.83,
-    "trust_ratio": 0.026318604752735276,
+    "trust_ratio": 0.026083225612265847,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.856318604752735,
-    "three_inst_ratio_change_20": -1.1289444073378387
+    "three_inst_ratio": 8.856083225612267,
+    "three_inst_ratio_change_20": -1.128944407337837
   },
   {
     "date": "2026-05-28",
@@ -1897,9 +1919,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 8.76,
-    "trust_ratio": 0.025769386758306607,
+    "trust_ratio": 0.025534007617837178,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.785769386758306,
+    "three_inst_ratio": 8.785534007617837,
     "three_inst_ratio_change_20": -1.0987090281973693
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 8.52,
-    "trust_ratio": 0.025612467331326987,
+    "trust_ratio": 0.025377088190857558,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.545612467331326,
-    "three_inst_ratio_change_20": 8.545612467331326
+    "three_inst_ratio": 8.545377088190858,
+    "three_inst_ratio_change_20": 8.545377088190858
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 8.4,
-    "trust_ratio": 0.02498478962340851,
+    "trust_ratio": 0.024749410482939077,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.424984789623409,
-    "three_inst_ratio_change_20": -1.59792443106247
+    "three_inst_ratio": 8.424749410482939,
+    "three_inst_ratio_change_20": -1.5979244310624718
   },
   {
     "date": "2026-06-02",
@@ -1930,10 +1952,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.98,
-    "trust_ratio": 0.02482787019642889,
+    "trust_ratio": 0.02459249105595946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.00482787019643,
-    "three_inst_ratio_change_20": -2.07808135048945
+    "three_inst_ratio": 8.00459249105596,
+    "three_inst_ratio_change_20": -2.0780813504894518
   },
   {
     "date": "2026-06-03",
@@ -1941,9 +1963,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 8.0,
-    "trust_ratio": 0.02451403134246965,
+    "trust_ratio": 0.024278652202000223,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.02451403134247,
+    "three_inst_ratio": 8.024278652202,
     "three_inst_ratio_change_20": -2.0778459713489816
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.88,
-    "trust_ratio": 0.024357111915490032,
+    "trust_ratio": 0.024121732775020603,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.90435711191549,
+    "three_inst_ratio": 7.90412173277502,
     "three_inst_ratio_change_20": -2.3068259950736136
   },
   {
@@ -1963,10 +1985,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.79,
-    "trust_ratio": 0.024121732775020603,
+    "trust_ratio": 0.02388635363455117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.81412173277502,
-    "three_inst_ratio_change_20": -2.476747535360123
+    "three_inst_ratio": 7.813886353634551,
+    "three_inst_ratio_change_20": -2.476747535360124
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.57,
-    "trust_ratio": 0.024121732775020603,
+    "trust_ratio": 0.02388635363455117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.594121732775021,
-    "three_inst_ratio_change_20": -2.226747535360122
+    "three_inst_ratio": 7.593886353634551,
+    "three_inst_ratio_change_20": -2.226747535360123
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.54,
-    "trust_ratio": 0.024121732775020603,
+    "trust_ratio": 0.02388635363455117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.56412173277502,
-    "three_inst_ratio_change_20": -2.136119857652205
+    "three_inst_ratio": 7.563886353634551,
+    "three_inst_ratio_change_20": -2.136119857652206
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.57,
-    "trust_ratio": 0.023807893921061363,
+    "trust_ratio": 0.023572514780591934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.593807893921062,
-    "three_inst_ratio_change_20": -2.0458844785117343
+    "three_inst_ratio": 7.593572514780592,
+    "three_inst_ratio_change_20": -2.045884478511735
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.54,
-    "trust_ratio": 0.023807893921061363,
+    "trust_ratio": 0.023572514780591934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.563807893921061,
-    "three_inst_ratio_change_20": -1.995649099371266
+    "three_inst_ratio": 7.563572514780592,
+    "three_inst_ratio_change_20": -1.9956490993712652
   },
   {
     "date": "2026-06-12",
@@ -2018,10 +2040,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.64,
-    "trust_ratio": 0.023807893921061363,
+    "trust_ratio": 0.023572514780591934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.663807893921061,
-    "three_inst_ratio_change_20": -1.8156490993712664
+    "three_inst_ratio": 7.663572514780592,
+    "three_inst_ratio_change_20": -1.8156490993712655
   },
   {
     "date": "2026-06-15",
@@ -2029,10 +2051,10 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.67,
-    "trust_ratio": 0.023807893921061363,
+    "trust_ratio": 0.023572514780591934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.693807893921061,
-    "three_inst_ratio_change_20": -1.6242368245284489
+    "three_inst_ratio": 7.693572514780592,
+    "three_inst_ratio_change_20": -1.624236824528448
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "台船",
     "market": "TWSE",
     "foreign_ratio": 7.62,
-    "trust_ratio": 0.023258675926632697,
+    "trust_ratio": 0.023023296786163265,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.643258675926633,
+    "three_inst_ratio": 7.643023296786163,
     "three_inst_ratio_change_20": -1.5647860425228775
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2208",
+    "name": "台船",
+    "market": "TWSE",
+    "foreign_ratio": 7.67,
+    "trust_ratio": 0.022395619078244788,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.692395619078245,
+    "three_inst_ratio_change_20": -1.4750998813768375
   }
 ]

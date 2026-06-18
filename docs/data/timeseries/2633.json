@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -10.56514599673143
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2633",
     "name": "台灣高鐵",
     "market": "TWSE",
@@ -1177,6 +1177,17 @@
     "three_inst_ratio_change_20": -10.55449977949247
   },
   {
+    "date": "2026-02-18",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.523965745466697
+  },
+  {
     "date": "2026-02-23",
     "code": "2633",
     "name": "台灣高鐵",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.03840338407623834,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.258403384076239,
-    "three_inst_ratio_change_20": -0.2655623613904581
+    "three_inst_ratio_change_20": -0.20461141588267218
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.03826689509244101,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.188266895092442,
-    "three_inst_ratio_change_20": -0.2747479048664694
+    "three_inst_ratio_change_20": -0.21448704424942733
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.03561310648440652,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.155613106484406,
-    "three_inst_ratio_change_20": -0.2471408328574629
+    "three_inst_ratio_change_20": -0.18661912939075798
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 0.0343876017125475,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.084387601712548,
-    "three_inst_ratio_change_20": -0.25784463416261616
+    "three_inst_ratio_change_20": -0.2377380299055485
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.311502973919948
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 10.09,
-    "trust_ratio": 0.033621827799287275,
+    "trust_ratio": 0.03315987601866626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.123621827799287,
-    "three_inst_ratio_change_20": -0.1985038038188094
+    "three_inst_ratio": 10.123159876018667,
+    "three_inst_ratio_change_20": -0.17820660891748474
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.99,
-    "trust_ratio": 0.03351522354222089,
+    "trust_ratio": 0.03305327176159987,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.023515223542221,
-    "three_inst_ratio_change_20": -0.2879877503777273
+    "three_inst_ratio": 10.0230532717616,
+    "three_inst_ratio_change_20": -0.2879990504289758
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.93,
-    "trust_ratio": 0.03326648027573265,
+    "trust_ratio": 0.03280452849511164,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.963266480275733,
-    "three_inst_ratio_change_20": -0.33810000466041856
+    "three_inst_ratio": 9.962804528495111,
+    "three_inst_ratio_change_20": -0.37821225894311006
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.88,
-    "trust_ratio": 0.03301773700924441,
+    "trust_ratio": 0.032555785228623395,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.913017737009245,
-    "three_inst_ratio_change_20": -0.39803458518133183
+    "three_inst_ratio": 9.912555785228625,
+    "three_inst_ratio_change_20": -0.3783188632001746
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.85,
-    "trust_ratio": 0.032911132752178024,
+    "trust_ratio": 0.03244918097155701,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.882911132752177,
-    "three_inst_ratio_change_20": -0.4581056546860438
+    "three_inst_ratio": 9.882449180971557,
+    "three_inst_ratio_change_20": -0.40796351567662015
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.86,
-    "trust_ratio": 0.032911132752178024,
+    "trust_ratio": 0.03244918097155701,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.892911132752177,
-    "three_inst_ratio_change_20": -0.39796351567662214
+    "three_inst_ratio": 9.892449180971557,
+    "three_inst_ratio_change_20": -0.34745957958609175
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.82,
-    "trust_ratio": 0.032911132752178024,
+    "trust_ratio": 0.03244918097155701,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.852911132752178,
-    "three_inst_ratio_change_20": -0.43750156389599937
+    "three_inst_ratio": 9.852449180971558,
+    "three_inst_ratio_change_20": -0.37713976681489214
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.78,
-    "trust_ratio": 0.03275829778229718,
+    "trust_ratio": 0.03229634600167616,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.812758297782297,
-    "three_inst_ratio_change_20": -0.4271504627753515
+    "three_inst_ratio": 9.812296346001675,
+    "three_inst_ratio_change_20": -0.417156112800976
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.68,
-    "trust_ratio": 0.03422229404458989,
+    "trust_ratio": 0.03376034226396887,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.714222294044589,
-    "three_inst_ratio_change_20": -0.5153666537418609
+    "three_inst_ratio": 9.713760342263969,
+    "three_inst_ratio_change_20": -0.515496675400728
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.62,
-    "trust_ratio": 0.03578582314823025,
+    "trust_ratio": 0.035323871367609234,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.65578582314823,
-    "three_inst_ratio_change_20": -0.5736666356544209
+    "three_inst_ratio": 9.655323871367608,
+    "three_inst_ratio_change_20": -0.5739331462970885
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.61,
-    "trust_ratio": 0.03575051937176509,
+    "trust_ratio": 0.03528856759114408,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.645750519371765,
-    "three_inst_ratio_change_20": -0.5835064982929321
+    "three_inst_ratio": 9.645288567591143,
+    "three_inst_ratio_change_20": -0.6238141937135797
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.57,
-    "trust_ratio": 0.03562614773852097,
+    "trust_ratio": 0.035164195957899956,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.605626147738521,
-    "three_inst_ratio_change_20": -0.6236308699261759
+    "three_inst_ratio": 9.6051641959579,
+    "three_inst_ratio_change_20": -0.6339385653468206
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.53,
-    "trust_ratio": 0.036308379448993504,
+    "trust_ratio": 0.03584642766837249,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.566308379448992,
-    "three_inst_ratio_change_20": -0.7027943818557301
+    "three_inst_ratio": 9.565846427668372,
+    "three_inst_ratio_change_20": 9.565846427668372
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.49,
-    "trust_ratio": 0.0363616815775267,
+    "trust_ratio": 0.035899729796905686,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.526361681577526,
-    "three_inst_ratio_change_20": -0.7127410797271949
+    "three_inst_ratio": 9.525899729796906,
+    "three_inst_ratio_change_20": 9.525899729796906
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.49,
-    "trust_ratio": 0.03590260811184647,
+    "trust_ratio": 0.03544065633122546,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.525902608111847,
-    "three_inst_ratio_change_20": 9.525902608111847
+    "three_inst_ratio": 9.525440656331225,
+    "three_inst_ratio_change_20": 9.525440656331225
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.03581377123095782,
+    "trust_ratio": 0.0353518194503368,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.475813771230957,
-    "three_inst_ratio_change_20": 9.475813771230957
+    "three_inst_ratio": 9.475351819450337,
+    "three_inst_ratio_change_20": -0.783051564625902
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.42,
-    "trust_ratio": 0.03581377123095782,
+    "trust_ratio": 0.0353518194503368,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.455813771230957,
-    "three_inst_ratio_change_20": -0.8025896128452814
+    "three_inst_ratio": 9.455351819450337,
+    "three_inst_ratio_change_20": -0.7329150756421043
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.03574270172624689,
+    "trust_ratio": 0.035280749945625876,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.475742701726247,
-    "three_inst_ratio_change_20": -0.7125241933661943
+    "three_inst_ratio": 9.475280749945625,
+    "three_inst_ratio_change_20": -0.6803323565387807
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.03531628469798134,
+    "trust_ratio": 0.03485433291736032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.48531628469798,
-    "three_inst_ratio_change_20": -0.670296821786426
+    "three_inst_ratio": 9.48485433291736,
+    "three_inst_ratio_change_20": -0.599533268795188
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.46,
-    "trust_ratio": 0.03483656554118259,
+    "trust_ratio": 0.03437461376056158,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.494836565541183,
-    "three_inst_ratio_change_20": -0.5895510361713647
+    "three_inst_ratio": 9.494374613760563,
+    "three_inst_ratio_change_20": 9.494374613760563
   },
   {
     "date": "2026-03-30",
@@ -1446,10 +1468,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.49,
-    "trust_ratio": 0.03497870455060444,
+    "trust_ratio": 0.03451675276998343,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.524978704550605,
-    "three_inst_ratio_change_20": -0.5986431232486815
+    "three_inst_ratio": 9.524516752769983,
+    "three_inst_ratio_change_20": -0.5986431232486833
   },
   {
     "date": "2026-03-31",
@@ -1457,10 +1479,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.03497870455060444,
+    "trust_ratio": 0.03451675276998343,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.474978704550605,
-    "three_inst_ratio_change_20": -0.5485365189916163
+    "three_inst_ratio": 9.474516752769983,
+    "three_inst_ratio_change_20": -0.548536518991618
   },
   {
     "date": "2026-04-01",
@@ -1468,9 +1490,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.03497870455060444,
+    "trust_ratio": 0.03451675276998343,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.484978704550604,
+    "three_inst_ratio": 9.484516752769983,
     "three_inst_ratio_change_20": -0.4782877757251285
   },
   {
@@ -1479,10 +1501,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.46,
-    "trust_ratio": 0.03492540242207125,
+    "trust_ratio": 0.03446345064145024,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.494925402422073,
-    "three_inst_ratio_change_20": -0.4180923345871719
+    "three_inst_ratio": 9.494463450641451,
+    "three_inst_ratio_change_20": -0.41809233458717365
   },
   {
     "date": "2026-04-07",
@@ -1490,9 +1512,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.035060470015774364,
+    "trust_ratio": 0.03459851823515335,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.485060470015773,
+    "three_inst_ratio": 9.484598518235153,
     "three_inst_ratio_change_20": -0.39785066273640446
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.035060470015774364,
+    "trust_ratio": 0.03459851823515335,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.485060470015773,
+    "three_inst_ratio": 9.484598518235153,
     "three_inst_ratio_change_20": -0.40785066273640425
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.48,
-    "trust_ratio": 0.03491833100635251,
+    "trust_ratio": 0.0344563792257315,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.514918331006353,
+    "three_inst_ratio": 9.514456379225733,
     "three_inst_ratio_change_20": -0.33799280174582513
   },
   {
@@ -1523,9 +1545,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.035099629312870084,
+    "trust_ratio": 0.03463767753224907,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.48509962931287,
+    "three_inst_ratio": 9.484637677532248,
     "three_inst_ratio_change_20": -0.32765866846942693
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.46,
-    "trust_ratio": 0.03550827896495791,
+    "trust_ratio": 0.03504632718433689,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.495508278964959,
+    "three_inst_ratio": 9.495046327184339,
     "three_inst_ratio_change_20": -0.2187140150796303
   },
   {
@@ -1545,10 +1567,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.03533060520318059,
+    "trust_ratio": 0.03486865342255958,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.47533060520318,
-    "three_inst_ratio_change_20": -0.1804552179450507
+    "three_inst_ratio": 9.47486865342256,
+    "three_inst_ratio_change_20": -0.18045521794504893
   },
   {
     "date": "2026-04-15",
@@ -1556,10 +1578,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.47,
-    "trust_ratio": 0.035117396689047814,
+    "trust_ratio": 0.0346554449084268,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.505117396689048,
-    "three_inst_ratio_change_20": -0.14063312268271666
+    "three_inst_ratio": 9.504655444908428,
+    "three_inst_ratio_change_20": -0.14063312268271488
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.51,
-    "trust_ratio": 0.03449553852282722,
+    "trust_ratio": 0.034033586742206204,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.544495538522828,
-    "three_inst_ratio_change_20": -0.061130609215693354
+    "three_inst_ratio": 9.544033586742206,
+    "three_inst_ratio_change_20": -0.06113060921569513
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.53,
-    "trust_ratio": 0.03449553852282722,
+    "trust_ratio": 0.034033586742206204,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.564495538522827,
-    "three_inst_ratio_change_20": -0.0018128409261652934
+    "three_inst_ratio": 9.564033586742205,
+    "three_inst_ratio_change_20": -0.0018128409261670697
   },
   {
     "date": "2026-04-20",
@@ -1589,9 +1611,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.55,
-    "trust_ratio": 0.034488467107108484,
+    "trust_ratio": 0.03402651532648747,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.584488467107109,
+    "three_inst_ratio": 9.584026515326489,
     "three_inst_ratio_change_20": 0.05812678552958239
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.56,
-    "trust_ratio": 0.034769280487597524,
+    "trust_ratio": 0.03430732870697651,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.594769280487599,
+    "three_inst_ratio": 9.594307328706977,
     "three_inst_ratio_change_20": 0.06886667237575139
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.52,
-    "trust_ratio": 0.03504302245236783,
+    "trust_ratio": 0.034581070671746816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.555043022452367,
+    "three_inst_ratio": 9.554581070671746,
     "three_inst_ratio_change_20": 0.07922925122140967
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.49,
-    "trust_ratio": 0.03517809004607095,
+    "trust_ratio": 0.03471613826544993,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.52517809004607,
+    "three_inst_ratio": 9.52471613826545,
     "three_inst_ratio_change_20": 0.06936431881511318
   },
   {
@@ -1633,10 +1655,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.54,
-    "trust_ratio": 0.035506786505358975,
+    "trust_ratio": 0.03504483472473796,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.575506786505358,
-    "three_inst_ratio_change_20": 0.09976408477911036
+    "three_inst_ratio": 9.575044834724737,
+    "three_inst_ratio_change_20": 0.09976408477911214
   },
   {
     "date": "2026-04-27",
@@ -1644,10 +1666,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.54,
-    "trust_ratio": 0.034991532596204765,
+    "trust_ratio": 0.03452958081558375,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.574991532596204,
-    "three_inst_ratio_change_20": 0.08967524789822434
+    "three_inst_ratio": 9.574529580815582,
+    "three_inst_ratio_change_20": 0.08967524789822257
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.55,
-    "trust_ratio": 0.034938230467671576,
+    "trust_ratio": 0.034476278687050554,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.584938230467673,
-    "three_inst_ratio_change_20": 0.09010166492648963
+    "three_inst_ratio": 9.58447627868705,
+    "three_inst_ratio_change_20": 0.09010166492648786
   },
   {
     "date": "2026-04-29",
@@ -1666,10 +1688,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.56,
-    "trust_ratio": 0.03474278932971653,
+    "trust_ratio": 0.034280837549095514,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.594742789329716,
-    "three_inst_ratio_change_20": 0.069764084779111
+    "three_inst_ratio": 9.594280837549096,
+    "three_inst_ratio_change_20": 0.06976408477911278
   },
   {
     "date": "2026-04-30",
@@ -1677,9 +1699,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.55,
-    "trust_ratio": 0.03460953400838354,
+    "trust_ratio": 0.03414758222776253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.584609534008385,
+    "three_inst_ratio": 9.584147582227763,
     "three_inst_ratio_change_20": 0.10963082945777991
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.484978704550604
+    "three_inst_ratio_change_20": -9.484516752769983
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.54,
-    "trust_ratio": 0.03446739499896169,
+    "trust_ratio": 0.034005443218340675,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.57446739499896,
-    "three_inst_ratio_change_20": 0.07954199257688721
+    "three_inst_ratio": 9.57400544321834,
+    "three_inst_ratio_change_20": 0.07954199257688899
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.53,
-    "trust_ratio": 0.034280837549095514,
+    "trust_ratio": 0.0338188857684745,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.564280837549095,
-    "three_inst_ratio_change_20": 0.07922036753332229
+    "three_inst_ratio": 9.563818885768473,
+    "three_inst_ratio_change_20": 0.07922036753332051
   },
   {
     "date": "2026-05-06",
@@ -1721,9 +1743,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.55,
-    "trust_ratio": 0.03420976804438459,
+    "trust_ratio": 0.03374781626376357,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.584209768044385,
+    "three_inst_ratio": 9.583747816263765,
     "three_inst_ratio_change_20": 0.09914929802861217
   },
   {
@@ -1732,10 +1754,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.55,
-    "trust_ratio": 0.03395214108980748,
+    "trust_ratio": 0.033490189309186465,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.583952141089808,
-    "three_inst_ratio_change_20": 0.06903381008345555
+    "three_inst_ratio": 9.583490189309186,
+    "three_inst_ratio_change_20": 0.06903381008345377
   },
   {
     "date": "2026-05-08",
@@ -1743,10 +1765,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.59,
-    "trust_ratio": 0.0338188857684745,
+    "trust_ratio": 0.03335693398785348,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.623818885768474,
-    "three_inst_ratio_change_20": 0.13871925645560346
+    "three_inst_ratio": 9.623356933987854,
+    "three_inst_ratio_change_20": 0.13871925645560523
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.61,
-    "trust_ratio": 0.030869501322971088,
+    "trust_ratio": 0.030407549542350074,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.640869501322971,
-    "three_inst_ratio_change_20": 0.1453612223580123
+    "three_inst_ratio": 9.64040754954235,
+    "three_inst_ratio_change_20": 0.14536122235801052
   },
   {
     "date": "2026-05-12",
@@ -1765,9 +1787,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.61,
-    "trust_ratio": 0.029003926824309297,
+    "trust_ratio": 0.02854197504368828,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.639003926824309,
+    "three_inst_ratio": 9.638541975043688,
     "three_inst_ratio_change_20": 0.16367332162112902
   },
   {
@@ -1776,9 +1798,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.55,
-    "trust_ratio": 0.029003926824309297,
+    "trust_ratio": 0.02854197504368828,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.57900392682431,
+    "three_inst_ratio": 9.57854197504369,
     "three_inst_ratio_change_20": 0.07388653013526181
   },
   {
@@ -1787,10 +1809,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.4,
-    "trust_ratio": 0.02878183462208765,
+    "trust_ratio": 0.028319882841466637,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.428781834622088,
-    "three_inst_ratio_change_20": -0.11571370390073987
+    "three_inst_ratio": 9.428319882841468,
+    "three_inst_ratio_change_20": -0.1157137039007381
   },
   {
     "date": "2026-05-15",
@@ -1798,10 +1820,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.31,
-    "trust_ratio": 0.02876406724590992,
+    "trust_ratio": 0.028302115465288907,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.33876406724591,
-    "three_inst_ratio_change_20": -0.22573147127691762
+    "three_inst_ratio": 9.33830211546529,
+    "three_inst_ratio_change_20": -0.22573147127691584
   },
   {
     "date": "2026-05-18",
@@ -1809,9 +1831,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.25,
-    "trust_ratio": 0.02862192823648807,
+    "trust_ratio": 0.028159976455867056,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.278621928236488,
+    "three_inst_ratio": 9.278159976455868,
     "three_inst_ratio_change_20": -0.305866538870621
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.25,
-    "trust_ratio": 0.027342677151691416,
+    "trust_ratio": 0.0268807253710704,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.277342677151692,
+    "three_inst_ratio": 9.27688072537107,
     "three_inst_ratio_change_20": -0.3174266033359068
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.22,
-    "trust_ratio": 0.02672081898547082,
+    "trust_ratio": 0.026258867204849802,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.246720818985471,
+    "three_inst_ratio": 9.246258867204851,
     "three_inst_ratio_change_20": -0.3083222034668953
   },
   {
@@ -1842,10 +1864,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.22,
-    "trust_ratio": 0.025814682800406517,
+    "trust_ratio": 0.0253527310197855,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.245814682800408,
-    "three_inst_ratio_change_20": -0.279363407245663
+    "three_inst_ratio": 9.245352731019786,
+    "three_inst_ratio_change_20": -0.2793634072456648
   },
   {
     "date": "2026-05-22",
@@ -1853,9 +1875,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 9.17,
-    "trust_ratio": 0.025734729607606727,
+    "trust_ratio": 0.02527277782698571,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.195734729607606,
+    "three_inst_ratio": 9.195272777826986,
     "three_inst_ratio_change_20": -0.3797720568977514
   },
   {
@@ -1864,10 +1886,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 8.9,
-    "trust_ratio": 0.025734729607606727,
+    "trust_ratio": 0.02527277782698571,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.925734729607607,
-    "three_inst_ratio_change_20": -0.6492568029885977
+    "three_inst_ratio": 8.925272777826986,
+    "three_inst_ratio_change_20": -0.6492568029885959
   },
   {
     "date": "2026-05-26",
@@ -1875,9 +1897,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 8.74,
-    "trust_ratio": 0.025548172157740547,
+    "trust_ratio": 0.02508622037711953,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.765548172157741,
+    "three_inst_ratio": 8.76508622037712,
     "three_inst_ratio_change_20": -0.8193900583099314
   },
   {
@@ -1886,10 +1908,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 8.64,
-    "trust_ratio": 0.09928278329532571,
+    "trust_ratio": 0.0988208315147047,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.739282783295327,
-    "three_inst_ratio_change_20": -0.8554600060343898
+    "three_inst_ratio": 8.738820831514705,
+    "three_inst_ratio_change_20": -0.8554600060343915
   },
   {
     "date": "2026-05-28",
@@ -1897,9 +1919,9 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 8.41,
-    "trust_ratio": 0.09928278329532571,
+    "trust_ratio": 0.0988208315147047,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.509282783295326,
+    "three_inst_ratio": 8.508820831514704,
     "three_inst_ratio_change_20": -1.0753267507130584
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 8.33,
-    "trust_ratio": 0.09848858158018112,
+    "trust_ratio": 0.09802662979956009,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.428488581580181,
-    "three_inst_ratio_change_20": 8.428488581580181
+    "three_inst_ratio": 8.428026629799561,
+    "three_inst_ratio_change_20": 8.428026629799561
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 8.18,
-    "trust_ratio": 0.09836849188459582,
+    "trust_ratio": 0.09790654010397482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.278368491884596,
-    "three_inst_ratio_change_20": -1.2960989031143644
+    "three_inst_ratio": 8.277906540103974,
+    "three_inst_ratio_change_20": -1.2960989031143662
   },
   {
     "date": "2026-06-02",
@@ -1930,10 +1952,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.94,
-    "trust_ratio": 0.1048447005013789,
+    "trust_ratio": 0.1043827487207579,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.044844700501379,
-    "three_inst_ratio_change_20": -1.519436137047716
+    "three_inst_ratio": 8.044382748720759,
+    "three_inst_ratio_change_20": -1.5194361370477143
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.64,
-    "trust_ratio": 0.10848701261781384,
+    "trust_ratio": 0.10802506083719282,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.748487012617813,
-    "three_inst_ratio_change_20": -1.8357227554265716
+    "three_inst_ratio": 7.748025060837192,
+    "three_inst_ratio_change_20": -1.8357227554265725
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.54,
-    "trust_ratio": 0.1109566779065185,
+    "trust_ratio": 0.11049472612589747,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.650956677906518,
-    "three_inst_ratio_change_20": -1.93299546318329
+    "three_inst_ratio": 7.650494726125897,
+    "three_inst_ratio_change_20": -1.932995463183289
   },
   {
     "date": "2026-06-05",
@@ -1963,10 +1985,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.55,
-    "trust_ratio": 0.1141370382423324,
+    "trust_ratio": 0.1136750864617114,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.664137038242332,
-    "three_inst_ratio_change_20": -1.9596818475261415
+    "three_inst_ratio": 7.663675086461711,
+    "three_inst_ratio_change_20": -1.9596818475261424
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.11404820136144374,
+    "trust_ratio": 0.11358624958082272,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.594048201361444,
-    "three_inst_ratio_change_20": -2.046821299961527
+    "three_inst_ratio": 7.593586249580823,
+    "three_inst_ratio_change_20": -2.0468212999615263
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.11442886739605164,
+    "trust_ratio": 0.11396691561543064,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.5944288673960525,
-    "three_inst_ratio_change_20": -2.044575059428256
+    "three_inst_ratio": 7.5939669156154315,
+    "three_inst_ratio_change_20": -2.044575059428257
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.55,
-    "trust_ratio": 0.11389026715459989,
+    "trust_ratio": 0.11342831537397888,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.6638902671546,
-    "three_inst_ratio_change_20": -1.9151136596697098
+    "three_inst_ratio": 7.663428315373979,
+    "three_inst_ratio_change_20": -1.9151136596697107
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.5,
-    "trust_ratio": 0.1161111891768163,
+    "trust_ratio": 0.1156492373961953,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.6161111891768165,
-    "three_inst_ratio_change_20": -1.8126706454452712
+    "three_inst_ratio": 7.6156492373961955,
+    "three_inst_ratio_change_20": -1.8126706454452721
   },
   {
     "date": "2026-06-12",
@@ -2018,10 +2040,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.11680468540378552,
+    "trust_ratio": 0.11634273362316451,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.596804685403786,
-    "three_inst_ratio_change_20": -1.7419593818421237
+    "three_inst_ratio": 7.596342733623165,
+    "three_inst_ratio_change_20": -1.7419593818421246
   },
   {
     "date": "2026-06-15",
@@ -2029,10 +2051,10 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.44,
-    "trust_ratio": 0.11783668568169288,
+    "trust_ratio": 0.11737473390107185,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.557836685681694,
-    "three_inst_ratio_change_20": -1.7207852425547943
+    "three_inst_ratio": 7.557374733901073,
+    "three_inst_ratio_change_20": -1.7207852425547951
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "台灣高鐵",
     "market": "TWSE",
     "foreign_ratio": 7.45,
-    "trust_ratio": 0.21403437731226962,
+    "trust_ratio": 0.21357242553164865,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.664034377312269,
-    "three_inst_ratio_change_20": -1.6133082998394226
+    "three_inst_ratio": 7.663572425531648,
+    "three_inst_ratio_change_20": -1.6133082998394217
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 7.34,
+    "trust_ratio": 0.34540635677041537,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.685406356770415,
+    "three_inst_ratio_change_20": -1.5608525104344357
   }
 ]

@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -11.753078596198154
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2515",
     "name": "中工",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -11.842892017904719
   },
   {
+    "date": "2026-02-18",
+    "code": "2515",
+    "name": "中工",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.04289201790472
+  },
+  {
     "date": "2026-02-23",
     "code": "2515",
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.98,
-    "trust_ratio": 0.4631717198872417,
+    "trust_ratio": 0.6186536310831336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.443171719887243,
-    "three_inst_ratio_change_20": 0.40027970198252305
+    "three_inst_ratio": 12.598653631083135,
+    "three_inst_ratio_change_20": 0.6958238059428936
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 13.42,
-    "trust_ratio": 0.4631717198872417,
+    "trust_ratio": 0.6186536310831336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.883171719887242,
-    "three_inst_ratio_change_20": 1.980341894747001
+    "three_inst_ratio": 14.038653631083134,
+    "three_inst_ratio_change_20": 2.0858238059428924
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.73,
-    "trust_ratio": 0.4631717198872417,
+    "trust_ratio": 0.6186536310831336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.193171719887243,
-    "three_inst_ratio_change_20": 0.24034189474700085
+    "three_inst_ratio": 12.348653631083135,
+    "three_inst_ratio_change_20": 0.29582380594289326
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 12.14,
-    "trust_ratio": 0.4631717198872417,
+    "trust_ratio": 0.6186536310831336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.603171719887243,
-    "three_inst_ratio_change_20": 0.5503418947470013
+    "three_inst_ratio": 12.758653631083135,
+    "three_inst_ratio_change_20": 0.7658238059428939
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2515",
+    "name": "中工",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.142829825140241
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 12.0,
-    "trust_ratio": 0.4631717198872417,
+    "trust_ratio": 0.6186536310831336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.463171719887242,
-    "three_inst_ratio_change_20": 0.4703418947470013
+    "three_inst_ratio": 12.618653631083134,
+    "three_inst_ratio_change_20": 1.6958238059428936
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 12.29,
-    "trust_ratio": 0.4631717198872417,
+    "trust_ratio": 0.6186536310831336,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.753171719887241,
-    "three_inst_ratio_change_20": 0.6103418947470001
+    "three_inst_ratio": 12.908653631083133,
+    "three_inst_ratio_change_20": 1.836010384236328
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 12.26,
-    "trust_ratio": 0.463047334358285,
+    "trust_ratio": 0.618529245554177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.723047334358284,
-    "three_inst_ratio_change_20": 1.8002175092180437
+    "three_inst_ratio": 12.878529245554176,
+    "three_inst_ratio_change_20": 1.7359481914718486
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 12.11,
-    "trust_ratio": 0.463047334358285,
+    "trust_ratio": 0.618529245554177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.573047334358284,
-    "three_inst_ratio_change_20": 1.5004040875114786
+    "three_inst_ratio": 12.728529245554176,
+    "three_inst_ratio_change_20": 1.6659481914718484
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.66,
-    "trust_ratio": 0.463047334358285,
+    "trust_ratio": 0.618529245554177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.123047334358285,
-    "three_inst_ratio_change_20": 0.980466280275957
+    "three_inst_ratio": 12.278529245554177,
+    "three_inst_ratio_change_20": 1.2259481914718489
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.77,
-    "trust_ratio": 0.463047334358285,
+    "trust_ratio": 0.618529245554177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.233047334358284,
-    "three_inst_ratio_change_20": 1.1704662802759564
+    "three_inst_ratio": 12.388529245554176,
+    "three_inst_ratio_change_20": 1.3259481914718485
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.54,
-    "trust_ratio": 0.463047334358285,
+    "trust_ratio": 0.618529245554177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.003047334358284,
-    "three_inst_ratio_change_20": 0.9504662802759558
+    "three_inst_ratio": 12.158529245554176,
+    "three_inst_ratio_change_20": 1.0761347697652823
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.46,
-    "trust_ratio": 0.4629851415938067,
+    "trust_ratio": 0.6184670527896986,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.922985141593808,
-    "three_inst_ratio_change_20": 0.8604040875114798
+    "three_inst_ratio": 12.0784670527897,
+    "three_inst_ratio_change_20": 0.8160725770008064
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.28,
-    "trust_ratio": 0.48164297093731373,
+    "trust_ratio": 0.6371248821332056,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.761642970937313,
-    "three_inst_ratio_change_20": 0.6792484951484195
+    "three_inst_ratio": 11.917124882133205,
+    "three_inst_ratio_change_20": 0.6847304063443111
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 11.07,
-    "trust_ratio": 0.486929355917974,
+    "trust_ratio": 0.642411267113866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.556929355917974,
-    "three_inst_ratio_change_20": 0.29453488012908124
+    "three_inst_ratio": 11.712411267113866,
+    "three_inst_ratio_change_20": 0.6600167913249724
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.66,
-    "trust_ratio": 0.486929355917974,
+    "trust_ratio": 0.642411267113866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.146929355917974,
-    "three_inst_ratio_change_20": -0.08546511987091954
+    "three_inst_ratio": 11.302411267113866,
+    "three_inst_ratio_change_20": 0.42001679132497216
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.59,
-    "trust_ratio": 0.486929355917974,
+    "trust_ratio": 0.642411267113866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.076929355917974,
-    "three_inst_ratio_change_20": 0.024534880129079895
+    "three_inst_ratio": 11.232411267113866,
+    "three_inst_ratio_change_20": -0.009983208675027555
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.5,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.986991548682452,
-    "three_inst_ratio_change_20": 0.10459707289355791
+    "three_inst_ratio": 11.142473459878344,
+    "three_inst_ratio_change_20": 11.142473459878344
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.44,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.926991548682452,
-    "three_inst_ratio_change_20": -0.315402927106442
+    "three_inst_ratio": 11.082473459878344,
+    "three_inst_ratio_change_20": 11.082473459878344
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.38,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.866991548682453,
-    "three_inst_ratio_change_20": 10.866991548682453
+    "three_inst_ratio": 11.022473459878345,
+    "three_inst_ratio_change_20": 11.022473459878345
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.42,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.906991548682452,
-    "three_inst_ratio_change_20": 10.906991548682452
+    "three_inst_ratio": 11.062473459878344,
+    "three_inst_ratio_change_20": -1.5361801712047907
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.34,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.826991548682452,
-    "three_inst_ratio_change_20": -1.6161801712047907
+    "three_inst_ratio": 10.982473459878344,
+    "three_inst_ratio_change_20": -3.0561801712047902
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.41,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.896991548682452,
-    "three_inst_ratio_change_20": -2.98618017120479
+    "three_inst_ratio": 11.052473459878344,
+    "three_inst_ratio_change_20": -1.2961801712047905
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.25,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.736991548682452,
-    "three_inst_ratio_change_20": -1.4561801712047906
+    "three_inst_ratio": 10.892473459878344,
+    "three_inst_ratio_change_20": -1.8661801712047907
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.21,
-    "trust_ratio": 0.4869915486824524,
+    "trust_ratio": 0.6424734598783444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.696991548682453,
-    "three_inst_ratio_change_20": -1.9061801712047899
+    "three_inst_ratio": 10.852473459878345,
+    "three_inst_ratio_change_20": 10.852473459878345
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.25,
-    "trust_ratio": 0.4873025125048442,
+    "trust_ratio": 0.6427844237007361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.737302512504844,
+    "three_inst_ratio": 10.892784423700736,
     "three_inst_ratio_change_20": -1.7258692073823987
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.15,
-    "trust_ratio": 0.4873025125048442,
+    "trust_ratio": 0.6427844237007361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.637302512504844,
+    "three_inst_ratio": 10.792784423700736,
     "three_inst_ratio_change_20": -2.1158692073823975
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.22,
-    "trust_ratio": 0.4873025125048442,
+    "trust_ratio": 0.6427844237007361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.707302512504844,
+    "three_inst_ratio": 10.862784423700736,
     "three_inst_ratio_change_20": -2.01574482185344
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.22,
-    "trust_ratio": 0.48717812697588747,
+    "trust_ratio": 0.6426600381717794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.707178126975888,
+    "three_inst_ratio": 10.86266003817178,
     "three_inst_ratio_change_20": -1.8658692073823957
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.27,
-    "trust_ratio": 0.48717812697588747,
+    "trust_ratio": 0.6426600381717794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.757178126975887,
+    "three_inst_ratio": 10.91266003817178,
     "three_inst_ratio_change_20": -1.3658692073823975
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.32,
-    "trust_ratio": 0.48717812697588747,
+    "trust_ratio": 0.6426600381717794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.807178126975888,
+    "three_inst_ratio": 10.96266003817178,
     "three_inst_ratio_change_20": -1.4258692073823962
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.21,
-    "trust_ratio": 0.4873025125048442,
+    "trust_ratio": 0.6427844237007361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.697302512504844,
+    "three_inst_ratio": 10.852784423700736,
     "three_inst_ratio_change_20": -1.3057448218534393
   },
   {
@@ -1523,9 +1545,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.24,
-    "trust_ratio": 0.48717812697588747,
+    "trust_ratio": 0.6426600381717794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.727178126975888,
+    "three_inst_ratio": 10.88266003817178,
     "three_inst_ratio_change_20": -1.1958070146179196
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.26,
-    "trust_ratio": 0.48717812697588747,
+    "trust_ratio": 0.6426600381717794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.747178126975887,
+    "three_inst_ratio": 10.90266003817178,
     "three_inst_ratio_change_20": -1.0144648439614254
   },
   {
@@ -1545,9 +1567,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.22,
-    "trust_ratio": 0.48717812697588747,
+    "trust_ratio": 0.6426600381717794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.707178126975888,
+    "three_inst_ratio": 10.86266003817178,
     "three_inst_ratio_change_20": -0.8497512289420861
   },
   {
@@ -1556,9 +1578,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.2,
-    "trust_ratio": 0.486929355917974,
+    "trust_ratio": 0.642411267113866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.686929355917973,
+    "three_inst_ratio": 10.842411267113865,
     "three_inst_ratio_change_20": -0.46000000000000085
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 10.01,
-    "trust_ratio": 0.48717812697588747,
+    "trust_ratio": 0.6426600381717794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.497178126975887,
+    "three_inst_ratio": 10.65266003817178,
     "three_inst_ratio_change_20": -0.5797512289420865
   },
   {
@@ -1578,9 +1600,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.76,
-    "trust_ratio": 0.4874890907982792,
+    "trust_ratio": 0.6429710019941712,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 10.402971001994171,
+    "three_inst_ratio": 10.558452913190063,
     "three_inst_ratio_change_20": -0.5840205466882811
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.35,
-    "trust_ratio": 0.4874890907982792,
+    "trust_ratio": 0.6429710019941712,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.99297100199417,
+    "three_inst_ratio": 10.148452913190063,
     "three_inst_ratio_change_20": -0.9340205466882807
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.33,
-    "trust_ratio": 0.4874890907982792,
+    "trust_ratio": 0.6429710019941712,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.972971001994171,
+    "three_inst_ratio": 10.128452913190063,
     "three_inst_ratio_change_20": -0.8940205466882816
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.12,
-    "trust_ratio": 0.4870537414469307,
+    "trust_ratio": 0.6425356526428226,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.762535652642821,
+    "three_inst_ratio": 9.918017563838713,
     "three_inst_ratio_change_20": -1.1444558960396307
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.02,
-    "trust_ratio": 0.4870537414469307,
+    "trust_ratio": 0.6425356526428226,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.662535652642822,
+    "three_inst_ratio": 9.818017563838714,
     "three_inst_ratio_change_20": -1.1644558960396303
   },
   {
@@ -1633,9 +1655,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.04,
-    "trust_ratio": 0.486929355917974,
+    "trust_ratio": 0.642411267113866,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.682411267113865,
+    "three_inst_ratio": 9.837893178309757,
     "three_inst_ratio_change_20": -1.2145802815685869
   },
   {
@@ -1644,9 +1666,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.08,
-    "trust_ratio": 0.48680497038901727,
+    "trust_ratio": 0.6422868815849092,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.722286881584909,
+    "three_inst_ratio": 9.8777687927808,
     "three_inst_ratio_change_20": -1.0147046670975435
   },
   {
@@ -1655,9 +1677,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 9.1,
-    "trust_ratio": 0.486742777624539,
+    "trust_ratio": 0.6422246888204309,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.74222468882043,
+    "three_inst_ratio": 9.897706600016322,
     "three_inst_ratio_change_20": -0.9547668598620227
   },
   {
@@ -1666,9 +1688,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.86,
-    "trust_ratio": 0.48668058486006055,
+    "trust_ratio": 0.6421624960559525,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.502162496055952,
+    "three_inst_ratio": 9.657644407251844,
     "three_inst_ratio_change_20": -1.2351400164488915
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.72,
-    "trust_ratio": 0.48668058486006055,
+    "trust_ratio": 0.6421624960559525,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.362162496055953,
+    "three_inst_ratio": 9.517644407251845,
     "three_inst_ratio_change_20": -1.2751400164488906
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -10.707302512504844
+    "three_inst_ratio_change_20": -10.862784423700736
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.72,
-    "trust_ratio": 0.48668058486006055,
+    "trust_ratio": 0.6421624960559525,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.362162496055953,
+    "three_inst_ratio": 9.517644407251845,
     "three_inst_ratio_change_20": -1.345015630919935
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.65,
-    "trust_ratio": 0.4864318138021471,
+    "trust_ratio": 0.6419137249980391,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.29191372499804,
+    "three_inst_ratio": 9.447395636193932,
     "three_inst_ratio_change_20": -1.4652644019778478
   },
   {
@@ -1721,9 +1743,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.71,
-    "trust_ratio": 0.4864318138021471,
+    "trust_ratio": 0.6419137249980391,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.35191372499804,
+    "three_inst_ratio": 9.507395636193932,
     "three_inst_ratio_change_20": -1.455264401977848
   },
   {
@@ -1732,9 +1754,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.76,
-    "trust_ratio": 0.48668058486006055,
+    "trust_ratio": 0.6421624960559525,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.402162496055952,
+    "three_inst_ratio": 9.557644407251844,
     "three_inst_ratio_change_20": -1.295140016448892
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.71,
-    "trust_ratio": 0.48668058486006055,
+    "trust_ratio": 0.6421624960559525,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.352162496055954,
+    "three_inst_ratio": 9.507644407251846,
     "three_inst_ratio_change_20": -1.3750156309199344
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.72,
-    "trust_ratio": 0.48668058486006055,
+    "trust_ratio": 0.6421624960559525,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.362162496055953,
+    "three_inst_ratio": 9.517644407251845,
     "three_inst_ratio_change_20": -1.3850156309199342
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.6,
-    "trust_ratio": 0.4863074282731905,
+    "trust_ratio": 0.6417893394690825,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.241789339469083,
+    "three_inst_ratio": 9.397271250664975,
     "three_inst_ratio_change_20": -1.4653887875068055
   },
   {
@@ -1776,9 +1798,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.69,
-    "trust_ratio": 0.4863074282731905,
+    "trust_ratio": 0.6417893394690825,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 9.331789339469083,
+    "three_inst_ratio": 9.487271250664975,
     "three_inst_ratio_change_20": -1.3551400164488907
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.32,
-    "trust_ratio": 0.4856855006284069,
+    "trust_ratio": 0.6411674118242988,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.961167411824299,
+    "three_inst_ratio": 9.11664932302019,
     "three_inst_ratio_change_20": -1.5360107151515887
   },
   {
@@ -1798,9 +1820,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.14,
-    "trust_ratio": 0.4856233078639285,
+    "trust_ratio": 0.6411052190598205,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.781105219059821,
+    "three_inst_ratio": 8.936587130255713,
     "three_inst_ratio_change_20": -1.62186578293435
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.13,
-    "trust_ratio": 0.4856233078639285,
+    "trust_ratio": 0.6411052190598205,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.771105219059821,
+    "three_inst_ratio": 8.926587130255713,
     "three_inst_ratio_change_20": -1.2218657829343496
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.13,
-    "trust_ratio": 0.4856233078639285,
+    "trust_ratio": 0.6411052190598205,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.771105219059821,
+    "three_inst_ratio": 8.926587130255713,
     "three_inst_ratio_change_20": -1.20186578293435
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.14,
-    "trust_ratio": 0.4854989223349719,
+    "trust_ratio": 0.6409808335308638,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.780980833530865,
+    "three_inst_ratio": 8.936462744726757,
     "three_inst_ratio_change_20": -0.9815548191119561
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 8.14,
-    "trust_ratio": 0.48537453680601517,
+    "trust_ratio": 0.6408564480019071,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.780856448001908,
+    "three_inst_ratio": 8.9363383591978,
     "three_inst_ratio_change_20": -0.8816792046409141
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.67,
-    "trust_ratio": 0.48537453680601517,
+    "trust_ratio": 0.6408564480019071,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.310856448001907,
+    "three_inst_ratio": 8.466338359197799,
     "three_inst_ratio_change_20": -1.3715548191119584
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.48537453680601517,
+    "trust_ratio": 0.6408564480019071,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.120856448001907,
+    "three_inst_ratio": 8.2763383591978,
     "three_inst_ratio_change_20": -1.6014304335830012
   },
   {
@@ -1875,10 +1897,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.21,
-    "trust_ratio": 0.48537453680601517,
+    "trust_ratio": 0.6408564480019071,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.850856448001907,
-    "three_inst_ratio_change_20": -1.8913682408185233
+    "three_inst_ratio": 8.006338359197798,
+    "three_inst_ratio_change_20": -1.8913682408185242
   },
   {
     "date": "2026-05-27",
@@ -1886,9 +1908,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.17,
-    "trust_ratio": 0.48537453680601517,
+    "trust_ratio": 0.6408564480019071,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.810856448001907,
+    "three_inst_ratio": 7.966338359197799,
     "three_inst_ratio_change_20": -1.6913060480540452
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.0,
-    "trust_ratio": 0.48537453680601517,
+    "trust_ratio": 0.6408564480019071,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.640856448001907,
+    "three_inst_ratio": 7.796338359197799,
     "three_inst_ratio_change_20": -1.7213060480540463
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.1,
-    "trust_ratio": 0.4851257657481017,
+    "trust_ratio": 0.6406076769439937,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.740607676943993,
-    "three_inst_ratio_change_20": 7.740607676943993
+    "three_inst_ratio": 7.896089588139885,
+    "three_inst_ratio_change_20": 7.896089588139885
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.08,
-    "trust_ratio": 0.4851257657481017,
+    "trust_ratio": 0.6406076769439937,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.7206076769439935,
+    "three_inst_ratio": 7.876089588139886,
     "three_inst_ratio_change_20": -1.6415548191119598
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.1,
-    "trust_ratio": 0.48487699469018825,
+    "trust_ratio": 0.6403589058860802,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.7403589058860796,
+    "three_inst_ratio": 7.895840817081972,
     "three_inst_ratio_change_20": -1.55155481911196
   },
   {
@@ -1941,10 +1963,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.29,
-    "trust_ratio": 0.48487699469018825,
+    "trust_ratio": 0.6403589058860802,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.93035890588608,
-    "three_inst_ratio_change_20": -1.42155481911196
+    "three_inst_ratio": 8.085840817081971,
+    "three_inst_ratio_change_20": -1.421554819111961
   },
   {
     "date": "2026-06-04",
@@ -1952,9 +1974,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.42,
-    "trust_ratio": 0.48481480192570986,
+    "trust_ratio": 0.6402967131216019,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.060296713121602,
+    "three_inst_ratio": 8.215778624317494,
     "three_inst_ratio_change_20": -1.3418657829343505
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.4846282236322748,
+    "trust_ratio": 0.6401101348281668,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.120110134828167,
+    "three_inst_ratio": 8.275592046024059,
     "three_inst_ratio_change_20": -1.2320523612277867
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.48,
-    "trust_ratio": 0.4845660308677965,
+    "trust_ratio": 0.6400479420636884,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.120047942063689,
+    "three_inst_ratio": 8.275529853259581,
     "three_inst_ratio_change_20": -1.2421145539922644
   },
   {
@@ -1985,10 +2007,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.28,
-    "trust_ratio": 0.4845660308677965,
+    "trust_ratio": 0.6400479420636884,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.920047942063689,
-    "three_inst_ratio_change_20": -1.3217413974053942
+    "three_inst_ratio": 8.07552985325958,
+    "three_inst_ratio_change_20": -1.321741397405395
   },
   {
     "date": "2026-06-10",
@@ -1996,9 +2018,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.34,
-    "trust_ratio": 0.4845660308677965,
+    "trust_ratio": 0.6400479420636884,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.980047942063688,
+    "three_inst_ratio": 8.13552985325958,
     "three_inst_ratio_change_20": -1.3517413974053945
   },
   {
@@ -2007,10 +2029,10 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.29,
-    "trust_ratio": 0.4845660308677965,
+    "trust_ratio": 0.6400479420636884,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 7.9300479420636885,
-    "three_inst_ratio_change_20": -1.0311194697606103
+    "three_inst_ratio": 8.08552985325958,
+    "three_inst_ratio_change_20": -1.0311194697606112
   },
   {
     "date": "2026-06-12",
@@ -2018,9 +2040,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.57,
-    "trust_ratio": 0.4839441032230129,
+    "trust_ratio": 0.6394260144189048,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.209426014418906,
+    "three_inst_ratio": 8.364907925614798,
     "three_inst_ratio_change_20": -0.5716792046409154
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.73,
-    "trust_ratio": 0.4839441032230129,
+    "trust_ratio": 0.6394260144189048,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.369426014418906,
+    "three_inst_ratio": 8.524907925614798,
     "three_inst_ratio_change_20": -0.40167920464091544
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "中工",
     "market": "TWSE",
     "foreign_ratio": 7.83,
-    "trust_ratio": 0.4839441032230129,
+    "trust_ratio": 0.6394260144189048,
     "dealer_ratio": 0.15548191119589197,
-    "three_inst_ratio": 8.469426014418906,
+    "three_inst_ratio": 8.624907925614798,
     "three_inst_ratio_change_20": -0.3016792046409158
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2515",
+    "name": "中工",
+    "market": "TWSE",
+    "foreign_ratio": 8.07,
+    "trust_ratio": 0.6393016288899481,
+    "dealer_ratio": 0.15548191119589197,
+    "three_inst_ratio": 8.86478354008584,
+    "three_inst_ratio_change_20": -0.07167920464091715
   }
 ]

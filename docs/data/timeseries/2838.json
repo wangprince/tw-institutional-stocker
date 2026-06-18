@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -4.164154779940018
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2838",
     "name": "聯邦銀",
     "market": "TWSE",
@@ -1177,18 +1177,18 @@
     "three_inst_ratio_change_20": -4.1490171842758246
   },
   {
-    "date": "2026-02-23",
+    "date": "2026-02-18",
     "code": "2838",
     "name": "聯邦銀",
     "market": "TWSE",
-    "foreign_ratio": 4.15,
-    "trust_ratio": 0.00423390871384419,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.154233908713844,
-    "three_inst_ratio_change_20": 0.05467921057831049
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.099554698135534
   },
   {
-    "date": "2026-02-24",
+    "date": "2026-02-23",
     "code": "2838",
     "name": "聯邦銀",
     "market": "TWSE",
@@ -1199,7 +1199,7 @@
     "three_inst_ratio_change_20": 0.12520274103381457
   },
   {
-    "date": "2026-02-25",
+    "date": "2026-02-24",
     "code": "2838",
     "name": "聯邦銀",
     "market": "TWSE",
@@ -1210,6 +1210,17 @@
     "three_inst_ratio_change_20": 0.1955650016702637
   },
   {
+    "date": "2026-02-25",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 4.15,
+    "trust_ratio": 0.00423390871384419,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.154233908713844,
+    "three_inst_ratio_change_20": 0.22392290884130928
+  },
+  {
     "date": "2026-02-26",
     "code": "2838",
     "name": "聯邦銀",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 0.004164793077106154,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.184164793077106,
-    "three_inst_ratio_change_20": 0.25385379320457124
+    "three_inst_ratio_change_20": 0.27947011345167505
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.904694679625431
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.004095677440368118,
+    "trust_ratio": 0.0040726388947887725,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.214095677440368,
-    "three_inst_ratio_change_20": 0.309400997814937
+    "three_inst_ratio": 4.2140726388947884,
+    "three_inst_ratio_change_20": 0.3093779592693573
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.23,
-    "trust_ratio": 0.004095677440368118,
+    "trust_ratio": 0.0040726388947887725,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.234095677440369,
-    "three_inst_ratio_change_20": 0.3294009978149375
+    "three_inst_ratio": 4.234072638894789,
+    "three_inst_ratio_change_20": 0.32942403636051676
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.004003523258050736,
+    "trust_ratio": 0.003980484712471391,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.214003523258051,
-    "three_inst_ratio_change_20": 0.3093088436326199
+    "three_inst_ratio": 4.213980484712471,
+    "three_inst_ratio_change_20": 0.309400997814937
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.004003523258050736,
+    "trust_ratio": 0.003980484712471391,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.214003523258051,
-    "three_inst_ratio_change_20": 0.3093549207237789
+    "three_inst_ratio": 4.213980484712471,
+    "three_inst_ratio_change_20": 0.309400997814937
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.004003523258050736,
+    "trust_ratio": 0.003980484712471391,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.214003523258051,
-    "three_inst_ratio_change_20": 0.30942403636051674
+    "three_inst_ratio": 4.213980484712471,
+    "three_inst_ratio_change_20": 0.3294240363605163
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.2,
-    "trust_ratio": 0.004003523258050736,
+    "trust_ratio": 0.003980484712471391,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.204003523258051,
-    "three_inst_ratio_change_20": 0.29942403636051695
+    "three_inst_ratio": 4.2039804847124715,
+    "three_inst_ratio_change_20": 0.3094931519972546
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.004003523258050736,
+    "trust_ratio": 0.003980484712471391,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.214003523258051,
-    "three_inst_ratio_change_20": 0.32944707490609604
+    "three_inst_ratio": 4.213980484712471,
+    "three_inst_ratio_change_20": 0.3196313832707305
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.0039344076213127,
+    "trust_ratio": 0.003911369075733355,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.213934407621313,
-    "three_inst_ratio_change_20": 0.3194470749060958
+    "three_inst_ratio": 4.213911369075733,
+    "three_inst_ratio_change_20": 0.2995622676339922
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.23,
-    "trust_ratio": 0.007390189458214501,
+    "trust_ratio": 0.007367150912635156,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.237390189458215,
-    "three_inst_ratio_change_20": 0.34304108801647404
+    "three_inst_ratio": 4.237367150912635,
+    "three_inst_ratio_change_20": 0.3230180494708943
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.23,
-    "trust_ratio": 0.008127422916753554,
+    "trust_ratio": 0.008104384371174207,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.238127422916754,
-    "three_inst_ratio_change_20": 0.32377832147501273
+    "three_inst_ratio": 4.238104384371175,
+    "three_inst_ratio_change_20": 0.3037552829294339
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.23,
-    "trust_ratio": 0.008127422916753554,
+    "trust_ratio": 0.008104384371174207,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.238127422916754,
-    "three_inst_ratio_change_20": 0.32377832147501273
+    "three_inst_ratio": 4.238104384371175,
+    "three_inst_ratio_change_20": 0.2637783214750131
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.23,
-    "trust_ratio": 0.008081345825594862,
+    "trust_ratio": 0.008058307280015515,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.238081345825595,
-    "three_inst_ratio_change_20": 0.30373224438385416
+    "three_inst_ratio": 4.238058307280016,
+    "three_inst_ratio_change_20": 0.22373224438385453
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.24,
-    "trust_ratio": 0.008081345825594862,
+    "trust_ratio": 0.008058307280015515,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.248081345825595,
-    "three_inst_ratio_change_20": 0.2737552829294332
+    "three_inst_ratio": 4.248058307280016,
+    "three_inst_ratio_change_20": 4.248058307280016
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.24,
-    "trust_ratio": 0.00803526873443617,
+    "trust_ratio": 0.008012230188856825,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.248035268734436,
-    "three_inst_ratio_change_20": 0.2337092058382746
+    "three_inst_ratio": 4.248012230188857,
+    "three_inst_ratio_change_20": 4.248012230188857
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.25,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.263868490243853,
-    "three_inst_ratio_change_20": 4.263868490243853
+    "three_inst_ratio": 4.263845451698273,
+    "three_inst_ratio_change_20": 4.263845451698273
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.25,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.263868490243853,
-    "three_inst_ratio_change_20": 4.263868490243853
+    "three_inst_ratio": 4.263845451698273,
+    "three_inst_ratio_change_20": 0.1096115429844291
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.26,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.273868490243853,
-    "three_inst_ratio_change_20": 0.11963458153000861
+    "three_inst_ratio": 4.273845451698273,
+    "three_inst_ratio_change_20": 0.11961154298442889
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.29,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.303868490243853,
-    "three_inst_ratio_change_20": 0.14963458153000886
+    "three_inst_ratio": 4.303845451698273,
+    "three_inst_ratio_change_20": 0.14961154298442914
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.31,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.323868490243853,
-    "three_inst_ratio_change_20": 0.16963458153000843
+    "three_inst_ratio": 4.323845451698273,
+    "three_inst_ratio_change_20": 0.13968065862116674
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.34,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.353868490243853,
-    "three_inst_ratio_change_20": 0.16970369716674671
+    "three_inst_ratio": 4.353845451698273,
+    "three_inst_ratio_change_20": 4.353845451698273
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.35,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.363868490243853,
+    "three_inst_ratio": 4.363845451698273,
     "three_inst_ratio_change_20": 0.14977281280348453
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.35,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.363868490243853,
+    "three_inst_ratio": 4.363845451698273,
     "three_inst_ratio_change_20": 0.12977281280348407
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.34,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.353868490243853,
+    "three_inst_ratio": 4.353845451698273,
     "three_inst_ratio_change_20": 0.13986496698580186
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.34,
-    "trust_ratio": 0.013776336061535553,
+    "trust_ratio": 0.01375329751595621,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.353776336061536,
+    "three_inst_ratio": 4.353753297515956,
     "three_inst_ratio_change_20": 0.13977281280348475
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.34,
-    "trust_ratio": 0.013776336061535553,
+    "trust_ratio": 0.01375329751595621,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.353776336061536,
+    "three_inst_ratio": 4.353753297515956,
     "three_inst_ratio_change_20": 0.13977281280348475
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.35,
-    "trust_ratio": 0.013776336061535553,
+    "trust_ratio": 0.01375329751595621,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.363776336061536,
+    "three_inst_ratio": 4.363753297515956,
     "three_inst_ratio_change_20": 0.15977281280348432
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.36,
-    "trust_ratio": 0.01375329751595621,
+    "trust_ratio": 0.013730258970376863,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.3737532975159565,
+    "three_inst_ratio": 4.373730258970377,
     "three_inst_ratio_change_20": 0.15974977425790549
   },
   {
@@ -1523,9 +1545,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.38,
-    "trust_ratio": 0.01370722042479752,
+    "trust_ratio": 0.013684181879218172,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.3937072204247976,
+    "three_inst_ratio": 4.393684181879218,
     "three_inst_ratio_change_20": 0.17977281280348478
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.38,
-    "trust_ratio": 0.014098875699646386,
+    "trust_ratio": 0.014075837154067043,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.394098875699647,
+    "three_inst_ratio": 4.394075837154067,
     "three_inst_ratio_change_20": 0.15670868624143175
   },
   {
@@ -1545,10 +1567,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.38,
-    "trust_ratio": 0.014098875699646386,
+    "trust_ratio": 0.014075837154067043,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.394098875699647,
-    "three_inst_ratio_change_20": 0.15597145278289304
+    "three_inst_ratio": 4.394075837154067,
+    "three_inst_ratio_change_20": 0.15597145278289215
   },
   {
     "date": "2026-04-15",
@@ -1556,10 +1578,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.38,
-    "trust_ratio": 0.013868490243852935,
+    "trust_ratio": 0.01384545169827359,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.393868490243853,
-    "three_inst_ratio_change_20": 0.15574106732709936
+    "three_inst_ratio": 4.393845451698273,
+    "three_inst_ratio_change_20": 0.15574106732709847
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.39,
-    "trust_ratio": 0.01370722042479752,
+    "trust_ratio": 0.013684181879218172,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.403707220424797,
-    "three_inst_ratio_change_20": 0.1656258745992023
+    "three_inst_ratio": 4.403684181879218,
+    "three_inst_ratio_change_20": 0.16562587459920142
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.39,
-    "trust_ratio": 0.01370722042479752,
+    "trust_ratio": 0.013684181879218172,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.403707220424797,
-    "three_inst_ratio_change_20": 0.15562587459920252
+    "three_inst_ratio": 4.403684181879218,
+    "three_inst_ratio_change_20": 0.15562587459920163
   },
   {
     "date": "2026-04-20",
@@ -1589,10 +1611,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.39,
-    "trust_ratio": 0.01370722042479752,
+    "trust_ratio": 0.013684181879218172,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.403707220424797,
-    "three_inst_ratio_change_20": 0.15567195169036108
+    "three_inst_ratio": 4.403684181879218,
+    "three_inst_ratio_change_20": 0.1556719516903602
   },
   {
     "date": "2026-04-21",
@@ -1600,10 +1622,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.37,
-    "trust_ratio": 0.013684181879218172,
+    "trust_ratio": 0.013661143333638829,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.383684181879218,
-    "three_inst_ratio_change_20": 0.11981569163536498
+    "three_inst_ratio": 4.383661143333639,
+    "three_inst_ratio_change_20": 0.11981569163536587
   },
   {
     "date": "2026-04-22",
@@ -1611,9 +1633,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.34,
-    "trust_ratio": 0.013269488058789957,
+    "trust_ratio": 0.01324644951321061,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.35326948805879,
+    "three_inst_ratio": 4.35324644951321,
     "three_inst_ratio_change_20": 0.08940099781493682
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.31,
-    "trust_ratio": 0.013269488058789957,
+    "trust_ratio": 0.01324644951321061,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.32326948805879,
+    "three_inst_ratio": 4.32324644951321,
     "three_inst_ratio_change_20": 0.04940099781493679
   },
   {
@@ -1633,10 +1655,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.3,
-    "trust_ratio": 0.013131256785313886,
+    "trust_ratio": 0.013108218239734539,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.313131256785313,
-    "three_inst_ratio_change_20": 0.009262766541460188
+    "three_inst_ratio": 4.3131082182397344,
+    "three_inst_ratio_change_20": 0.009262766541461076
   },
   {
     "date": "2026-04-27",
@@ -1644,10 +1666,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.3,
-    "trust_ratio": 0.012969986966258467,
+    "trust_ratio": 0.01294694842067912,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.312969986966258,
-    "three_inst_ratio_change_20": -0.010898503277594784
+    "three_inst_ratio": 4.312946948420679,
+    "three_inst_ratio_change_20": -0.010898503277593896
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.3,
-    "trust_ratio": 0.012877832783941086,
+    "trust_ratio": 0.01285479423836174,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.312877832783941,
-    "three_inst_ratio_change_20": -0.04099065745991215
+    "three_inst_ratio": 4.312854794238362,
+    "three_inst_ratio_change_20": -0.04099065745991126
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.3,
-    "trust_ratio": 0.012831755692782396,
+    "trust_ratio": 0.012808717147203049,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.312831755692782,
+    "three_inst_ratio": 4.3128087171472025,
     "three_inst_ratio_change_20": -0.051036734551070495
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.28,
-    "trust_ratio": 0.012831755692782396,
+    "trust_ratio": 0.012808717147203049,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.292831755692783,
+    "three_inst_ratio": 4.292808717147203,
     "three_inst_ratio_change_20": -0.07103673455107007
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.353868490243853
+    "three_inst_ratio_change_20": -4.353845451698273
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.27,
-    "trust_ratio": 0.012831755692782396,
+    "trust_ratio": 0.012808717147203049,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.282831755692782,
+    "three_inst_ratio": 4.282808717147202,
     "three_inst_ratio_change_20": -0.07094458036875384
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.28,
-    "trust_ratio": 0.012739601510465014,
+    "trust_ratio": 0.012716562964885667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.2927396015104655,
+    "three_inst_ratio": 4.292716562964886,
     "three_inst_ratio_change_20": -0.06103673455107028
   },
   {
@@ -1721,9 +1743,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.29,
-    "trust_ratio": 0.012739601510465014,
+    "trust_ratio": 0.012716562964885667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.302739601510465,
+    "three_inst_ratio": 4.302716562964886,
     "three_inst_ratio_change_20": -0.06103673455107028
   },
   {
@@ -1732,9 +1754,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.28,
-    "trust_ratio": 0.012739601510465014,
+    "trust_ratio": 0.012716562964885667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.2927396015104655,
+    "three_inst_ratio": 4.292716562964886,
     "three_inst_ratio_change_20": -0.08101369600549102
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.28,
-    "trust_ratio": 0.012739601510465014,
+    "trust_ratio": 0.012716562964885667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.2927396015104655,
+    "three_inst_ratio": 4.292716562964886,
     "three_inst_ratio_change_20": -0.10096761891433204
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.3,
-    "trust_ratio": 0.012739601510465014,
+    "trust_ratio": 0.012716562964885667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.312739601510465,
+    "three_inst_ratio": 4.312716562964885,
     "three_inst_ratio_change_20": -0.08135927418918154
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.29,
-    "trust_ratio": 0.012532254600250906,
+    "trust_ratio": 0.012509216054671559,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.302532254600251,
+    "three_inst_ratio": 4.302509216054672,
     "three_inst_ratio_change_20": -0.09156662109939528
   },
   {
@@ -1776,9 +1798,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.28,
-    "trust_ratio": 0.012532254600250906,
+    "trust_ratio": 0.012509216054671559,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.292532254600252,
+    "three_inst_ratio": 4.292509216054672,
     "three_inst_ratio_change_20": -0.10133623564360139
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.25,
-    "trust_ratio": 0.012025406597505308,
+    "trust_ratio": 0.012002368051925963,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.262025406597505,
+    "three_inst_ratio": 4.262002368051926,
     "three_inst_ratio_change_20": -0.14168181382729195
   },
   {
@@ -1798,10 +1820,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.25,
-    "trust_ratio": 0.011956290960767271,
+    "trust_ratio": 0.011933252415187926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.261956290960767,
-    "three_inst_ratio_change_20": -0.14175092946403023
+    "three_inst_ratio": 4.261933252415188,
+    "three_inst_ratio_change_20": -0.14175092946402934
   },
   {
     "date": "2026-05-18",
@@ -1809,10 +1831,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.25,
-    "trust_ratio": 0.011956290960767271,
+    "trust_ratio": 0.011933252415187926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.261956290960767,
-    "three_inst_ratio_change_20": -0.14175092946403023
+    "three_inst_ratio": 4.261933252415188,
+    "three_inst_ratio_change_20": -0.14175092946402934
   },
   {
     "date": "2026-05-19",
@@ -1820,9 +1842,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.26,
-    "trust_ratio": 0.011956290960767271,
+    "trust_ratio": 0.011933252415187926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.271956290960767,
+    "three_inst_ratio": 4.271933252415188,
     "three_inst_ratio_change_20": -0.11172789091845114
   },
   {
@@ -1831,10 +1853,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.24,
-    "trust_ratio": 0.011841098232870545,
+    "trust_ratio": 0.0118180596872912,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.2518410982328705,
-    "three_inst_ratio_change_20": -0.1014283898259194
+    "three_inst_ratio": 4.251818059687292,
+    "three_inst_ratio_change_20": -0.10142838982591851
   },
   {
     "date": "2026-05-21",
@@ -1842,10 +1864,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.23,
-    "trust_ratio": 0.011841098232870545,
+    "trust_ratio": 0.0118180596872912,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.241841098232871,
-    "three_inst_ratio_change_20": -0.08142838982591893
+    "three_inst_ratio": 4.241818059687292,
+    "three_inst_ratio_change_20": -0.08142838982591805
   },
   {
     "date": "2026-05-22",
@@ -1853,9 +1875,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.22,
-    "trust_ratio": 0.011725905504973818,
+    "trust_ratio": 0.011702866959394473,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.231725905504973,
+    "three_inst_ratio": 4.231702866959394,
     "three_inst_ratio_change_20": -0.0814053512803401
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.011725905504973818,
+    "trust_ratio": 0.011702866959394473,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.221725905504973,
+    "three_inst_ratio": 4.221702866959395,
     "three_inst_ratio_change_20": -0.09124408146128449
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.22,
-    "trust_ratio": 0.011725905504973818,
+    "trust_ratio": 0.011702866959394473,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.231725905504973,
+    "three_inst_ratio": 4.231702866959394,
     "three_inst_ratio_change_20": -0.08115192727896758
   },
   {
@@ -1886,10 +1908,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.24,
-    "trust_ratio": 0.011725905504973818,
+    "trust_ratio": 0.011702866959394473,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.251725905504974,
-    "three_inst_ratio_change_20": -0.061105850187808564
+    "three_inst_ratio": 4.251702866959395,
+    "three_inst_ratio_change_20": -0.061105850187807675
   },
   {
     "date": "2026-05-28",
@@ -1897,10 +1919,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.22,
-    "trust_ratio": 0.011725905504973818,
+    "trust_ratio": 0.011702866959394473,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.231725905504973,
-    "three_inst_ratio_change_20": -0.06110585018780945
+    "three_inst_ratio": 4.231702866959394,
+    "three_inst_ratio_change_20": -0.061105850187808564
   },
   {
     "date": "2026-05-29",
@@ -1908,10 +1930,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.24,
-    "trust_ratio": 0.0115646356859184,
+    "trust_ratio": 0.011541597140339055,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.251564635685918,
-    "three_inst_ratio_change_20": 4.251564635685918
+    "three_inst_ratio": 4.251541597140339,
+    "three_inst_ratio_change_20": 4.251541597140339
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.24,
-    "trust_ratio": 0.0115646356859184,
+    "trust_ratio": 0.011541597140339055,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.251564635685918,
-    "three_inst_ratio_change_20": -0.03126712000686371
+    "three_inst_ratio": 4.251541597140339,
+    "three_inst_ratio_change_20": -0.031267120006862825
   },
   {
     "date": "2026-06-02",
@@ -1930,9 +1952,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.26,
-    "trust_ratio": 0.011426404412442328,
+    "trust_ratio": 0.011403365866862983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.271426404412442,
+    "three_inst_ratio": 4.271403365866862,
     "three_inst_ratio_change_20": -0.021313197098023373
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.29,
-    "trust_ratio": 0.011288173138966257,
+    "trust_ratio": 0.011265134593386912,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.301288173138967,
+    "three_inst_ratio": 4.301265134593387,
     "three_inst_ratio_change_20": -0.0014514283714985865
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.31,
-    "trust_ratio": 0.011219057502228222,
+    "trust_ratio": 0.011196018956648877,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.321219057502228,
+    "three_inst_ratio": 4.321196018956648,
     "three_inst_ratio_change_20": 0.028479455991762492
   },
   {
@@ -1963,10 +1985,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.33,
-    "trust_ratio": 0.011080826228752148,
+    "trust_ratio": 0.011057787683172803,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.341080826228752,
-    "three_inst_ratio_change_20": 0.04834122471828639
+    "three_inst_ratio": 4.341057787683173,
+    "three_inst_ratio_change_20": 0.04834122471828728
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.32,
-    "trust_ratio": 0.011034749137593457,
+    "trust_ratio": 0.011011710592014112,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.331034749137594,
-    "three_inst_ratio_change_20": 0.018295147627128472
+    "three_inst_ratio": 4.331011710592015,
+    "three_inst_ratio_change_20": 0.01829514762712936
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.36,
-    "trust_ratio": 0.011034749137593457,
+    "trust_ratio": 0.011011710592014112,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.371034749137594,
-    "three_inst_ratio_change_20": 0.06850249453734225
+    "three_inst_ratio": 4.371011710592015,
+    "three_inst_ratio_change_20": 0.06850249453734314
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.36,
-    "trust_ratio": 0.011034749137593457,
+    "trust_ratio": 0.011011710592014112,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.371034749137594,
-    "three_inst_ratio_change_20": 0.07850249453734204
+    "three_inst_ratio": 4.371011710592015,
+    "three_inst_ratio_change_20": 0.07850249453734293
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.36,
-    "trust_ratio": 0.011034749137593457,
+    "trust_ratio": 0.011011710592014112,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.371034749137594,
-    "three_inst_ratio_change_20": 0.1090093425400882
+    "three_inst_ratio": 4.371011710592015,
+    "three_inst_ratio_change_20": 0.1090093425400891
   },
   {
     "date": "2026-06-12",
@@ -2018,10 +2040,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.36,
-    "trust_ratio": 0.01057397822600655,
+    "trust_ratio": 0.010550939680427205,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.370573978226007,
-    "three_inst_ratio_change_20": 0.10861768726524001
+    "three_inst_ratio": 4.370550939680427,
+    "three_inst_ratio_change_20": 0.10861768726523913
   },
   {
     "date": "2026-06-15",
@@ -2029,10 +2051,10 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.37,
-    "trust_ratio": 0.01057397822600655,
+    "trust_ratio": 0.010550939680427205,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.380573978226007,
-    "three_inst_ratio_change_20": 0.1186176872652398
+    "three_inst_ratio": 4.380550939680427,
+    "three_inst_ratio_change_20": 0.11861768726523891
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "聯邦銀",
     "market": "TWSE",
     "foreign_ratio": 4.4,
-    "trust_ratio": 0.01057397822600655,
+    "trust_ratio": 0.010550939680427205,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.410573978226007,
-    "three_inst_ratio_change_20": 0.13861768726524026
+    "three_inst_ratio": 4.410550939680427,
+    "three_inst_ratio_change_20": 0.13861768726523938
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2838",
+    "name": "聯邦銀",
+    "market": "TWSE",
+    "foreign_ratio": 4.39,
+    "trust_ratio": 0.010412708406951134,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.400412708406951,
+    "three_inst_ratio_change_20": 0.14859464871965944
   }
 ]

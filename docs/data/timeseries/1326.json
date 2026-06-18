@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -33.93529447314918
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "1326",
     "name": "台化",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -33.985294473149175
   },
   {
+    "date": "2026-02-18",
+    "code": "1326",
+    "name": "台化",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -34.08515798200894
+  },
+  {
     "date": "2026-02-23",
     "code": "1326",
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.63,
-    "trust_ratio": 0.5429995809699815,
+    "trust_ratio": 0.5579282994334022,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.172999580969986,
-    "three_inst_ratio_change_20": 1.0878415989610488
+    "three_inst_ratio": 35.1879282994334,
+    "three_inst_ratio_change_20": 1.133265097807822
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.74,
-    "trust_ratio": 0.510924163014289,
+    "trust_ratio": 0.5258528814777097,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.25092416301429,
-    "three_inst_ratio_change_20": 1.1962609613887096
+    "three_inst_ratio": 35.26585288147771,
+    "three_inst_ratio_change_20": 1.12120674124467
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.99,
-    "trust_ratio": 0.5106341193412853,
+    "trust_ratio": 0.525562837804706,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.500634119341285,
-    "three_inst_ratio_change_20": 1.3559879791082423
+    "three_inst_ratio": 35.51556283780471,
+    "three_inst_ratio_change_20": 1.2109166975716619
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 35.25,
-    "trust_ratio": 0.4125818016931549,
+    "trust_ratio": 0.4275105201565756,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.66258180169316,
-    "three_inst_ratio_change_20": 1.357935661460111
+    "three_inst_ratio": 35.677510520156574,
+    "three_inst_ratio_change_20": 1.2528643799235297
+  },
+  {
+    "date": "2026-02-27",
+    "code": "1326",
+    "name": "台化",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -34.53476556998075
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.77,
-    "trust_ratio": 0.38833756290855964,
+    "trust_ratio": 0.4115069339637886,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.158337562908564,
-    "three_inst_ratio_change_20": 0.7336914226755198
+    "three_inst_ratio": 35.18150693396379,
+    "three_inst_ratio_change_20": 0.5296799714534117
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.78,
-    "trust_ratio": 0.36719849756435596,
+    "trust_ratio": 0.3903678686195849,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.147198497564354,
-    "three_inst_ratio_change_20": 0.6124329275836047
+    "three_inst_ratio": 35.170367868619586,
+    "three_inst_ratio_change_20": 0.26678965461157844
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.81,
-    "trust_ratio": 0.36721555895688557,
+    "trust_ratio": 0.3903849300121145,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.17721555895689,
-    "three_inst_ratio_change_20": 0.5253885964465113
+    "three_inst_ratio": 35.20038493001212,
+    "three_inst_ratio_change_20": 0.17816988826367464
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.73,
-    "trust_ratio": 0.34674188792133714,
+    "trust_ratio": 0.3699112589765661,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.07674188792134,
-    "three_inst_ratio_change_20": 0.17316367391332932
+    "three_inst_ratio": 35.09991125897656,
+    "three_inst_ratio_change_20": 0.004530024556757439
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.63,
-    "trust_ratio": 0.34674188792133714,
+    "trust_ratio": 0.3699112589765661,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.97674188792134,
-    "three_inst_ratio_change_20": -0.045473153827103374
+    "three_inst_ratio": 34.99991125897657,
+    "three_inst_ratio_change_20": -0.06371062803504657
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.42,
-    "trust_ratio": 0.306084589523244,
+    "trust_ratio": 0.32925396057847295,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.726084589523246,
-    "three_inst_ratio_change_20": -0.3692966448965578
+    "three_inst_ratio": 34.74925396057847,
+    "three_inst_ratio_change_20": -0.28436792643314135
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.57,
-    "trust_ratio": 0.306084589523244,
+    "trust_ratio": 0.32925396057847295,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.876084589523245,
-    "three_inst_ratio_change_20": -0.1875372974883689
+    "three_inst_ratio": 34.89925396057847,
+    "three_inst_ratio_change_20": -0.17407788276013747
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.48,
-    "trust_ratio": 0.28902319699362033,
+    "trust_ratio": 0.31219256804884926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.769023196993615,
-    "three_inst_ratio_change_20": -0.26459869001799774
+    "three_inst_ratio": 34.79219256804885,
+    "three_inst_ratio_change_20": -0.2311392752897632
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.35,
-    "trust_ratio": 0.2770802222228838,
+    "trust_ratio": 0.3002495932781127,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.62708022222289,
-    "three_inst_ratio_change_20": -0.4462516211157208
+    "three_inst_ratio": 34.65024959327811,
+    "three_inst_ratio_change_20": -0.23572676590259078
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.33,
-    "trust_ratio": 0.27735320450335776,
+    "trust_ratio": 0.3005225755585867,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.607353204503355,
-    "three_inst_ratio_change_20": -0.41597863883525577
+    "three_inst_ratio": 34.63052257555859,
+    "three_inst_ratio_change_20": -0.39292667355008604
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.17,
-    "trust_ratio": 0.5165884600271614,
+    "trust_ratio": 0.5397578310823903,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.68658846002716,
-    "three_inst_ratio_change_20": -0.1993878991535425
+    "three_inst_ratio": 34.70975783108239,
+    "three_inst_ratio_change_20": -0.15369141802628405
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.03,
-    "trust_ratio": 0.5029393460034625,
+    "trust_ratio": 0.5261087170586914,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.53293934600347,
-    "three_inst_ratio_change_20": -0.49050990310520604
+    "three_inst_ratio": 34.55610871705869,
+    "three_inst_ratio_change_20": -0.47734053204998617
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.2,
-    "trust_ratio": 0.5064710542570946,
+    "trust_ratio": 0.5296404253123235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.7064710542571,
-    "three_inst_ratio_change_20": -0.15697819485157538
+    "three_inst_ratio": 34.729640425312326,
+    "three_inst_ratio_change_20": 34.729640425312326
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.08,
-    "trust_ratio": 0.5064710542570946,
+    "trust_ratio": 0.5296404253123235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.586471054257096,
-    "three_inst_ratio_change_20": -0.44697819485158163
+    "three_inst_ratio": 34.60964042531232,
+    "three_inst_ratio_change_20": 34.60964042531232
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 33.88,
-    "trust_ratio": 0.48864524309657364,
+    "trust_ratio": 0.5118146141518026,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.36864524309657,
-    "three_inst_ratio_change_20": 34.36864524309657
+    "three_inst_ratio": 34.391814614151805,
+    "three_inst_ratio_change_20": 34.391814614151805
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 33.78,
-    "trust_ratio": 0.4886623044891033,
+    "trust_ratio": 0.5118316755443322,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.268662304489105,
-    "three_inst_ratio_change_20": 34.268662304489105
+    "three_inst_ratio": 34.29183167554433,
+    "three_inst_ratio_change_20": -0.896096623889072
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 33.83,
-    "trust_ratio": 0.4886623044891033,
+    "trust_ratio": 0.5118316755443322,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.3186623044891,
-    "three_inst_ratio_change_20": -0.8543372764808836
+    "three_inst_ratio": 34.34183167554433,
+    "three_inst_ratio_change_20": -0.9240212059333857
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 33.83,
-    "trust_ratio": 0.4886623044891033,
+    "trust_ratio": 0.5118316755443322,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.3186623044891,
-    "three_inst_ratio_change_20": -0.9322618585251874
+    "three_inst_ratio": 34.34183167554433,
+    "three_inst_ratio_change_20": -1.1737311622603812
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.12,
-    "trust_ratio": 0.4886623044891033,
+    "trust_ratio": 0.5118316755443322,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.6086623044891,
-    "three_inst_ratio_change_20": -0.8919718148521838
+    "three_inst_ratio": 34.631831675544326,
+    "three_inst_ratio_change_20": -1.0456788446122474
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 33.98,
-    "trust_ratio": 0.48149651962666135,
+    "trust_ratio": 0.5046658906818903,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.46149651962666,
-    "three_inst_ratio_change_20": -1.2010852820665008
+    "three_inst_ratio": 34.48466589068189,
+    "three_inst_ratio_change_20": 34.48466589068189
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.68,
-    "trust_ratio": 0.4844310791417566,
+    "trust_ratio": 0.5076004501969855,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.16443107914176,
+    "three_inst_ratio": 35.18760045019698,
     "three_inst_ratio_change_20": 0.006093516233192986
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.49,
-    "trust_ratio": 0.4110841526569045,
+    "trust_ratio": 0.43425352371213344,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.90108415265691,
+    "three_inst_ratio": 34.92425352371214,
     "three_inst_ratio_change_20": -0.246114344907447
   },
   {
@@ -1468,10 +1490,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.64,
-    "trust_ratio": 0.41185191532073756,
+    "trust_ratio": 0.43502128637596654,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.05185191532074,
-    "three_inst_ratio_change_20": -0.12536364363614894
+    "three_inst_ratio": 35.075021286375964,
+    "three_inst_ratio_change_20": -0.12536364363615604
   },
   {
     "date": "2026-04-02",
@@ -1479,9 +1501,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.55,
-    "trust_ratio": 0.4121419589937412,
+    "trust_ratio": 0.43531133004897016,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.96214195899374,
+    "three_inst_ratio": 34.985311330048965,
     "three_inst_ratio_change_20": -0.1145999289275963
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.66,
-    "trust_ratio": 0.33389841285288707,
+    "trust_ratio": 0.357067783908116,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.993898412852886,
+    "three_inst_ratio": 35.01706778390811,
     "three_inst_ratio_change_20": 0.017156524931543515
   },
   {
@@ -1501,10 +1523,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.71,
-    "trust_ratio": 0.30458694048699364,
+    "trust_ratio": 0.32775631154222257,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.01458694048699,
-    "three_inst_ratio_change_20": 0.2885023509637463
+    "three_inst_ratio": 35.037756311542225,
+    "three_inst_ratio_change_20": 0.28850235096375343
   },
   {
     "date": "2026-04-09",
@@ -1512,10 +1534,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.91,
-    "trust_ratio": 0.3048087385898787,
+    "trust_ratio": 0.32797810964510765,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.21480873858987,
-    "three_inst_ratio_change_20": 0.3387241490666284
+    "three_inst_ratio": 35.237978109645105,
+    "three_inst_ratio_change_20": 0.3387241490666355
   },
   {
     "date": "2026-04-10",
@@ -1523,10 +1545,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 34.91,
-    "trust_ratio": 0.3050134753002342,
+    "trust_ratio": 0.3281828463554632,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.21501347530023,
-    "three_inst_ratio_change_20": 0.44599027830661697
+    "three_inst_ratio": 35.23818284635546,
+    "three_inst_ratio_change_20": 0.44599027830660987
   },
   {
     "date": "2026-04-13",
@@ -1534,9 +1556,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 35.77,
-    "trust_ratio": 0.33567279767596797,
+    "trust_ratio": 0.35884216873119684,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.10567279767597,
+    "three_inst_ratio": 36.1288421687312,
     "three_inst_ratio_change_20": 1.478592575453085
   },
   {
@@ -1545,9 +1567,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.69,
-    "trust_ratio": 0.34103007493026977,
+    "trust_ratio": 0.3641994459854987,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.031030074930264,
+    "three_inst_ratio": 37.054199445985496,
     "three_inst_ratio_change_20": 2.4236768704269096
   },
   {
@@ -1556,10 +1578,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.41,
-    "trust_ratio": 0.18396289530255439,
+    "trust_ratio": 0.20713226635778328,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.59396289530255,
-    "three_inst_ratio_change_20": 1.9073744352753934
+    "three_inst_ratio": 36.61713226635778,
+    "three_inst_ratio_change_20": 1.9073744352753863
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.52,
-    "trust_ratio": 0.18379228137725814,
+    "trust_ratio": 0.20696165243248707,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.70379228137726,
-    "three_inst_ratio_change_20": 2.1708529353737944
+    "three_inst_ratio": 36.72696165243249,
+    "three_inst_ratio_change_20": 2.1708529353738015
   },
   {
     "date": "2026-04-17",
@@ -1578,9 +1600,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.44,
-    "trust_ratio": 0.19872099984067884,
+    "trust_ratio": 0.22189037089590777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.63872099984068,
+    "three_inst_ratio": 36.661890370895904,
     "three_inst_ratio_change_20": 1.9322499455835782
   },
   {
@@ -1589,9 +1611,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.47,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.66875512262574,
+    "three_inst_ratio": 36.691924493680965,
     "three_inst_ratio_change_20": 2.0822840683686437
   },
   {
@@ -1600,10 +1622,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.48,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.67875512262574,
-    "three_inst_ratio_change_20": 2.310109879529165
+    "three_inst_ratio": 36.70192449368096,
+    "three_inst_ratio_change_20": 2.3101098795291577
   },
   {
     "date": "2026-04-22",
@@ -1611,9 +1633,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.45,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.648755122625744,
+    "three_inst_ratio": 36.67192449368097,
     "three_inst_ratio_change_20": 2.3800928181366388
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.5,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.69875512262574,
+    "three_inst_ratio": 36.721924493680966,
     "three_inst_ratio_change_20": 2.3800928181366388
   },
   {
@@ -1633,9 +1655,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.55,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.74875512262574,
+    "three_inst_ratio": 36.77192449368096,
     "three_inst_ratio_change_20": 2.430092818136636
   },
   {
@@ -1644,9 +1666,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.62,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.81875512262574,
+    "three_inst_ratio": 36.84192449368096,
     "three_inst_ratio_change_20": 2.210092818136637
   },
   {
@@ -1655,10 +1677,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.77,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.968755122625744,
-    "three_inst_ratio_change_20": 2.5072586029990873
+    "three_inst_ratio": 36.99192449368097,
+    "three_inst_ratio_change_20": 2.50725860299908
   },
   {
     "date": "2026-04-29",
@@ -1666,9 +1688,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.07,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.26875512262574,
+    "three_inst_ratio": 37.291924493680966,
     "three_inst_ratio_change_20": 2.1043240434839845
   },
   {
@@ -1677,10 +1699,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.15,
-    "trust_ratio": 0.1987551226257381,
+    "trust_ratio": 0.221924493680967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.34875512262574,
-    "three_inst_ratio_change_20": 2.447670969968833
+    "three_inst_ratio": 37.371924493680964,
+    "three_inst_ratio_change_20": 2.4476709699688257
   },
   {
     "date": "2026-05-01",
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -35.05185191532074
+    "three_inst_ratio_change_20": -35.075021286375964
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.13,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.328175035279735,
+    "three_inst_ratio": 37.35134440633496,
     "three_inst_ratio_change_20": 2.3660330762859942
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.31,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.508175035279734,
+    "three_inst_ratio": 37.53134440633496,
     "three_inst_ratio_change_20": 2.5142766224268485
   },
   {
@@ -1721,10 +1743,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.43,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.62817503527973,
-    "three_inst_ratio_change_20": 2.613588094792739
+    "three_inst_ratio": 37.65134440633496,
+    "three_inst_ratio_change_20": 2.613588094792732
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1754,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.39,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.58817503527973,
-    "three_inst_ratio_change_20": 2.373366296689859
+    "three_inst_ratio": 37.61134440633496,
+    "three_inst_ratio_change_20": 2.373366296689852
   },
   {
     "date": "2026-05-08",
@@ -1743,9 +1765,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.12,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.31817503527973,
+    "three_inst_ratio": 37.341344406334954,
     "three_inst_ratio_change_20": 2.1031615599794975
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.3,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.49817503527973,
+    "three_inst_ratio": 37.521344406334954,
     "three_inst_ratio_change_20": 1.3925022376037575
   },
   {
@@ -1765,10 +1787,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.27,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.468175035279735,
-    "three_inst_ratio_change_20": 0.43714496034947103
+    "three_inst_ratio": 37.49134440633496,
+    "three_inst_ratio_change_20": 0.43714496034946393
   },
   {
     "date": "2026-05-13",
@@ -1776,9 +1798,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.21,
-    "trust_ratio": 0.19817503527973088,
+    "trust_ratio": 0.22134440633495983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.40817503527973,
+    "three_inst_ratio": 37.43134440633496,
     "three_inst_ratio_change_20": 0.8142121399771796
   },
   {
@@ -1787,10 +1809,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.14,
-    "trust_ratio": 0.1980214827469643,
+    "trust_ratio": 0.2211908538021932,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.33802148274697,
-    "three_inst_ratio_change_20": 0.6342292013697062
+    "three_inst_ratio": 37.36119085380219,
+    "three_inst_ratio_change_20": 0.6342292013696991
   },
   {
     "date": "2026-05-15",
@@ -1798,9 +1820,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.11,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.30791911439179,
+    "three_inst_ratio": 37.33108848544701,
     "three_inst_ratio_change_20": 0.6691981145511079
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.98,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.177919114391784,
+    "three_inst_ratio": 37.20108848544701,
     "three_inst_ratio_change_20": 0.5091639917660444
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.9,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.097919114391786,
+    "three_inst_ratio": 37.12108848544701,
     "three_inst_ratio_change_20": 0.4191639917660481
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.83,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.027919114391786,
+    "three_inst_ratio": 37.05108848544701,
     "three_inst_ratio_change_20": 0.3791639917660419
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.84,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.03791911439179,
+    "three_inst_ratio": 37.061088485447016,
     "three_inst_ratio_change_20": 0.33916399176604983
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.78,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.97791911439179,
+    "three_inst_ratio": 37.00108848544701,
     "three_inst_ratio_change_20": 0.2291639917660504
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.72,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.917919114391786,
+    "three_inst_ratio": 36.94108848544701,
     "three_inst_ratio_change_20": 0.09916399176604784
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.69,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.887919114391785,
+    "three_inst_ratio": 36.91108848544701,
     "three_inst_ratio_change_20": -0.08083600823395898
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.81,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.00791911439179,
+    "three_inst_ratio": 37.031088485447015,
     "three_inst_ratio_change_20": -0.2608360082339516
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 36.7,
-    "trust_ratio": 0.19791911439178655,
+    "trust_ratio": 0.22108848544701545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.89791911439179,
+    "three_inst_ratio": 36.921088485447015,
     "three_inst_ratio_change_20": -0.4508360082339493
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.22,
-    "trust_ratio": 0.19779120513199194,
+    "trust_ratio": 0.2209605761872209,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.41779120513199,
-    "three_inst_ratio_change_20": 37.41779120513199
+    "three_inst_ratio": 37.44096057618722,
+    "three_inst_ratio_change_20": 37.44096057618722
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.35,
-    "trust_ratio": 0.1907789728023166,
+    "trust_ratio": 0.21394834385754558,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.540778972802315,
-    "three_inst_ratio_change_20": 0.2126039375225801
+    "three_inst_ratio": 37.56394834385755,
+    "three_inst_ratio_change_20": 0.21260393752258722
   },
   {
     "date": "2026-06-02",
@@ -1930,10 +1952,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.68,
-    "trust_ratio": 0.18844156202575818,
+    "trust_ratio": 0.2116109330809871,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.86844156202576,
-    "three_inst_ratio_change_20": 0.3602665267460239
+    "three_inst_ratio": 37.89161093308099,
+    "three_inst_ratio_change_20": 0.360266526746031
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.99,
-    "trust_ratio": 0.18844156202575818,
+    "trust_ratio": 0.2116109330809871,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.17844156202576,
-    "three_inst_ratio_change_20": 0.5502665267460287
+    "three_inst_ratio": 38.20161093308099,
+    "three_inst_ratio_change_20": 0.5502665267460358
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.96,
-    "trust_ratio": 0.18844156202575818,
+    "trust_ratio": 0.2116109330809871,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.14844156202576,
-    "three_inst_ratio_change_20": 0.5602665267460267
+    "three_inst_ratio": 38.17161093308099,
+    "three_inst_ratio_change_20": 0.5602665267460338
   },
   {
     "date": "2026-06-05",
@@ -1963,10 +1985,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.9,
-    "trust_ratio": 0.18837331645563968,
+    "trust_ratio": 0.2115426875108686,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.08837331645564,
-    "three_inst_ratio_change_20": 0.770198281175908
+    "three_inst_ratio": 38.11154268751087,
+    "three_inst_ratio_change_20": 0.7701982811759152
   },
   {
     "date": "2026-06-08",
@@ -1974,9 +1996,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.7,
-    "trust_ratio": 0.18835625506311005,
+    "trust_ratio": 0.21152562611833897,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.888356255063115,
+    "three_inst_ratio": 37.91152562611834,
     "three_inst_ratio_change_20": 0.39018121978338627
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.57,
-    "trust_ratio": 0.18835625506311005,
+    "trust_ratio": 0.21152562611833897,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.75835625506311,
+    "three_inst_ratio": 37.78152562611834,
     "three_inst_ratio_change_20": 0.29018121978337774
   },
   {
@@ -1996,10 +2018,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.45,
-    "trust_ratio": 0.18835659629096063,
+    "trust_ratio": 0.21152596734618956,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.63835659629096,
-    "three_inst_ratio_change_20": 0.23018156101122855
+    "three_inst_ratio": 37.66152596734619,
+    "three_inst_ratio_change_20": 0.23018156101123566
   },
   {
     "date": "2026-06-11",
@@ -2007,10 +2029,10 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.39,
-    "trust_ratio": 0.18824672092306988,
+    "trust_ratio": 0.2114160919782988,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.57824672092307,
-    "three_inst_ratio_change_20": 0.24022523817610164
+    "three_inst_ratio": 37.6014160919783,
+    "three_inst_ratio_change_20": 0.24022523817610875
   },
   {
     "date": "2026-06-12",
@@ -2018,9 +2040,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.5,
-    "trust_ratio": 0.18782018610982928,
+    "trust_ratio": 0.2109895571650582,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.68782018610983,
+    "three_inst_ratio": 37.71098955716506,
     "three_inst_ratio_change_20": 0.3799010717180451
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.68,
-    "trust_ratio": 0.18782018610982928,
+    "trust_ratio": 0.2109895571650582,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.86782018610983,
+    "three_inst_ratio": 37.89098955716506,
     "three_inst_ratio_change_20": 0.6899010717180474
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "台化",
     "market": "TWSE",
     "foreign_ratio": 37.89,
-    "trust_ratio": 0.18782018610982928,
+    "trust_ratio": 0.2109895571650582,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 38.07782018610983,
+    "three_inst_ratio": 38.10098955716506,
     "three_inst_ratio_change_20": 0.9799010717180465
+  },
+  {
+    "date": "2026-06-17",
+    "code": "1326",
+    "name": "台化",
+    "market": "TWSE",
+    "foreign_ratio": 38.02,
+    "trust_ratio": 0.2109895571650582,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.23098955716506,
+    "three_inst_ratio_change_20": 1.1799010717180494
   }
 ]

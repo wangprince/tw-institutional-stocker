@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -15.402023534312145
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2458",
     "name": "義隆",
     "market": "TWSE",
@@ -1177,6 +1177,17 @@
     "three_inst_ratio_change_20": -15.14878135947646
   },
   {
+    "date": "2026-02-18",
+    "code": "2458",
+    "name": "義隆",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.298444236309924
+  },
+  {
     "date": "2026-02-23",
     "code": "2458",
     "name": "義隆",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 1.4013664955388105,
     "dealer_ratio": 0.5320912577998781,
     "three_inst_ratio": 14.32345775333869,
-    "three_inst_ratio_change_20": -0.974986482971234
+    "three_inst_ratio_change_20": -0.8014554431665974
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 1.2557901399574345,
     "dealer_ratio": 0.5320912577998781,
     "three_inst_ratio": 14.117881397757314,
-    "three_inst_ratio_change_20": -1.007031798747974
+    "three_inst_ratio_change_20": -0.8352559774241683
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 1.1046852934163651,
     "dealer_ratio": 0.5320912577998781,
     "three_inst_ratio": 13.826776551216243,
-    "three_inst_ratio_change_20": -1.1263608239652392
+    "three_inst_ratio_change_20": -0.9743249092557438
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 1.034582382663242,
     "dealer_ratio": 0.5320912577998781,
     "three_inst_ratio": 13.90667364046312,
-    "three_inst_ratio_change_20": -0.8944278200088664
+    "three_inst_ratio_change_20": -0.7754583144015434
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2458",
+    "name": "義隆",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.465628363938665
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 12.37,
-    "trust_ratio": 1.0191309085845857,
+    "trust_ratio": 1.0052181978230434,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 13.921222166384464,
-    "three_inst_ratio_change_20": -0.7609097884802001
+    "three_inst_ratio": 13.90730945562292,
+    "three_inst_ratio_change_20": -0.4325918613399722
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 12.4,
-    "trust_ratio": 1.0150167898954139,
+    "trust_ratio": 1.001104079133872,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 13.947108047695293,
-    "three_inst_ratio_change_20": -0.5185203162433716
+    "three_inst_ratio": 13.933195336933752,
+    "three_inst_ratio_change_20": -0.2393625076013457
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.16,
-    "trust_ratio": 0.9953781420684754,
+    "trust_ratio": 0.9814654313069333,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 14.687469399868354,
-    "three_inst_ratio_change_20": 0.34756808290546104
+    "three_inst_ratio": 14.673556689106812,
+    "three_inst_ratio_change_20": 0.7022241977363244
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.24,
-    "trust_ratio": 1.0172601067330465,
+    "trust_ratio": 1.0033473959715045,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 15.789351364532925,
-    "three_inst_ratio_change_20": 1.6167935199978274
+    "three_inst_ratio": 15.775438653771383,
+    "three_inst_ratio_change_20": 1.9479484378182583
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.98,
-    "trust_ratio": 1.0170932647737272,
+    "trust_ratio": 1.0031805540121852,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 15.529184522573606,
-    "three_inst_ratio_change_20": 1.5578520312031188
+    "three_inst_ratio": 15.515271811812065,
+    "three_inst_ratio_change_20": 1.761694306620484
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.37,
-    "trust_ratio": 1.1361980209634586,
+    "trust_ratio": 1.1222853102019166,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.038289278763337,
-    "three_inst_ratio_change_20": 2.210799062810212
+    "three_inst_ratio": 16.024376568001795,
+    "three_inst_ratio_change_20": 2.16376498079547
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.82,
-    "trust_ratio": 0.8847833130345574,
+    "trust_ratio": 0.8708706022730153,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.236874570834434,
-    "three_inst_ratio_change_20": 2.4832970656428532
+    "three_inst_ratio": 16.222961860072893,
+    "three_inst_ratio_change_20": 2.3246392926859176
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.48,
-    "trust_ratio": 1.0498327907909242,
+    "trust_ratio": 1.0359200800293822,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.061924048590804,
-    "three_inst_ratio_change_20": 2.201312461384479
+    "three_inst_ratio": 16.04801133782926,
+    "three_inst_ratio_change_20": 2.0096900867496554
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.89,
-    "trust_ratio": 1.2183346137055133,
+    "trust_ratio": 1.2044219029439716,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.64042587150539,
-    "three_inst_ratio_change_20": 2.742103304118414
+    "three_inst_ratio": 16.626513160743848,
+    "three_inst_ratio_change_20": 2.788520986507084
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.88,
-    "trust_ratio": 1.287235406751746,
+    "trust_ratio": 1.273322695990204,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.699326664551624,
-    "three_inst_ratio_change_20": 2.6610054134720205
+    "three_inst_ratio": 16.685413953790082,
+    "three_inst_ratio_change_20": 2.832913691384208
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.72,
-    "trust_ratio": 1.3682620233029055,
+    "trust_ratio": 1.3543493125413633,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.620353281102783,
-    "three_inst_ratio_change_20": 2.78236110686602
+    "three_inst_ratio": 16.606440570341242,
+    "three_inst_ratio_change_20": 2.547012227363455
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.36,
-    "trust_ratio": 1.3926420102814663,
+    "trust_ratio": 1.3787292995199243,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.284733268081343,
-    "three_inst_ratio_change_20": 2.432233005675469
+    "three_inst_ratio": 16.2708205573198,
+    "three_inst_ratio_change_20": 2.375616205997259
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.41,
-    "trust_ratio": 1.389946870938616,
+    "trust_ratio": 1.3760341601770738,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.332038128738493,
-    "three_inst_ratio_change_20": 2.2726097857607055
+    "three_inst_ratio": 16.31812541797695,
+    "three_inst_ratio_change_20": 16.31812541797695
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.17,
-    "trust_ratio": 1.3876015402797033,
+    "trust_ratio": 1.3736888295181613,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.089692798079582,
-    "three_inst_ratio_change_20": 2.19448844675704
+    "three_inst_ratio": 16.075780087318037,
+    "three_inst_ratio_change_20": 16.075780087318037
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.94,
-    "trust_ratio": 1.3866067409838014,
+    "trust_ratio": 1.3726940302222592,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 15.85869799878368,
-    "three_inst_ratio_change_20": 15.85869799878368
+    "three_inst_ratio": 15.844785288022138,
+    "three_inst_ratio_change_20": 15.844785288022138
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.06,
-    "trust_ratio": 1.385886062697984,
+    "trust_ratio": 1.371973351936442,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 15.977977320497864,
-    "three_inst_ratio_change_20": 15.977977320497864
+    "three_inst_ratio": 15.96406460973632,
+    "three_inst_ratio_change_20": 1.6406068563976302
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.6,
-    "trust_ratio": 1.3799626795268845,
+    "trust_ratio": 1.3660499687653422,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 15.512053937326764,
-    "three_inst_ratio_change_20": 1.1885961839880732
+    "three_inst_ratio": 15.49814122656522,
+    "three_inst_ratio_change_20": 1.3802598288079064
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.1,
-    "trust_ratio": 1.8840748369180729,
+    "trust_ratio": 1.8701621261565307,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 15.516166094717951,
-    "three_inst_ratio_change_20": 1.398284696960637
+    "three_inst_ratio": 15.50225338395641,
+    "three_inst_ratio_change_20": 1.6754768327401663
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.38,
-    "trust_ratio": 2.1132686310342788,
+    "trust_ratio": 2.0993559202727368,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.025359888834156,
-    "three_inst_ratio_change_20": 2.1985833376179134
+    "three_inst_ratio": 16.011447178072615,
+    "three_inst_ratio_change_20": 2.1047735376094945
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.88,
-    "trust_ratio": 2.3215742725512873,
+    "trust_ratio": 2.3076615617897454,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.733665530351164,
-    "three_inst_ratio_change_20": 2.8269918898880437
+    "three_inst_ratio": 16.719752819589623,
+    "three_inst_ratio_change_20": 16.719752819589623
   },
   {
     "date": "2026-03-30",
@@ -1446,10 +1468,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.63,
-    "trust_ratio": 2.3546336612597236,
+    "trust_ratio": 2.3407209504981816,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.5167249190596,
-    "three_inst_ratio_change_20": 2.595502752675138
+    "three_inst_ratio": 16.50281220829806,
+    "three_inst_ratio_change_20": 2.5955027526751397
   },
   {
     "date": "2026-03-31",
@@ -1457,9 +1479,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.74,
-    "trust_ratio": 2.3710875034016676,
+    "trust_ratio": 2.3571747926401256,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.643178761201543,
+    "three_inst_ratio": 16.629266050440002,
     "three_inst_ratio_change_20": 2.6960707135062503
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.77,
-    "trust_ratio": 2.377010886572767,
+    "trust_ratio": 2.363098175811225,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.679102144372642,
+    "three_inst_ratio": 16.6651894336111,
     "three_inst_ratio_change_20": 1.9916327445042885
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.62,
-    "trust_ratio": 2.3822550551402473,
+    "trust_ratio": 2.3683423443787053,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.534346312940123,
+    "three_inst_ratio": 16.52043360217858,
     "three_inst_ratio_change_20": 0.7449949484071983
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 13.42,
-    "trust_ratio": 2.697489609661949,
+    "trust_ratio": 2.683576898900407,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 16.649580867461825,
+    "three_inst_ratio": 16.635668156700284,
     "three_inst_ratio_change_20": 1.1203963448882188
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.1,
-    "trust_ratio": 2.6838845857484612,
+    "trust_ratio": 2.6699718749869192,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 17.315975843548337,
+    "three_inst_ratio": 17.302063132786795,
     "three_inst_ratio_change_20": 1.2776865647850002
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.66,
-    "trust_ratio": 2.6359841605048344,
+    "trust_ratio": 2.6220714497432924,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 17.82807541830471,
+    "three_inst_ratio": 17.81416270754317,
     "three_inst_ratio_change_20": 1.591200847470276
   },
   {
@@ -1523,10 +1545,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 14.77,
-    "trust_ratio": 2.6031603908158707,
+    "trust_ratio": 2.5892476800543287,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 17.905251648615746,
-    "three_inst_ratio_change_20": 1.8433276000249421
+    "three_inst_ratio": 17.891338937854204,
+    "three_inst_ratio_change_20": 1.8433276000249457
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 15.6,
-    "trust_ratio": 2.799373116512236,
+    "trust_ratio": 2.785460405750694,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 18.931464374312114,
-    "three_inst_ratio_change_20": 2.2910385028067246
+    "three_inst_ratio": 18.91755166355057,
+    "three_inst_ratio_change_20": 2.291038502806721
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 16.06,
-    "trust_ratio": 2.743788088834636,
+    "trust_ratio": 2.729875378073094,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 19.335879346634513,
-    "three_inst_ratio_change_20": 2.6365526820828897
+    "three_inst_ratio": 19.32196663587297,
+    "three_inst_ratio_change_20": 2.636552682082886
   },
   {
     "date": "2026-04-15",
@@ -1556,9 +1578,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 16.43,
-    "trust_ratio": 2.6328052782030107,
+    "trust_ratio": 2.6188925674414687,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 19.59489653600289,
+    "three_inst_ratio": 19.580983825241347,
     "three_inst_ratio_change_20": 2.974543254900105
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 17.68,
-    "trust_ratio": 1.88893497280996,
+    "trust_ratio": 1.8750222620484183,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 20.101026230609836,
+    "three_inst_ratio": 20.087113519848295,
     "three_inst_ratio_change_20": 3.816292962528493
   },
   {
@@ -1578,9 +1600,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 18.0,
-    "trust_ratio": 1.88893497280996,
+    "trust_ratio": 1.8750222620484183,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 20.421026230609836,
+    "three_inst_ratio": 20.407113519848295,
     "three_inst_ratio_change_20": 4.088988101871344
   },
   {
@@ -1589,10 +1611,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 18.18,
-    "trust_ratio": 1.6635021979305595,
+    "trust_ratio": 1.6495894871690175,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 20.375593455730435,
-    "three_inst_ratio_change_20": 4.285900657650853
+    "three_inst_ratio": 20.361680744968893,
+    "three_inst_ratio_change_20": 4.285900657650856
   },
   {
     "date": "2026-04-21",
@@ -1600,9 +1622,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 18.86,
-    "trust_ratio": 1.595140432752897,
+    "trust_ratio": 1.5812277219913553,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 20.987231690552772,
+    "three_inst_ratio": 20.97331897979123,
     "three_inst_ratio_change_20": 5.128533691769093
   },
   {
@@ -1611,10 +1633,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 19.48,
-    "trust_ratio": 1.3063873499281258,
+    "trust_ratio": 1.2924746391665836,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.318478607728004,
-    "three_inst_ratio_change_20": 5.34050128723014
+    "three_inst_ratio": 21.304565896966462,
+    "three_inst_ratio_change_20": 5.340501287230142
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 19.96,
-    "trust_ratio": 1.2667428045176405,
+    "trust_ratio": 1.2528300937560986,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.75883406231752,
-    "three_inst_ratio_change_20": 6.246780124990755
+    "three_inst_ratio": 21.744921351555977,
+    "three_inst_ratio_change_20": 6.246780124990757
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 20.09,
-    "trust_ratio": 0.9796745951282042,
+    "trust_ratio": 0.9657618843666622,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.601765852928082,
-    "three_inst_ratio_change_20": 6.085599758210131
+    "three_inst_ratio": 21.587853142166537,
+    "three_inst_ratio_change_20": 6.085599758210128
   },
   {
     "date": "2026-04-27",
@@ -1644,9 +1666,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 20.26,
-    "trust_ratio": 0.6771855158064953,
+    "trust_ratio": 0.6632728050449533,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.469276773606374,
+    "three_inst_ratio": 21.455364062844833,
     "three_inst_ratio_change_20": 5.443916884772218
   },
   {
@@ -1655,9 +1677,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 20.43,
-    "trust_ratio": 0.6537509665974104,
+    "trust_ratio": 0.6398382558358685,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.615842224397287,
+    "three_inst_ratio": 21.601929513635746,
     "three_inst_ratio_change_20": 4.882176694046123
   },
   {
@@ -1666,10 +1688,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 20.38,
-    "trust_ratio": 0.6281369414582038,
+    "trust_ratio": 0.6142242306966617,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.54022819925808,
-    "three_inst_ratio_change_20": 5.023503280198479
+    "three_inst_ratio": 21.526315488496536,
+    "three_inst_ratio_change_20": 5.023503280198476
   },
   {
     "date": "2026-04-30",
@@ -1677,9 +1699,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 20.48,
-    "trust_ratio": 0.6300087305402713,
+    "trust_ratio": 0.6160960197787293,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.64209998834015,
+    "three_inst_ratio": 21.628187277578608,
     "three_inst_ratio_change_20": 4.998921227138606
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -16.679102144372642
+    "three_inst_ratio_change_20": -16.6651894336111
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 20.48,
-    "trust_ratio": 0.5783242506808403,
+    "trust_ratio": 0.5644115399192983,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 21.590415508480717,
+    "three_inst_ratio": 21.576502797719176,
     "three_inst_ratio_change_20": 5.056069195540594
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 21.16,
-    "trust_ratio": 0.44469338449451523,
+    "trust_ratio": 0.4307806737329732,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.13678464229439,
+    "three_inst_ratio": 22.12287193153285,
     "three_inst_ratio_change_20": 5.487203774832565
   },
   {
@@ -1721,9 +1743,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 21.49,
-    "trust_ratio": 0.3577364741585564,
+    "trust_ratio": 0.3438237633970144,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.379827731958432,
+    "three_inst_ratio": 22.36591502119689,
     "three_inst_ratio_change_20": 5.063851888410095
   },
   {
@@ -1732,9 +1754,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 21.6,
-    "trust_ratio": 0.30649657711380074,
+    "trust_ratio": 0.29258386635225875,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.43858783491368,
+    "three_inst_ratio": 22.424675124152138,
     "three_inst_ratio_change_20": 4.6105124166089695
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 22.47,
-    "trust_ratio": -0.00935302202716653,
+    "trust_ratio": -0.023265732788708526,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.99273823577271,
+    "three_inst_ratio": 22.978825525011167,
     "three_inst_ratio_change_20": 5.087486587156963
   },
   {
@@ -1754,10 +1776,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 22.43,
-    "trust_ratio": -0.04100955615458072,
+    "trust_ratio": -0.05492226691612271,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.921081701645296,
-    "three_inst_ratio_change_20": 3.989617327333182
+    "three_inst_ratio": 22.907168990883754,
+    "three_inst_ratio_change_20": 3.9896173273331854
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 22.46,
-    "trust_ratio": -0.166065996123896,
+    "trust_ratio": -0.17997870688543802,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.82602526167598,
-    "three_inst_ratio_change_20": 3.4901459150414667
+    "three_inst_ratio": 22.81211255091444,
+    "three_inst_ratio_change_20": 3.49014591504147
   },
   {
     "date": "2026-05-13",
@@ -1776,9 +1798,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 22.45,
-    "trust_ratio": -0.19744676385701124,
+    "trust_ratio": -0.2113594746185532,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.784644493942864,
+    "three_inst_ratio": 22.770731783181322,
     "three_inst_ratio_change_20": 3.189747957939975
   },
   {
@@ -1787,10 +1809,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.05,
-    "trust_ratio": -0.26214228392860567,
+    "trust_ratio": -0.2760549946901477,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 23.319948973871274,
-    "three_inst_ratio_change_20": 3.2189227432614373
+    "three_inst_ratio": 23.30603626310973,
+    "three_inst_ratio_change_20": 3.218922743261434
   },
   {
     "date": "2026-05-15",
@@ -1798,9 +1820,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 22.69,
-    "trust_ratio": -0.3045931966548207,
+    "trust_ratio": -0.31850590741636264,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 22.917498061145057,
+    "three_inst_ratio": 22.903585350383516,
     "three_inst_ratio_change_20": 2.4964718305352207
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 22.83,
-    "trust_ratio": -0.31081110360026126,
+    "trust_ratio": -0.32472381436180325,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 23.051280154199613,
+    "three_inst_ratio": 23.03736744343807,
     "three_inst_ratio_change_20": 2.6756866984691783
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.27,
-    "trust_ratio": -0.2942299087201388,
+    "trust_ratio": -0.3081426194816808,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 23.507861349079736,
+    "three_inst_ratio": 23.493948638318194,
     "three_inst_ratio_change_20": 2.520629658526964
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.85,
-    "trust_ratio": -0.2464002349977224,
+    "trust_ratio": -0.2603129457592644,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.135691022802156,
+    "three_inst_ratio": 24.121778312040615,
     "three_inst_ratio_change_20": 2.8172124150741524
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.04,
-    "trust_ratio": -0.17570103700537545,
+    "trust_ratio": -0.18961374776691747,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.3963902207945,
+    "three_inst_ratio": 24.38247751003296,
     "three_inst_ratio_change_20": 2.6375561584769827
   },
   {
@@ -1853,10 +1875,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.37,
-    "trust_ratio": -0.15540324826223076,
+    "trust_ratio": -0.16931595902377275,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.746688009537646,
-    "three_inst_ratio_change_20": 3.1449221566095638
+    "three_inst_ratio": 24.732775298776104,
+    "three_inst_ratio_change_20": 3.1449221566095673
   },
   {
     "date": "2026-05-25",
@@ -1864,9 +1886,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.36,
-    "trust_ratio": -0.13384180444258476,
+    "trust_ratio": -0.14775451520412677,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.75824945335729,
+    "three_inst_ratio": 24.74433674259575,
     "three_inst_ratio_change_20": 3.2889726797509162
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.43,
-    "trust_ratio": -0.1473918725233183,
+    "trust_ratio": -0.16130458328486033,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.81469938527656,
+    "three_inst_ratio": 24.800786674515017,
     "three_inst_ratio_change_20": 3.198857160879271
   },
   {
@@ -1886,10 +1908,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.33,
-    "trust_ratio": -0.1525060557378773,
+    "trust_ratio": -0.16641876649941928,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.709585202061998,
-    "three_inst_ratio_change_20": 3.169357002803917
+    "three_inst_ratio": 24.695672491300456,
+    "three_inst_ratio_change_20": 3.1693570028039204
   },
   {
     "date": "2026-05-28",
@@ -1897,9 +1919,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.57,
-    "trust_ratio": -0.14914947194092076,
+    "trust_ratio": -0.16306218270246275,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.952941785858958,
+    "three_inst_ratio": 24.939029075097416,
     "three_inst_ratio_change_20": 3.3108417975188082
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.55,
-    "trust_ratio": -0.14870159835781704,
+    "trust_ratio": -0.16261430911935904,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.93338965944206,
-    "three_inst_ratio_change_20": 24.93338965944206
+    "three_inst_ratio": 24.91947694868052,
+    "three_inst_ratio_change_20": 24.91947694868052
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 24.19,
-    "trust_ratio": 0.28941814712414876,
+    "trust_ratio": 0.27550543636260677,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 25.011509404924027,
+    "three_inst_ratio": 24.997596694162485,
     "three_inst_ratio_change_20": 3.4210938964433097
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.92,
-    "trust_ratio": 0.5731485300966704,
+    "trust_ratio": 0.5592358193351284,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 25.02523978789655,
+    "three_inst_ratio": 25.011327077135007,
     "three_inst_ratio_change_20": 2.8884551456021583
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.83,
-    "trust_ratio": 0.6012388584782397,
+    "trust_ratio": 0.5873261477166978,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.963330116278115,
+    "three_inst_ratio": 24.949417405516574,
     "three_inst_ratio_change_20": 2.583502384319683
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.88,
-    "trust_ratio": 0.5958686534799521,
+    "trust_ratio": 0.5819559427184101,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 25.007959911279826,
+    "three_inst_ratio": 24.994047200518285,
     "three_inst_ratio_change_20": 2.5693720763661467
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.85,
-    "trust_ratio": 0.5907554574959216,
+    "trust_ratio": 0.5768427467343796,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.9728467152958,
+    "three_inst_ratio": 24.958934004534257,
     "three_inst_ratio_change_20": 1.9801084795230892
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.9,
-    "trust_ratio": 0.5866482494204496,
+    "trust_ratio": 0.5727355386589076,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 25.018739507220324,
+    "three_inst_ratio": 25.004826796458783,
     "three_inst_ratio_change_20": 2.097657805575029
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.86,
-    "trust_ratio": 0.5853766964997201,
+    "trust_ratio": 0.5714639857381781,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.977467954299595,
+    "three_inst_ratio": 24.963555243538053,
     "three_inst_ratio_change_20": 2.1514426926236148
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.29,
-    "trust_ratio": 0.4723980348162773,
+    "trust_ratio": 0.45848532405473535,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.294489292616152,
+    "three_inst_ratio": 24.28057658185461,
     "three_inst_ratio_change_20": 1.5098447986732886
   },
   {
@@ -2007,10 +2029,10 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.13,
-    "trust_ratio": 0.41184789573392416,
+    "trust_ratio": 0.39793518497238217,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.0739391535338,
-    "three_inst_ratio_change_20": 0.7539901796625266
+    "three_inst_ratio": 24.06002644277226,
+    "three_inst_ratio_change_20": 0.7539901796625301
   },
   {
     "date": "2026-06-12",
@@ -2018,9 +2040,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.08,
-    "trust_ratio": 0.34114474881946316,
+    "trust_ratio": 0.3272320380579211,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 23.95323600661934,
+    "three_inst_ratio": 23.939323295857797,
     "three_inst_ratio_change_20": 1.0357379454742812
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.05,
-    "trust_ratio": 0.24373800333915588,
+    "trust_ratio": 0.22982529257761392,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 23.825829261139035,
+    "three_inst_ratio": 23.811916550377493,
     "three_inst_ratio_change_20": 0.7745491069394213
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "義隆",
     "market": "TWSE",
     "foreign_ratio": 23.33,
-    "trust_ratio": 0.2855896671345613,
+    "trust_ratio": 0.27167695637301925,
     "dealer_ratio": 0.5320912577998781,
-    "three_inst_ratio": 24.147680924934438,
+    "three_inst_ratio": 24.133768214172896,
     "three_inst_ratio_change_20": 0.6398195758547018
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2458",
+    "name": "義隆",
+    "market": "TWSE",
+    "foreign_ratio": 23.57,
+    "trust_ratio": 0.30847992324559065,
+    "dealer_ratio": 0.5320912577998781,
+    "three_inst_ratio": 24.41057118104547,
+    "three_inst_ratio_change_20": 0.2887928690048547
   }
 ]

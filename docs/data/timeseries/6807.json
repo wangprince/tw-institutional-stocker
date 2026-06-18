@@ -1078,6 +1078,17 @@
     "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
+    "date": "2026-02-27",
+    "code": "6807",
+    "name": "峰源-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -43.81
+  },
+  {
     "date": "2026-03-02",
     "code": "6807",
     "name": "峰源-KY",
@@ -1108,7 +1119,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.78,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.01999999999999602
   },
   {
     "date": "2026-03-05",
@@ -1141,7 +1152,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.76,
-    "three_inst_ratio_change_20": -0.03999999999999915
+    "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
     "date": "2026-03-10",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.76,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.010000000000005116
   },
   {
     "date": "2026-03-13",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.75,
-    "three_inst_ratio_change_20": -0.020000000000003126
+    "three_inst_ratio_change_20": -0.00999999999999801
   },
   {
     "date": "2026-03-16",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.74,
-    "three_inst_ratio_change_20": -0.01999999999999602
+    "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
     "date": "2026-03-17",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.74,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.01999999999999602
   },
   {
     "date": "2026-03-18",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.73,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.020000000000003126
   },
   {
     "date": "2026-03-19",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.73,
-    "three_inst_ratio_change_20": -0.020000000000003126
+    "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
     "date": "2026-03-20",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.69,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio_change_20": -0.09000000000000341
   },
   {
     "date": "2026-03-24",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.67,
-    "three_inst_ratio_change_20": -0.10999999999999943
+    "three_inst_ratio_change_20": 43.67
   },
   {
     "date": "2026-04-01",
@@ -1868,5 +1879,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.53,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-06-17",
+    "code": "6807",
+    "name": "峰源-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.52,
+    "three_inst_ratio_change_20": -0.00999999999999801
   }
 ]

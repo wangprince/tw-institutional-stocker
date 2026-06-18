@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -16.019965805582867
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2376",
     "name": "技嘉",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -15.856824322563845
   },
   {
+    "date": "2026-02-18",
+    "code": "2376",
+    "name": "技嘉",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.727932300372572
+  },
+  {
     "date": "2026-02-23",
     "code": "2376",
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.56,
-    "trust_ratio": 1.1787429475281668,
+    "trust_ratio": 1.1950143027152715,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.738742947528166,
-    "three_inst_ratio_change_20": -0.9891893528444058
+    "three_inst_ratio": 14.755014302715272,
+    "three_inst_ratio_change_20": -0.7942963188077119
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.55,
-    "trust_ratio": 1.1443976994118992,
+    "trust_ratio": 1.1606690545990042,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.6943976994119,
-    "three_inst_ratio_change_20": -0.8549129221110849
+    "three_inst_ratio": 14.710669054599006,
+    "three_inst_ratio_change_20": -0.6162431589587527
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.76,
-    "trust_ratio": 1.0958821908264949,
+    "trust_ratio": 1.1121535460135996,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.855882190826495,
-    "three_inst_ratio_change_20": -0.47103002273126293
+    "three_inst_ratio": 14.8721535460136,
+    "three_inst_ratio_change_20": -0.41803450081421545
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.79,
-    "trust_ratio": 1.0882680922698573,
+    "trust_ratio": 1.1045394474569623,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.878268092269856,
-    "three_inst_ratio_change_20": -0.41191995455795904
+    "three_inst_ratio": 14.894539447456962,
+    "three_inst_ratio_change_20": -0.26577838850725577
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2376",
+    "name": "技嘉",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.264345037753023
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.87,
-    "trust_ratio": 1.0870738643662166,
+    "trust_ratio": 1.114679188751312,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.957073864366215,
-    "three_inst_ratio_change_20": -0.20324397159800256
+    "three_inst_ratio": 14.984679188751311,
+    "three_inst_ratio_change_20": -0.030513418997072606
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.73,
-    "trust_ratio": 1.087521699830082,
+    "trust_ratio": 1.115127024215177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.817521699830083,
-    "three_inst_ratio_change_20": -0.4468233379229396
+    "three_inst_ratio": 14.845127024215177,
+    "three_inst_ratio_change_20": 0.021277922858388365
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.62,
-    "trust_ratio": 1.0888652062216777,
+    "trust_ratio": 1.1164705306067728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.708865206221677,
-    "three_inst_ratio_change_20": -0.30632740152670657
+    "three_inst_ratio": 14.736470530606772,
+    "three_inst_ratio_change_20": 0.04053318911160275
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 13.97,
-    "trust_ratio": 1.0884173707578124,
+    "trust_ratio": 1.1160226951429078,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.058417370757812,
-    "three_inst_ratio_change_20": 0.2345682694010236
+    "three_inst_ratio": 15.086022695142908,
+    "three_inst_ratio_change_20": 0.4951608222382138
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 14.21,
-    "trust_ratio": 1.06781693942001,
+    "trust_ratio": 1.095422263805105,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.277816939420012,
-    "three_inst_ratio_change_20": 0.5818795979248428
+    "three_inst_ratio": 15.305422263805106,
+    "three_inst_ratio_change_20": 0.7932264217024212
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 14.32,
-    "trust_ratio": 1.0716981801068424,
+    "trust_ratio": 1.0993035044919375,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.391698180106843,
-    "three_inst_ratio_change_20": 0.8008363072021485
+    "three_inst_ratio": 15.419303504491937,
+    "three_inst_ratio_change_20": 1.0574157565587683
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 14.66,
-    "trust_ratio": 1.0722952940586628,
+    "trust_ratio": 1.0999006184437579,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.732295294058662,
-    "three_inst_ratio_change_20": 1.2200994519559778
+    "three_inst_ratio": 15.759900618443758,
+    "three_inst_ratio_change_20": 1.3862231873481186
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 15.04,
-    "trust_ratio": 1.072743129522528,
+    "trust_ratio": 1.1003484539076231,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.112743129522528,
-    "three_inst_ratio_change_20": 1.7508553815893588
+    "three_inst_ratio": 16.140348453907624,
+    "three_inst_ratio_change_20": 1.7983197209514543
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 14.8,
-    "trust_ratio": 1.1154367770776838,
+    "trust_ratio": 1.143042101462779,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.915436777077684,
-    "three_inst_ratio_change_20": 1.5417593459820438
+    "three_inst_ratio": 15.94304210146278,
+    "three_inst_ratio_change_20": 1.3889234696752393
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 14.9,
-    "trust_ratio": 1.1158846125415491,
+    "trust_ratio": 1.1434899369266442,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.015884612541548,
-    "three_inst_ratio_change_20": 1.6738558795853784
+    "three_inst_ratio": 16.043489936926644,
+    "three_inst_ratio_change_20": 1.6310133685066077
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 15.13,
-    "trust_ratio": 1.1179749592083843,
+    "trust_ratio": 1.1455802835934794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.247974959208385,
-    "three_inst_ratio_change_20": 1.6938563274208445
+    "three_inst_ratio": 16.27558028359348,
+    "three_inst_ratio_change_20": 1.6131037151734446
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 15.63,
-    "trust_ratio": 1.1163328958408782,
+    "trust_ratio": 1.1439382202259734,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.74633289584088,
-    "three_inst_ratio_change_20": 2.3338563274208433
+    "three_inst_ratio": 16.773938220225975,
+    "three_inst_ratio_change_20": 2.1083284622518743
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 15.72,
-    "trust_ratio": 1.1133473260817766,
+    "trust_ratio": 1.1409526504668717,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.83334732608178,
-    "three_inst_ratio_change_20": 2.170870757661742
+    "three_inst_ratio": 16.86095265046687,
+    "three_inst_ratio_change_20": 16.86095265046687
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 15.73,
-    "trust_ratio": 1.1117052627142705,
+    "trust_ratio": 1.1393105870993656,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.84170526271427,
-    "three_inst_ratio_change_20": 2.1760955047401698
+    "three_inst_ratio": 16.869310587099367,
+    "three_inst_ratio_change_20": 16.869310587099367
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 15.62,
-    "trust_ratio": 1.1105579082558477,
+    "trust_ratio": 1.1381632326409428,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.730557908255847,
-    "three_inst_ratio_change_20": 16.730557908255847
+    "three_inst_ratio": 16.758163232640943,
+    "three_inst_ratio_change_20": 16.758163232640943
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 15.61,
-    "trust_ratio": 1.112152351785696,
+    "trust_ratio": 1.1397576761707913,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.722152351785695,
-    "three_inst_ratio_change_20": 16.722152351785695
+    "three_inst_ratio": 16.74975767617079,
+    "three_inst_ratio_change_20": 1.9947433734555187
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.05,
-    "trust_ratio": 1.1124509087616061,
+    "trust_ratio": 1.1400562331467012,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.162450908761606,
-    "three_inst_ratio_change_20": 2.42370796123344
+    "three_inst_ratio": 17.190056233146702,
+    "three_inst_ratio_change_20": 2.4793871785476966
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.24,
-    "trust_ratio": 1.1122634149807347,
+    "trust_ratio": 1.1398687393658296,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.352263414980733,
-    "three_inst_ratio_change_20": 2.6578657155688337
+    "three_inst_ratio": 17.37986873936583,
+    "three_inst_ratio_change_20": 2.5077151933522295
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.54,
-    "trust_ratio": 1.1119279862182994,
+    "trust_ratio": 1.1395333106033947,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.651927986218297,
-    "three_inst_ratio_change_20": 2.7960457953918016
+    "three_inst_ratio": 17.679533310603393,
+    "three_inst_ratio_change_20": 2.784993863146431
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.77,
-    "trust_ratio": 1.1119685899670233,
+    "trust_ratio": 1.1395739143521184,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.881968589967023,
-    "three_inst_ratio_change_20": 3.0037004976971673
+    "three_inst_ratio": 17.90957391435212,
+    "three_inst_ratio_change_20": 17.90957391435212
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.5,
-    "trust_ratio": 1.1121748928373774,
+    "trust_ratio": 1.1397802172224722,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.612174892837377,
+    "three_inst_ratio": 17.639780217222473,
     "three_inst_ratio_change_20": 2.6551010284711616
   },
   {
@@ -1457,10 +1479,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.37,
-    "trust_ratio": 1.1123558183647788,
+    "trust_ratio": 1.139961142749874,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.48235581836478,
-    "three_inst_ratio_change_20": 2.6648341185346975
+    "three_inst_ratio": 17.509961142749876,
+    "three_inst_ratio_change_20": 2.6648341185346993
   },
   {
     "date": "2026-04-01",
@@ -1468,10 +1490,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.48,
-    "trust_ratio": 1.1139978817322849,
+    "trust_ratio": 1.1416032061173798,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.593997881732285,
-    "three_inst_ratio_change_20": 2.885132675510608
+    "three_inst_ratio": 17.62160320611738,
+    "three_inst_ratio_change_20": 2.8851326755106097
   },
   {
     "date": "2026-04-02",
@@ -1479,9 +1501,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.42,
-    "trust_ratio": 1.1153549724662846,
+    "trust_ratio": 1.1429602968513797,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.535354972466287,
+    "three_inst_ratio": 17.562960296851383,
     "three_inst_ratio_change_20": 2.4769376017084745
   },
   {
@@ -1490,10 +1512,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 16.21,
-    "trust_ratio": 1.1161498804146452,
+    "trust_ratio": 1.1437552047997406,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.326149880414647,
-    "three_inst_ratio_change_20": 2.0483329409946354
+    "three_inst_ratio": 17.353755204799743,
+    "three_inst_ratio_change_20": 2.048332940994637
   },
   {
     "date": "2026-04-08",
@@ -1501,10 +1523,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 17.04,
-    "trust_ratio": 1.1167068384532057,
+    "trust_ratio": 1.1443121628383008,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.156706838453204,
-    "three_inst_ratio_change_20": 2.7650086583463604
+    "three_inst_ratio": 18.1843121628383,
+    "three_inst_ratio_change_20": 2.7650086583463622
   },
   {
     "date": "2026-04-09",
@@ -1512,9 +1534,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 17.45,
-    "trust_ratio": 1.2351824568112033,
+    "trust_ratio": 1.2627877811962982,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.6851824568112,
+    "three_inst_ratio": 18.712787781196297,
     "three_inst_ratio_change_20": 2.952887162752539
   },
   {
@@ -1523,10 +1545,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 17.4,
-    "trust_ratio": 1.303613059196208,
+    "trust_ratio": 1.3312183835813034,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.703613059196208,
-    "three_inst_ratio_change_20": 2.59086992967368
+    "three_inst_ratio": 18.7312183835813,
+    "three_inst_ratio_change_20": 2.5908699296736764
   },
   {
     "date": "2026-04-13",
@@ -1534,9 +1556,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 17.75,
-    "trust_ratio": 1.3592673636326011,
+    "trust_ratio": 1.386872688017696,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.1092673636326,
+    "three_inst_ratio": 19.136872688017696,
     "three_inst_ratio_change_20": 3.193830586554917
   },
   {
@@ -1545,10 +1567,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 17.73,
-    "trust_ratio": 1.360394117659686,
+    "trust_ratio": 1.3879994420447812,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.090394117659688,
-    "three_inst_ratio_change_20": 3.07450950511814
+    "three_inst_ratio": 19.11799944204478,
+    "three_inst_ratio_change_20": 3.0745095051181366
   },
   {
     "date": "2026-04-15",
@@ -1556,9 +1578,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 19.25,
-    "trust_ratio": 1.3761541940255446,
+    "trust_ratio": 1.40375951841064,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.626154194025546,
+    "three_inst_ratio": 20.65375951841064,
     "three_inst_ratio_change_20": 4.378179234817161
   },
   {
@@ -1567,10 +1589,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 19.51,
-    "trust_ratio": 1.4133694703512367,
+    "trust_ratio": 1.4409747947363318,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.92336947035124,
-    "three_inst_ratio_change_20": 4.17703657451036
+    "three_inst_ratio": 20.950974794736332,
+    "three_inst_ratio_change_20": 4.177036574510357
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.01,
-    "trust_ratio": 1.4296408255383415,
+    "trust_ratio": 1.4572461499234368,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.439640825538344,
-    "three_inst_ratio_change_20": 4.606293499456566
+    "three_inst_ratio": 21.46724614992344,
+    "three_inst_ratio_change_20": 4.606293499456569
   },
   {
     "date": "2026-04-20",
@@ -1589,9 +1611,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.13,
-    "trust_ratio": 1.431599807135776,
+    "trust_ratio": 1.4592051315208714,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.561599807135774,
+    "three_inst_ratio": 21.58920513152087,
     "three_inst_ratio_change_20": 4.7198945444215035
   },
   {
@@ -1600,9 +1622,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.39,
-    "trust_ratio": 1.2533811465562963,
+    "trust_ratio": 1.2809864709413914,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.643381146556298,
+    "three_inst_ratio": 21.670986470941394,
     "three_inst_ratio_change_20": 4.912823238300451
   },
   {
@@ -1611,9 +1633,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.65,
-    "trust_ratio": 1.060005494702296,
+    "trust_ratio": 1.0876108190873912,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.710005494702294,
+    "three_inst_ratio": 21.73761081908739,
     "three_inst_ratio_change_20": 4.987853142916599
   },
   {
@@ -1622,9 +1644,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 21.14,
-    "trust_ratio": 1.0090864531823267,
+    "trust_ratio": 1.0366917775674218,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.149086453182328,
+    "three_inst_ratio": 22.176691777567424,
     "three_inst_ratio_change_20": 4.9866355444207215
   },
   {
@@ -1633,9 +1655,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.97,
-    "trust_ratio": 0.9849587204526333,
+    "trust_ratio": 1.0125640448377284,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.95495872045263,
+    "three_inst_ratio": 21.982564044837726,
     "three_inst_ratio_change_20": 4.602695305471897
   },
   {
@@ -1644,10 +1666,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 21.4,
-    "trust_ratio": 0.9769968030190608,
+    "trust_ratio": 1.0046021274041557,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.37699680301906,
-    "three_inst_ratio_change_20": 4.725068816800764
+    "three_inst_ratio": 22.404602127404154,
+    "three_inst_ratio_change_20": 4.725068816800761
   },
   {
     "date": "2026-04-28",
@@ -1655,9 +1677,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 21.3,
-    "trust_ratio": 0.9693217988393377,
+    "trust_ratio": 0.9969271232244328,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.26932179883934,
+    "three_inst_ratio": 22.296927123224435,
     "three_inst_ratio_change_20": 4.387353208872316
   },
   {
@@ -1666,9 +1688,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.72,
-    "trust_ratio": 0.9555881779474693,
+    "trust_ratio": 0.9831935023325645,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.675588177947468,
+    "three_inst_ratio": 21.703193502332564,
     "three_inst_ratio_change_20": 4.063413285110091
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.94,
-    "trust_ratio": 0.9343906326578465,
+    "trust_ratio": 0.9619959570429416,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.874390632657846,
+    "three_inst_ratio": 21.901995957042942,
     "three_inst_ratio_change_20": 4.392034814293066
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.593997881732285
+    "three_inst_ratio_change_20": -17.62160320611738
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.84,
-    "trust_ratio": 1.3291789408788608,
+    "trust_ratio": 1.3567842652639561,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.16917894087886,
+    "three_inst_ratio": 22.196784265263958,
     "three_inst_ratio_change_20": 4.633823968412575
   },
   {
@@ -1710,10 +1732,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 20.91,
-    "trust_ratio": 1.276816227101878,
+    "trust_ratio": 1.304421551486973,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.18681622710188,
-    "three_inst_ratio_change_20": 4.860666346687232
+    "three_inst_ratio": 22.21442155148697,
+    "three_inst_ratio_change_20": 4.860666346687228
   },
   {
     "date": "2026-05-06",
@@ -1721,10 +1743,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 21.9,
-    "trust_ratio": 1.2017291476604675,
+    "trust_ratio": 1.2293344720455626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.101729147660468,
-    "three_inst_ratio_change_20": 4.945022309207264
+    "three_inst_ratio": 23.12933447204556,
+    "three_inst_ratio_change_20": 4.9450223092072605
   },
   {
     "date": "2026-05-07",
@@ -1732,9 +1754,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.01,
-    "trust_ratio": 1.244709559190985,
+    "trust_ratio": 1.27231488357608,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.254709559190985,
+    "three_inst_ratio": 23.28231488357608,
     "three_inst_ratio_change_20": 4.569527102379784
   },
   {
@@ -1743,10 +1765,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.52,
-    "trust_ratio": 1.2285874824918352,
+    "trust_ratio": 1.2561928068769304,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.748587482491835,
-    "three_inst_ratio_change_20": 5.044974423295628
+    "three_inst_ratio": 23.77619280687693,
+    "three_inst_ratio_change_20": 5.044974423295631
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.68,
-    "trust_ratio": 1.2180793218892125,
+    "trust_ratio": 1.2456846462743076,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.898079321889213,
-    "three_inst_ratio_change_20": 4.788811958256613
+    "three_inst_ratio": 23.925684646274306,
+    "three_inst_ratio_change_20": 4.788811958256609
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.14,
-    "trust_ratio": 1.2245142696694926,
+    "trust_ratio": 1.2521195940545877,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.364514269669492,
-    "three_inst_ratio_change_20": 5.274120152009804
+    "three_inst_ratio": 24.392119594054588,
+    "three_inst_ratio_change_20": 5.274120152009807
   },
   {
     "date": "2026-05-13",
@@ -1776,9 +1798,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.72,
-    "trust_ratio": 1.224140625614141,
+    "trust_ratio": 1.2517459499992363,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.94414062561414,
+    "three_inst_ratio": 24.971745949999235,
     "three_inst_ratio_change_20": 4.317986431588594
   },
   {
@@ -1787,10 +1809,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.67,
-    "trust_ratio": 1.2402627023132908,
+    "trust_ratio": 1.267868026698386,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.910262702313293,
-    "three_inst_ratio_change_20": 3.9868932319620534
+    "three_inst_ratio": 24.93786802669839,
+    "three_inst_ratio_change_20": 3.986893231962057
   },
   {
     "date": "2026-05-15",
@@ -1798,9 +1820,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.37,
-    "trust_ratio": 1.2349440590659388,
+    "trust_ratio": 1.2625493834510342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.60494405906594,
+    "three_inst_ratio": 24.632549383451035,
     "three_inst_ratio_change_20": 3.1653032335275952
   },
   {
@@ -1809,10 +1831,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.79,
-    "trust_ratio": 1.6908405612807855,
+    "trust_ratio": 1.7184458856658802,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.480840561280786,
-    "three_inst_ratio_change_20": 3.9192407541450116
+    "three_inst_ratio": 25.50844588566588,
+    "three_inst_ratio_change_20": 3.919240754145008
   },
   {
     "date": "2026-05-19",
@@ -1820,9 +1842,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.4,
-    "trust_ratio": 1.715172954817465,
+    "trust_ratio": 1.7427782792025601,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.115172954817464,
+    "three_inst_ratio": 25.14277827920256,
     "three_inst_ratio_change_20": 3.471791808261166
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.15,
-    "trust_ratio": 1.8080241743255312,
+    "trust_ratio": 1.8356294987106263,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.95802417432553,
+    "three_inst_ratio": 24.985629498710626,
     "three_inst_ratio_change_20": 3.248018679623236
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.27,
-    "trust_ratio": 1.7366690570829981,
+    "trust_ratio": 1.7642743814680932,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.006669057083,
+    "three_inst_ratio": 24.034274381468094,
     "three_inst_ratio_change_20": 1.8575826039006706
   },
   {
@@ -1853,10 +1875,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.5,
-    "trust_ratio": 1.7147133263530512,
+    "trust_ratio": 1.7423186507381463,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.214713326353053,
-    "three_inst_ratio_change_20": 2.2597546059004223
+    "three_inst_ratio": 24.242318650738145,
+    "three_inst_ratio_change_20": 2.2597546059004188
   },
   {
     "date": "2026-05-25",
@@ -1864,9 +1886,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.63,
-    "trust_ratio": 1.8112965080599948,
+    "trust_ratio": 1.83890183244509,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.441296508059995,
+    "three_inst_ratio": 24.468901832445088,
     "three_inst_ratio_change_20": 2.064299705040934
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.78,
-    "trust_ratio": 1.809803723180444,
+    "trust_ratio": 1.8374090475655394,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.589803723180445,
+    "three_inst_ratio": 24.61740904756554,
     "three_inst_ratio_change_20": 2.320481924341106
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.77,
-    "trust_ratio": 1.845929117265576,
+    "trust_ratio": 1.873534441650671,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.615929117265576,
+    "three_inst_ratio": 24.643534441650672,
     "three_inst_ratio_change_20": 2.9403409393181086
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.92,
-    "trust_ratio": 2.050464082486659,
+    "trust_ratio": 2.0780694068717542,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.97046408248666,
+    "three_inst_ratio": 24.998069406871757,
     "three_inst_ratio_change_20": 3.0960734498288147
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.91,
-    "trust_ratio": 2.280207258133254,
+    "trust_ratio": 2.3078125825183493,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.190207258133256,
-    "three_inst_ratio_change_20": 26.190207258133256
+    "three_inst_ratio": 26.21781258251835,
+    "three_inst_ratio_change_20": 26.21781258251835
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.44,
-    "trust_ratio": 2.9028478313939368,
+    "trust_ratio": 2.9304531557790314,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.34284783139394,
-    "three_inst_ratio_change_20": 4.173668890515078
+    "three_inst_ratio": 26.370453155779032,
+    "three_inst_ratio_change_20": 4.173668890515074
   },
   {
     "date": "2026-06-02",
@@ -1930,10 +1952,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.26,
-    "trust_ratio": 3.388301474223891,
+    "trust_ratio": 3.4159067986089857,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.648301474223892,
-    "three_inst_ratio_change_20": 4.461485247122013
+    "three_inst_ratio": 26.675906798608988,
+    "three_inst_ratio_change_20": 4.461485247122017
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.08,
-    "trust_ratio": 3.5257869616305295,
+    "trust_ratio": 3.5533922860156246,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.60578696163053,
-    "three_inst_ratio_change_20": 3.5040578139700607
+    "three_inst_ratio": 26.633392286015624,
+    "three_inst_ratio_change_20": 3.504057813970064
   },
   {
     "date": "2026-06-04",
@@ -1952,9 +1974,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 22.85,
-    "trust_ratio": 3.703577640785042,
+    "trust_ratio": 3.731182965170137,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.553577640785043,
+    "three_inst_ratio": 26.58118296517014,
     "three_inst_ratio_change_20": 3.2988680815940583
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.64,
-    "trust_ratio": 3.588873095589766,
+    "trust_ratio": 3.616478419974861,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.228873095589766,
+    "three_inst_ratio": 27.25647841997486,
     "three_inst_ratio_change_20": 3.48028561309793
   },
   {
@@ -1974,10 +1996,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.85,
-    "trust_ratio": 3.589768766517497,
+    "trust_ratio": 3.617374090902592,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.4397687665175,
-    "three_inst_ratio_change_20": 3.541689444628286
+    "three_inst_ratio": 27.467374090902595,
+    "three_inst_ratio_change_20": 3.5416894446282896
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.47,
-    "trust_ratio": 3.723074456261392,
+    "trust_ratio": 3.7506797806464878,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.193074456261392,
-    "three_inst_ratio_change_20": 2.8285601865919006
+    "three_inst_ratio": 27.220679780646485,
+    "three_inst_ratio_change_20": 2.828560186591897
   },
   {
     "date": "2026-06-10",
@@ -1996,9 +2018,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.47,
-    "trust_ratio": 3.7256130862275567,
+    "trust_ratio": 3.753218410612652,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.195613086227556,
+    "three_inst_ratio": 27.223218410612652,
     "three_inst_ratio_change_20": 2.2514724606134173
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.23,
-    "trust_ratio": 3.7039677054740685,
+    "trust_ratio": 3.7315730298591636,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.933967705474068,
+    "three_inst_ratio": 26.961573029859164,
     "three_inst_ratio_change_20": 2.0237050031607744
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.85,
-    "trust_ratio": 3.705012654889754,
+    "trust_ratio": 3.732617979274849,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.555012654889754,
+    "three_inst_ratio": 27.58261797927485,
     "three_inst_ratio_change_20": 2.950068595823815
   },
   {
@@ -2029,10 +2051,10 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.88,
-    "trust_ratio": 3.715760706022521,
+    "trust_ratio": 3.743366030407616,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.59576070602252,
-    "three_inst_ratio_change_20": 2.1149201447417347
+    "three_inst_ratio": 27.623366030407617,
+    "three_inst_ratio_change_20": 2.1149201447417383
   },
   {
     "date": "2026-06-16",
@@ -2040,9 +2062,20 @@
     "name": "技嘉",
     "market": "TWSE",
     "foreign_ratio": 23.65,
-    "trust_ratio": 3.7998044947412364,
+    "trust_ratio": 3.8274098191263315,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.449804494741237,
-    "three_inst_ratio_change_20": 2.334631539923773
+    "three_inst_ratio": 27.47740981912633,
+    "three_inst_ratio_change_20": 2.3346315399237696
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2376",
+    "name": "技嘉",
+    "market": "TWSE",
+    "foreign_ratio": 23.55,
+    "trust_ratio": 3.778709802329815,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.328709802329815,
+    "three_inst_ratio_change_20": 2.343080303619189
   }
 ]

@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -41.45098850931907
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "2527",
     "name": "宏璟",
     "market": "TWSE",
@@ -1177,6 +1177,17 @@
     "three_inst_ratio_change_20": -41.43062521734627
   },
   {
+    "date": "2026-02-18",
+    "code": "2527",
+    "name": "宏璟",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -41.44332149489837
+  },
+  {
     "date": "2026-02-23",
     "code": "2527",
     "name": "宏璟",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0269231907541823,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 41.546923190754185,
-    "three_inst_ratio_change_20": 0.10360169585581502
+    "three_inst_ratio_change_20": 0.11493425969087667
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.026562858390120826,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 41.63656285839012,
-    "three_inst_ratio_change_20": 0.20457392732681257
+    "three_inst_ratio_change_20": 0.22481439553691018
   },
   {
     "date": "2026-02-25",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.02559654613660074,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 41.645596546136595,
-    "three_inst_ratio_change_20": 0.2338480832833838
+    "three_inst_ratio_change_20": 0.22408818154239185
   },
   {
     "date": "2026-02-26",
@@ -1218,7 +1229,18 @@
     "trust_ratio": 0.024635783149467638,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 41.74463578314947,
-    "three_inst_ratio_change_20": 0.3231274185552664
+    "three_inst_ratio_change_20": 0.32336751681427955
+  },
+  {
+    "date": "2026-02-27",
+    "code": "2527",
+    "name": "宏璟",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -41.430426997550924
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.74,
-    "trust_ratio": 0.024024993895806975,
+    "trust_ratio": 0.02365911226535852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.76402499389581,
-    "three_inst_ratio_change_20": 0.34275672756061937
+    "three_inst_ratio": 41.76365911226536,
+    "three_inst_ratio_change_20": 0.37383254533750687
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.74,
-    "trust_ratio": 0.023920297736639215,
+    "trust_ratio": 0.023554416106190763,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.76392029773664,
-    "three_inst_ratio_change_20": 0.3334933001857152
+    "three_inst_ratio": 41.763554416106196,
+    "three_inst_ratio_change_20": 0.33396794743735825
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.77,
-    "trust_ratio": 0.022949546070009545,
+    "trust_ratio": 0.022583664439561092,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.79294954607001,
-    "three_inst_ratio_change_20": 0.4031229791421609
+    "three_inst_ratio": 41.79258366443956,
+    "three_inst_ratio_change_20": 0.35323729402973214
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.77,
-    "trust_ratio": 0.022844479959749323,
+    "trust_ratio": 0.022478598329300867,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.792844479959754,
-    "three_inst_ratio_change_20": 0.3632580112909167
+    "three_inst_ratio": 41.7924785983293,
+    "three_inst_ratio_change_20": 0.36361834365497003
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.77,
-    "trust_ratio": 0.022739413849489097,
+    "trust_ratio": 0.022373532219040645,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.79273941384949,
-    "three_inst_ratio_change_20": 0.3533930434396595
+    "three_inst_ratio": 41.792373532219045,
+    "three_inst_ratio_change_20": 0.36387915917516267
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.72,
-    "trust_ratio": 0.022739413849489097,
+    "trust_ratio": 0.022373532219040645,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.742739413849485,
-    "three_inst_ratio_change_20": 0.3138791591751513
+    "three_inst_ratio": 41.74237353221904,
+    "three_inst_ratio_change_20": 0.2944892085266346
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.72,
-    "trust_ratio": 0.02236946275702352,
+    "trust_ratio": 0.022003581126575068,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.742369462757026,
-    "three_inst_ratio_change_20": 0.31387508971314304
+    "three_inst_ratio": 41.742003581126575,
+    "three_inst_ratio_change_20": 0.2641192574341673
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.71,
-    "trust_ratio": 0.022128994546920897,
+    "trust_ratio": 0.02176311291647244,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.73212899454692,
-    "three_inst_ratio_change_20": 0.28424467085451255
+    "three_inst_ratio": 41.731763112916475,
+    "three_inst_ratio_change_20": 0.2841188874830749
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.67,
-    "trust_ratio": 0.021278476985342538,
+    "trust_ratio": 0.020912595354894082,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.691278476985346,
-    "three_inst_ratio_change_20": 0.21339415329293843
+    "three_inst_ratio": 41.690912595354895,
+    "three_inst_ratio_change_20": 0.26326836992149794
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.67,
-    "trust_ratio": 0.021158242880291226,
+    "trust_ratio": 0.02079236124984277,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.69115824288029,
-    "three_inst_ratio_change_20": 0.24351401744689127
+    "three_inst_ratio": 41.69079236124985,
+    "three_inst_ratio_change_20": 0.2531481358164527
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.67,
-    "trust_ratio": 0.02103800877523991,
+    "trust_ratio": 0.02067212714479146,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.691038008775244,
-    "three_inst_ratio_change_20": 0.26339378334184715
+    "three_inst_ratio": 41.69067212714479,
+    "three_inst_ratio_change_20": 0.1831481358164524
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.7,
-    "trust_ratio": 0.020917774670188603,
+    "trust_ratio": 0.020551893039740147,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.72091777467019,
-    "three_inst_ratio_change_20": 0.28327354923679593
+    "three_inst_ratio": 41.72055189303974,
+    "three_inst_ratio_change_20": 0.2330279017113952
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.69,
-    "trust_ratio": 0.020547823577723025,
+    "trust_ratio": 0.02018194194727457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.71054782357772,
-    "three_inst_ratio_change_20": 0.2030238322493787
+    "three_inst_ratio": 41.71018194194727,
+    "three_inst_ratio_change_20": 41.71018194194727
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.64,
-    "trust_ratio": 0.020547823577723025,
+    "trust_ratio": 0.02018194194727457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.66054782357772,
-    "three_inst_ratio_change_20": 0.17302383224937756
+    "three_inst_ratio": 41.66018194194727,
+    "three_inst_ratio_change_20": 41.66018194194727
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.65,
-    "trust_ratio": 0.020547823577723025,
+    "trust_ratio": 0.02018194194727457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.67054782357772,
-    "three_inst_ratio_change_20": 41.67054782357772
+    "three_inst_ratio": 41.67018194194727,
+    "three_inst_ratio_change_20": 41.67018194194727
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.63,
-    "trust_ratio": 0.020547823577723025,
+    "trust_ratio": 0.02018194194727457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.650547823577725,
-    "three_inst_ratio_change_20": 41.650547823577725
+    "three_inst_ratio": 41.650181941947274,
+    "three_inst_ratio_change_20": 0.10325875119308847
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.59,
-    "trust_ratio": 0.020547823577723025,
+    "trust_ratio": 0.02018194194727457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.610547823577726,
-    "three_inst_ratio_change_20": 0.06362463282354014
+    "three_inst_ratio": 41.610181941947275,
+    "three_inst_ratio_change_20": -0.02638091644284657
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.63,
-    "trust_ratio": 0.020547823577723025,
+    "trust_ratio": 0.02018194194727457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.650547823577725,
-    "three_inst_ratio_change_20": 0.013984965187603393
+    "three_inst_ratio": 41.650181941947274,
+    "three_inst_ratio_change_20": 0.0045853958106789605
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.63,
-    "trust_ratio": 0.020308465220897798,
+    "trust_ratio": 0.019942583590449342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.6503084652209,
-    "three_inst_ratio_change_20": 0.004711919084307681
+    "three_inst_ratio": 41.64994258359045,
+    "three_inst_ratio_change_20": -0.09469319955901767
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.61,
-    "trust_ratio": 0.020308465220897798,
+    "trust_ratio": 0.019942583590449342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.6303084652209,
-    "three_inst_ratio_change_20": -0.11432731792856998
+    "three_inst_ratio": 41.62994258359045,
+    "three_inst_ratio_change_20": 41.62994258359045
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.61,
-    "trust_ratio": 0.020308465220897798,
+    "trust_ratio": 0.019942583590449342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.6303084652209,
+    "three_inst_ratio": 41.62994258359045,
     "three_inst_ratio_change_20": -0.1337165286749098
   },
   {
@@ -1457,10 +1479,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.56,
-    "trust_ratio": 0.020308465220897798,
+    "trust_ratio": 0.019942583590449342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.5803084652209,
-    "three_inst_ratio_change_20": -0.1836118325157372
+    "three_inst_ratio": 41.57994258359045,
+    "three_inst_ratio_change_20": -0.1836118325157443
   },
   {
     "date": "2026-04-01",
@@ -1468,9 +1490,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.62,
-    "trust_ratio": 0.020308465220897798,
+    "trust_ratio": 0.019942583590449342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.6403084652209,
+    "three_inst_ratio": 41.63994258359045,
     "three_inst_ratio_change_20": -0.15264108084911499
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.61,
-    "trust_ratio": 0.020308465220897798,
+    "trust_ratio": 0.019942583590449342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.6303084652209,
+    "three_inst_ratio": 41.62994258359045,
     "three_inst_ratio_change_20": -0.16253601473885482
   },
   {
@@ -1490,10 +1512,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.65,
-    "trust_ratio": 0.020308465220897798,
+    "trust_ratio": 0.019942583590449342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.6703084652209,
-    "three_inst_ratio_change_20": -0.12243094862859039
+    "three_inst_ratio": 41.66994258359045,
+    "three_inst_ratio_change_20": -0.12243094862859749
   },
   {
     "date": "2026-04-08",
@@ -1501,9 +1523,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.68,
-    "trust_ratio": 0.020188971018031417,
+    "trust_ratio": 0.01982308938758296,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.70018897101803,
+    "three_inst_ratio": 41.699823089387586,
     "three_inst_ratio_change_20": -0.04255044283145537
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.7,
-    "trust_ratio": 0.01994961266120619,
+    "trust_ratio": 0.019583731030757737,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.71994961266121,
+    "three_inst_ratio": 41.71958373103076,
     "three_inst_ratio_change_20": -0.022419850095815264
   },
   {
@@ -1523,9 +1545,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.88,
-    "trust_ratio": 0.019830118458339808,
+    "trust_ratio": 0.019464236827891352,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.89983011845834,
+    "three_inst_ratio": 41.899464236827896,
     "three_inst_ratio_change_20": 0.16770112391142078
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 41.94,
-    "trust_ratio": 0.019340673163007853,
+    "trust_ratio": 0.018974791532559394,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.959340673163005,
+    "three_inst_ratio": 41.958974791532555,
     "three_inst_ratio_change_20": 0.2680621961776595
   },
   {
@@ -1545,10 +1567,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.03,
-    "trust_ratio": 0.01922117896014147,
+    "trust_ratio": 0.018855297329693016,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.049221178960146,
-    "three_inst_ratio_change_20": 0.35806293607985396
+    "three_inst_ratio": 42.048855297329695,
+    "three_inst_ratio_change_20": 0.35806293607984685
   },
   {
     "date": "2026-04-15",
@@ -1556,10 +1578,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.05,
-    "trust_ratio": 0.018372881105117905,
+    "trust_ratio": 0.01800699947466945,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.06837288110511,
-    "three_inst_ratio_change_20": 0.3773348723298682
+    "three_inst_ratio": 42.06800699947467,
+    "three_inst_ratio_change_20": 0.3773348723298753
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.15,
-    "trust_ratio": 0.018014028545426296,
+    "trust_ratio": 0.01764814691497784,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.16801402854542,
-    "three_inst_ratio_change_20": 0.44709625387523033
+    "three_inst_ratio": 42.16764814691498,
+    "three_inst_ratio_change_20": 0.44709625387523744
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.42,
-    "trust_ratio": 0.018014028545426296,
+    "trust_ratio": 0.01764814691497784,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.438014028545425,
-    "three_inst_ratio_change_20": 0.7274662049677048
+    "three_inst_ratio": 42.43764814691498,
+    "three_inst_ratio_change_20": 0.7274662049677119
   },
   {
     "date": "2026-04-20",
@@ -1589,9 +1611,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.4,
-    "trust_ratio": -0.013648605654332496,
+    "trust_ratio": -0.014014487284780953,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.38635139434567,
+    "three_inst_ratio": 42.385985512715216,
     "three_inst_ratio_change_20": 0.725803570767944
   },
   {
@@ -1600,10 +1622,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.38,
-    "trust_ratio": -0.01484428758518124,
+    "trust_ratio": -0.015210169215629694,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.36515571241482,
-    "three_inst_ratio_change_20": 0.6946078888370977
+    "three_inst_ratio": 42.364789830784375,
+    "three_inst_ratio_change_20": 0.6946078888371048
   },
   {
     "date": "2026-04-22",
@@ -1611,10 +1633,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.36,
-    "trust_ratio": -0.01556162275347199,
+    "trust_ratio": -0.015927504383920446,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.344438377246526,
-    "three_inst_ratio_change_20": 0.6938905536688011
+    "three_inst_ratio": 42.34407249561608,
+    "three_inst_ratio_change_20": 0.6938905536688083
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.46,
-    "trust_ratio": -0.0159204753131636,
+    "trust_ratio": -0.016286356943612055,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.444079524686835,
-    "three_inst_ratio_change_20": 0.8335317011091092
+    "three_inst_ratio": 42.44371364305639,
+    "three_inst_ratio_change_20": 0.8335317011091163
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.43,
-    "trust_ratio": -0.016279327872855208,
+    "trust_ratio": -0.016645209503303664,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.41372067212714,
-    "three_inst_ratio_change_20": 0.7631728485494165
+    "three_inst_ratio": 42.4133547904967,
+    "three_inst_ratio_change_20": 0.7631728485494236
   },
   {
     "date": "2026-04-27",
@@ -1644,10 +1666,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.43,
-    "trust_ratio": -0.017116527195104807,
+    "trust_ratio": -0.017482408825553263,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.41288347280489,
-    "three_inst_ratio_change_20": 0.7625750075839903
+    "three_inst_ratio": 42.41251759117445,
+    "three_inst_ratio_change_20": 0.7625750075839974
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.41,
-    "trust_ratio": -0.017475379754796416,
+    "trust_ratio": -0.01784126138524487,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.3925246202452,
-    "three_inst_ratio_change_20": 0.7622161550242978
+    "three_inst_ratio": 42.392158738614754,
+    "three_inst_ratio_change_20": 0.762216155024305
   },
   {
     "date": "2026-04-29",
@@ -1666,10 +1688,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.42,
-    "trust_ratio": -0.017475379754796416,
+    "trust_ratio": -0.01784126138524487,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.4025246202452,
-    "three_inst_ratio_change_20": 0.772216155024303
+    "three_inst_ratio": 42.40215873861476,
+    "three_inst_ratio_change_20": 0.7722161550243101
   },
   {
     "date": "2026-04-30",
@@ -1677,9 +1699,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.38,
-    "trust_ratio": -0.017953726517354406,
+    "trust_ratio": -0.01831960814780286,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.36204627348265,
+    "three_inst_ratio": 42.3616803918522,
     "three_inst_ratio_change_20": 0.7817378082617452
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -41.6403084652209
+    "three_inst_ratio_change_20": -41.63994258359045
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.4,
-    "trust_ratio": -0.019986607770452747,
+    "trust_ratio": -0.020352489400901203,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.38001339222954,
-    "three_inst_ratio_change_20": 0.7497049270086436
+    "three_inst_ratio": 42.3796475105991,
+    "three_inst_ratio_change_20": 0.7497049270086507
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.3,
-    "trust_ratio": -0.020823807092702346,
+    "trust_ratio": -0.0211896887231508,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.27917619290729,
-    "three_inst_ratio_change_20": 0.6088677276863947
+    "three_inst_ratio": 42.27881031127685,
+    "three_inst_ratio_change_20": 0.6088677276864018
   },
   {
     "date": "2026-05-06",
@@ -1721,10 +1743,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.31,
-    "trust_ratio": -0.020943301295568723,
+    "trust_ratio": -0.021309182926017183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.289056698704435,
-    "three_inst_ratio_change_20": 0.5888677276864058
+    "three_inst_ratio": 42.288690817073984,
+    "three_inst_ratio_change_20": 0.5888677276863987
   },
   {
     "date": "2026-05-07",
@@ -1732,9 +1754,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.35,
-    "trust_ratio": -0.020943301295568723,
+    "trust_ratio": -0.021309182926017183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.329056698704434,
+    "three_inst_ratio": 42.32869081707398,
     "three_inst_ratio_change_20": 0.6091070860432239
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.33,
-    "trust_ratio": -0.021182659652393954,
+    "trust_ratio": -0.021548541282842407,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.3088173403476,
+    "three_inst_ratio": 42.30845145871716,
     "three_inst_ratio_change_20": 0.4089872218892623
   },
   {
@@ -1754,10 +1776,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.13,
-    "trust_ratio": -0.021541512212085563,
+    "trust_ratio": -0.021907393842534015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.108458487787914,
-    "three_inst_ratio_change_20": 0.14911781462490836
+    "three_inst_ratio": 42.10809260615747,
+    "three_inst_ratio_change_20": 0.14911781462491547
   },
   {
     "date": "2026-05-12",
@@ -1765,9 +1787,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.08,
-    "trust_ratio": -0.02190036477177717,
+    "trust_ratio": -0.022266246402225628,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.058099635228224,
+    "three_inst_ratio": 42.05773375359777,
     "three_inst_ratio_change_20": 0.008878456268078594
   },
   {
@@ -1776,10 +1798,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.09,
-    "trust_ratio": -0.02190036477177717,
+    "trust_ratio": -0.022266246402225628,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.06809963522823,
-    "three_inst_ratio_change_20": -0.00027324587688326574
+    "three_inst_ratio": 42.06773375359778,
+    "three_inst_ratio_change_20": -0.00027324587689037116
   },
   {
     "date": "2026-05-14",
@@ -1787,10 +1809,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.04,
-    "trust_ratio": -0.02285705829689315,
+    "trust_ratio": -0.023222939927341608,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.017142941703106,
-    "three_inst_ratio_change_20": -0.1508710868423151
+    "three_inst_ratio": 42.016777060072656,
+    "three_inst_ratio_change_20": -0.1508710868423222
   },
   {
     "date": "2026-05-15",
@@ -1798,10 +1820,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.05,
-    "trust_ratio": -0.02285705829689315,
+    "trust_ratio": -0.023222939927341608,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.027142941703104,
-    "three_inst_ratio_change_20": -0.4108710868423202
+    "three_inst_ratio": 42.026777060072654,
+    "three_inst_ratio_change_20": -0.4108710868423273
   },
   {
     "date": "2026-05-18",
@@ -1809,10 +1831,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.04,
-    "trust_ratio": -0.02381375182200913,
+    "trust_ratio": -0.024179633452457584,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.01618624817799,
-    "three_inst_ratio_change_20": -0.3701651461676789
+    "three_inst_ratio": 42.015820366547544,
+    "three_inst_ratio_change_20": -0.3701651461676718
   },
   {
     "date": "2026-05-19",
@@ -1820,10 +1842,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.03,
-    "trust_ratio": -0.02429209858456712,
+    "trust_ratio": -0.024657980215015574,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.005707901415434,
-    "three_inst_ratio_change_20": -0.3594478109993844
+    "three_inst_ratio": 42.00534201978498,
+    "three_inst_ratio_change_20": -0.3594478109993915
   },
   {
     "date": "2026-05-20",
@@ -1831,10 +1853,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.0,
-    "trust_ratio": -0.025023861845464034,
+    "trust_ratio": -0.025389743475912486,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.97497613815454,
-    "three_inst_ratio_change_20": -0.3694622390919875
+    "three_inst_ratio": 41.97461025652409,
+    "three_inst_ratio_change_20": -0.3694622390919946
   },
   {
     "date": "2026-05-21",
@@ -1842,10 +1864,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.03,
-    "trust_ratio": -0.025023861845464034,
+    "trust_ratio": -0.025389743475912486,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.00497613815454,
-    "three_inst_ratio_change_20": -0.4391033865322953
+    "three_inst_ratio": 42.00461025652409,
+    "three_inst_ratio_change_20": -0.4391033865323024
   },
   {
     "date": "2026-05-22",
@@ -1853,10 +1875,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.03,
-    "trust_ratio": -0.025023861845464034,
+    "trust_ratio": -0.025389743475912486,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.00497613815454,
-    "three_inst_ratio_change_20": -0.4087445339726017
+    "three_inst_ratio": 42.00461025652409,
+    "three_inst_ratio_change_20": -0.4087445339726088
   },
   {
     "date": "2026-05-25",
@@ -1864,10 +1886,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.03,
-    "trust_ratio": -0.025023861845464034,
+    "trust_ratio": -0.025389743475912486,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.00497613815454,
-    "three_inst_ratio_change_20": -0.40790733465035345
+    "three_inst_ratio": 42.00461025652409,
+    "three_inst_ratio_change_20": -0.40790733465036055
   },
   {
     "date": "2026-05-26",
@@ -1875,9 +1897,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.08,
-    "trust_ratio": -0.02571123097526507,
+    "trust_ratio": -0.026077112605713524,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.05428876902473,
+    "three_inst_ratio": 42.053922887394286,
     "three_inst_ratio_change_20": -0.3382358512204675
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.17,
-    "trust_ratio": -0.025832574933593783,
+    "trust_ratio": -0.026198456564042235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.14416742506641,
+    "three_inst_ratio": 42.14380154343596,
     "three_inst_ratio_change_20": -0.25835719517879596
   },
   {
@@ -1897,10 +1919,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.28,
-    "trust_ratio": -0.025832574933593783,
+    "trust_ratio": -0.026198456564042235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.254167425066406,
-    "three_inst_ratio_change_20": -0.10787884841624162
+    "three_inst_ratio": 42.25380154343596,
+    "three_inst_ratio_change_20": -0.10787884841623452
   },
   {
     "date": "2026-05-29",
@@ -1908,10 +1930,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.25,
-    "trust_ratio": -0.025832574933593783,
+    "trust_ratio": -0.026198456564042235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.224167425066405,
-    "three_inst_ratio_change_20": 42.224167425066405
+    "three_inst_ratio": 42.22380154343596,
+    "three_inst_ratio_change_20": 42.22380154343596
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.34,
-    "trust_ratio": -0.025832574933593783,
+    "trust_ratio": -0.026198456564042235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.31416742506641,
+    "three_inst_ratio": 42.313801543435964,
     "three_inst_ratio_change_20": -0.06584596716313484
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.35,
-    "trust_ratio": -0.025832574933593783,
+    "trust_ratio": -0.026198456564042235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.324167425066406,
+    "three_inst_ratio": 42.32380154343596,
     "three_inst_ratio_change_20": 0.044991232159112826
   },
   {
@@ -1941,10 +1963,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.48,
-    "trust_ratio": -0.025832574933593783,
+    "trust_ratio": -0.026198456564042235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.4541674250664,
-    "three_inst_ratio_change_20": 0.16511072636196644
+    "three_inst_ratio": 42.45380154343596,
+    "three_inst_ratio_change_20": 0.16511072636197355
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.47,
-    "trust_ratio": -0.025832574933593783,
+    "trust_ratio": -0.026198456564042235,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.444167425066404,
-    "three_inst_ratio_change_20": 0.11511072636196928
+    "three_inst_ratio": 42.44380154343596,
+    "three_inst_ratio_change_20": 0.11511072636197639
   },
   {
     "date": "2026-06-05",
@@ -1963,10 +1985,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.5,
-    "trust_ratio": -0.025953918891922487,
+    "trust_ratio": -0.02631980052237094,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.47404608110808,
-    "three_inst_ratio_change_20": 0.165228740760476
+    "three_inst_ratio": 42.47368019947763,
+    "three_inst_ratio_change_20": 0.1652287407604689
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.48,
-    "trust_ratio": -0.025953918891922487,
+    "trust_ratio": -0.02631980052237094,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.454046081108075,
-    "three_inst_ratio_change_20": 0.3455875933201611
+    "three_inst_ratio": 42.453680199477624,
+    "three_inst_ratio_change_20": 0.345587593320154
   },
   {
     "date": "2026-06-09",
@@ -1985,9 +2007,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.49,
-    "trust_ratio": -0.026189947688915523,
+    "trust_ratio": -0.026555829319363983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.46381005231109,
+    "three_inst_ratio": 42.46344417068064,
     "three_inst_ratio_change_20": 0.40571041708286515
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.44,
-    "trust_ratio": -0.026189947688915523,
+    "trust_ratio": -0.026555829319363983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.413810052311085,
+    "three_inst_ratio": 42.413444170680634,
     "three_inst_ratio_change_20": 0.34571041708285577
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.43,
-    "trust_ratio": -0.026189947688915523,
+    "trust_ratio": -0.026555829319363983,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.40381005231109,
+    "three_inst_ratio": 42.403444170680636,
     "three_inst_ratio_change_20": 0.38666711060798065
   },
   {
@@ -2018,10 +2040,10 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.53,
-    "trust_ratio": -0.026307962087412044,
+    "trust_ratio": -0.0266738437178605,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.503692037912586,
-    "three_inst_ratio_change_20": 0.4765490962094816
+    "three_inst_ratio": 42.50332615628214,
+    "three_inst_ratio_change_20": 0.4765490962094887
   },
   {
     "date": "2026-06-15",
@@ -2029,9 +2051,9 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.54,
-    "trust_ratio": -0.026307962087412044,
+    "trust_ratio": -0.0266738437178605,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.513692037912584,
+    "three_inst_ratio": 42.51332615628214,
     "three_inst_ratio_change_20": 0.49750578973459625
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "宏璟",
     "market": "TWSE",
     "foreign_ratio": 42.08,
-    "trust_ratio": -0.026423386828261303,
+    "trust_ratio": -0.026789268458709763,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.053576613171735,
-    "three_inst_ratio_change_20": 0.04786871175630125
+    "three_inst_ratio": 42.05321073154129,
+    "three_inst_ratio_change_20": 0.04786871175630836
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2527",
+    "name": "宏璟",
+    "market": "TWSE",
+    "foreign_ratio": 42.0,
+    "trust_ratio": -0.02727723394967185,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 41.97272276605033,
+    "three_inst_ratio_change_20": -0.001887490473755804
   }
 ]

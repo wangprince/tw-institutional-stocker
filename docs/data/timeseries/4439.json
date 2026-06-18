@@ -1133,6 +1133,17 @@
     "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
+    "date": "2026-02-27",
+    "code": "4439",
+    "name": "冠星-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -61.34
+  },
+  {
     "date": "2026-03-02",
     "code": "4439",
     "name": "冠星-KY",
@@ -1163,7 +1174,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.45,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.12000000000000455
   },
   {
     "date": "2026-03-05",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.47,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.11999999999999744
   },
   {
     "date": "2026-03-09",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.44,
-    "three_inst_ratio_change_20": 0.0899999999999963
+    "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
     "date": "2026-03-23",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.48,
-    "three_inst_ratio_change_20": 0.11999999999999744
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-03-24",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.48,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.0899999999999963
   },
   {
     "date": "2026-03-25",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.48,
-    "three_inst_ratio_change_20": 0.0899999999999963
+    "three_inst_ratio_change_20": 0.05999999999999517
   },
   {
     "date": "2026-03-26",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.48,
-    "three_inst_ratio_change_20": 0.05999999999999517
+    "three_inst_ratio_change_20": 0.04999999999999716
   },
   {
     "date": "2026-03-27",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.49,
-    "three_inst_ratio_change_20": 0.060000000000002274
+    "three_inst_ratio_change_20": 61.49
   },
   {
     "date": "2026-03-30",
@@ -1945,5 +1956,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 61.42,
     "three_inst_ratio_change_20": 0.05000000000000426
+  },
+  {
+    "date": "2026-06-17",
+    "code": "4439",
+    "name": "冠星-KY",
+    "market": "TWSE",
+    "foreign_ratio": 61.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 61.41,
+    "three_inst_ratio_change_20": 0.05999999999999517
   }
 ]

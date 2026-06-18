@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -33.08867863174752
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "1476",
     "name": "儒鴻",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -33.316819808369814
   },
   {
+    "date": "2026-02-18",
+    "code": "1476",
+    "name": "儒鴻",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -33.4187853743884
+  },
+  {
     "date": "2026-02-23",
     "code": "1476",
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.79,
-    "trust_ratio": 0.11454397681068998,
+    "trust_ratio": 0.11563740232698662,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.904543976810686,
-    "three_inst_ratio_change_20": 0.48575860242228686
+    "three_inst_ratio": 33.90563740232699,
+    "three_inst_ratio_change_20": 0.45073936624277167
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.65,
-    "trust_ratio": 0.1138376239271623,
+    "trust_ratio": 0.11493104944345899,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.76383762392716,
-    "three_inst_ratio_change_20": 0.30893958784294284
+    "three_inst_ratio": 33.764931049443454,
+    "three_inst_ratio_change_20": 0.2499518406927379
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.7,
-    "trust_ratio": 0.11234291124638476,
+    "trust_ratio": 0.11343633676268144,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.81234291124639,
-    "three_inst_ratio_change_20": 0.297363702495673
+    "three_inst_ratio": 33.813436336762685,
+    "three_inst_ratio_change_20": 0.19909678193899794
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.64,
-    "trust_ratio": 0.10957618021498211,
+    "trust_ratio": 0.11066960573127876,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.74957618021498,
-    "three_inst_ratio_change_20": 0.13523662539129333
+    "three_inst_ratio": 33.75066960573128,
+    "three_inst_ratio_change_20": 0.17659393093219933
+  },
+  {
+    "date": "2026-02-27",
+    "code": "1476",
+    "name": "儒鴻",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -33.60351682906338
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.57,
-    "trust_ratio": 0.10791089315366229,
+    "trust_ratio": 0.1089857304361819,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.677910893153665,
-    "three_inst_ratio_change_20": 0.10383521835458254
+    "three_inst_ratio": 33.67898573043618,
+    "three_inst_ratio_change_20": 0.19485195020331503
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.33,
-    "trust_ratio": 0.10766560136283973,
+    "trust_ratio": 0.10874043864535934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.43766560136284,
-    "three_inst_ratio_change_20": -0.16585122770054284
+    "three_inst_ratio": 33.43874043864536,
+    "three_inst_ratio_change_20": -0.034950868728572004
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.24,
-    "trust_ratio": 0.10449794764212827,
+    "trust_ratio": 0.10557278492464792,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.34449794764213,
-    "three_inst_ratio_change_20": -0.1396358325907343
+    "three_inst_ratio": 33.34557278492465,
+    "three_inst_ratio_change_20": -0.14750875548636344
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.19,
-    "trust_ratio": 0.10388818067920684,
+    "trust_ratio": 0.10496301796172645,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.293888180679204,
-    "three_inst_ratio_change_20": -0.1798031266947291
+    "three_inst_ratio": 33.29496301796173,
+    "three_inst_ratio_change_20": -0.1672634636955408
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.2,
-    "trust_ratio": 0.10388818067920684,
+    "trust_ratio": 0.10496301796172645,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.30388818067921,
-    "three_inst_ratio_change_20": -0.18919335973180296
+    "three_inst_ratio": 33.30496301796173,
+    "three_inst_ratio_change_20": -0.1472448754617588
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 33.15,
-    "trust_ratio": 0.1036432533635564,
+    "trust_ratio": 0.10471809064607601,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.253643253363556,
-    "three_inst_ratio_change_20": -0.2085832282937119
+    "three_inst_ratio": 33.25471809064607,
+    "three_inst_ratio_change_20": -0.26610001036166864
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.92,
-    "trust_ratio": 0.1032787781914575,
+    "trust_ratio": 0.10435361547397712,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.02327877819146,
-    "three_inst_ratio_change_20": -0.42892911523203026
+    "three_inst_ratio": 33.02435361547398,
+    "three_inst_ratio_change_20": -0.455735535189568
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.91,
-    "trust_ratio": 0.10235446915501471,
+    "trust_ratio": 0.10342930643753435,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.012354469155014,
-    "three_inst_ratio_change_20": -0.5084636318527274
+    "three_inst_ratio": 33.01342930643753,
+    "three_inst_ratio_change_20": -0.6696585920606282
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.88,
-    "trust_ratio": 0.10118523280292148,
+    "trust_ratio": 0.1022600700854411,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.98118523280292,
-    "three_inst_ratio_change_20": -0.4989039178606234
+    "three_inst_ratio": 32.982260070085445,
+    "three_inst_ratio_change_20": -0.720576340543964
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.8,
-    "trust_ratio": 0.10069537817162058,
+    "trust_ratio": 0.1017702154541402,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.90069537817162,
-    "three_inst_ratio_change_20": -0.7823925203265389
+    "three_inst_ratio": 32.901770215454135,
+    "three_inst_ratio_change_20": -0.8910661951752701
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.79,
-    "trust_ratio": 0.09996642782742281,
+    "trust_ratio": 0.10104126510994242,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.889966427827424,
-    "three_inst_ratio_change_20": -0.8128699828019847
+    "three_inst_ratio": 32.89104126510994,
+    "three_inst_ratio_change_20": -1.0222008063860102
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.74,
-    "trust_ratio": 0.09948204032370338,
+    "trust_ratio": 0.10055687760622299,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.8394820403237,
-    "three_inst_ratio_change_20": -0.9533543703057035
+    "three_inst_ratio": 32.840556877606225,
+    "three_inst_ratio_change_20": -1.0626851938897275
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.83,
-    "trust_ratio": 0.10086741045285126,
+    "trust_ratio": 0.10194224773537088,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.93086741045285,
-    "three_inst_ratio_change_20": -0.982374661043103
+    "three_inst_ratio": 32.93194224773537,
+    "three_inst_ratio_change_20": 32.93194224773537
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.6,
-    "trust_ratio": 0.10013846010865349,
+    "trust_ratio": 0.1012132973911731,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.700138460108654,
-    "three_inst_ratio_change_20": -1.2031036113872986
+    "three_inst_ratio": 32.70121329739118,
+    "three_inst_ratio_change_20": 32.70121329739118
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.5,
-    "trust_ratio": 0.09052980114661047,
+    "trust_ratio": 0.09160463842913008,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.59052980114661,
-    "three_inst_ratio_change_20": 32.59052980114661
+    "three_inst_ratio": 32.59160463842913,
+    "three_inst_ratio_change_20": 32.59160463842913
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.32,
-    "trust_ratio": 0.09005233867116091,
+    "trust_ratio": 0.09112717595368054,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.410052338671164,
-    "three_inst_ratio_change_20": 32.410052338671164
+    "three_inst_ratio": 32.41112717595368,
+    "three_inst_ratio_change_20": -1.4945102263733077
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.11,
-    "trust_ratio": 0.09005233867116091,
+    "trust_ratio": 0.09112717595368054,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.20005233867116,
-    "three_inst_ratio_change_20": -1.7044916381395225
+    "three_inst_ratio": 32.20112717595368,
+    "three_inst_ratio_change_20": -1.5638038734897748
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.9,
-    "trust_ratio": 0.09005233867116091,
+    "trust_ratio": 0.09112717595368054,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.99005233867116,
-    "three_inst_ratio_change_20": -1.7737852852560003
+    "three_inst_ratio": 31.99112717595368,
+    "three_inst_ratio_change_20": -1.8223091608090058
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.79,
-    "trust_ratio": 0.09005233867116091,
+    "trust_ratio": 0.09112717595368054,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.88005233867116,
-    "three_inst_ratio_change_20": -1.93229057257523
+    "three_inst_ratio": 31.88112717595368,
+    "three_inst_ratio_change_20": -1.8695424297776029
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.03,
-    "trust_ratio": 0.09005233867116091,
+    "trust_ratio": 0.09112717595368054,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.120052338671165,
-    "three_inst_ratio_change_20": -1.629523841543815
+    "three_inst_ratio": 32.12112717595368,
+    "three_inst_ratio_change_20": 32.12112717595368
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.23,
-    "trust_ratio": 0.09041681384325981,
+    "trust_ratio": 0.09149165112577944,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.32041681384326,
+    "three_inst_ratio": 32.321491651125775,
     "three_inst_ratio_change_20": -1.3574940793104062
   },
   {
@@ -1457,10 +1479,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.25,
-    "trust_ratio": 0.07146410489411757,
+    "trust_ratio": 0.0725389421766372,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.32146410489412,
-    "three_inst_ratio_change_20": -1.1162014964687188
+    "three_inst_ratio": 32.322538942176635,
+    "three_inst_ratio_change_20": -1.116201496468726
   },
   {
     "date": "2026-04-01",
@@ -1468,9 +1490,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.37,
-    "trust_ratio": 0.07146410489411757,
+    "trust_ratio": 0.0725389421766372,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.441464104894116,
+    "three_inst_ratio": 32.44253894217663,
     "three_inst_ratio_change_20": -0.903033842748016
   },
   {
@@ -1479,10 +1501,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.25,
-    "trust_ratio": 0.06241382189573006,
+    "trust_ratio": 0.0634886591782497,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.31241382189573,
-    "three_inst_ratio_change_20": -0.9814743587834727
+    "three_inst_ratio": 32.31348865917825,
+    "three_inst_ratio_change_20": -0.9814743587834798
   },
   {
     "date": "2026-04-07",
@@ -1490,10 +1512,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.14,
-    "trust_ratio": 0.06238721520816685,
+    "trust_ratio": 0.06346205249068647,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.20238721520817,
-    "three_inst_ratio_change_20": -1.1015009654710397
+    "three_inst_ratio": 32.203462052490686,
+    "three_inst_ratio_change_20": -1.1015009654710468
   },
   {
     "date": "2026-04-08",
@@ -1501,9 +1523,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.2,
-    "trust_ratio": 0.06216379192767023,
+    "trust_ratio": 0.06323862921018984,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.26216379192768,
+    "three_inst_ratio": 32.26323862921019,
     "three_inst_ratio_change_20": -0.9914794614358797
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.21,
-    "trust_ratio": 0.061814989187971583,
+    "trust_ratio": 0.06288982647049121,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.27181498918797,
+    "three_inst_ratio": 32.27288982647049,
     "three_inst_ratio_change_20": -0.7514637890034876
   },
   {
@@ -1523,10 +1545,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.18,
-    "trust_ratio": 0.06191995803753607,
+    "trust_ratio": 0.06299479532005568,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.241919958037535,
-    "three_inst_ratio_change_20": -0.7704345111174788
+    "three_inst_ratio": 32.24299479532006,
+    "three_inst_ratio_change_20": -0.7704345111174717
   },
   {
     "date": "2026-04-13",
@@ -1534,9 +1556,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.06,
-    "trust_ratio": 0.06281911828710401,
+    "trust_ratio": 0.06389395556962364,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.122819118287104,
+    "three_inst_ratio": 32.12389395556963,
     "three_inst_ratio_change_20": -0.8583661145158175
   },
   {
@@ -1545,9 +1567,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 32.12,
-    "trust_ratio": 0.04909699253275295,
+    "trust_ratio": 0.05017182981527258,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.16909699253275,
+    "three_inst_ratio": 32.17017182981527,
     "three_inst_ratio_change_20": -0.7315983856388684
   },
   {
@@ -1556,10 +1578,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.86,
-    "trust_ratio": 0.047871991479328586,
+    "trust_ratio": 0.04894682876184821,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.90787199147933,
-    "three_inst_ratio_change_20": -0.9820944363480955
+    "three_inst_ratio": 31.90894682876185,
+    "three_inst_ratio_change_20": -0.9820944363480919
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.96,
-    "trust_ratio": 0.027420560622515723,
+    "trust_ratio": 0.028495397905035344,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.987420560622517,
-    "three_inst_ratio_change_20": -0.8520614797011845
+    "three_inst_ratio": 31.988495397905037,
+    "three_inst_ratio_change_20": -0.8520614797011881
   },
   {
     "date": "2026-04-17",
@@ -1578,9 +1600,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.97,
-    "trust_ratio": 0.04309299302276795,
+    "trust_ratio": 0.04416783030528757,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 32.01418641853906,
+    "three_inst_ratio": 32.015261255821585,
     "three_inst_ratio_change_20": -0.9166809919137862
   },
   {
@@ -1589,10 +1611,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.76,
-    "trust_ratio": 0.21604593853816537,
+    "trust_ratio": 0.21712077582068504,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.977139364054462,
-    "three_inst_ratio_change_20": -0.7229990960541919
+    "three_inst_ratio": 31.978214201336982,
+    "three_inst_ratio_change_20": -0.7229990960541954
   },
   {
     "date": "2026-04-21",
@@ -1600,10 +1622,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.52,
-    "trust_ratio": 0.391306740843293,
+    "trust_ratio": 0.3923815781258126,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.91240016635959,
-    "three_inst_ratio_change_20": -0.6781296347870196
+    "three_inst_ratio": 31.91347500364211,
+    "three_inst_ratio_change_20": -0.6781296347870232
   },
   {
     "date": "2026-04-22",
@@ -1611,10 +1633,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.31,
-    "trust_ratio": 0.5605628146880914,
+    "trust_ratio": 0.561637651970611,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.871656240204384,
-    "three_inst_ratio_change_20": -0.5383960984667802
+    "three_inst_ratio": 31.872731077486904,
+    "three_inst_ratio_change_20": -0.5383960984667766
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.12,
-    "trust_ratio": 0.7055845698648626,
+    "trust_ratio": 0.7066594071473822,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.826677995381157,
-    "three_inst_ratio_change_20": -0.3733743432900063
+    "three_inst_ratio": 31.827752832663677,
+    "three_inst_ratio_change_20": -0.37337434329000274
   },
   {
     "date": "2026-04-24",
@@ -1633,9 +1655,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.97,
-    "trust_ratio": 0.8528026524287016,
+    "trust_ratio": 0.8538774897112213,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.823896077944994,
+    "three_inst_ratio": 31.824970915227514,
     "three_inst_ratio_change_20": -0.16615626072616507
   },
   {
@@ -1644,9 +1666,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.93,
-    "trust_ratio": 0.8504791232065712,
+    "trust_ratio": 0.8515539604890909,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.781572548722867,
+    "three_inst_ratio": 31.782647386005387,
     "three_inst_ratio_change_20": -0.09847978994829276
   },
   {
@@ -1655,10 +1677,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.9,
-    "trust_ratio": 0.8492337115435092,
+    "trust_ratio": 0.8503085488260289,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.750327137059802,
-    "three_inst_ratio_change_20": -0.369725201611363
+    "three_inst_ratio": 31.751401974342322,
+    "three_inst_ratio_change_20": -0.36972520161135947
   },
   {
     "date": "2026-04-29",
@@ -1666,10 +1688,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.84,
-    "trust_ratio": 0.8514205625761027,
+    "trust_ratio": 0.8524953998586222,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.692513988092397,
-    "three_inst_ratio_change_20": -0.6279028257508621
+    "three_inst_ratio": 31.693588825374917,
+    "three_inst_ratio_change_20": -0.6279028257508585
   },
   {
     "date": "2026-04-30",
@@ -1677,10 +1699,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.74,
-    "trust_ratio": 0.8051825132932934,
+    "trust_ratio": 0.8062573505758129,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.546275938809586,
-    "three_inst_ratio_change_20": -0.7751881660845328
+    "three_inst_ratio": 31.547350776092106,
+    "three_inst_ratio_change_20": -0.7751881660845292
   },
   {
     "date": "2026-05-01",
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -32.441464104894116
+    "three_inst_ratio_change_20": -32.44253894217663
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.71,
-    "trust_ratio": 0.7795781324533464,
+    "trust_ratio": 0.7806529697358661,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.49067155796964,
-    "three_inst_ratio_change_20": -0.8217422639260903
+    "three_inst_ratio": 31.49174639525216,
+    "three_inst_ratio_change_20": -0.8217422639260867
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.64,
-    "trust_ratio": 0.7597944201118187,
+    "trust_ratio": 0.7608692573943383,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.400887845628116,
-    "three_inst_ratio_change_20": -0.8014993695800534
+    "three_inst_ratio": 31.401962682910636,
+    "three_inst_ratio_change_20": -0.8014993695800499
   },
   {
     "date": "2026-05-06",
@@ -1721,10 +1743,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.58,
-    "trust_ratio": 0.759065469767621,
+    "trust_ratio": 0.7601403070501406,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.340158895283913,
-    "three_inst_ratio_change_20": -0.9220048966437631
+    "three_inst_ratio": 31.341233732566433,
+    "three_inst_ratio_change_20": -0.9220048966437595
   },
   {
     "date": "2026-05-07",
@@ -1732,9 +1754,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.6,
-    "trust_ratio": 0.7597080394960313,
+    "trust_ratio": 0.7607828767785509,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.36080146501233,
+    "three_inst_ratio": 31.361876302294846,
     "three_inst_ratio_change_20": -0.9110135241756439
   },
   {
@@ -1743,10 +1765,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.58,
-    "trust_ratio": 0.756356690288582,
+    "trust_ratio": 0.7574315275711017,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.337450115804874,
-    "three_inst_ratio_change_20": -0.9044698422326611
+    "three_inst_ratio": 31.338524953087393,
+    "three_inst_ratio_change_20": -0.9044698422326647
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.48,
-    "trust_ratio": 0.7527574979641054,
+    "trust_ratio": 0.7538323352466251,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.2338509234804,
-    "three_inst_ratio_change_20": -0.8889681948067043
+    "three_inst_ratio": 31.23492576076292,
+    "three_inst_ratio_change_20": -0.8889681948067079
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.41,
-    "trust_ratio": 0.6956260147376045,
+    "trust_ratio": 0.6967008520201242,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.1067194402539,
-    "three_inst_ratio_change_20": -1.06237755227885
+    "three_inst_ratio": 31.10779427753642,
+    "three_inst_ratio_change_20": -1.0623775522788463
   },
   {
     "date": "2026-05-13",
@@ -1776,9 +1798,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.36,
-    "trust_ratio": 0.6938036388771102,
+    "trust_ratio": 0.6948784761596297,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.054897064393405,
+    "three_inst_ratio": 31.055971901675925,
     "three_inst_ratio_change_20": -0.8529749270859242
   },
   {
@@ -1787,9 +1809,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.2,
-    "trust_ratio": 0.6882654386370676,
+    "trust_ratio": 0.6893402759195871,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.889358864153362,
+    "three_inst_ratio": 30.89043370143588,
     "three_inst_ratio_change_20": -1.0980616964691556
   },
   {
@@ -1798,10 +1820,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.09,
-    "trust_ratio": 0.6844989522085976,
+    "trust_ratio": 0.6855737894911172,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.77559237772489,
-    "three_inst_ratio_change_20": -1.2385940408141707
+    "three_inst_ratio": 30.77666721500741,
+    "three_inst_ratio_change_20": -1.2385940408141742
   },
   {
     "date": "2026-05-18",
@@ -1809,9 +1831,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 29.99,
-    "trust_ratio": 0.6713778460130376,
+    "trust_ratio": 0.6724526832955572,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.66247127152933,
+    "three_inst_ratio": 30.66354610881185,
     "three_inst_ratio_change_20": -1.3146680925251317
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 29.93,
-    "trust_ratio": 0.6695554701525431,
+    "trust_ratio": 0.6706303074350628,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.600648895668837,
+    "three_inst_ratio": 30.601723732951356,
     "three_inst_ratio_change_20": -1.3117512706907526
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.25,
-    "trust_ratio": 0.6716205864776554,
+    "trust_ratio": 0.6726954237601751,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.92271401199395,
+    "three_inst_ratio": 30.92378884927647,
     "three_inst_ratio_change_20": -0.9489422282104343
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.43,
-    "trust_ratio": 0.6326217430630743,
+    "trust_ratio": 0.633696580345594,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.063715168579368,
+    "three_inst_ratio": 31.064790005861887,
     "three_inst_ratio_change_20": -0.7629628268017896
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.54,
-    "trust_ratio": 0.6230590079727159,
+    "trust_ratio": 0.6241338452552354,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.16415243348901,
+    "three_inst_ratio": 31.16522727077153,
     "three_inst_ratio_change_20": -0.6597436444559825
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.5,
-    "trust_ratio": 0.6164984548749358,
+    "trust_ratio": 0.6175732921574554,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.11759188039123,
+    "three_inst_ratio": 31.11866671767375,
     "three_inst_ratio_change_20": -0.6639806683316358
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.67,
-    "trust_ratio": 0.6148481112956721,
+    "trust_ratio": 0.6159229485781916,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.28594153681197,
+    "three_inst_ratio": 31.287016374094488,
     "three_inst_ratio_change_20": -0.4643856002478337
   },
   {
@@ -1886,10 +1908,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.86,
-    "trust_ratio": 0.644421991234948,
+    "trust_ratio": 0.6454968285174676,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.505515416751244,
-    "three_inst_ratio_change_20": -0.18699857134115305
+    "three_inst_ratio": 31.50659025403376,
+    "three_inst_ratio_change_20": -0.1869985713411566
   },
   {
     "date": "2026-05-28",
@@ -1897,9 +1919,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.0,
-    "trust_ratio": 0.6433588171579355,
+    "trust_ratio": 0.6444336544404551,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.64445224267423,
+    "three_inst_ratio": 31.64552707995675,
     "three_inst_ratio_change_20": 0.09817630386464415
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.05,
-    "trust_ratio": 0.64190091646954,
+    "trust_ratio": 0.6429757537520596,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.692994341985838,
-    "three_inst_ratio_change_20": 31.692994341985838
+    "three_inst_ratio": 31.694069179268354,
+    "three_inst_ratio_change_20": 31.694069179268354
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.28,
-    "trust_ratio": 0.640979523234474,
+    "trust_ratio": 0.6420543605169936,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.92207294875077,
+    "three_inst_ratio": 31.92314778603329,
     "three_inst_ratio_change_20": 0.4314013907811294
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 31.21,
-    "trust_ratio": 0.6421024712397106,
+    "trust_ratio": 0.6431773085222303,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.853195896756006,
+    "three_inst_ratio": 31.854270734038526,
     "three_inst_ratio_change_20": 0.45230805112788985
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.99,
-    "trust_ratio": 0.6397731104148267,
+    "trust_ratio": 0.6408479476973462,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.63086653593112,
+    "three_inst_ratio": 31.63194137321364,
     "three_inst_ratio_change_20": 0.2907076406472058
   },
   {
@@ -1952,10 +1974,10 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.49,
-    "trust_ratio": 0.6404605105894051,
+    "trust_ratio": 0.6415353478719248,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 31.1315539361057,
-    "three_inst_ratio_change_20": -0.22924752890662958
+    "three_inst_ratio": 31.13262877338822,
+    "three_inst_ratio_change_20": -0.22924752890662603
   },
   {
     "date": "2026-06-05",
@@ -1963,9 +1985,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.29,
-    "trust_ratio": 0.6386625545654413,
+    "trust_ratio": 0.639737391847961,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.929755980081737,
+    "three_inst_ratio": 30.930830817364257,
     "three_inst_ratio_change_20": -0.40769413572313695
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 30.12,
-    "trust_ratio": 0.6273638242303757,
+    "trust_ratio": 0.6284386615128954,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.74845724974667,
+    "three_inst_ratio": 30.74953208702919,
     "three_inst_ratio_change_20": -0.48539367373372855
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 29.98,
-    "trust_ratio": 0.63461797358066,
+    "trust_ratio": 0.6356928108631796,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.615711399096956,
+    "three_inst_ratio": 30.616786236379475,
     "three_inst_ratio_change_20": -0.4910080411569453
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 29.88,
-    "trust_ratio": 0.6344043911298101,
+    "trust_ratio": 0.6354792284123296,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.515497816646104,
+    "three_inst_ratio": 30.516572653928623,
     "three_inst_ratio_change_20": -0.5393992477473013
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 29.76,
-    "trust_ratio": 0.6369557173345022,
+    "trust_ratio": 0.6380305546170219,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.398049142850798,
+    "three_inst_ratio": 30.399123980133318,
     "three_inst_ratio_change_20": -0.4913097213025637
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 29.69,
-    "trust_ratio": 0.6422956430809231,
+    "trust_ratio": 0.6433704803634427,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 30.33338906859722,
+    "three_inst_ratio": 30.33446390587974,
     "three_inst_ratio_change_20": -0.44220330912767025
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 29.11,
-    "trust_ratio": 0.637514822248502,
+    "trust_ratio": 0.6385896595310215,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 29.748608247764796,
+    "three_inst_ratio": 29.749683085047316,
     "three_inst_ratio_change_20": -0.9138630237645344
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "儒鴻",
     "market": "TWSE",
     "foreign_ratio": 28.29,
-    "trust_ratio": 0.7952192199887982,
+    "trust_ratio": 0.7962940572713177,
     "dealer_ratio": 0.0010934255162966672,
-    "three_inst_ratio": 29.086312645505092,
+    "three_inst_ratio": 29.087387482787612,
     "three_inst_ratio_change_20": -1.514336250163744
+  },
+  {
+    "date": "2026-06-17",
+    "code": "1476",
+    "name": "儒鴻",
+    "market": "TWSE",
+    "foreign_ratio": 28.33,
+    "trust_ratio": 0.9042465005945993,
+    "dealer_ratio": 0.0010934255162966672,
+    "three_inst_ratio": 29.235339926110893,
+    "three_inst_ratio_change_20": -1.688448923165577
   }
 ]

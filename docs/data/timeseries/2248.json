@@ -1034,6 +1034,17 @@
     "three_inst_ratio_change_20": 0.09000000000000341
   },
   {
+    "date": "2026-02-27",
+    "code": "2248",
+    "name": "華勝-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -49.94
+  },
+  {
     "date": "2026-03-02",
     "code": "2248",
     "name": "華勝-KY",
@@ -1042,7 +1053,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.03,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
     "date": "2026-03-03",
@@ -1097,7 +1108,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.0,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.0799999999999983
   },
   {
     "date": "2026-03-10",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.05,
-    "three_inst_ratio_change_20": 0.12999999999999545
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-03-19",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.06,
-    "three_inst_ratio_change_20": 0.15000000000000568
+    "three_inst_ratio_change_20": 0.1600000000000037
   },
   {
     "date": "2026-03-20",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.06,
-    "three_inst_ratio_change_20": 0.1600000000000037
+    "three_inst_ratio_change_20": 0.0800000000000054
   },
   {
     "date": "2026-03-23",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.05,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-03-24",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.04,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.01999999999999602
   },
   {
     "date": "2026-03-25",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.04,
-    "three_inst_ratio_change_20": 0.01999999999999602
+    "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
     "date": "2026-03-26",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.03,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 50.03
   },
   {
     "date": "2026-03-30",
@@ -1845,6 +1856,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.47,
+    "three_inst_ratio_change_20": 0.36999999999999744
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2248",
+    "name": "華勝-KY",
+    "market": "TWSE",
+    "foreign_ratio": 50.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 50.46,
     "three_inst_ratio_change_20": 0.36999999999999744
   }
 ]

@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": 2.580000000000002
   },
   {
+    "date": "2026-02-27",
+    "code": "00972",
+    "name": "野村日本動能高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -20.12
+  },
+  {
     "date": "2026-03-02",
     "code": "00972",
     "name": "野村日本動能高息",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.1,
-    "three_inst_ratio_change_20": -0.019999999999999574
+    "three_inst_ratio_change_20": -1.5399999999999991
   },
   {
     "date": "2026-03-06",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.54,
-    "three_inst_ratio_change_20": -4.100000000000001
+    "three_inst_ratio_change_20": -4.109999999999999
   },
   {
     "date": "2026-03-11",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.96,
-    "three_inst_ratio_change_20": -3.6899999999999977
+    "three_inst_ratio_change_20": -3.91
   },
   {
     "date": "2026-03-12",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.81,
-    "three_inst_ratio_change_20": -4.060000000000002
+    "three_inst_ratio_change_20": -4.18
   },
   {
     "date": "2026-03-13",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.54,
-    "three_inst_ratio_change_20": -4.449999999999999
+    "three_inst_ratio_change_20": -5.07
   },
   {
     "date": "2026-03-16",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.57,
-    "three_inst_ratio_change_20": -5.039999999999999
+    "three_inst_ratio_change_20": -4.800000000000001
   },
   {
     "date": "2026-03-17",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.72,
-    "three_inst_ratio_change_20": -4.650000000000002
+    "three_inst_ratio_change_20": -4.68
   },
   {
     "date": "2026-03-18",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.42,
-    "three_inst_ratio_change_20": -3.979999999999997
+    "three_inst_ratio_change_20": -3.9499999999999993
   },
   {
     "date": "2026-03-19",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.64,
-    "three_inst_ratio_change_20": -4.73
+    "three_inst_ratio_change_20": -5.280000000000001
   },
   {
     "date": "2026-03-20",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.23,
-    "three_inst_ratio_change_20": -5.690000000000001
+    "three_inst_ratio_change_20": -5.399999999999999
   },
   {
     "date": "2026-03-23",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.05,
-    "three_inst_ratio_change_20": -5.579999999999998
+    "three_inst_ratio_change_20": -5.829999999999998
   },
   {
     "date": "2026-03-24",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.84,
-    "three_inst_ratio_change_20": -6.039999999999999
+    "three_inst_ratio_change_20": -5.879999999999999
   },
   {
     "date": "2026-03-25",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.55,
-    "three_inst_ratio_change_20": -6.169999999999998
+    "three_inst_ratio_change_20": -6.16
   },
   {
     "date": "2026-03-27",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.79,
-    "three_inst_ratio_change_20": -5.920000000000002
+    "three_inst_ratio_change_20": 16.79
   },
   {
     "date": "2026-03-30",
@@ -2011,5 +2022,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.1,
     "three_inst_ratio_change_20": 0.8200000000000003
+  },
+  {
+    "date": "2026-06-17",
+    "code": "00972",
+    "name": "野村日本動能高息",
+    "market": "TWSE",
+    "foreign_ratio": 18.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.06,
+    "three_inst_ratio_change_20": 0.7799999999999976
   }
 ]

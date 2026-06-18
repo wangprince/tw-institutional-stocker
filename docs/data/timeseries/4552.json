@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -43.08172413793103
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "4552",
     "name": "力達-KY",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -43.12172413793103
   },
   {
+    "date": "2026-02-18",
+    "code": "4552",
+    "name": "力達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -43.141724137931035
+  },
+  {
     "date": "2026-02-23",
     "code": "4552",
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.05,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.2051724137931,
-    "three_inst_ratio_change_20": 0.06344827586206492
+    "three_inst_ratio": 43.25689655172413,
+    "three_inst_ratio_change_20": 0.1451724137930981
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.06,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.215172413793105,
-    "three_inst_ratio_change_20": 0.10344827586207117
+    "three_inst_ratio": 43.26689655172414,
+    "three_inst_ratio_change_20": 0.16517241379310832
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.07,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.2251724137931,
-    "three_inst_ratio_change_20": 0.1234482758620743
+    "three_inst_ratio": 43.276896551724136,
+    "three_inst_ratio_change_20": 0.19517241379310235
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.09,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.24517241379311,
-    "three_inst_ratio_change_20": 0.16344827586207344
+    "three_inst_ratio": 43.29689655172414,
+    "three_inst_ratio_change_20": 0.21517241379310548
+  },
+  {
+    "date": "2026-02-27",
+    "code": "4552",
+    "name": "力達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -43.08172413793103
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.1,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.255172413793105,
-    "three_inst_ratio_change_20": 0.17344827586207145
+    "three_inst_ratio": 43.30689655172414,
+    "three_inst_ratio_change_20": 0.2251724137931035
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.11,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.2651724137931,
-    "three_inst_ratio_change_20": 0.18344827586206947
+    "three_inst_ratio": 43.316896551724135,
+    "three_inst_ratio_change_20": 0.2351724137931015
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.08,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.2351724137931,
-    "three_inst_ratio_change_20": 0.15344827586206833
+    "three_inst_ratio": 43.28689655172413,
+    "three_inst_ratio_change_20": 0.19517241379310235
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.05,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.2051724137931,
-    "three_inst_ratio_change_20": 0.12344827586206719
+    "three_inst_ratio": 43.25689655172413,
+    "three_inst_ratio_change_20": 0.1651724137931012
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.06,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.215172413793105,
-    "three_inst_ratio_change_20": 0.1234482758620743
+    "three_inst_ratio": 43.26689655172414,
+    "three_inst_ratio_change_20": 0.19517241379310235
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.02,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.175172413793106,
-    "three_inst_ratio_change_20": 0.08344827586207515
+    "three_inst_ratio": 43.22689655172414,
+    "three_inst_ratio_change_20": 0.19517241379310946
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.01,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.1651724137931,
-    "three_inst_ratio_change_20": 0.09344827586206605
+    "three_inst_ratio": 43.21689655172413,
+    "three_inst_ratio_change_20": 0.18517241379310434
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.02,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.175172413793106,
-    "three_inst_ratio_change_20": 0.14344827586207742
+    "three_inst_ratio": 43.22689655172414,
+    "three_inst_ratio_change_20": 0.18517241379310434
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.02,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.175172413793106,
-    "three_inst_ratio_change_20": 0.14344827586207742
+    "three_inst_ratio": 43.22689655172414,
+    "three_inst_ratio_change_20": 0.20517241379310747
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.01,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.1651724137931,
-    "three_inst_ratio_change_20": 0.12344827586206719
+    "three_inst_ratio": 43.21689655172413,
+    "three_inst_ratio_change_20": 0.19517241379310235
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.94,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0951724137931,
-    "three_inst_ratio_change_20": 0.07344827586207003
+    "three_inst_ratio": 43.14689655172413,
+    "three_inst_ratio_change_20": 0.13517241379310008
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.92,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.075172413793105,
-    "three_inst_ratio_change_20": 0.05344827586207401
+    "three_inst_ratio": 43.12689655172414,
+    "three_inst_ratio_change_20": 0.08517241379310292
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.9,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0551724137931,
-    "three_inst_ratio_change_20": 0.0434482758620689
+    "three_inst_ratio": 43.106896551724134,
+    "three_inst_ratio_change_20": 43.106896551724134
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.89,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.045172413793104,
-    "three_inst_ratio_change_20": 0.0034482758620697496
+    "three_inst_ratio": 43.096896551724136,
+    "three_inst_ratio_change_20": 43.096896551724136
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.92,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.075172413793105,
-    "three_inst_ratio_change_20": 43.075172413793105
+    "three_inst_ratio": 43.12689655172414,
+    "three_inst_ratio_change_20": 43.12689655172414
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.93,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0851724137931,
-    "three_inst_ratio_change_20": 43.0851724137931
+    "three_inst_ratio": 43.136896551724135,
+    "three_inst_ratio_change_20": -0.11999999999999744
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.91,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0651724137931,
-    "three_inst_ratio_change_20": -0.14000000000000057
+    "three_inst_ratio": 43.11689655172413,
+    "three_inst_ratio_change_20": -0.15000000000000568
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.9,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0551724137931,
-    "three_inst_ratio_change_20": -0.1600000000000037
+    "three_inst_ratio": 43.106896551724134,
+    "three_inst_ratio_change_20": -0.1700000000000017
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.89,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.045172413793104,
-    "three_inst_ratio_change_20": -0.17999999999999972
+    "three_inst_ratio": 43.096896551724136,
+    "three_inst_ratio_change_20": -0.20000000000000284
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.91,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0651724137931,
-    "three_inst_ratio_change_20": -0.18000000000000682
+    "three_inst_ratio": 43.11689655172413,
+    "three_inst_ratio_change_20": 43.11689655172413
   },
   {
     "date": "2026-03-30",
@@ -1446,9 +1468,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.88,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.035172413793106,
+    "three_inst_ratio": 43.08689655172414,
     "three_inst_ratio_change_20": -0.21999999999999886
   },
   {
@@ -1457,9 +1479,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.87,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0251724137931,
+    "three_inst_ratio": 43.07689655172413,
     "three_inst_ratio_change_20": -0.240000000000002
   },
   {
@@ -1468,9 +1490,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.87,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0251724137931,
+    "three_inst_ratio": 43.07689655172413,
     "three_inst_ratio_change_20": -0.21000000000000085
   },
   {
@@ -1479,9 +1501,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.87,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0251724137931,
+    "three_inst_ratio": 43.07689655172413,
     "three_inst_ratio_change_20": -0.17999999999999972
   },
   {
@@ -1490,9 +1512,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.87,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0251724137931,
+    "three_inst_ratio": 43.07689655172413,
     "three_inst_ratio_change_20": -0.19000000000000483
   },
   {
@@ -1501,9 +1523,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.91,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.0651724137931,
+    "three_inst_ratio": 43.11689655172413,
     "three_inst_ratio_change_20": -0.11000000000000654
   },
   {
@@ -1512,9 +1534,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.92,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.075172413793105,
+    "three_inst_ratio": 43.12689655172414,
     "three_inst_ratio_change_20": -0.0899999999999963
   },
   {
@@ -1523,9 +1545,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.95,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.105172413793106,
+    "three_inst_ratio": 43.15689655172414,
     "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
@@ -1534,9 +1556,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.95,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.105172413793106,
+    "three_inst_ratio": 43.15689655172414,
     "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
@@ -1545,9 +1567,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.99,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.145172413793105,
+    "three_inst_ratio": 43.19689655172414,
     "three_inst_ratio_change_20": -0.01999999999999602
   },
   {
@@ -1556,9 +1578,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.02,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.175172413793106,
+    "three_inst_ratio": 43.22689655172414,
     "three_inst_ratio_change_20": 0.0800000000000054
   },
   {
@@ -1567,9 +1589,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.02,
-    "trust_ratio": 0.15517241379310345,
+    "trust_ratio": 0.20689655172413793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.175172413793106,
+    "three_inst_ratio": 43.22689655172414,
     "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
@@ -1578,10 +1600,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 43.01,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.21689655172413,
-    "three_inst_ratio_change_20": 0.16172413793103146
+    "three_inst_ratio": 43.26862068965517,
+    "three_inst_ratio_change_20": 0.16172413793103857
   },
   {
     "date": "2026-04-20",
@@ -1589,10 +1611,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.99,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.19689655172414,
-    "three_inst_ratio_change_20": 0.15172413793103345
+    "three_inst_ratio": 43.248620689655176,
+    "three_inst_ratio_change_20": 0.15172413793104056
   },
   {
     "date": "2026-04-21",
@@ -1600,10 +1622,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.99,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.19689655172414,
-    "three_inst_ratio_change_20": 0.12172413793103232
+    "three_inst_ratio": 43.248620689655176,
+    "three_inst_ratio_change_20": 0.12172413793103942
   },
   {
     "date": "2026-04-22",
@@ -1611,10 +1633,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.97,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.176896551724134,
-    "three_inst_ratio_change_20": 0.09172413793103118
+    "three_inst_ratio": 43.22862068965517,
+    "three_inst_ratio_change_20": 0.09172413793103829
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.92,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.12689655172414,
-    "three_inst_ratio_change_20": 0.06172413793103715
+    "three_inst_ratio": 43.178620689655176,
+    "three_inst_ratio_change_20": 0.061724137931044254
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.93,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.136896551724135,
-    "three_inst_ratio_change_20": 0.08172413793103317
+    "three_inst_ratio": 43.188620689655174,
+    "three_inst_ratio_change_20": 0.08172413793104027
   },
   {
     "date": "2026-04-27",
@@ -1644,10 +1666,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.93,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.136896551724135,
-    "three_inst_ratio_change_20": 0.09172413793103118
+    "three_inst_ratio": 43.188620689655174,
+    "three_inst_ratio_change_20": 0.09172413793103829
   },
   {
     "date": "2026-04-28",
@@ -1655,10 +1677,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.95,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.15689655172414,
-    "three_inst_ratio_change_20": 0.09172413793103829
+    "three_inst_ratio": 43.20862068965518,
+    "three_inst_ratio_change_20": 0.09172413793104539
   },
   {
     "date": "2026-04-29",
@@ -1666,10 +1688,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.97,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.176896551724134,
-    "three_inst_ratio_change_20": 0.14172413793102834
+    "three_inst_ratio": 43.22862068965517,
+    "three_inst_ratio_change_20": 0.14172413793103544
   },
   {
     "date": "2026-04-30",
@@ -1677,10 +1699,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.96,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.166896551724136,
-    "three_inst_ratio_change_20": 0.14172413793103544
+    "three_inst_ratio": 43.218620689655175,
+    "three_inst_ratio_change_20": 0.14172413793104255
   },
   {
     "date": "2026-05-01",
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -43.0251724137931
+    "three_inst_ratio_change_20": -43.07689655172413
   },
   {
     "date": "2026-05-04",
@@ -1699,10 +1721,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.95,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.15689655172414,
-    "three_inst_ratio_change_20": 0.13172413793103743
+    "three_inst_ratio": 43.20862068965518,
+    "three_inst_ratio_change_20": 0.13172413793104454
   },
   {
     "date": "2026-05-05",
@@ -1710,10 +1732,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.92,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.12689655172414,
-    "three_inst_ratio_change_20": 0.1017241379310363
+    "three_inst_ratio": 43.178620689655176,
+    "three_inst_ratio_change_20": 0.1017241379310434
   },
   {
     "date": "2026-05-06",
@@ -1721,10 +1743,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.94,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.14689655172413,
-    "three_inst_ratio_change_20": 0.08172413793103317
+    "three_inst_ratio": 43.19862068965517,
+    "three_inst_ratio_change_20": 0.08172413793104027
   },
   {
     "date": "2026-05-07",
@@ -1732,10 +1754,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.96,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.166896551724136,
-    "three_inst_ratio_change_20": 0.09172413793103118
+    "three_inst_ratio": 43.218620689655175,
+    "three_inst_ratio_change_20": 0.09172413793103829
   },
   {
     "date": "2026-05-08",
@@ -1743,10 +1765,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.93,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.136896551724135,
-    "three_inst_ratio_change_20": 0.031724137931028906
+    "three_inst_ratio": 43.188620689655174,
+    "three_inst_ratio_change_20": 0.03172413793103601
   },
   {
     "date": "2026-05-11",
@@ -1754,10 +1776,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.92,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.12689655172414,
-    "three_inst_ratio_change_20": 0.021724137931030896
+    "three_inst_ratio": 43.178620689655176,
+    "three_inst_ratio_change_20": 0.021724137931038
   },
   {
     "date": "2026-05-12",
@@ -1765,10 +1787,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.91,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.11689655172413,
-    "three_inst_ratio_change_20": -0.028275862068973368
+    "three_inst_ratio": 43.16862068965517,
+    "three_inst_ratio_change_20": -0.028275862068966262
   },
   {
     "date": "2026-05-13",
@@ -1776,10 +1798,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.88,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.08689655172414,
-    "three_inst_ratio_change_20": -0.08827586206896854
+    "three_inst_ratio": 43.13862068965518,
+    "three_inst_ratio_change_20": -0.08827586206896143
   },
   {
     "date": "2026-05-14",
@@ -1787,10 +1809,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.86,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.066896551724135,
-    "three_inst_ratio_change_20": -0.10827586206897166
+    "three_inst_ratio": 43.118620689655174,
+    "three_inst_ratio_change_20": -0.10827586206896456
   },
   {
     "date": "2026-05-15",
@@ -1798,9 +1820,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.86,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.066896551724135,
+    "three_inst_ratio": 43.118620689655174,
     "three_inst_ratio_change_20": -0.14999999999999858
   },
   {
@@ -1809,9 +1831,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.82,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.026896551724136,
+    "three_inst_ratio": 43.078620689655175,
     "three_inst_ratio_change_20": -0.1700000000000017
   },
   {
@@ -1820,9 +1842,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.83,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.03689655172413,
+    "three_inst_ratio": 43.08862068965517,
     "three_inst_ratio_change_20": -0.1600000000000037
   },
   {
@@ -1831,9 +1853,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.82,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.026896551724136,
+    "three_inst_ratio": 43.078620689655175,
     "three_inst_ratio_change_20": -0.14999999999999858
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.79,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.996896551724134,
+    "three_inst_ratio": 43.04862068965517,
     "three_inst_ratio_change_20": -0.13000000000000256
   },
   {
@@ -1853,9 +1875,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.77,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.97689655172414,
+    "three_inst_ratio": 43.02862068965518,
     "three_inst_ratio_change_20": -0.1599999999999966
   },
   {
@@ -1864,9 +1886,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.72,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.926896551724134,
+    "three_inst_ratio": 42.97862068965517,
     "three_inst_ratio_change_20": -0.21000000000000085
   },
   {
@@ -1875,9 +1897,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.72,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.926896551724134,
+    "three_inst_ratio": 42.97862068965517,
     "three_inst_ratio_change_20": -0.23000000000000398
   },
   {
@@ -1886,9 +1908,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.7,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.90689655172414,
+    "three_inst_ratio": 42.95862068965518,
     "three_inst_ratio_change_20": -0.269999999999996
   },
   {
@@ -1897,9 +1919,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.67,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.87689655172414,
+    "three_inst_ratio": 42.928620689655176,
     "three_inst_ratio_change_20": -0.28999999999999915
   },
   {
@@ -1908,10 +1930,10 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.66,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.86689655172413,
-    "three_inst_ratio_change_20": 42.86689655172413
+    "three_inst_ratio": 42.91862068965517,
+    "three_inst_ratio_change_20": 42.91862068965517
   },
   {
     "date": "2026-06-01",
@@ -1919,9 +1941,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.77,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.97689655172414,
+    "three_inst_ratio": 43.02862068965518,
     "three_inst_ratio_change_20": -0.17999999999999972
   },
   {
@@ -1930,9 +1952,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.77,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.97689655172414,
+    "three_inst_ratio": 43.02862068965518,
     "three_inst_ratio_change_20": -0.14999999999999858
   },
   {
@@ -1941,9 +1963,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.78,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.986896551724136,
+    "three_inst_ratio": 43.038620689655176,
     "three_inst_ratio_change_20": -0.1599999999999966
   },
   {
@@ -1952,9 +1974,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.78,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.986896551724136,
+    "three_inst_ratio": 43.038620689655176,
     "three_inst_ratio_change_20": -0.17999999999999972
   },
   {
@@ -1963,9 +1985,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.79,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.996896551724134,
+    "three_inst_ratio": 43.04862068965517,
     "three_inst_ratio_change_20": -0.14000000000000057
   },
   {
@@ -1974,9 +1996,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.8,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.00689655172413,
+    "three_inst_ratio": 43.05862068965517,
     "three_inst_ratio_change_20": -0.12000000000000455
   },
   {
@@ -1985,9 +2007,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.8,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.00689655172413,
+    "three_inst_ratio": 43.05862068965517,
     "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
@@ -1996,9 +2018,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.78,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.986896551724136,
+    "three_inst_ratio": 43.038620689655176,
     "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
@@ -2007,9 +2029,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.79,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.996896551724134,
+    "three_inst_ratio": 43.04862068965517,
     "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.79,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 42.996896551724134,
+    "three_inst_ratio": 43.04862068965517,
     "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.82,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.026896551724136,
+    "three_inst_ratio": 43.078620689655175,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "力達-KY",
     "market": "TWSE",
     "foreign_ratio": 42.82,
-    "trust_ratio": 0.20689655172413793,
+    "trust_ratio": 0.25862068965517243,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 43.026896551724136,
+    "three_inst_ratio": 43.078620689655175,
+    "three_inst_ratio_change_20": -0.00999999999999801
+  },
+  {
+    "date": "2026-06-17",
+    "code": "4552",
+    "name": "力達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.81,
+    "trust_ratio": 0.25862068965517243,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.06862068965518,
     "three_inst_ratio_change_20": -0.00999999999999801
   }
 ]

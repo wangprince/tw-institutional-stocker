@@ -154,6 +154,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-02-27",
+    "code": "4590",
+    "name": "富田-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-03-02",
     "code": "4590",
     "name": "富田-創",
@@ -217,7 +228,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.27,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.13999999999999996
   },
   {
     "date": "2026-03-10",
@@ -228,7 +239,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.24,
-    "three_inst_ratio_change_20": -0.16999999999999998
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-03-11",
@@ -239,7 +250,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
-    "three_inst_ratio_change_20": 0.06
+    "three_inst_ratio_change_20": 0.13999999999999999
   },
   {
     "date": "2026-03-12",
@@ -250,7 +261,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
-    "three_inst_ratio_change_20": 0.13999999999999999
+    "three_inst_ratio_change_20": 0.16
   },
   {
     "date": "2026-03-13",
@@ -261,7 +272,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": 0.19000000000000003
+    "three_inst_ratio_change_20": 0.15000000000000002
   },
   {
     "date": "2026-03-16",
@@ -272,7 +283,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
-    "three_inst_ratio_change_20": 0.21999999999999997
+    "three_inst_ratio_change_20": 0.26999999999999996
   },
   {
     "date": "2026-03-17",
@@ -283,7 +294,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.33,
-    "three_inst_ratio_change_20": 0.19
+    "three_inst_ratio_change_20": 0.21000000000000002
   },
   {
     "date": "2026-03-18",
@@ -294,7 +305,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
-    "three_inst_ratio_change_20": 0.19
+    "three_inst_ratio_change_20": 0.16999999999999998
   },
   {
     "date": "2026-03-19",
@@ -305,7 +316,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": 0.15999999999999998
+    "three_inst_ratio_change_20": 0.13999999999999999
   },
   {
     "date": "2026-03-20",
@@ -316,7 +327,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": 0.1
+    "three_inst_ratio_change_20": 0.07
   },
   {
     "date": "2026-03-23",
@@ -327,7 +338,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.28,
-    "three_inst_ratio_change_20": 0.09000000000000002
+    "three_inst_ratio_change_20": 0.07000000000000003
   },
   {
     "date": "2026-03-24",
@@ -338,7 +349,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": 0.05000000000000002
+    "three_inst_ratio_change_20": 0.11000000000000001
   },
   {
     "date": "2026-03-25",
@@ -349,7 +360,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
-    "three_inst_ratio_change_20": 0.21
+    "three_inst_ratio_change_20": 0.13999999999999999
   },
   {
     "date": "2026-03-26",
@@ -360,7 +371,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.16
+    "three_inst_ratio_change_20": 0.2
   },
   {
     "date": "2026-03-27",
@@ -371,7 +382,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": 0.16999999999999998
+    "three_inst_ratio_change_20": 0.35
   },
   {
     "date": "2026-03-30",
@@ -966,5 +977,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.59,
     "three_inst_ratio_change_20": 0.7299999999999998
+  },
+  {
+    "date": "2026-06-17",
+    "code": "4590",
+    "name": "富田-創",
+    "market": "TWSE",
+    "foreign_ratio": 2.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.67,
+    "three_inst_ratio_change_20": 0.8199999999999998
   }
 ]

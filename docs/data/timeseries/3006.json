@@ -1166,7 +1166,7 @@
     "three_inst_ratio_change_20": -30.788468483095834
   },
   {
-    "date": "2026-02-18",
+    "date": "2026-02-17",
     "code": "3006",
     "name": "晶豪科",
     "market": "TWSE",
@@ -1177,15 +1177,26 @@
     "three_inst_ratio_change_20": -30.56846848309583
   },
   {
+    "date": "2026-02-18",
+    "code": "3006",
+    "name": "晶豪科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -30.40069887981237
+  },
+  {
     "date": "2026-02-23",
     "code": "3006",
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.85,
-    "trust_ratio": 0.8152433011339136,
+    "trust_ratio": 0.7250878053377071,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.665243301133916,
-    "three_inst_ratio_change_20": -3.7354555786784545
+    "three_inst_ratio": 26.57508780533771,
+    "three_inst_ratio_change_20": -3.651685310159259
   },
   {
     "date": "2026-02-24",
@@ -1193,10 +1204,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.44,
-    "trust_ratio": 0.8180388203834084,
+    "trust_ratio": 0.727883324587202,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.25803882038341,
-    "three_inst_ratio_change_20": -3.96873429511356
+    "three_inst_ratio": 26.167883324587205,
+    "three_inst_ratio_change_20": -3.900636990440699
   },
   {
     "date": "2026-02-25",
@@ -1204,10 +1215,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.57,
-    "trust_ratio": 0.8285220175690139,
+    "trust_ratio": 0.7383665217728074,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.398522017569015,
-    "three_inst_ratio_change_20": -4.669998297458889
+    "three_inst_ratio": 25.308366521772808,
+    "three_inst_ratio_change_20": -4.923898997078815
   },
   {
     "date": "2026-02-26",
@@ -1215,10 +1226,21 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.04,
-    "trust_ratio": 0.862417688469138,
+    "trust_ratio": 0.7722621926729315,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.902417688469136,
-    "three_inst_ratio_change_20": -4.329847830382487
+    "three_inst_ratio": 25.812262192672932,
+    "three_inst_ratio_change_20": 0.7918558921148744
+  },
+  {
+    "date": "2026-02-27",
+    "code": "3006",
+    "name": "晶豪科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -26.768309661120934
   },
   {
     "date": "2026-03-02",
@@ -1226,10 +1248,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 27.84,
-    "trust_ratio": 0.899108878618757,
+    "trust_ratio": 0.8124477818844188,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.739108878618758,
-    "three_inst_ratio_change_20": 3.7187025780607
+    "three_inst_ratio": 28.65244778188442,
+    "three_inst_ratio_change_20": 3.242631668554793
   },
   {
     "date": "2026-03-03",
@@ -1237,10 +1259,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 26.76,
-    "trust_ratio": 0.9022538377744385,
+    "trust_ratio": 0.8155927410401005,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.66225383777444,
-    "three_inst_ratio_change_20": 0.8939441766535055
+    "three_inst_ratio": 27.5755927410401,
+    "three_inst_ratio_change_20": 0.14577662771047883
   },
   {
     "date": "2026-03-04",
@@ -1248,10 +1270,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 27.22,
-    "trust_ratio": 0.899108878618757,
+    "trust_ratio": 0.8124477818844188,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.119108878618757,
-    "three_inst_ratio_change_20": 2.709292765289131
+    "three_inst_ratio": 28.032447781884418,
+    "three_inst_ratio_change_20": 2.2902156826267657
   },
   {
     "date": "2026-03-05",
@@ -1259,10 +1281,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 26.52,
-    "trust_ratio": 0.8868784819022172,
+    "trust_ratio": 0.8002173851678791,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.40687848190222,
-    "three_inst_ratio_change_20": -0.02293763142740346
+    "three_inst_ratio": 27.32021738516788,
+    "three_inst_ratio_change_20": 1.949033605628788
   },
   {
     "date": "2026-03-06",
@@ -1270,10 +1292,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 27.01,
-    "trust_ratio": 0.8823357631217882,
+    "trust_ratio": 0.7956746663874503,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.89233576312179,
-    "three_inst_ratio_change_20": 2.1501036638641366
+    "three_inst_ratio": 27.805674666387453,
+    "three_inst_ratio_change_20": 2.0909964877864944
   },
   {
     "date": "2026-03-09",
@@ -1281,10 +1303,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 27.3,
-    "trust_ratio": 0.8823357631217882,
+    "trust_ratio": 0.7956746663874503,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.182335763121788,
-    "three_inst_ratio_change_20": 2.811151983582697
+    "three_inst_ratio": 28.095674666387453,
+    "three_inst_ratio_change_20": 3.7209964877864934
   },
   {
     "date": "2026-03-10",
@@ -1292,10 +1314,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 28.5,
-    "trust_ratio": 0.8809380034970409,
+    "trust_ratio": 0.7942769067627028,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.38093800349704,
-    "three_inst_ratio_change_20": 3.6662598248960805
+    "three_inst_ratio": 29.294276906762704,
+    "three_inst_ratio_change_20": 4.133123220638897
   },
   {
     "date": "2026-03-11",
@@ -1303,10 +1325,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 28.53,
-    "trust_ratio": 0.8809380034970409,
+    "trust_ratio": 0.7942769067627028,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.41093800349704,
-    "three_inst_ratio_change_20": 5.0362598248960815
+    "three_inst_ratio": 29.324276906762705,
+    "three_inst_ratio_change_20": 3.703123220638897
   },
   {
     "date": "2026-03-12",
@@ -1314,10 +1336,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 28.8,
-    "trust_ratio": 0.9071459964610543,
+    "trust_ratio": 0.8204848997267163,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.707145996461055,
-    "three_inst_ratio_change_20": 4.5459923103372475
+    "three_inst_ratio": 29.620484899726716,
+    "three_inst_ratio_change_20": 2.5224243408265217
   },
   {
     "date": "2026-03-13",
@@ -1325,10 +1347,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 27.49,
-    "trust_ratio": 0.903651597399186,
+    "trust_ratio": 0.8169905006648479,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.393651597399185,
-    "three_inst_ratio_change_20": 2.7724979112753765
+    "three_inst_ratio": 28.306990500664845,
+    "three_inst_ratio_change_20": 2.0189299417646502
   },
   {
     "date": "2026-03-16",
@@ -1336,10 +1358,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 28.22,
-    "trust_ratio": 0.903651597399186,
+    "trust_ratio": 0.8169905006648479,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.123651597399185,
-    "three_inst_ratio_change_20": 2.025591038498991
+    "three_inst_ratio": 29.036990500664846,
+    "three_inst_ratio_change_20": 1.7587443525531619
   },
   {
     "date": "2026-03-17",
@@ -1347,10 +1369,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 32.03,
-    "trust_ratio": 0.9008560781496912,
+    "trust_ratio": 0.814194981415353,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.930856078149695,
-    "three_inst_ratio_change_20": 6.6427955192495
+    "three_inst_ratio": 32.844194981415356,
+    "three_inst_ratio_change_20": 5.98594883330367
   },
   {
     "date": "2026-03-18",
@@ -1358,10 +1380,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.48,
-    "trust_ratio": 0.8987594387125699,
+    "trust_ratio": 0.812098341978232,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.37875943871257,
-    "three_inst_ratio_change_20": 5.100513290600887
+    "three_inst_ratio": 32.29209834197823,
+    "three_inst_ratio_change_20": 32.29209834197823
   },
   {
     "date": "2026-03-19",
@@ -1369,10 +1391,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.43,
-    "trust_ratio": 0.916930313834286,
+    "trust_ratio": 0.830269217099948,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.346930313834285,
-    "three_inst_ratio_change_20": 5.488684165722599
+    "three_inst_ratio": 32.260269217099946,
+    "three_inst_ratio_change_20": 32.260269217099946
   },
   {
     "date": "2026-03-20",
@@ -1380,10 +1402,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.8,
-    "trust_ratio": 0.9156831628091052,
+    "trust_ratio": 0.8290220660747671,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.715683162809107,
-    "three_inst_ratio_change_20": 31.715683162809107
+    "three_inst_ratio": 31.629022066074768,
+    "three_inst_ratio_change_20": 31.629022066074768
   },
   {
     "date": "2026-03-23",
@@ -1391,10 +1413,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.03,
-    "trust_ratio": 0.9156831628091052,
+    "trust_ratio": 0.8290220660747671,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.945683162809107,
-    "three_inst_ratio_change_20": 31.945683162809107
+    "three_inst_ratio": 31.85902206607477,
+    "three_inst_ratio_change_20": 5.283934260737059
   },
   {
     "date": "2026-03-24",
@@ -1402,10 +1424,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.07,
-    "trust_ratio": 0.9121887637472367,
+    "trust_ratio": 0.8255276670128988,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.98218876374724,
-    "three_inst_ratio_change_20": 5.316945462613322
+    "three_inst_ratio": 31.8955276670129,
+    "three_inst_ratio_change_20": 5.727644342425695
   },
   {
     "date": "2026-03-25",
@@ -1413,10 +1435,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.73,
-    "trust_ratio": 0.9107557106919646,
+    "trust_ratio": 0.8240946139576264,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.64075571069196,
-    "three_inst_ratio_change_20": 6.382716890308554
+    "three_inst_ratio": 32.55409461395762,
+    "three_inst_ratio_change_20": 7.245728092184816
   },
   {
     "date": "2026-03-26",
@@ -1424,10 +1446,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.68,
-    "trust_ratio": 0.9089742660502239,
+    "trust_ratio": 0.8223131693158858,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.58897426605022,
-    "three_inst_ratio_change_20": 7.190452248481208
+    "three_inst_ratio": 32.50231316931588,
+    "three_inst_ratio_change_20": 6.690050976642951
   },
   {
     "date": "2026-03-27",
@@ -1435,10 +1457,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.35,
-    "trust_ratio": 0.873648309785496,
+    "trust_ratio": 0.7902268900483286,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.223648309785496,
-    "three_inst_ratio_change_20": 5.32123062131636
+    "three_inst_ratio": 31.14022689004833,
+    "three_inst_ratio_change_20": 31.14022689004833
   },
   {
     "date": "2026-03-30",
@@ -1446,10 +1468,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.4,
-    "trust_ratio": 0.8738444173972169,
+    "trust_ratio": 0.7904229976600494,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.273844417397214,
-    "three_inst_ratio_change_20": 2.534735538778456
+    "three_inst_ratio": 31.190422997660047,
+    "three_inst_ratio_change_20": 2.537975215775628
   },
   {
     "date": "2026-03-31",
@@ -1457,10 +1479,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.47,
-    "trust_ratio": 0.8737334130886957,
+    "trust_ratio": 0.7903119933515281,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.343733413088696,
-    "three_inst_ratio_change_20": 3.681479575314256
+    "three_inst_ratio": 31.26031199335153,
+    "three_inst_ratio_change_20": 3.684719252311428
   },
   {
     "date": "2026-04-01",
@@ -1468,10 +1490,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.38,
-    "trust_ratio": 0.8723879063187412,
+    "trust_ratio": 0.7889664865815738,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.25238790631874,
-    "three_inst_ratio_change_20": 3.1332790276999845
+    "three_inst_ratio": 31.168966486581574,
+    "three_inst_ratio_change_20": 3.1365187046971563
   },
   {
     "date": "2026-04-02",
@@ -1479,10 +1501,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.22,
-    "trust_ratio": 0.860614722081641,
+    "trust_ratio": 0.7771933023444736,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.08061472208164,
-    "three_inst_ratio_change_20": 3.673736240179423
+    "three_inst_ratio": 30.997193302344474,
+    "three_inst_ratio_change_20": 3.6769759171765948
   },
   {
     "date": "2026-04-07",
@@ -1490,10 +1512,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 29.06,
-    "trust_ratio": 0.817558505443103,
+    "trust_ratio": 0.7341370857059355,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.8775585054431,
-    "three_inst_ratio_change_20": 1.9852227423213122
+    "three_inst_ratio": 29.794137085705934,
+    "three_inst_ratio_change_20": 1.9884624193184806
   },
   {
     "date": "2026-04-08",
@@ -1501,10 +1523,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.65,
-    "trust_ratio": 0.8108309715933314,
+    "trust_ratio": 0.727409551856164,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.46083097159333,
-    "three_inst_ratio_change_20": -1.7215047915284565
+    "three_inst_ratio": 26.37740955185616,
+    "three_inst_ratio_change_20": -1.7182651145312917
   },
   {
     "date": "2026-04-09",
@@ -1512,10 +1534,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.6,
-    "trust_ratio": 0.7190001345439494,
+    "trust_ratio": 0.635578714806782,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.319000134543952,
-    "three_inst_ratio_change_20": -3.0619378689530876
+    "three_inst_ratio": 26.235578714806785,
+    "three_inst_ratio_change_20": -3.0586981919559193
   },
   {
     "date": "2026-04-10",
@@ -1523,10 +1545,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.15,
-    "trust_ratio": 0.7136181074641322,
+    "trust_ratio": 0.6301966877269647,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.86361810746413,
-    "three_inst_ratio_change_20": -3.54731989603291
+    "three_inst_ratio": 25.780196687726963,
+    "three_inst_ratio_change_20": -3.5440802190357417
   },
   {
     "date": "2026-04-13",
@@ -1534,10 +1556,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.49,
-    "trust_ratio": 0.7021812999195205,
+    "trust_ratio": 0.6187598801823531,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.19218129991952,
-    "three_inst_ratio_change_20": -3.5149646965415364
+    "three_inst_ratio": 26.10875988018235,
+    "three_inst_ratio_change_20": -3.5117250195443646
   },
   {
     "date": "2026-04-14",
@@ -1545,10 +1567,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.36,
-    "trust_ratio": 0.7011721698420548,
+    "trust_ratio": 0.6177507501048873,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.061172169842052,
-    "three_inst_ratio_change_20": -2.332479427557132
+    "three_inst_ratio": 25.977750750104885,
+    "three_inst_ratio_change_20": -2.3292397505599602
   },
   {
     "date": "2026-04-15",
@@ -1556,10 +1578,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.92,
-    "trust_ratio": 0.6974720262246804,
+    "trust_ratio": 0.6140506064875129,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.617472026224682,
-    "three_inst_ratio_change_20": -3.5061795711745027
+    "three_inst_ratio": 25.534050606487515,
+    "three_inst_ratio_change_20": -3.502939894177331
   },
   {
     "date": "2026-04-16",
@@ -1567,10 +1589,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.5,
-    "trust_ratio": 0.6910808690673975,
+    "trust_ratio": 0.60765944933023,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.1910808690674,
-    "three_inst_ratio_change_20": -6.739775209082296
+    "three_inst_ratio": 26.10765944933023,
+    "three_inst_ratio_change_20": -6.736535532085124
   },
   {
     "date": "2026-04-17",
@@ -1578,10 +1600,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.02,
-    "trust_ratio": 0.6042956824053441,
+    "trust_ratio": 0.5208742626681767,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.624295682405343,
-    "three_inst_ratio_change_20": -6.754463756307228
+    "three_inst_ratio": 25.540874262668176,
+    "three_inst_ratio_change_20": -6.751224079310056
   },
   {
     "date": "2026-04-20",
@@ -1589,10 +1611,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.93,
-    "trust_ratio": 0.6157324899499559,
+    "trust_ratio": 0.5323110702127883,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.545732489949955,
-    "three_inst_ratio_change_20": -5.80119782388433
+    "three_inst_ratio": 26.462311070212788,
+    "three_inst_ratio_change_20": -5.797958146887158
   },
   {
     "date": "2026-04-21",
@@ -1600,10 +1622,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.63,
-    "trust_ratio": 0.5962226417856183,
+    "trust_ratio": 0.5128012220484508,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.22622264178562,
-    "three_inst_ratio_change_20": -5.489460521023489
+    "three_inst_ratio": 26.14280122204845,
+    "three_inst_ratio_change_20": -5.486220844026317
   },
   {
     "date": "2026-04-22",
@@ -1611,10 +1633,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.67,
-    "trust_ratio": 0.5797401838536779,
+    "trust_ratio": 0.49631876411651044,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.249740183853678,
-    "three_inst_ratio_change_20": -5.695942978955429
+    "three_inst_ratio": 26.16631876411651,
+    "three_inst_ratio_change_20": -5.692703301958257
   },
   {
     "date": "2026-04-23",
@@ -1622,10 +1644,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.47,
-    "trust_ratio": 0.5612394657668062,
+    "trust_ratio": 0.4778180460296386,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.031239465766806,
-    "three_inst_ratio_change_20": -6.950949297980433
+    "three_inst_ratio": 24.94781804602964,
+    "three_inst_ratio_change_20": -6.947709620983261
   },
   {
     "date": "2026-04-24",
@@ -1633,10 +1655,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.59,
-    "trust_ratio": 0.5511481649921488,
+    "trust_ratio": 0.46772674525498126,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.14114816499215,
-    "three_inst_ratio_change_20": -7.4996075456998135
+    "three_inst_ratio": 25.057726745254982,
+    "three_inst_ratio_change_20": -7.496367868702642
   },
   {
     "date": "2026-04-27",
@@ -1644,10 +1666,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.79,
-    "trust_ratio": 0.5528300484545916,
+    "trust_ratio": 0.4694086287174241,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.34283004845459,
-    "three_inst_ratio_change_20": -7.246144217595631
+    "three_inst_ratio": 25.259408628717424,
+    "three_inst_ratio_change_20": -7.24290454059846
   },
   {
     "date": "2026-04-28",
@@ -1655,9 +1677,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.69,
-    "trust_ratio": 0.5528300484545916,
+    "trust_ratio": 0.4694086287174241,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.242830048454593,
+    "three_inst_ratio": 25.159408628717426,
     "three_inst_ratio_change_20": -5.980818261330903
   },
   {
@@ -1666,9 +1688,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.77,
-    "trust_ratio": 0.5511481649921488,
+    "trust_ratio": 0.46772674525498126,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.32114816499215,
+    "three_inst_ratio": 25.23772674525498,
     "three_inst_ratio_change_20": -5.952696252405065
   },
   {
@@ -1677,9 +1699,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.85,
-    "trust_ratio": 0.5511481649921488,
+    "trust_ratio": 0.46772674525498126,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.40114816499215,
+    "three_inst_ratio": 25.317726745254983,
     "three_inst_ratio_change_20": -5.942585248096545
   },
   {
@@ -1691,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -31.25238790631874
+    "three_inst_ratio_change_20": -31.168966486581574
   },
   {
     "date": "2026-05-04",
@@ -1699,9 +1721,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 24.81,
-    "trust_ratio": 0.5461025146048201,
+    "trust_ratio": 0.4626810948676526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.356102514604817,
+    "three_inst_ratio": 25.27268109486765,
     "three_inst_ratio_change_20": -5.724512207476824
   },
   {
@@ -1710,9 +1732,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 25.63,
-    "trust_ratio": 0.5464388912973086,
+    "trust_ratio": 0.4630174715601411,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.17643889129731,
+    "three_inst_ratio": 26.09301747156014,
     "three_inst_ratio_change_20": -3.7011196141457923
   },
   {
@@ -1721,10 +1743,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 27.02,
-    "trust_ratio": 0.5444206311423772,
+    "trust_ratio": 0.4609992114052097,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.564420631142376,
-    "three_inst_ratio_change_20": 1.1035896595490442
+    "three_inst_ratio": 27.48099921140521,
+    "three_inst_ratio_change_20": 1.1035896595490478
   },
   {
     "date": "2026-05-07",
@@ -1732,9 +1754,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 27.54,
-    "trust_ratio": 0.550139034914683,
+    "trust_ratio": 0.46671761517751553,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.09013903491468,
+    "three_inst_ratio": 28.006717615177514,
     "three_inst_ratio_change_20": 1.7711389003707296
   },
   {
@@ -1743,9 +1765,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 29.59,
-    "trust_ratio": 0.550139034914683,
+    "trust_ratio": 0.46671761517751553,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.140139034914682,
+    "three_inst_ratio": 30.056717615177515,
     "three_inst_ratio_change_20": 4.276520927450552
   },
   {
@@ -1754,9 +1776,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.15,
-    "trust_ratio": 0.550139034914683,
+    "trust_ratio": 0.46671761517751553,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.70013903491468,
+    "three_inst_ratio": 30.616717615177514,
     "three_inst_ratio_change_20": 4.507957734995163
   },
   {
@@ -1765,9 +1787,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 30.87,
-    "trust_ratio": 0.554848308609523,
+    "trust_ratio": 0.4714268888723556,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.424848308609523,
+    "three_inst_ratio": 31.341426888872356,
     "three_inst_ratio_change_20": 5.36367613876747
   },
   {
@@ -1776,10 +1798,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.12,
-    "trust_ratio": 0.5597483078890042,
+    "trust_ratio": 0.4763268881518367,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.679748307889007,
-    "three_inst_ratio_change_20": 6.0622762816643245
+    "three_inst_ratio": 31.596326888151836,
+    "three_inst_ratio_change_20": 6.062276281664321
   },
   {
     "date": "2026-05-14",
@@ -1787,10 +1809,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 33.28,
-    "trust_ratio": 0.5590755545040271,
+    "trust_ratio": 0.4756541347668596,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.83907555450403,
-    "three_inst_ratio_change_20": 7.647994685436629
+    "three_inst_ratio": 33.755654134766864,
+    "three_inst_ratio_change_20": 7.6479946854366325
   },
   {
     "date": "2026-05-15",
@@ -1798,10 +1820,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 34.95,
-    "trust_ratio": 0.5590755545040271,
+    "trust_ratio": 0.4756541347668596,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.50907555450403,
-    "three_inst_ratio_change_20": 9.884779872098687
+    "three_inst_ratio": 35.425654134766866,
+    "three_inst_ratio_change_20": 9.88477987209869
   },
   {
     "date": "2026-05-18",
@@ -1809,10 +1831,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 33.61,
-    "trust_ratio": 0.5590755545040271,
+    "trust_ratio": 0.4756541347668596,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.169075554504026,
-    "three_inst_ratio_change_20": 7.623343064554071
+    "three_inst_ratio": 34.08565413476686,
+    "three_inst_ratio_change_20": 7.623343064554074
   },
   {
     "date": "2026-05-19",
@@ -1820,10 +1842,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.56,
-    "trust_ratio": 0.5570572943490956,
+    "trust_ratio": 0.47363587461192813,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.117057294349095,
-    "three_inst_ratio_change_20": 5.890834652563477
+    "three_inst_ratio": 32.033635874611925,
+    "three_inst_ratio_change_20": 5.890834652563473
   },
   {
     "date": "2026-05-20",
@@ -1831,9 +1853,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.0,
-    "trust_ratio": 0.5516752672692783,
+    "trust_ratio": 0.4682538475321108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.551675267269278,
+    "three_inst_ratio": 31.46825384753211,
     "three_inst_ratio_change_20": 5.3019350834156
   },
   {
@@ -1842,9 +1864,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 29.89,
-    "trust_ratio": 0.5600846845814929,
+    "trust_ratio": 0.4766632648443253,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.450084684581494,
+    "three_inst_ratio": 30.366663264844327,
     "three_inst_ratio_change_20": 5.418845218814688
   },
   {
@@ -1853,10 +1875,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 33.04,
-    "trust_ratio": 0.5523480206542555,
+    "trust_ratio": 0.46892660091708804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.592348020654256,
-    "three_inst_ratio_change_20": 8.451199855662107
+    "three_inst_ratio": 33.508926600917086,
+    "three_inst_ratio_change_20": 8.451199855662104
   },
   {
     "date": "2026-05-25",
@@ -1864,10 +1886,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.76,
-    "trust_ratio": 0.5523480206542555,
+    "trust_ratio": 0.46892660091708804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.312348020654255,
-    "three_inst_ratio_change_20": 6.9695179721996645
+    "three_inst_ratio": 32.22892660091709,
+    "three_inst_ratio_change_20": 6.969517972199668
   },
   {
     "date": "2026-05-26",
@@ -1875,10 +1897,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 32.25,
-    "trust_ratio": 0.5523480206542555,
+    "trust_ratio": 0.46892660091708804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.80234802065426,
-    "three_inst_ratio_change_20": 7.559517972199664
+    "three_inst_ratio": 32.71892660091709,
+    "three_inst_ratio_change_20": 7.559517972199661
   },
   {
     "date": "2026-05-27",
@@ -1886,10 +1908,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 33.89,
-    "trust_ratio": 0.5523480206542555,
+    "trust_ratio": 0.46892660091708804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.44234802065426,
-    "three_inst_ratio_change_20": 9.121199855662109
+    "three_inst_ratio": 34.35892660091709,
+    "three_inst_ratio_change_20": 9.121199855662105
   },
   {
     "date": "2026-05-28",
@@ -1897,10 +1919,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 33.59,
-    "trust_ratio": 0.5523480206542555,
+    "trust_ratio": 0.46892660091708804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.14234802065426,
-    "three_inst_ratio_change_20": 8.74119985566211
+    "three_inst_ratio": 34.05892660091709,
+    "three_inst_ratio_change_20": 8.741199855662106
   },
   {
     "date": "2026-05-29",
@@ -1908,10 +1930,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 33.14,
-    "trust_ratio": 0.554366280809187,
+    "trust_ratio": 0.4709448610720195,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.694366280809184,
-    "three_inst_ratio_change_20": 33.694366280809184
+    "three_inst_ratio": 33.61094486107202,
+    "three_inst_ratio_change_20": 33.61094486107202
   },
   {
     "date": "2026-06-01",
@@ -1919,10 +1941,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 32.84,
-    "trust_ratio": 0.5960769906777708,
+    "trust_ratio": 0.5126555709406032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.436076990677776,
-    "three_inst_ratio_change_20": 8.079974476072959
+    "three_inst_ratio": 33.352655570940605,
+    "three_inst_ratio_change_20": 8.079974476072955
   },
   {
     "date": "2026-06-02",
@@ -1930,10 +1952,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 34.2,
-    "trust_ratio": 0.6068410448374052,
+    "trust_ratio": 0.5234196251002378,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.806841044837405,
-    "three_inst_ratio_change_20": 8.630402153540096
+    "three_inst_ratio": 34.72341962510024,
+    "three_inst_ratio_change_20": 8.6304021535401
   },
   {
     "date": "2026-06-03",
@@ -1941,10 +1963,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 32.88,
-    "trust_ratio": 0.6054955380674509,
+    "trust_ratio": 0.5220741183302834,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.485495538067454,
-    "three_inst_ratio_change_20": 5.921074906925078
+    "three_inst_ratio": 33.40207411833028,
+    "three_inst_ratio_change_20": 5.9210749069250745
   },
   {
     "date": "2026-06-04",
@@ -1952,10 +1974,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.9,
-    "trust_ratio": 0.6054955380674509,
+    "trust_ratio": 0.5220741183302834,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.50549553806745,
-    "three_inst_ratio_change_20": 4.415356503152768
+    "three_inst_ratio": 32.42207411833028,
+    "three_inst_ratio_change_20": 4.415356503152765
   },
   {
     "date": "2026-06-05",
@@ -1963,10 +1985,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.63,
-    "trust_ratio": 0.6051591613749624,
+    "trust_ratio": 0.5217377416377948,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.23515916137496,
-    "three_inst_ratio_change_20": 2.095020126460277
+    "three_inst_ratio": 32.151737741637795,
+    "three_inst_ratio_change_20": 2.0950201264602804
   },
   {
     "date": "2026-06-08",
@@ -1974,10 +1996,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 32.02,
-    "trust_ratio": 0.6051591613749624,
+    "trust_ratio": 0.5217377416377948,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.62515916137497,
-    "three_inst_ratio_change_20": 1.9250201264602858
+    "three_inst_ratio": 32.541737741637796,
+    "three_inst_ratio_change_20": 1.9250201264602822
   },
   {
     "date": "2026-06-09",
@@ -1985,10 +2007,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.57,
-    "trust_ratio": 0.6152504621496196,
+    "trust_ratio": 0.5318290424124522,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.18525046214962,
-    "three_inst_ratio_change_20": 0.7604021535400953
+    "three_inst_ratio": 32.101829042412454,
+    "three_inst_ratio_change_20": 0.7604021535400989
   },
   {
     "date": "2026-06-10",
@@ -1996,10 +2018,10 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.8,
-    "trust_ratio": 0.614241332072154,
+    "trust_ratio": 0.5308199123349865,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.41424133207215,
-    "three_inst_ratio_change_20": 0.7344930241831449
+    "three_inst_ratio": 32.33081991233499,
+    "three_inst_ratio_change_20": 0.734493024183152
   },
   {
     "date": "2026-06-11",
@@ -2007,9 +2029,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.91,
-    "trust_ratio": 0.6192869824594827,
+    "trust_ratio": 0.5358655627223151,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.52928698245948,
+    "three_inst_ratio": 32.44586556272232,
     "three_inst_ratio_change_20": -1.3097885720445461
   },
   {
@@ -2018,9 +2040,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 32.08,
-    "trust_ratio": 0.6176050989970397,
+    "trust_ratio": 0.5341836792598723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.69760509899704,
+    "three_inst_ratio": 32.614183679259874,
     "three_inst_ratio_change_20": -2.811470455506992
   },
   {
@@ -2029,9 +2051,9 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 31.86,
-    "trust_ratio": 0.6176050989970397,
+    "trust_ratio": 0.5341836792598723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.47760509899704,
+    "three_inst_ratio": 32.394183679259875,
     "three_inst_ratio_change_20": -1.6914704555069875
   },
   {
@@ -2040,9 +2062,20 @@
     "name": "晶豪科",
     "market": "TWSE",
     "foreign_ratio": 32.23,
-    "trust_ratio": 0.6176050989970397,
+    "trust_ratio": 0.5341836792598723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.847605098997036,
-    "three_inst_ratio_change_20": 0.7305478046479408
+    "three_inst_ratio": 32.76418367925987,
+    "three_inst_ratio_change_20": 0.7305478046479479
+  },
+  {
+    "date": "2026-06-17",
+    "code": "3006",
+    "name": "晶豪科",
+    "market": "TWSE",
+    "foreign_ratio": 32.3,
+    "trust_ratio": 0.5341836792598723,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.83418367925987,
+    "three_inst_ratio_change_20": 1.3659298317277617
   }
 ]

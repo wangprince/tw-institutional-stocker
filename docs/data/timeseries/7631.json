@@ -968,6 +968,17 @@
     "three_inst_ratio_change_20": 0.14
   },
   {
+    "date": "2026-02-27",
+    "code": "7631",
+    "name": "聚賢研發-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.26
+  },
+  {
     "date": "2026-03-03",
     "code": "7631",
     "name": "聚賢研發-創",
@@ -976,7 +987,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
     "date": "2026-03-04",
@@ -987,7 +998,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": 0.14999999999999997
+    "three_inst_ratio_change_20": 0.15999999999999998
   },
   {
     "date": "2026-03-05",
@@ -1020,7 +1031,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
-    "three_inst_ratio_change_20": 0.14999999999999997
+    "three_inst_ratio_change_20": 0.13999999999999996
   },
   {
     "date": "2026-03-10",
@@ -1031,7 +1042,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
     "date": "2026-03-11",
@@ -1053,7 +1064,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": 0.14
   },
   {
     "date": "2026-03-13",
@@ -1064,7 +1075,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.37,
-    "three_inst_ratio_change_20": 0.10999999999999999
+    "three_inst_ratio_change_20": 0.12
   },
   {
     "date": "2026-03-16",
@@ -1075,7 +1086,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.13
+    "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
     "date": "2026-03-17",
@@ -1097,7 +1108,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": 0.10000000000000003
   },
   {
     "date": "2026-03-20",
@@ -1119,7 +1130,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
-    "three_inst_ratio_change_20": 0.10000000000000003
+    "three_inst_ratio_change_20": 0.09000000000000002
   },
   {
     "date": "2026-03-24",
@@ -1130,7 +1141,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
-    "three_inst_ratio_change_20": 0.10999999999999999
+    "three_inst_ratio_change_20": 0.12999999999999995
   },
   {
     "date": "2026-03-25",
@@ -1141,7 +1152,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
-    "three_inst_ratio_change_20": 0.12999999999999995
+    "three_inst_ratio_change_20": 0.08999999999999997
   },
   {
     "date": "2026-03-26",
@@ -1152,7 +1163,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
-    "three_inst_ratio_change_20": 0.08999999999999997
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-03-27",
@@ -1163,7 +1174,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-03-30",
@@ -1185,7 +1196,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.39
   },
   {
     "date": "2026-04-01",
@@ -1747,5 +1758,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9,
     "three_inst_ratio_change_20": 0.28
+  },
+  {
+    "date": "2026-06-17",
+    "code": "7631",
+    "name": "聚賢研發-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.88,
+    "three_inst_ratio_change_20": 0.29000000000000004
   }
 ]
