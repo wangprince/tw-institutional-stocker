@@ -1507,15 +1507,26 @@
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
+    "date": "2026-04-03",
+    "code": "2038",
+    "name": "海光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.19
+  },
+  {
     "date": "2026-04-07",
     "code": "2038",
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.01,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.01,
-    "three_inst_ratio_change_20": -0.17999999999999994
+    "three_inst_ratio": 1.0105151073172267,
+    "three_inst_ratio_change_20": -0.16948489268277322
   },
   {
     "date": "2026-04-08",
@@ -1523,10 +1534,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.06,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.06,
-    "three_inst_ratio_change_20": -0.11999999999999988
+    "three_inst_ratio": 1.0605151073172268,
+    "three_inst_ratio_change_20": -0.09948489268277316
   },
   {
     "date": "2026-04-09",
@@ -1534,10 +1545,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.09,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.09,
-    "three_inst_ratio_change_20": -0.06999999999999984
+    "three_inst_ratio": 1.0905151073172268,
+    "three_inst_ratio_change_20": -0.10948489268277317
   },
   {
     "date": "2026-04-10",
@@ -1545,10 +1556,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.06,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.06,
-    "three_inst_ratio_change_20": -0.1399999999999999
+    "three_inst_ratio": 1.0605151073172268,
+    "three_inst_ratio_change_20": -0.18948489268277324
   },
   {
     "date": "2026-04-13",
@@ -1556,10 +1567,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.1,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.1,
-    "three_inst_ratio_change_20": -0.1499999999999999
+    "three_inst_ratio": 1.1005151073172268,
+    "three_inst_ratio_change_20": -0.04948489268277312
   },
   {
     "date": "2026-04-14",
@@ -1567,10 +1578,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.1,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.1,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio": 1.1005151073172268,
+    "three_inst_ratio_change_20": -0.06948489268277314
   },
   {
     "date": "2026-04-15",
@@ -1578,10 +1589,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.13,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.13,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio": 1.1305151073172266,
+    "three_inst_ratio_change_20": -0.1094848926827734
   },
   {
     "date": "2026-04-16",
@@ -1589,10 +1600,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.17,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.17,
-    "three_inst_ratio_change_20": -0.07000000000000006
+    "three_inst_ratio": 1.1705151073172266,
+    "three_inst_ratio_change_20": -0.20948489268277326
   },
   {
     "date": "2026-04-17",
@@ -1600,10 +1611,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.2,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2,
-    "three_inst_ratio_change_20": -0.17999999999999994
+    "three_inst_ratio": 1.2005151073172267,
+    "three_inst_ratio_change_20": -0.08948489268277338
   },
   {
     "date": "2026-04-20",
@@ -1611,10 +1622,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.23,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.23,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio": 1.2305151073172267,
+    "three_inst_ratio_change_20": -0.15948489268277322
   },
   {
     "date": "2026-04-21",
@@ -1622,10 +1633,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.2,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2,
-    "three_inst_ratio_change_20": -0.18999999999999995
+    "three_inst_ratio": 1.2005151073172267,
+    "three_inst_ratio_change_20": 0.06051510731722676
   },
   {
     "date": "2026-04-22",
@@ -1633,10 +1644,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.18,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.18,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio": 1.1805151073172266,
+    "three_inst_ratio_change_20": 0.09051510731722656
   },
   {
     "date": "2026-04-23",
@@ -1644,10 +1655,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.16,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.16,
-    "three_inst_ratio_change_20": 0.06999999999999984
+    "three_inst_ratio": 1.1605151073172266,
+    "three_inst_ratio_change_20": 0.10051510731722657
   },
   {
     "date": "2026-04-24",
@@ -1655,10 +1666,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.12,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio": 1.1205151073172268,
+    "three_inst_ratio_change_20": 0.000515107317226704
   },
   {
     "date": "2026-04-27",
@@ -1666,10 +1677,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.16,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.16,
-    "three_inst_ratio_change_20": 0.039999999999999813
+    "three_inst_ratio": 1.1605151073172266,
+    "three_inst_ratio_change_20": 0.03051510731722673
   },
   {
     "date": "2026-04-28",
@@ -1677,10 +1688,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.14,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.14,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio": 1.1405151073172266,
+    "three_inst_ratio_change_20": 0.09051510731722656
   },
   {
     "date": "2026-04-29",
@@ -1688,10 +1699,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.11,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.11,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio": 1.1105151073172268,
+    "three_inst_ratio_change_20": 0.05051510731722675
   },
   {
     "date": "2026-04-30",
@@ -1699,10 +1710,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.09,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.09,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio": 1.0905151073172268,
+    "three_inst_ratio_change_20": 0.04051510731722674
   },
   {
     "date": "2026-05-01",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.05
+    "three_inst_ratio_change_20": -1.06
   },
   {
     "date": "2026-05-04",
@@ -1721,10 +1732,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.04,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.04,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio": 1.0405151073172267,
+    "three_inst_ratio_change_20": 1.0405151073172267
   },
   {
     "date": "2026-05-05",
@@ -1732,9 +1743,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.03,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.03,
+    "three_inst_ratio": 1.0305151073172267,
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
@@ -1743,9 +1754,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.12,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.12,
+    "three_inst_ratio": 1.1205151073172268,
     "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
@@ -1754,9 +1765,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.13,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.13,
+    "three_inst_ratio": 1.1305151073172266,
     "three_inst_ratio_change_20": 0.039999999999999813
   },
   {
@@ -1765,9 +1776,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.08,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.08,
+    "three_inst_ratio": 1.0805151073172268,
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
@@ -1776,9 +1787,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.12,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.12,
+    "three_inst_ratio": 1.1205151073172268,
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
@@ -1787,9 +1798,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.07,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.07,
+    "three_inst_ratio": 1.0705151073172268,
     "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
@@ -1798,9 +1809,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.04,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.04,
+    "three_inst_ratio": 1.0405151073172267,
     "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
@@ -1809,9 +1820,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.21,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.21,
+    "three_inst_ratio": 1.2105151073172267,
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
@@ -1820,9 +1831,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.31,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.31,
+    "three_inst_ratio": 1.3105151073172268,
     "three_inst_ratio_change_20": 0.1100000000000001
   },
   {
@@ -1831,9 +1842,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.29,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.29,
+    "three_inst_ratio": 1.2905151073172267,
     "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
@@ -1842,9 +1853,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.29,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.29,
+    "three_inst_ratio": 1.2905151073172267,
     "three_inst_ratio_change_20": 0.09000000000000008
   },
   {
@@ -1853,9 +1864,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.34,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.34,
+    "three_inst_ratio": 1.3405151073172268,
     "three_inst_ratio_change_20": 0.16000000000000014
   },
   {
@@ -1864,9 +1875,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.37,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.37,
+    "three_inst_ratio": 1.3705151073172268,
     "three_inst_ratio_change_20": 0.2100000000000002
   },
   {
@@ -1875,9 +1886,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.41,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.41,
+    "three_inst_ratio": 1.4105151073172266,
     "three_inst_ratio_change_20": 0.2899999999999998
   },
   {
@@ -1886,9 +1897,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.49,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.49,
+    "three_inst_ratio": 1.4905151073172267,
     "three_inst_ratio_change_20": 0.33000000000000007
   },
   {
@@ -1897,9 +1908,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.64,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.64,
+    "three_inst_ratio": 1.6405151073172266,
     "three_inst_ratio_change_20": 0.5
   },
   {
@@ -1908,9 +1919,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.44,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.44,
+    "three_inst_ratio": 1.4405151073172267,
     "three_inst_ratio_change_20": 0.32999999999999985
   },
   {
@@ -1919,9 +1930,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.41,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.41,
+    "three_inst_ratio": 1.4105151073172266,
     "three_inst_ratio_change_20": 0.31999999999999984
   },
   {
@@ -1930,10 +1941,10 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.39,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.39,
-    "three_inst_ratio_change_20": 1.39
+    "three_inst_ratio": 1.3905151073172266,
+    "three_inst_ratio_change_20": 1.3905151073172266
   },
   {
     "date": "2026-06-01",
@@ -1941,9 +1952,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.52,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.52,
+    "three_inst_ratio": 1.5205151073172267,
     "three_inst_ratio_change_20": 0.48
   },
   {
@@ -1952,9 +1963,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.46,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.46,
+    "three_inst_ratio": 1.4605151073172267,
     "three_inst_ratio_change_20": 0.42999999999999994
   },
   {
@@ -1963,9 +1974,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.93,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.93,
+    "three_inst_ratio": 1.9305151073172266,
     "three_inst_ratio_change_20": 0.8099999999999998
   },
   {
@@ -1974,9 +1985,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.93,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.93,
+    "three_inst_ratio": 1.9305151073172266,
     "three_inst_ratio_change_20": 0.8
   },
   {
@@ -1985,9 +1996,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.84,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.84,
+    "three_inst_ratio": 1.8405151073172268,
     "three_inst_ratio_change_20": 0.76
   },
   {
@@ -1996,9 +2007,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.68,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.68,
+    "three_inst_ratio": 1.6805151073172266,
     "three_inst_ratio_change_20": 0.5599999999999998
   },
   {
@@ -2007,9 +2018,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.65,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.65,
+    "three_inst_ratio": 1.6505151073172266,
     "three_inst_ratio_change_20": 0.5799999999999998
   },
   {
@@ -2018,9 +2029,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.64,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.64,
+    "three_inst_ratio": 1.6405151073172266,
     "three_inst_ratio_change_20": 0.5999999999999999
   },
   {
@@ -2029,9 +2040,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.59,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.59,
+    "three_inst_ratio": 1.5905151073172268,
     "three_inst_ratio_change_20": 0.3800000000000001
   },
   {
@@ -2040,9 +2051,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.72,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.72,
+    "three_inst_ratio": 1.7205151073172267,
     "three_inst_ratio_change_20": 0.4099999999999999
   },
   {
@@ -2051,9 +2062,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.72,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.72,
+    "three_inst_ratio": 1.7205151073172267,
     "three_inst_ratio_change_20": 0.42999999999999994
   },
   {
@@ -2062,9 +2073,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.52,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.52,
+    "three_inst_ratio": 1.5205151073172267,
     "three_inst_ratio_change_20": 0.22999999999999998
   },
   {
@@ -2073,9 +2084,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.51,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.51,
+    "three_inst_ratio": 1.5105151073172267,
     "three_inst_ratio_change_20": 0.16999999999999993
   },
   {
@@ -2084,9 +2095,9 @@
     "name": "海光",
     "market": "TWSE",
     "foreign_ratio": 1.57,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.0005151073172266728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.57,
+    "three_inst_ratio": 1.5705151073172268,
     "three_inst_ratio_change_20": 0.19999999999999996
   }
 ]
