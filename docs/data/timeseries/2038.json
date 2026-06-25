@@ -2110,5 +2110,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6905151073172267,
     "three_inst_ratio_change_20": 0.28
+  },
+  {
+    "date": "2026-06-23",
+    "code": "2038",
+    "name": "海光",
+    "market": "TWSE",
+    "foreign_ratio": 1.63,
+    "trust_ratio": 0.0005151073172266728,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6305151073172266,
+    "three_inst_ratio_change_20": 0.1399999999999999
+  },
+  {
+    "date": "2026-06-24",
+    "code": "2038",
+    "name": "海光",
+    "market": "TWSE",
+    "foreign_ratio": 1.51,
+    "trust_ratio": 0.0005151073172266728,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5105151073172267,
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]
