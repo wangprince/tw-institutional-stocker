@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.04884803485218292
   },
   {
+    "date": "2026-06-19",
+    "code": "2106",
+    "name": "建大",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.27154687974531
+  },
+  {
     "date": "2026-06-22",
     "code": "2106",
     "name": "建大",
@@ -2109,7 +2120,7 @@
     "trust_ratio": -0.009709809506854194,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.290290190493147,
-    "three_inst_ratio_change_20": 0.018743310747836972
+    "three_inst_ratio_change_20": 0.02874331074783676
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": -0.009709809506854194,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.230290190493147,
-    "three_inst_ratio_change_20": -0.03125668925216374
+    "three_inst_ratio_change_20": -0.0513614133565099
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": -0.009709809506854194,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.230290190493147,
-    "three_inst_ratio_change_20": -0.0513614133565099
+    "three_inst_ratio_change_20": -0.02136141335651054
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": -0.009709809506854194,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.280290190493146,
-    "three_inst_ratio_change_20": 0.028638586643488395
+    "three_inst_ratio_change_20": 0.028952758956529934
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": -0.010128705924242584,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.299871294075757,
-    "three_inst_ratio_change_20": 0.04853386253914138
+    "three_inst_ratio_change_20": -0.04157086156520684
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": -0.010128705924242584,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.239871294075757,
-    "three_inst_ratio_change_20": -0.10157086156520734
+    "three_inst_ratio_change_20": -0.14157086156520826
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": -0.010128705924242584,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.239871294075757,
-    "three_inst_ratio_change_20": -0.14157086156520826
+    "three_inst_ratio_change_20": -0.22157086156520833
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": -0.010128705924242584,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.269871294075756,
-    "three_inst_ratio_change_20": -0.19157086156520897
+    "three_inst_ratio_change_20": -0.21157086156520855
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2106",
+    "name": "建大",
+    "market": "TWSE",
+    "foreign_ratio": 8.33,
+    "trust_ratio": -0.010128705924242584,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.319871294075757,
+    "three_inst_ratio_change_20": -0.13136141335651352
   }
 ]

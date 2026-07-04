@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": -0.05445136698428499
   },
   {
+    "date": "2026-06-19",
+    "code": "2059",
+    "name": "川湖",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -24.832622047401415
+  },
+  {
     "date": "2026-06-22",
     "code": "2059",
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.53,
-    "trust_ratio": 0.43429141243709984,
+    "trust_ratio": 0.39900911121382615,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.964291412437102,
-    "three_inst_ratio_change_20": 0.1316693650356875
+    "three_inst_ratio": 24.929009111213826,
+    "three_inst_ratio_change_20": 0.2037325150976308
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.5,
-    "trust_ratio": 0.48048695556984167,
+    "trust_ratio": 0.445204654346568,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.98048695556984,
-    "three_inst_ratio_change_20": 0.25521035945364545
+    "three_inst_ratio": 24.94520465434657,
+    "three_inst_ratio_change_20": 0.3202792077389347
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.57,
-    "trust_ratio": 0.5246373151947418,
+    "trust_ratio": 0.4893550139714681,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.094637315194742,
-    "three_inst_ratio_change_20": 0.46971186858710823
+    "three_inst_ratio": 25.05935501397147,
+    "three_inst_ratio_change_20": 0.3544295673638338
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.7,
-    "trust_ratio": 0.47148772839526487,
+    "trust_ratio": 0.4362054271719912,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.171487728395263,
-    "three_inst_ratio_change_20": 0.4665622817876276
+    "three_inst_ratio": 25.13620542717199,
+    "three_inst_ratio_change_20": 0.42695264005593003
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.73,
-    "trust_ratio": 0.4709924351086044,
+    "trust_ratio": 0.4357101338853307,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.200992435108606,
-    "three_inst_ratio_change_20": 0.49173964799254577
+    "three_inst_ratio": 25.16571013388533,
+    "three_inst_ratio_change_20": 0.3928189659384316
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.73,
-    "trust_ratio": 0.4797954337988475,
+    "trust_ratio": 0.4445131325755738,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.20979543379885,
-    "three_inst_ratio_change_20": 0.4369042658519504
+    "three_inst_ratio": 25.174513132575573,
+    "three_inst_ratio_change_20": 0.3945258993896452
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.67,
-    "trust_ratio": 0.5028811378381068,
+    "trust_ratio": 0.46759883661483326,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.172881137838107,
-    "three_inst_ratio_change_20": 0.39289390465217977
+    "three_inst_ratio": 25.137598836614835,
+    "three_inst_ratio_change_20": 0.3713155023272918
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.58,
-    "trust_ratio": 0.5001528273607398,
+    "trust_ratio": 0.4648705261374662,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.080152827360738,
-    "three_inst_ratio_change_20": 0.3138694930731951
+    "three_inst_ratio": 25.044870526137466,
+    "three_inst_ratio_change_20": 0.1766881232195665
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "川湖",
     "market": "TWSE",
     "foreign_ratio": 24.5,
-    "trust_ratio": 0.5128258295281097,
+    "trust_ratio": 0.47754352830483604,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.01282582952811,
-    "three_inst_ratio_change_20": 0.14464342661021234
+    "three_inst_ratio": 24.977543528304835,
+    "three_inst_ratio_change_20": 0.08375815785819896
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2059",
+    "name": "川湖",
+    "market": "TWSE",
+    "foreign_ratio": 24.47,
+    "trust_ratio": 0.5039388828231784,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.973938882823177,
+    "three_inst_ratio_change_20": 0.2768546626490256
   }
 ]

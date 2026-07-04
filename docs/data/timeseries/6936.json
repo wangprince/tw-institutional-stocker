@@ -1991,6 +1991,17 @@
     "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
+    "date": "2026-06-19",
+    "code": "6936",
+    "name": "永鴻生技",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.5013735509037965
+  },
+  {
     "date": "2026-06-22",
     "code": "6936",
     "name": "永鴻生技",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4613735509037965,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.009999999999999953
   },
   {
     "date": "2026-06-24",
@@ -2043,7 +2054,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4513735509037965,
-    "three_inst_ratio_change_20": -0.019999999999999962
+    "three_inst_ratio_change_20": -0.02999999999999997
   },
   {
     "date": "2026-06-29",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4513735509037965,
-    "three_inst_ratio_change_20": -0.02999999999999997
+    "three_inst_ratio_change_20": -0.03999999999999998
   },
   {
     "date": "2026-06-30",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4513735509037965,
-    "three_inst_ratio_change_20": -0.03999999999999998
+    "three_inst_ratio_change_20": -0.02999999999999997
   },
   {
     "date": "2026-07-01",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0013735509037964948,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4513735509037965,
-    "three_inst_ratio_change_20": -0.02999999999999997
+    "three_inst_ratio_change_20": -0.03999999999999998
   },
   {
     "date": "2026-07-02",
@@ -2088,5 +2099,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4513735509037965,
     "three_inst_ratio_change_20": -0.03999999999999998
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6936",
+    "name": "永鴻生技",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0013735509037964948,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4513735509037965,
+    "three_inst_ratio_change_20": -0.07000000000000006
   }
 ]

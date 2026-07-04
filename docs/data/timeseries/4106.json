@@ -2090,6 +2090,17 @@
     "three_inst_ratio_change_20": 0.20999999999999996
   },
   {
+    "date": "2026-06-19",
+    "code": "4106",
+    "name": "雃博",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.85
+  },
+  {
     "date": "2026-06-22",
     "code": "4106",
     "name": "雃博",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
-    "three_inst_ratio_change_20": 0.19999999999999973
+    "three_inst_ratio_change_20": 0.15999999999999992
   },
   {
     "date": "2026-06-23",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.01,
-    "three_inst_ratio_change_20": 0.11999999999999988
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-06-24",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.02,
-    "three_inst_ratio_change_20": 0.10000000000000009
+    "three_inst_ratio_change_20": 0.09000000000000008
   },
   {
     "date": "2026-06-25",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
-    "three_inst_ratio_change_20": 0.11999999999999988
+    "three_inst_ratio_change_20": -0.03000000000000025
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.1299999999999999
   },
   {
     "date": "2026-06-30",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
     "date": "2026-07-01",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.09,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.11000000000000032
   },
   {
     "date": "2026-07-02",
@@ -2186,6 +2197,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
-    "three_inst_ratio_change_20": -0.15000000000000036
+    "three_inst_ratio_change_20": -0.16000000000000014
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4106",
+    "name": "雃博",
+    "market": "TWSE",
+    "foreign_ratio": 2.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.08,
+    "three_inst_ratio_change_20": -0.14000000000000012
   }
 ]

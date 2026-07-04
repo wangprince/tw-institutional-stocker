@@ -2013,6 +2013,17 @@
     "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
+    "date": "2026-06-19",
+    "code": "1521",
+    "name": "大億",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -33.02
+  },
+  {
     "date": "2026-06-22",
     "code": "1521",
     "name": "大億",
@@ -2021,7 +2032,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.93,
-    "three_inst_ratio_change_20": -0.09000000000000341
+    "three_inst_ratio_change_20": -0.0799999999999983
   },
   {
     "date": "2026-06-23",
@@ -2032,7 +2043,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.93,
-    "three_inst_ratio_change_20": -0.0799999999999983
+    "three_inst_ratio_change_20": -0.09000000000000341
   },
   {
     "date": "2026-06-24",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.93,
-    "three_inst_ratio_change_20": -0.09000000000000341
+    "three_inst_ratio_change_20": -0.3100000000000023
   },
   {
     "date": "2026-06-26",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.92,
-    "three_inst_ratio_change_20": -0.3200000000000003
+    "three_inst_ratio_change_20": -0.11999999999999744
   },
   {
     "date": "2026-06-29",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.93,
-    "three_inst_ratio_change_20": -0.10999999999999943
+    "three_inst_ratio_change_20": -0.09000000000000341
   },
   {
     "date": "2026-06-30",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.93,
-    "three_inst_ratio_change_20": -0.09000000000000341
+    "three_inst_ratio_change_20": -0.060000000000002274
   },
   {
     "date": "2026-07-01",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.91,
-    "three_inst_ratio_change_20": -0.0800000000000054
+    "three_inst_ratio_change_20": -0.09000000000000341
   },
   {
     "date": "2026-07-02",
@@ -2110,5 +2121,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.91,
     "three_inst_ratio_change_20": -0.09000000000000341
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1521",
+    "name": "大億",
+    "market": "TWSE",
+    "foreign_ratio": 32.91,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.91,
+    "three_inst_ratio_change_20": -0.10000000000000142
   }
 ]

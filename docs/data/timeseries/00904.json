@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.6548443279434406
   },
   {
+    "date": "2026-06-19",
+    "code": "00904",
+    "name": "新光臺灣半導體30",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.143077995723715
+  },
+  {
     "date": "2026-06-22",
     "code": "00904",
     "name": "新光臺灣半導體30",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.2779223236671555,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0579223236671553,
-    "three_inst_ratio_change_20": 0.9148443279434404
+    "three_inst_ratio_change_20": 0.5448443279434403
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.2771030351626064,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3071030351626063,
-    "three_inst_ratio_change_20": -0.20597496056110876
+    "three_inst_ratio_change_20": -0.2559749605611086
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.2771030351626064,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0771030351626063,
-    "three_inst_ratio_change_20": -0.48597496056110856
+    "three_inst_ratio_change_20": -0.7759749605611086
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.2771030351626064,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9271030351626064,
-    "three_inst_ratio_change_20": -0.9259749605611085
+    "three_inst_ratio_change_20": -0.6859749605611083
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.2762885628291949,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6762885628291948,
-    "three_inst_ratio_change_20": -0.9367894328945199
+    "three_inst_ratio_change_20": -1.1067894328945198
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.2762885628291949,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7462885628291949,
-    "three_inst_ratio_change_20": -1.0367894328945197
+    "three_inst_ratio_change_20": -0.8967894328945201
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.2762885628291949,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.646288562829195,
-    "three_inst_ratio_change_20": -0.9967894328945199
+    "three_inst_ratio_change_20": -1.03678943289452
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.2762885628291949,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.796288562829195,
-    "three_inst_ratio_change_20": -0.8867894328945201
+    "three_inst_ratio_change_20": -0.9883853349687386
   },
   {
     "date": "2026-07-02",
@@ -2143,5 +2154,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9779223236671555,
     "three_inst_ratio_change_20": -0.806751574130778
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00904",
+    "name": "新光臺灣半導體30",
+    "market": "TWSE",
+    "foreign_ratio": 1.82,
+    "trust_ratio": 0.27874647118829027,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0987464711882904,
+    "three_inst_ratio_change_20": -0.1875420916409043
   }
 ]

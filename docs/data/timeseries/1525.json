@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-06-19",
+    "code": "1525",
+    "name": "江申",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.16373316547714797
+  },
+  {
     "date": "2026-06-22",
     "code": "1525",
     "name": "江申",
@@ -2120,7 +2131,7 @@
     "trust_ratio": -0.10626683452285204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.19373316547714794,
-    "three_inst_ratio_change_20": 0.02999999999999997
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": -0.10626683452285204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.19373316547714794,
-    "three_inst_ratio_change_20": 0.03999999999999998
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-06-25",
@@ -2164,7 +2175,7 @@
     "trust_ratio": -0.10626683452285204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.19373316547714794,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-30",
@@ -2198,5 +2209,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.20373316547714795,
     "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1525",
+    "name": "江申",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": -0.10626683452285204,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.21373316547714796,
+    "three_inst_ratio_change_20": 0.020000000000000018
   }
 ]

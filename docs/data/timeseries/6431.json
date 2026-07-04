@@ -2068,6 +2068,17 @@
     "three_inst_ratio_change_20": -0.28000000000000114
   },
   {
+    "date": "2026-06-19",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -56.83
+  },
+  {
     "date": "2026-06-22",
     "code": "6431",
     "name": "光麗-KY",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.5,
-    "three_inst_ratio_change_20": -0.3299999999999983
+    "three_inst_ratio_change_20": -0.2700000000000031
   },
   {
     "date": "2026-06-24",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.49,
-    "three_inst_ratio_change_20": -0.28000000000000114
+    "three_inst_ratio_change_20": -0.269999999999996
   },
   {
     "date": "2026-06-25",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.49,
-    "three_inst_ratio_change_20": -0.269999999999996
+    "three_inst_ratio_change_20": -0.29999999999999716
   },
   {
     "date": "2026-06-26",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.46,
-    "three_inst_ratio_change_20": -0.3299999999999983
+    "three_inst_ratio_change_20": -0.3100000000000023
   },
   {
     "date": "2026-06-29",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.43,
-    "three_inst_ratio_change_20": -0.3400000000000034
+    "three_inst_ratio_change_20": -0.3299999999999983
   },
   {
     "date": "2026-07-01",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.42,
-    "three_inst_ratio_change_20": -0.3399999999999963
+    "three_inst_ratio_change_20": -0.3999999999999986
   },
   {
     "date": "2026-07-02",
@@ -2165,5 +2176,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.43,
     "three_inst_ratio_change_20": -0.39000000000000057
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 56.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 56.44,
+    "three_inst_ratio_change_20": -0.15000000000000568
   }
 ]

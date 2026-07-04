@@ -2035,6 +2035,17 @@
     "three_inst_ratio_change_20": -1.6300000000000026
   },
   {
+    "date": "2026-06-19",
+    "code": "8442",
+    "name": "威宏-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -55.66
+  },
+  {
     "date": "2026-06-22",
     "code": "8442",
     "name": "威宏-KY",
@@ -2043,7 +2054,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.34,
-    "three_inst_ratio_change_20": 0.6800000000000068
+    "three_inst_ratio_change_20": 0.6900000000000048
   },
   {
     "date": "2026-06-23",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.29,
-    "three_inst_ratio_change_20": 0.6400000000000006
+    "three_inst_ratio_change_20": 0.5799999999999983
   },
   {
     "date": "2026-06-24",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.26,
-    "three_inst_ratio_change_20": 0.5499999999999972
+    "three_inst_ratio_change_20": 0.5300000000000011
   },
   {
     "date": "2026-06-25",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.27,
-    "three_inst_ratio_change_20": 0.5400000000000063
+    "three_inst_ratio_change_20": 0.490000000000002
   },
   {
     "date": "2026-06-26",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.26,
-    "three_inst_ratio_change_20": 0.4799999999999969
+    "three_inst_ratio_change_20": 0.39000000000000057
   },
   {
     "date": "2026-06-29",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.26,
-    "three_inst_ratio_change_20": 0.39000000000000057
+    "three_inst_ratio_change_20": 0.3500000000000014
   },
   {
     "date": "2026-06-30",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.24,
-    "three_inst_ratio_change_20": 0.3300000000000054
+    "three_inst_ratio_change_20": 0.35999999999999943
   },
   {
     "date": "2026-07-01",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.23277119757734968,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.46277119757735,
-    "three_inst_ratio_change_20": 0.582771197577344
+    "three_inst_ratio_change_20": 0.5927711975773491
   },
   {
     "date": "2026-07-02",
@@ -2131,6 +2142,17 @@
     "trust_ratio": 0.23277119757734968,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.43277119757735,
-    "three_inst_ratio_change_20": 0.562771197577355
+    "three_inst_ratio_change_20": 0.47277119757735164
+  },
+  {
+    "date": "2026-07-03",
+    "code": "8442",
+    "name": "威宏-KY",
+    "market": "TWSE",
+    "foreign_ratio": 56.2,
+    "trust_ratio": 0.23277119757734968,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 56.43277119757735,
+    "three_inst_ratio_change_20": 0.3527711975773542
   }
 ]

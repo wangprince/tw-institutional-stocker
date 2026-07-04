@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": -0.019999999999999574
   },
   {
+    "date": "2026-06-19",
+    "code": "5608",
+    "name": "四維航",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.99
+  },
+  {
     "date": "2026-06-22",
     "code": "5608",
     "name": "四維航",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.99,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.09999999999999964
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.0,
-    "three_inst_ratio_change_20": -0.08999999999999986
+    "three_inst_ratio_change_20": -0.019999999999999574
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.94,
-    "three_inst_ratio_change_20": -0.07999999999999918
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.93,
-    "three_inst_ratio_change_20": -0.10000000000000053
+    "three_inst_ratio_change_20": -0.14000000000000057
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.77,
-    "three_inst_ratio_change_20": -0.3000000000000007
+    "three_inst_ratio_change_20": -0.2400000000000002
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.95,
-    "three_inst_ratio_change_20": -0.05999999999999961
+    "three_inst_ratio_change_20": -0.21999999999999975
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.98,
-    "three_inst_ratio_change_20": -0.1899999999999995
+    "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.07,
-    "three_inst_ratio_change_20": -0.019999999999999574
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.07,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": 0.05000000000000071
+  },
+  {
+    "date": "2026-07-03",
+    "code": "5608",
+    "name": "四維航",
+    "market": "TWSE",
+    "foreign_ratio": 5.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.19,
+    "three_inst_ratio_change_20": 0.16000000000000014
   }
 ]

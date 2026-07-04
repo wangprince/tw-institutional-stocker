@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
+    "date": "2026-06-19",
+    "code": "00676R",
+    "name": "富邦臺灣加權反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.43
+  },
+  {
     "date": "2026-06-22",
     "code": "00676R",
     "name": "富邦臺灣加權反1",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.51,
-    "three_inst_ratio_change_20": 0.08000000000000002
+    "three_inst_ratio_change_20": 0.10000000000000003
   },
   {
     "date": "2026-06-25",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.59,
-    "three_inst_ratio_change_20": 0.18
+    "three_inst_ratio_change_20": 0.16999999999999998
   },
   {
     "date": "2026-07-01",
@@ -2198,5 +2209,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.46,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00676R",
+    "name": "富邦臺灣加權反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.45,
+    "three_inst_ratio_change_20": 0.030000000000000027
   }
 ]

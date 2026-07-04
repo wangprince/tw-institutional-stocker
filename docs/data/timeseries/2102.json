@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
+    "date": "2026-06-19",
+    "code": "2102",
+    "name": "泰豐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.931126944739753
+  },
+  {
     "date": "2026-06-22",
     "code": "2102",
     "name": "泰豐",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.02112694473975277,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.931126944739753,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.02112694473975277,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.951126944739753,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.02112694473975277,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.951126944739753,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.050000000000000266
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.02112694473975277,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.941126944739753,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.029999999999999805
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.02112694473975277,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.951126944739753,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-06-30",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.02112694473975277,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.981126944739753,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.02112694473975277,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.011126944739753,
-    "three_inst_ratio_change_20": 0.0900000000000003
+    "three_inst_ratio_change_20": 0.17000000000000037
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2102",
+    "name": "泰豐",
+    "market": "TWSE",
+    "foreign_ratio": 3.04,
+    "trust_ratio": 0.02112694473975277,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.061126944739753,
+    "three_inst_ratio_change_20": 0.2400000000000002
   }
 ]

@@ -2046,18 +2046,18 @@
     "three_inst_ratio_change_20": -1.0274000988821355
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "4949",
     "name": "有成精密",
     "market": "TWSE",
-    "foreign_ratio": 2.82,
-    "trust_ratio": 0.14323253656124935,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.9632325365612493,
-    "three_inst_ratio_change_20": -0.3274000988821357
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.290632635443385
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "4949",
     "name": "有成精密",
     "market": "TWSE",
@@ -2068,6 +2068,17 @@
     "three_inst_ratio_change_20": -0.9759064963530415
   },
   {
+    "date": "2026-06-23",
+    "code": "4949",
+    "name": "有成精密",
+    "market": "TWSE",
+    "foreign_ratio": 2.82,
+    "trust_ratio": 0.14323253656124935,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9632325365612493,
+    "three_inst_ratio_change_20": -1.705906496353041
+  },
+  {
     "date": "2026-06-24",
     "code": "4949",
     "name": "有成精密",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.13880266429646845,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.108802664296469,
-    "three_inst_ratio_change_20": -1.5603363686178215
+    "three_inst_ratio_change_20": -1.250336368617822
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.13732604020820813,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7773260402082083,
-    "three_inst_ratio_change_20": -1.5818129927060824
+    "three_inst_ratio_change_20": -0.7618129927060822
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.13732604020820813,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.767326040208208,
-    "three_inst_ratio_change_20": -0.7718129927060824
+    "three_inst_ratio_change_20": -0.6218129927060829
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.13732604020820813,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0873260402082083,
-    "three_inst_ratio_change_20": -0.30181299270608264
+    "three_inst_ratio_change_20": -0.04033636861782197
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.13732604020820813,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0273260402082083,
-    "three_inst_ratio_change_20": -0.10033636861782202
+    "three_inst_ratio_change_20": -0.4503363686178221
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.13732604020820813,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.247326040208208,
-    "three_inst_ratio_change_20": -0.23033636861782236
+    "three_inst_ratio_change_20": 0.06114025547043811
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.13732604020820813,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.287326040208208,
-    "three_inst_ratio_change_20": 0.10114025547043815
+    "three_inst_ratio_change_20": 0.2811402554704383
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4949",
+    "name": "有成精密",
+    "market": "TWSE",
+    "foreign_ratio": 3.23,
+    "trust_ratio": 0.13732604020820813,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.367326040208208,
+    "three_inst_ratio_change_20": 0.44114025547043845
   }
 ]

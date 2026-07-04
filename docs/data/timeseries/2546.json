@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.31000000000000005
   },
   {
+    "date": "2026-06-19",
+    "code": "2546",
+    "name": "根基",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.3698795181978256
+  },
+  {
     "date": "2026-06-22",
     "code": "2546",
     "name": "根基",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.029879518197825597,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6998795181978257,
-    "three_inst_ratio_change_20": 0.33000000000000007
+    "three_inst_ratio_change_20": 0.31999999999999984
   },
   {
     "date": "2026-06-24",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.029879518197825597,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.709879518197826,
-    "three_inst_ratio_change_20": 0.33000000000000007
+    "three_inst_ratio_change_20": 0.30000000000000027
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.029879518197825597,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.729879518197826,
-    "three_inst_ratio_change_20": 0.3200000000000003
+    "three_inst_ratio_change_20": 0.31000000000000005
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.029879518197825597,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.689879518197826,
-    "three_inst_ratio_change_20": 0.27
+    "three_inst_ratio_change_20": 0.18999999999999995
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.029879518197825597,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6598795181978256,
-    "three_inst_ratio_change_20": 0.1599999999999997
+    "three_inst_ratio_change_20": 0.18999999999999995
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.029879518197825597,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.689879518197826,
-    "three_inst_ratio_change_20": 0.2200000000000002
+    "three_inst_ratio_change_20": 0.18000000000000016
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.029879518197825597,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.669879518197826,
-    "three_inst_ratio_change_20": 0.16000000000000014
+    "three_inst_ratio_change_20": 0.14000000000000012
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2546",
+    "name": "根基",
+    "market": "TWSE",
+    "foreign_ratio": 3.69,
+    "trust_ratio": 0.029879518197825597,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.7198795181978257,
+    "three_inst_ratio_change_20": 0.20999999999999996
   }
 ]

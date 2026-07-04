@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": -0.4500000000000002
   },
   {
+    "date": "2026-06-19",
+    "code": "2247",
+    "name": "汎德永業",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.9330734870271478
+  },
+  {
     "date": "2026-06-22",
     "code": "2247",
     "name": "汎德永業",
@@ -2054,7 +2065,7 @@
     "trust_ratio": -0.3469265129728523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4430734870271476,
-    "three_inst_ratio_change_20": -0.4900000000000002
+    "three_inst_ratio_change_20": -0.45999999999999996
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": -0.3469265129728523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4530734870271473,
-    "three_inst_ratio_change_20": -0.4500000000000002
+    "three_inst_ratio_change_20": -0.5200000000000005
   },
   {
     "date": "2026-06-24",
@@ -2087,7 +2098,7 @@
     "trust_ratio": -0.3469265129728523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4530734870271473,
-    "three_inst_ratio_change_20": -0.5200000000000005
+    "three_inst_ratio_change_20": -0.54
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": -0.3469265129728523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4230734870271475,
-    "three_inst_ratio_change_20": -0.5699999999999998
+    "three_inst_ratio_change_20": -0.30000000000000027
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": -0.3469265129728523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4330734870271473,
-    "three_inst_ratio_change_20": -0.2900000000000005
+    "three_inst_ratio_change_20": -0.2200000000000002
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": -0.3469265129728523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4330734870271473,
-    "three_inst_ratio_change_20": -0.2200000000000002
+    "three_inst_ratio_change_20": -0.11000000000000032
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": -0.18068428404930398,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.599315715950696,
-    "three_inst_ratio_change_20": 0.05624222892354824
+    "three_inst_ratio_change_20": 0.10624222892354851
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": -0.18068428404930398,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.579315715950696,
-    "three_inst_ratio_change_20": 0.08624222892354849
+    "three_inst_ratio_change_20": 0.1162422289235483
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2247",
+    "name": "汎德永業",
+    "market": "TWSE",
+    "foreign_ratio": 3.75,
+    "trust_ratio": -0.18068428404930398,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.569315715950696,
+    "three_inst_ratio_change_20": 0.16624222892354856
   }
 ]

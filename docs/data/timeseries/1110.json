@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
+    "date": "2026-06-19",
+    "code": "1110",
+    "name": "東泥",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.81
+  },
+  {
     "date": "2026-06-22",
     "code": "1110",
     "name": "東泥",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.84,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.86,
-    "three_inst_ratio_change_20": -0.02999999999999936
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.86,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": 0.010000000000000675
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.86,
-    "three_inst_ratio_change_20": 0.010000000000000675
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-06-29",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.83,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.84,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1110",
+    "name": "東泥",
+    "market": "TWSE",
+    "foreign_ratio": 5.88,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.88,
+    "three_inst_ratio_change_20": 0.05999999999999961
   }
 ]

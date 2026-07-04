@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
+    "date": "2026-06-19",
+    "code": "1417",
+    "name": "嘉裕",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.92
+  },
+  {
     "date": "2026-06-22",
     "code": "1417",
     "name": "嘉裕",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": 0.06999999999999995
+    "three_inst_ratio_change_20": 0.05999999999999994
   },
   {
     "date": "2026-06-23",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.98,
-    "three_inst_ratio_change_20": 0.04999999999999993
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.03,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.05,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.07,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-07-01",
@@ -2198,5 +2209,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
     "three_inst_ratio_change_20": 0.20999999999999996
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1417",
+    "name": "嘉裕",
+    "market": "TWSE",
+    "foreign_ratio": 1.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.22,
+    "three_inst_ratio_change_20": 0.18999999999999995
   }
 ]

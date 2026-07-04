@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 1.5999999999999996
   },
   {
+    "date": "2026-06-19",
+    "code": "2032",
+    "name": "新鋼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.4
+  },
+  {
     "date": "2026-06-22",
     "code": "2032",
     "name": "新鋼",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.21,
-    "three_inst_ratio_change_20": 1.81
+    "three_inst_ratio_change_20": 1.4300000000000002
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.15,
-    "three_inst_ratio_change_20": 1.3700000000000006
+    "three_inst_ratio_change_20": 1.4100000000000001
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0015323140712133006,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.1315323140712135,
-    "three_inst_ratio_change_20": 1.3915323140712132
+    "three_inst_ratio_change_20": 0.8515323140712137
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0015323140712133006,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.181532314071213,
-    "three_inst_ratio_change_20": 0.9015323140712135
+    "three_inst_ratio_change_20": 0.7015323140712133
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0015323140712133006,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.111532314071214,
-    "three_inst_ratio_change_20": 0.6315323140712139
+    "three_inst_ratio_change_20": 0.8115323140712141
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0015323140712133006,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.091532314071213,
-    "three_inst_ratio_change_20": 0.7915323140712136
+    "three_inst_ratio_change_20": 0.39153231407121325
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0015323140712133006,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9315323140712133,
-    "three_inst_ratio_change_20": 0.2315323140712131
+    "three_inst_ratio_change_20": 0.4815323140712131
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0015323140712133006,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.811532314071213,
-    "three_inst_ratio_change_20": 0.361532314071213
+    "three_inst_ratio_change_20": 0.031532314071213374
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.0015323140712133006,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.821532314071213,
-    "three_inst_ratio_change_20": 0.04153231407121316
+    "three_inst_ratio_change_20": 0.07153231407121297
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2032",
+    "name": "新鋼",
+    "market": "TWSE",
+    "foreign_ratio": 4.09,
+    "trust_ratio": 0.0015323140712133006,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.091532314071213,
+    "three_inst_ratio_change_20": 0.2815323140712134
   }
 ]

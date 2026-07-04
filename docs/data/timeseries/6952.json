@@ -1958,6 +1958,17 @@
     "three_inst_ratio_change_20": -0.035610505523447245
   },
   {
+    "date": "2026-06-19",
+    "code": "6952",
+    "name": "大武山",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.35
+  },
+  {
     "date": "2026-06-22",
     "code": "6952",
     "name": "大武山",
@@ -1999,7 +2010,7 @@
     "trust_ratio": 0.004389494476552784,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3243894944765528,
-    "three_inst_ratio_change_20": -0.02561050552344718
+    "three_inst_ratio_change_20": 0.0143894944765528
   },
   {
     "date": "2026-06-26",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.004389494476552784,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3143894944765528,
-    "three_inst_ratio_change_20": 0.004389494476552791
+    "three_inst_ratio_change_20": -0.005610505523447218
   },
   {
     "date": "2026-06-29",
@@ -2032,7 +2043,7 @@
     "trust_ratio": 0.004389494476552784,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3043894944765528,
-    "three_inst_ratio_change_20": -0.015610505523447227
+    "three_inst_ratio_change_20": -0.025610505523447236
   },
   {
     "date": "2026-07-01",
@@ -2043,7 +2054,7 @@
     "trust_ratio": 0.004389494476552784,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3043894944765528,
-    "three_inst_ratio_change_20": -0.025610505523447236
+    "three_inst_ratio_change_20": -0.035610505523447245
   },
   {
     "date": "2026-07-02",
@@ -2055,5 +2066,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3143894944765528,
     "three_inst_ratio_change_20": -0.025610505523447236
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6952",
+    "name": "大武山",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.004389494476552784,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3043894944765528,
+    "three_inst_ratio_change_20": -0.0456105055234472
   }
 ]

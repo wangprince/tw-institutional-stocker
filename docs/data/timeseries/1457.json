@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
+    "date": "2026-06-19",
+    "code": "1457",
+    "name": "宜進",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.7
+  },
+  {
     "date": "2026-06-22",
     "code": "1457",
     "name": "宜進",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.72,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.73,
-    "three_inst_ratio_change_20": -0.07000000000000006
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.74,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.73,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.74,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.73,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": -0.07000000000000006
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.73,
-    "three_inst_ratio_change_20": -0.07000000000000006
+    "three_inst_ratio_change_20": -0.09000000000000008
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.75,
-    "three_inst_ratio_change_20": -0.07000000000000006
+    "three_inst_ratio_change_20": -0.09000000000000008
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1457",
+    "name": "宜進",
+    "market": "TWSE",
+    "foreign_ratio": 1.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.77,
+    "three_inst_ratio_change_20": 0.050000000000000044
   }
 ]

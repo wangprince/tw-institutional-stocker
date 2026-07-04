@@ -2002,6 +2002,17 @@
     "three_inst_ratio_change_20": 0.05999999999999872
   },
   {
+    "date": "2026-06-19",
+    "code": "8940",
+    "name": "新天地",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.31
+  },
+  {
     "date": "2026-06-22",
     "code": "8940",
     "name": "新天地",
@@ -2032,7 +2043,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.35,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.049999999999998934
   },
   {
     "date": "2026-06-25",
@@ -2043,7 +2054,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.35,
-    "three_inst_ratio_change_20": 0.049999999999998934
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-06-26",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.35,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-06-29",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.35,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": -0.019999999999999574
   },
   {
     "date": "2026-06-30",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.34,
-    "three_inst_ratio_change_20": -0.02999999999999936
+    "three_inst_ratio_change_20": -0.05000000000000071
   },
   {
     "date": "2026-07-01",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.34,
-    "three_inst_ratio_change_20": -0.05000000000000071
+    "three_inst_ratio_change_20": -0.040000000000000924
   },
   {
     "date": "2026-07-02",
@@ -2098,6 +2109,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.34,
-    "three_inst_ratio_change_20": -0.040000000000000924
+    "three_inst_ratio_change_20": -0.08999999999999986
+  },
+  {
+    "date": "2026-07-03",
+    "code": "8940",
+    "name": "新天地",
+    "market": "TWSE",
+    "foreign_ratio": 8.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.4,
+    "three_inst_ratio_change_20": -0.049999999999998934
   }
 ]

@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.41999999999999815
   },
   {
+    "date": "2026-06-19",
+    "code": "2415",
+    "name": "錩新",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -21.01
+  },
+  {
     "date": "2026-06-22",
     "code": "2415",
     "name": "錩新",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.53,
-    "three_inst_ratio_change_20": 0.5199999999999996
+    "three_inst_ratio_change_20": 0.5800000000000018
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.33,
-    "three_inst_ratio_change_20": 0.379999999999999
+    "three_inst_ratio_change_20": 0.41999999999999815
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.97,
-    "three_inst_ratio_change_20": 0.05999999999999872
+    "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
     "date": "2026-06-26",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.39,
-    "three_inst_ratio_change_20": -0.5700000000000003
+    "three_inst_ratio_change_20": -0.6799999999999997
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.38,
-    "three_inst_ratio_change_20": -0.6900000000000013
+    "three_inst_ratio_change_20": -0.7300000000000004
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.3,
-    "three_inst_ratio_change_20": -0.8099999999999987
+    "three_inst_ratio_change_20": -0.7799999999999976
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.48,
-    "three_inst_ratio_change_20": -0.5999999999999979
+    "three_inst_ratio_change_20": -0.629999999999999
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2415",
+    "name": "錩新",
+    "market": "TWSE",
+    "foreign_ratio": 20.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.75,
+    "three_inst_ratio_change_20": -0.3000000000000007
   }
 ]

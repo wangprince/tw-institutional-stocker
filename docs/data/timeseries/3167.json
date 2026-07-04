@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": 0.08457640806784283
   },
   {
+    "date": "2026-06-19",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -17.755454814486107
+  },
+  {
     "date": "2026-06-22",
     "code": "3167",
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.5,
-    "trust_ratio": 7.399208987669693,
+    "trust_ratio": 7.396966463351563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.899208987669695,
-    "three_inst_ratio_change_20": -0.8562458268164121
+    "three_inst_ratio": 16.896966463351564,
+    "three_inst_ratio_change_20": -1.0846758435022537
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.56,
-    "trust_ratio": 7.361086074261484,
+    "trust_ratio": 7.358843549943354,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.921086074261485,
-    "three_inst_ratio_change_20": -1.060556232592333
+    "three_inst_ratio": 16.918843549943354,
+    "three_inst_ratio_change_20": -1.0927987569104651
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.57,
-    "trust_ratio": 7.320720636535145,
+    "trust_ratio": 7.318478112217015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.890720636535146,
-    "three_inst_ratio_change_20": -1.1209216703186726
+    "three_inst_ratio": 16.888478112217015,
+    "three_inst_ratio_change_20": -1.0931641946368025
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.51,
-    "trust_ratio": 7.292689082558522,
+    "trust_ratio": 7.290446558240392,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.802689082558523,
-    "three_inst_ratio_change_20": -1.1789532242952951
+    "three_inst_ratio": 16.80044655824039,
+    "three_inst_ratio_change_20": -1.1911957486134277
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.48,
-    "trust_ratio": 7.280355198808806,
+    "trust_ratio": 7.278112674490678,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.760355198808806,
-    "three_inst_ratio_change_20": -1.231287108045013
+    "three_inst_ratio": 16.75811267449068,
+    "three_inst_ratio_change_20": -0.9447672029338356
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.54,
-    "trust_ratio": 7.246717334036858,
+    "trust_ratio": 7.244474809718728,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.786717334036858,
-    "three_inst_ratio_change_20": -0.9161625433876566
+    "three_inst_ratio": 16.784474809718727,
+    "three_inst_ratio_change_20": -0.765456616915035
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.69,
-    "trust_ratio": 7.2018668476742596,
+    "trust_ratio": 7.1996243233561295,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.891866847674258,
-    "three_inst_ratio_change_20": -0.6580645789595039
+    "three_inst_ratio": 16.88962432335613,
+    "three_inst_ratio_change_20": -1.0490944816869785
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.73,
-    "trust_ratio": 7.2018668476742596,
+    "trust_ratio": 7.1996243233561295,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.93186684767426,
-    "three_inst_ratio_change_20": -1.0068519573688484
+    "three_inst_ratio": 16.92962432335613,
+    "three_inst_ratio_change_20": -1.312275549301006
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "大量",
     "market": "TWSE",
     "foreign_ratio": 9.2,
-    "trust_ratio": 7.148046264039142,
+    "trust_ratio": 7.1458037397210115,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.34804626403914,
-    "three_inst_ratio_change_20": -1.8938536086179951
+    "three_inst_ratio": 16.34580373972101,
+    "three_inst_ratio_change_20": -1.9560961329361248
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 9.4,
+    "trust_ratio": 7.1458037397210115,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.545803739721013,
+    "three_inst_ratio_change_20": -1.6660961329361221
   }
 ]

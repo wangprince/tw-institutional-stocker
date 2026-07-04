@@ -2090,6 +2090,17 @@
     "three_inst_ratio_change_20": -0.06999999999999984
   },
   {
+    "date": "2026-06-19",
+    "code": "3021",
+    "name": "鴻名",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.79
+  },
+  {
     "date": "2026-06-22",
     "code": "3021",
     "name": "鴻名",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.56,
-    "three_inst_ratio_change_20": -0.22999999999999998
+    "three_inst_ratio_change_20": -0.44999999999999973
   },
   {
     "date": "2026-06-23",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.64,
-    "three_inst_ratio_change_20": -0.36999999999999966
+    "three_inst_ratio_change_20": -0.25
   },
   {
     "date": "2026-06-24",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.65,
-    "three_inst_ratio_change_20": -0.2400000000000002
+    "three_inst_ratio_change_20": -0.2200000000000002
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.67,
-    "three_inst_ratio_change_20": -0.20000000000000018
+    "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.88,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-07-01",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.87,
-    "three_inst_ratio_change_20": 0.050000000000000266
+    "three_inst_ratio_change_20": 0.0900000000000003
   },
   {
     "date": "2026-07-02",
@@ -2187,5 +2198,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.86,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3021",
+    "name": "鴻名",
+    "market": "TWSE",
+    "foreign_ratio": 3.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.82,
+    "three_inst_ratio_change_20": 0.009999999999999787
   }
 ]

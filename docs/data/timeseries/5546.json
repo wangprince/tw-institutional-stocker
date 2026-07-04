@@ -1848,6 +1848,17 @@
     "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
+    "date": "2026-06-19",
+    "code": "5546",
+    "name": "永固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -53.67
+  },
+  {
     "date": "2026-06-22",
     "code": "5546",
     "name": "永固-KY",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.83,
-    "three_inst_ratio_change_20": 0.1599999999999966
+    "three_inst_ratio_change_20": 0.14999999999999858
   },
   {
     "date": "2026-06-23",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.84,
-    "three_inst_ratio_change_20": 0.1600000000000037
+    "three_inst_ratio_change_20": 0.15000000000000568
   },
   {
     "date": "2026-06-24",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.84,
-    "three_inst_ratio_change_20": 0.15000000000000568
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-06-25",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.85,
-    "three_inst_ratio_change_20": 0.14999999999999858
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-06-29",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.85,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.12000000000000455
   },
   {
     "date": "2026-06-30",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.85,
-    "three_inst_ratio_change_20": 0.12000000000000455
+    "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
     "date": "2026-07-02",
@@ -1934,5 +1945,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.85,
     "three_inst_ratio_change_20": 0.10000000000000142
+  },
+  {
+    "date": "2026-07-03",
+    "code": "5546",
+    "name": "永固-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.85,
+    "three_inst_ratio_change_20": 0.0799999999999983
   }
 ]

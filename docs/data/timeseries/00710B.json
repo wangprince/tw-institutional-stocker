@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": -1.022453158632
   },
   {
+    "date": "2026-06-19",
+    "code": "00710B",
+    "name": "復華彭博非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.7056698370084198
+  },
+  {
     "date": "2026-06-22",
     "code": "00710B",
     "name": "復華彭博非投等債",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.5532166783764196,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6732166783764196,
-    "three_inst_ratio_change_20": -1.0324531586320003
+    "three_inst_ratio_change_20": -1.1124531586320003
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.5532166783764196,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7232166783764197,
-    "three_inst_ratio_change_20": -1.062453158632
+    "three_inst_ratio_change_20": -1.0724531586319999
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.5532166783764196,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7232166783764197,
-    "three_inst_ratio_change_20": -1.0724531586319999
+    "three_inst_ratio_change_20": -1.0524531586319998
   },
   {
     "date": "2026-06-29",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.5532166783764196,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7832166783764196,
-    "three_inst_ratio_change_20": -0.992453158632
+    "three_inst_ratio_change_20": -1.1124531586320001
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.5532166783764196,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7532166783764196,
-    "three_inst_ratio_change_20": -1.1424531586320001
+    "three_inst_ratio_change_20": -1.1624531586320002
   },
   {
     "date": "2026-07-02",
@@ -2198,5 +2209,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7732166783764196,
     "three_inst_ratio_change_20": -1.1424531586320001
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00710B",
+    "name": "復華彭博非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.5532166783764196,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7732166783764196,
+    "three_inst_ratio_change_20": -1.172453158632
   }
 ]

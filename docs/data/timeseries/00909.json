@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.7999999999999998
   },
   {
+    "date": "2026-06-19",
+    "code": "00909",
+    "name": "國泰數位支付服務",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.79
+  },
+  {
     "date": "2026-06-22",
     "code": "00909",
     "name": "國泰數位支付服務",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.42,
-    "three_inst_ratio_change_20": -2.37
+    "three_inst_ratio_change_20": -3.7700000000000005
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.65,
-    "three_inst_ratio_change_20": -3.5400000000000005
+    "three_inst_ratio_change_20": 0.20999999999999996
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.97,
-    "three_inst_ratio_change_20": 0.5300000000000002
+    "three_inst_ratio_change_20": 0.29000000000000004
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.13,
-    "three_inst_ratio_change_20": 0.44999999999999973
+    "three_inst_ratio_change_20": -0.3600000000000003
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.57,
-    "three_inst_ratio_change_20": -0.9200000000000004
+    "three_inst_ratio_change_20": -0.3700000000000001
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.45,
-    "three_inst_ratio_change_20": 0.5100000000000002
+    "three_inst_ratio_change_20": 0.11000000000000032
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.94,
-    "three_inst_ratio_change_20": -0.3999999999999999
+    "three_inst_ratio_change_20": -1.0900000000000003
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.17,
-    "three_inst_ratio_change_20": -0.8600000000000003
+    "three_inst_ratio_change_20": 0.5699999999999998
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.16,
-    "three_inst_ratio_change_20": 0.56
+    "three_inst_ratio_change_20": 0.3500000000000001
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00909",
+    "name": "國泰數位支付服務",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.02,
+    "three_inst_ratio_change_20": -1.1
   }
 ]

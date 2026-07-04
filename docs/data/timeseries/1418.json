@@ -1936,6 +1936,17 @@
     "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
+    "date": "2026-06-19",
+    "code": "1418",
+    "name": "東華",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.91
+  },
+  {
     "date": "2026-06-22",
     "code": "1418",
     "name": "東華",
@@ -1944,7 +1955,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.92,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-06-23",
@@ -1955,7 +1966,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-06-24",
@@ -1966,7 +1977,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-06-25",
@@ -1977,7 +1988,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-26",
@@ -1988,7 +1999,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.029999999999999916
   },
   {
     "date": "2026-06-29",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": -0.029999999999999916
+    "three_inst_ratio_change_20": -0.009999999999999898
   },
   {
     "date": "2026-07-01",
@@ -2021,10 +2032,21 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": -0.009999999999999898
+    "three_inst_ratio_change_20": -0.019999999999999907
   },
   {
     "date": "2026-07-02",
+    "code": "1418",
+    "name": "東華",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.95,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-07-03",
     "code": "1418",
     "name": "東華",
     "market": "TWSE",

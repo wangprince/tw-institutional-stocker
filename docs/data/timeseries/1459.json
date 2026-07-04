@@ -2090,6 +2090,17 @@
     "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
+    "date": "2026-06-19",
+    "code": "1459",
+    "name": "聯發",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.6602788397645813
+  },
+  {
     "date": "2026-06-22",
     "code": "1459",
     "name": "聯發",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7202788397645814,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-06-25",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7302788397645814,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-06-26",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6802788397645814,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-06-29",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6802788397645814,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-06-30",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6902788397645814,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-07-01",
@@ -2186,6 +2197,17 @@
     "trust_ratio": 0.0002788397645814982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7002788397645814,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1459",
+    "name": "聯發",
+    "market": "TWSE",
+    "foreign_ratio": 1.73,
+    "trust_ratio": 0.0002788397645814982,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7302788397645814,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

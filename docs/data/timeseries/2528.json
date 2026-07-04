@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.004954087552273778
   },
   {
+    "date": "2026-06-19",
+    "code": "2528",
+    "name": "皇普",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.171422272969932
+  },
+  {
     "date": "2026-06-22",
     "code": "2528",
     "name": "皇普",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.026376360522205794,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0763763605222059,
-    "three_inst_ratio_change_20": -0.09504591244772609
+    "three_inst_ratio_change_20": -0.06458719313429673
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.026376360522205794,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1663763605222057,
-    "three_inst_ratio_change_20": 0.02541280686570313
+    "three_inst_ratio_change_20": 0.026330245492562465
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.026376360522205794,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2263763605222058,
-    "three_inst_ratio_change_20": 0.08633024549256252
+    "three_inst_ratio_change_20": 0.11633024549256255
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.026376360522205794,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2063763605222058,
-    "three_inst_ratio_change_20": 0.09633024549256253
+    "three_inst_ratio_change_20": 0.1372476841194219
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.02614700086549096,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2161470008654909,
-    "three_inst_ratio_change_20": 0.14701832446270702
+    "three_inst_ratio_change_20": 0.127018324462707
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.02614700086549096,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1961470008654909,
-    "three_inst_ratio_change_20": 0.10701832446270698
+    "three_inst_ratio_change_20": 0.08747704377613674
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.2031553159351633,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3331553159351632,
-    "three_inst_ratio_change_20": 0.2244853588458091
+    "three_inst_ratio_change_20": 0.2144853588458091
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.2948991786210965,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3948991786210967,
-    "three_inst_ratio_change_20": 0.27622922153174256
+    "three_inst_ratio_change_20": 0.276917300501887
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2528",
+    "name": "皇普",
+    "market": "TWSE",
+    "foreign_ratio": 1.06,
+    "trust_ratio": 0.2948991786210965,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3548991786210967,
+    "three_inst_ratio_change_20": -0.02262398018468348
   }
 ]

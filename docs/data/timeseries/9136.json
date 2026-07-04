@@ -1892,6 +1892,17 @@
     "three_inst_ratio_change_20": 0.23999999999999977
   },
   {
+    "date": "2026-06-19",
+    "code": "9136",
+    "name": "巨騰-DR",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.04
+  },
+  {
     "date": "2026-06-22",
     "code": "9136",
     "name": "巨騰-DR",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.0900000000000003
   },
   {
     "date": "2026-06-23",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.12,
-    "three_inst_ratio_change_20": 0.11000000000000032
+    "three_inst_ratio_change_20": 0.22999999999999998
   },
   {
     "date": "2026-06-24",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.04,
-    "three_inst_ratio_change_20": 0.1499999999999999
+    "three_inst_ratio_change_20": -0.14000000000000012
   },
   {
     "date": "2026-06-25",
@@ -1933,7 +1944,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.99,
-    "three_inst_ratio_change_20": -0.18999999999999995
+    "three_inst_ratio_change_20": -0.05999999999999961
   },
   {
     "date": "2026-06-26",
@@ -1944,7 +1955,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-06-29",
@@ -1955,7 +1966,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.2,
-    "three_inst_ratio_change_20": 0.20999999999999996
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-06-30",
@@ -1966,7 +1977,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.35,
-    "three_inst_ratio_change_20": 0.18000000000000016
+    "three_inst_ratio_change_20": 0.43999999999999995
   },
   {
     "date": "2026-07-01",
@@ -1977,7 +1988,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.34,
-    "three_inst_ratio_change_20": 0.4299999999999997
+    "three_inst_ratio_change_20": 0.5
   },
   {
     "date": "2026-07-02",
@@ -1988,6 +1999,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.38,
-    "three_inst_ratio_change_20": 0.54
+    "three_inst_ratio_change_20": 0.18999999999999995
+  },
+  {
+    "date": "2026-07-03",
+    "code": "9136",
+    "name": "巨騰-DR",
+    "market": "TWSE",
+    "foreign_ratio": 3.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5,
+    "three_inst_ratio_change_20": -0.3500000000000001
   }
 ]

@@ -1793,6 +1793,17 @@
     "three_inst_ratio_change_20": 0.04999999999999999
   },
   {
+    "date": "2026-06-19",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.27154607297464445
+  },
+  {
     "date": "2026-06-22",
     "code": "7732",
     "name": "金興精密",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0015460729746444033,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34154607297464445,
-    "three_inst_ratio_change_20": 0.07
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-07-02",
@@ -1868,5 +1879,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34154607297464445,
     "three_inst_ratio_change_20": 0.050000000000000044
+  },
+  {
+    "date": "2026-07-03",
+    "code": "7732",
+    "name": "金興精密",
+    "market": "TWSE",
+    "foreign_ratio": 0.34,
+    "trust_ratio": 0.0015460729746444033,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.34154607297464445,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

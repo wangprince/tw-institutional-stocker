@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.9199999999999999
   },
   {
+    "date": "2026-06-19",
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.72
+  },
+  {
     "date": "2026-06-22",
     "code": "00739",
     "name": "元大MSCI A股",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.77,
-    "three_inst_ratio_change_20": 1.05
+    "three_inst_ratio_change_20": 1.01
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.98,
-    "three_inst_ratio_change_20": 1.22
+    "three_inst_ratio_change_20": 1.26
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
-    "three_inst_ratio_change_20": 1.3299999999999998
+    "three_inst_ratio_change_20": 1.2999999999999998
   },
   {
     "date": "2026-06-25",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.16,
-    "three_inst_ratio_change_20": 1.4100000000000001
+    "three_inst_ratio_change_20": 1.33
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.76,
-    "three_inst_ratio_change_20": 1.9299999999999997
+    "three_inst_ratio_change_20": 1.9499999999999997
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.78,
-    "three_inst_ratio_change_20": 1.9699999999999998
+    "three_inst_ratio_change_20": 2.01
   },
   {
     "date": "2026-07-01",
@@ -2143,5 +2154,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.36,
     "three_inst_ratio_change_20": 3.5900000000000003
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "market": "TWSE",
+    "foreign_ratio": 4.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.34,
+    "three_inst_ratio_change_20": 3.57
   }
 ]

@@ -2035,18 +2035,18 @@
     "three_inst_ratio_change_20": 0.01834242424242305
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "6754",
     "name": "匯僑設計",
     "market": "TWSE",
-    "foreign_ratio": 15.48,
-    "trust_ratio": -0.024503030303030304,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.45549696969697,
-    "three_inst_ratio_change_20": 0.018239393939392556
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.437257575757577
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "6754",
     "name": "匯僑設計",
     "market": "TWSE",
@@ -2057,6 +2057,17 @@
     "three_inst_ratio_change_20": 0.00823939393939277
   },
   {
+    "date": "2026-06-23",
+    "code": "6754",
+    "name": "匯僑設計",
+    "market": "TWSE",
+    "foreign_ratio": 15.48,
+    "trust_ratio": -0.024503030303030304,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.45549696969697,
+    "three_inst_ratio_change_20": 0.018843939393939024
+  },
+  {
     "date": "2026-06-24",
     "code": "6754",
     "name": "匯僑設計",
@@ -2065,7 +2076,7 @@
     "trust_ratio": -0.024503030303030304,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.44549696969697,
-    "three_inst_ratio_change_20": 0.008843939393939237
+    "three_inst_ratio_change_20": -0.011049999999999116
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": -0.037756060606060605,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.39224393939394,
-    "three_inst_ratio_change_20": -0.06430303030303008
+    "three_inst_ratio_change_20": -0.07430303030302987
   },
   {
     "date": "2026-06-29",
@@ -2098,7 +2109,7 @@
     "trust_ratio": -0.037987878787878786,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.38201212121212,
-    "three_inst_ratio_change_20": -0.08453484848484827
+    "three_inst_ratio_change_20": -0.11453484848484763
   },
   {
     "date": "2026-06-30",
@@ -2109,7 +2120,7 @@
     "trust_ratio": -0.03804545454545455,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.381954545454546,
-    "three_inst_ratio_change_20": -0.11459242424242255
+    "three_inst_ratio_change_20": -0.10459242424242277
   },
   {
     "date": "2026-07-01",
@@ -2120,7 +2131,7 @@
     "trust_ratio": -0.05348636363636364,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.366513636363637,
-    "three_inst_ratio_change_20": -0.12003333333333188
+    "three_inst_ratio_change_20": -0.1600333333333328
   },
   {
     "date": "2026-07-02",
@@ -2131,6 +2142,17 @@
     "trust_ratio": -0.05348636363636364,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.366513636363637,
-    "three_inst_ratio_change_20": -0.1600333333333328
+    "three_inst_ratio_change_20": -0.1700333333333326
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6754",
+    "name": "匯僑設計",
+    "market": "TWSE",
+    "foreign_ratio": 15.44,
+    "trust_ratio": -0.05348636363636364,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.386513636363636,
+    "three_inst_ratio_change_20": -0.14992727272727358
   }
 ]

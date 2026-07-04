@@ -638,15 +638,26 @@
     "three_inst_ratio_change_20": 0.5159375000000002
   },
   {
+    "date": "2026-06-19",
+    "code": "2072",
+    "name": "世紀風電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.933125
+  },
+  {
     "date": "2026-06-22",
     "code": "2072",
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 2.05,
-    "trust_ratio": 0.515625,
+    "trust_ratio": 0.48958333333333337,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.565625,
-    "three_inst_ratio_change_20": 0.6324999999999998
+    "three_inst_ratio": 2.5395833333333333,
+    "three_inst_ratio_change_20": 0.6064583333333333
   },
   {
     "date": "2026-06-23",
@@ -654,10 +665,10 @@
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 2.08,
-    "trust_ratio": 0.4921875,
+    "trust_ratio": 0.46614583333333337,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.5721875,
-    "three_inst_ratio_change_20": 0.6390625000000001
+    "three_inst_ratio": 2.5461458333333336,
+    "three_inst_ratio_change_20": 0.5630208333333335
   },
   {
     "date": "2026-06-24",
@@ -665,10 +676,10 @@
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 2.11,
-    "trust_ratio": 0.46875,
+    "trust_ratio": 0.4427083333333333,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.57875,
-    "three_inst_ratio_change_20": 0.5956249999999998
+    "three_inst_ratio": 2.5527083333333334,
+    "three_inst_ratio_change_20": 0.5595833333333333
   },
   {
     "date": "2026-06-26",
@@ -676,10 +687,10 @@
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 1.96,
-    "trust_ratio": 0.4479166666666667,
+    "trust_ratio": 0.421875,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.4079166666666665,
-    "three_inst_ratio_change_20": 0.41479166666666645
+    "three_inst_ratio": 2.381875,
+    "three_inst_ratio_change_20": 0.3287499999999999
   },
   {
     "date": "2026-06-29",
@@ -687,10 +698,10 @@
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 1.89,
-    "trust_ratio": 0.4286458333333333,
+    "trust_ratio": 0.40260416666666665,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.318645833333333,
-    "three_inst_ratio_change_20": 0.265520833333333
+    "three_inst_ratio": 2.2926041666666666,
+    "three_inst_ratio_change_20": 0.06947916666666654
   },
   {
     "date": "2026-06-30",
@@ -698,10 +709,10 @@
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 1.82,
-    "trust_ratio": 0.4286458333333333,
+    "trust_ratio": 0.40260416666666665,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.2486458333333332,
-    "three_inst_ratio_change_20": 0.025520833333333215
+    "three_inst_ratio": 2.2226041666666667,
+    "three_inst_ratio_change_20": -0.10052083333333339
   },
   {
     "date": "2026-07-01",
@@ -709,10 +720,10 @@
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 1.83,
-    "trust_ratio": 0.3776041666666667,
+    "trust_ratio": 0.3515625,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.2076041666666666,
-    "three_inst_ratio_change_20": -0.11552083333333352
+    "three_inst_ratio": 2.1815625,
+    "three_inst_ratio_change_20": -0.08156249999999998
   },
   {
     "date": "2026-07-02",
@@ -720,9 +731,20 @@
     "name": "世紀風電",
     "market": "TWSE",
     "foreign_ratio": 1.75,
-    "trust_ratio": 0.3776041666666667,
+    "trust_ratio": 0.3515625,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.1276041666666665,
-    "three_inst_ratio_change_20": -0.13552083333333353
+    "three_inst_ratio": 2.1015625,
+    "three_inst_ratio_change_20": -0.3415625000000002
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2072",
+    "name": "世紀風電",
+    "market": "TWSE",
+    "foreign_ratio": 1.74,
+    "trust_ratio": 0.3203125,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0603125,
+    "three_inst_ratio_change_20": -0.5235416666666666
   }
 ]

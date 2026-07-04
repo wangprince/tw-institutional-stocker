@@ -2101,18 +2101,18 @@
     "three_inst_ratio_change_20": -0.20000000000000018
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "6142",
     "name": "友勁",
     "market": "TWSE",
-    "foreign_ratio": 2.2,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.2,
-    "three_inst_ratio_change_20": -0.34999999999999964
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.55
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "6142",
     "name": "友勁",
     "market": "TWSE",
@@ -2123,7 +2123,7 @@
     "three_inst_ratio_change_20": -0.27
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-23",
     "code": "6142",
     "name": "友勁",
     "market": "TWSE",
@@ -2132,6 +2132,17 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2,
     "three_inst_ratio_change_20": -0.25
+  },
+  {
+    "date": "2026-06-24",
+    "code": "6142",
+    "name": "友勁",
+    "market": "TWSE",
+    "foreign_ratio": 2.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2,
+    "three_inst_ratio_change_20": -0.29000000000000004
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.13,
-    "three_inst_ratio_change_20": -0.3600000000000003
+    "three_inst_ratio_change_20": -0.3799999999999999
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.14,
-    "three_inst_ratio_change_20": -0.36999999999999966
+    "three_inst_ratio_change_20": -0.4099999999999997
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.21,
-    "three_inst_ratio_change_20": -0.33999999999999986
+    "three_inst_ratio_change_20": -0.45999999999999996
   },
   {
     "date": "2026-07-01",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
-    "three_inst_ratio_change_20": -0.44999999999999973
+    "three_inst_ratio_change_20": -0.45999999999999996
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6142",
+    "name": "友勁",
+    "market": "TWSE",
+    "foreign_ratio": 2.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.45,
+    "three_inst_ratio_change_20": -0.21999999999999975
   }
 ]

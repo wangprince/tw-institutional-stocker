@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.31000000000000005
   },
   {
+    "date": "2026-06-19",
+    "code": "3027",
+    "name": "盛達",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.0
+  },
+  {
     "date": "2026-06-22",
     "code": "3027",
     "name": "盛達",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.13,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.08,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.03,
-    "three_inst_ratio_change_20": 0.06999999999999984
+    "three_inst_ratio_change_20": 0.1599999999999997
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": 0.30000000000000004
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.94,
-    "three_inst_ratio_change_20": 0.24
+    "three_inst_ratio_change_20": 0.4099999999999999
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.92,
-    "three_inst_ratio_change_20": 0.3899999999999999
+    "three_inst_ratio_change_20": 0.20999999999999996
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.98,
-    "three_inst_ratio_change_20": 0.27
+    "three_inst_ratio_change_20": 0.18999999999999995
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.98,
-    "three_inst_ratio_change_20": 0.18999999999999995
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.57,
-    "three_inst_ratio_change_20": -0.42999999999999994
+    "three_inst_ratio_change_20": -0.7899999999999998
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3027",
+    "name": "盛達",
+    "market": "TWSE",
+    "foreign_ratio": 1.64,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.64,
+    "three_inst_ratio_change_20": -0.72
   }
 ]

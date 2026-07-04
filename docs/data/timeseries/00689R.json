@@ -2090,6 +2090,17 @@
     "three_inst_ratio_change_20": 6.659999999999997
   },
   {
+    "date": "2026-06-19",
+    "code": "00689R",
+    "name": "國泰20年美債反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -28.1
+  },
+  {
     "date": "2026-06-22",
     "code": "00689R",
     "name": "國泰20年美債反1",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 35.76,
-    "three_inst_ratio_change_20": 7.659999999999997
+    "three_inst_ratio_change_20": 3.1499999999999986
   },
   {
     "date": "2026-06-25",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 36.5,
-    "three_inst_ratio_change_20": 3.8900000000000006
+    "three_inst_ratio_change_20": 3.289999999999999
   },
   {
     "date": "2026-06-26",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.23,
-    "three_inst_ratio_change_20": 4.019999999999996
+    "three_inst_ratio_change_20": -0.6700000000000017
   },
   {
     "date": "2026-06-29",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.23,
-    "three_inst_ratio_change_20": -0.6700000000000017
+    "three_inst_ratio_change_20": -1.4100000000000037
   },
   {
     "date": "2026-06-30",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.23,
-    "three_inst_ratio_change_20": -1.4100000000000037
+    "three_inst_ratio_change_20": -3.710000000000001
   },
   {
     "date": "2026-07-01",
@@ -2187,5 +2198,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 36.28,
     "three_inst_ratio_change_20": -4.659999999999997
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00689R",
+    "name": "國泰20年美債反1",
+    "market": "TWSE",
+    "foreign_ratio": 36.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.27,
+    "three_inst_ratio_change_20": -4.669999999999995
   }
 ]

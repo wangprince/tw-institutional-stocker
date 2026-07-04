@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.3693670125708941
   },
   {
+    "date": "2026-06-19",
+    "code": "2889",
+    "name": "國票金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.57805313787513
+  },
+  {
     "date": "2026-06-22",
     "code": "2889",
     "name": "國票金",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0975577564088738,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.837557756408874,
-    "three_inst_ratio_change_20": 0.25950461853374307
+    "three_inst_ratio_change_20": 0.27950461853374264
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0975577564088738,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.897557756408874,
-    "three_inst_ratio_change_20": 0.33950461853374314
+    "three_inst_ratio_change_20": 0.32950461853374335
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0975577564088738,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.947557756408873,
-    "three_inst_ratio_change_20": 0.3795046185337423
+    "three_inst_ratio_change_20": 0.4095046185337434
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0975577564088738,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.957557756408873,
-    "three_inst_ratio_change_20": 0.4195046185337432
+    "three_inst_ratio_change_20": 0.39950461853374186
   },
   {
     "date": "2026-06-29",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.09769536237172283,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.877695362371723,
-    "three_inst_ratio_change_20": 0.31964222449659196
+    "three_inst_ratio_change_20": 0.31980735165201146
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.09769536237172283,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.827695362371724,
-    "three_inst_ratio_change_20": 0.26980735165201253
+    "three_inst_ratio_change_20": 0.21997247880743132
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.09769536237172283,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.807695362371724,
-    "three_inst_ratio_change_20": 0.19997247880743174
+    "three_inst_ratio_change_20": 0.18997247880743195
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2889",
+    "name": "國票金",
+    "market": "TWSE",
+    "foreign_ratio": 8.77,
+    "trust_ratio": 0.09769536237172283,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.867695362371723,
+    "three_inst_ratio_change_20": 0.25997247880743046
   }
 ]

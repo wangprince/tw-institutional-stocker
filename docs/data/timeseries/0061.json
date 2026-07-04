@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.6491121632893662
   },
   {
+    "date": "2026-06-19",
+    "code": "0061",
+    "name": "元大寶滬深",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.276262073780985
+  },
+  {
     "date": "2026-06-22",
     "code": "0061",
     "name": "元大寶滬深",
@@ -2109,7 +2120,7 @@
     "trust_ratio": -1.2107026110819645,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.969297388918035,
-    "three_inst_ratio_change_20": 0.6930353151370503
+    "three_inst_ratio_change_20": 0.5130353151370506
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": -1.2107026110819645,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.129297388918035,
-    "three_inst_ratio_change_20": 0.6730353151370503
+    "three_inst_ratio_change_20": 0.49303531513705057
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": -1.2107026110819645,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.139297388918035,
-    "three_inst_ratio_change_20": 0.5030353151370504
+    "three_inst_ratio_change_20": 0.37303531513705046
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": -1.2168410805548795,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.223158919445121,
-    "three_inst_ratio_change_20": 0.45689684566413646
+    "three_inst_ratio_change_20": 0.4125671988557382
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": -1.2168410805548795,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.223158919445121,
-    "three_inst_ratio_change_20": 0.4125671988557382
+    "three_inst_ratio_change_20": 0.12829308059518585
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": -1.3770584894946054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.472941510505394,
-    "three_inst_ratio_change_20": 0.3780756716554592
+    "three_inst_ratio_change_20": 0.5880756716554592
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": -2.2308753143506124,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.059124685649388,
-    "three_inst_ratio_change_20": 0.1742588467994528
+    "three_inst_ratio_change_20": 0.14004107676889666
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": -2.2308753143506124,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.0691246856493875,
-    "three_inst_ratio_change_20": 0.15004107676889644
+    "three_inst_ratio_change_20": 0.13588049086320098
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": -2.242243874597415,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9877561254025853,
-    "three_inst_ratio_change_20": 0.05451193061639881
+    "three_inst_ratio_change_20": 0.1145119306163993
+  },
+  {
+    "date": "2026-07-03",
+    "code": "0061",
+    "name": "元大寶滬深",
+    "market": "TWSE",
+    "foreign_ratio": 6.43,
+    "trust_ratio": -2.242243874597415,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.187756125402585,
+    "three_inst_ratio_change_20": 0.3045119306163979
   }
 ]

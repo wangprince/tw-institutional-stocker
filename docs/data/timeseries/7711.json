@@ -1551,6 +1551,17 @@
     "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
+    "date": "2026-06-19",
+    "code": "7711",
+    "name": "永擎",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.23
+  },
+  {
     "date": "2026-06-22",
     "code": "7711",
     "name": "永擎",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0,
-    "three_inst_ratio_change_20": -0.22999999999999998
+    "three_inst_ratio_change_20": -0.17999999999999994
   },
   {
     "date": "2026-06-23",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.91,
-    "three_inst_ratio_change_20": -0.2699999999999999
+    "three_inst_ratio_change_20": -0.2899999999999999
   },
   {
     "date": "2026-06-24",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.94,
-    "three_inst_ratio_change_20": -0.26
+    "three_inst_ratio_change_20": -0.07000000000000006
   },
   {
     "date": "2026-06-25",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.89,
-    "three_inst_ratio_change_20": -0.12
+    "three_inst_ratio_change_20": -0.63
   },
   {
     "date": "2026-06-29",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.92,
-    "three_inst_ratio_change_20": -0.6
+    "three_inst_ratio_change_20": -0.32999999999999996
   },
   {
     "date": "2026-06-30",
@@ -1625,7 +1636,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.87,
-    "three_inst_ratio_change_20": -0.38
+    "three_inst_ratio_change_20": -0.5399999999999999
   },
   {
     "date": "2026-07-01",
@@ -1636,7 +1647,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
-    "three_inst_ratio_change_20": -0.58
+    "three_inst_ratio_change_20": -0.41000000000000003
   },
   {
     "date": "2026-07-02",
@@ -1647,6 +1658,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.86,
-    "three_inst_ratio_change_20": -0.38
+    "three_inst_ratio_change_20": -0.29999999999999993
+  },
+  {
+    "date": "2026-07-03",
+    "code": "7711",
+    "name": "永擎",
+    "market": "TWSE",
+    "foreign_ratio": 0.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.86,
+    "three_inst_ratio_change_20": -0.2899999999999999
   }
 ]

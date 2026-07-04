@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": -0.31000000000000005
   },
   {
+    "date": "2026-06-19",
+    "code": "6923",
+    "name": "中台",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.27
+  },
+  {
     "date": "2026-06-22",
     "code": "6923",
     "name": "中台",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.03,
-    "three_inst_ratio_change_20": -0.24
+    "three_inst_ratio_change_20": -0.32000000000000006
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": -0.3600000000000001
+    "three_inst_ratio_change_20": -0.31000000000000005
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.94,
-    "three_inst_ratio_change_20": -0.3600000000000001
+    "three_inst_ratio_change_20": -0.30000000000000004
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.95,
-    "three_inst_ratio_change_20": -0.29000000000000004
+    "three_inst_ratio_change_20": -0.3400000000000001
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.94,
-    "three_inst_ratio_change_20": -0.3500000000000001
+    "three_inst_ratio_change_20": -0.3800000000000001
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": -0.39
+    "three_inst_ratio_change_20": -0.43000000000000005
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.94,
-    "three_inst_ratio_change_20": -0.42000000000000015
+    "three_inst_ratio_change_20": -0.3600000000000001
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.95,
-    "three_inst_ratio_change_20": -0.3500000000000001
+    "three_inst_ratio_change_20": -0.42000000000000015
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6923",
+    "name": "中台",
+    "market": "TWSE",
+    "foreign_ratio": 1.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0,
+    "three_inst_ratio_change_20": -0.3600000000000001
   }
 ]

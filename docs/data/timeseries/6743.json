@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
+    "date": "2026-06-19",
+    "code": "6743",
+    "name": "安普新",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.83
+  },
+  {
     "date": "2026-06-22",
     "code": "6743",
     "name": "安普新",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.77,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": -0.029999999999999805
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.83,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.050000000000000266
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.74,
-    "three_inst_ratio_change_20": -0.03999999999999959
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.67,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.16,
-    "three_inst_ratio_change_20": 0.3900000000000001
+    "three_inst_ratio_change_20": 0.41000000000000014
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.68,
-    "three_inst_ratio_change_20": -0.06999999999999984
+    "three_inst_ratio_change_20": -0.1299999999999999
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6,
-    "three_inst_ratio_change_20": -0.20999999999999996
+    "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.3342893333333333,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.034289333333334,
-    "three_inst_ratio_change_20": 0.3142893333333334
+    "three_inst_ratio_change_20": 0.20428933333333354
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.3342893333333333,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7442893333333336,
-    "three_inst_ratio_change_20": -0.08571066666666649
+    "three_inst_ratio_change_20": 0.004289333333333367
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6743",
+    "name": "安普新",
+    "market": "TWSE",
+    "foreign_ratio": 3.42,
+    "trust_ratio": 0.3342893333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.7542893333333334,
+    "three_inst_ratio_change_20": -0.03571066666666667
   }
 ]

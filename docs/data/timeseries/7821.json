@@ -484,6 +484,17 @@
     "three_inst_ratio_change_20": 0.34
   },
   {
+    "date": "2026-06-19",
+    "code": "7821",
+    "name": "神數",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.48
+  },
+  {
     "date": "2026-06-22",
     "code": "7821",
     "name": "神數",
@@ -492,7 +503,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
-    "three_inst_ratio_change_20": 0.27
+    "three_inst_ratio_change_20": 0.28
   },
   {
     "date": "2026-06-23",
@@ -503,7 +514,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.72,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio_change_20": 0.25999999999999995
   },
   {
     "date": "2026-06-24",
@@ -514,7 +525,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.72,
-    "three_inst_ratio_change_20": 0.25999999999999995
+    "three_inst_ratio_change_20": 0.31
   },
   {
     "date": "2026-06-25",
@@ -525,7 +536,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.66,
-    "three_inst_ratio_change_20": 0.25000000000000006
+    "three_inst_ratio_change_20": 0.23000000000000004
   },
   {
     "date": "2026-06-26",
@@ -536,7 +547,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.57,
-    "three_inst_ratio_change_20": 0.13999999999999996
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-29",
@@ -547,7 +558,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.61,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-06-30",
@@ -558,7 +569,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-07-01",
@@ -569,7 +580,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.64,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-07-02",
@@ -580,6 +591,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.05999999999999994
+  },
+  {
+    "date": "2026-07-03",
+    "code": "7821",
+    "name": "神數",
+    "market": "TWSE",
+    "foreign_ratio": 0.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.75,
+    "three_inst_ratio_change_20": 0.010000000000000009
   }
 ]

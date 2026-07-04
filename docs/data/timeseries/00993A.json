@@ -957,6 +957,17 @@
     "three_inst_ratio_change_20": -0.14000000000000012
   },
   {
+    "date": "2026-06-19",
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.16
+  },
+  {
     "date": "2026-06-22",
     "code": "00993A",
     "name": "主動安聯台灣",
@@ -965,7 +976,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.16,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.7599999999999998
   },
   {
     "date": "2026-06-23",
@@ -976,7 +987,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2,
-    "three_inst_ratio_change_20": -0.7199999999999998
+    "three_inst_ratio_change_20": -0.9899999999999998
   },
   {
     "date": "2026-06-24",
@@ -987,7 +998,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2,
-    "three_inst_ratio_change_20": -0.9899999999999998
+    "three_inst_ratio_change_20": -1.23
   },
   {
     "date": "2026-06-25",
@@ -998,7 +1009,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.18,
-    "three_inst_ratio_change_20": -1.25
+    "three_inst_ratio_change_20": -1.27
   },
   {
     "date": "2026-06-26",
@@ -1009,7 +1020,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.87,
-    "three_inst_ratio_change_20": -1.58
+    "three_inst_ratio_change_20": -1.92
   },
   {
     "date": "2026-06-29",
@@ -1020,7 +1031,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
-    "three_inst_ratio_change_20": -3.04
+    "three_inst_ratio_change_20": -3.37
   },
   {
     "date": "2026-06-30",
@@ -1031,7 +1042,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.22,
-    "three_inst_ratio_change_20": -2.9000000000000004
+    "three_inst_ratio_change_20": 0.17999999999999994
   },
   {
     "date": "2026-07-01",
@@ -1042,7 +1053,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.43,
-    "three_inst_ratio_change_20": 0.3899999999999999
+    "three_inst_ratio_change_20": 0.06999999999999984
   },
   {
     "date": "2026-07-02",
@@ -1053,6 +1064,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.41,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00993A",
+    "name": "主動安聯台灣",
+    "market": "TWSE",
+    "foreign_ratio": 1.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.43,
+    "three_inst_ratio_change_20": 0.020000000000000018
   }
 ]

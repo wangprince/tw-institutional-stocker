@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": 4.474270451043264
   },
   {
+    "date": "2026-06-19",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -30.749470622498027
+  },
+  {
     "date": "2026-06-22",
     "code": "3596",
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 33.75,
-    "trust_ratio": 0.738198821161306,
+    "trust_ratio": 0.8879576271163749,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 34.67017846112489,
-    "three_inst_ratio_change_20": 3.920707838626864
+    "three_inst_ratio": 34.819937267079965,
+    "three_inst_ratio_change_20": 3.47046664458194
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 33.96,
-    "trust_ratio": 0.974636208744915,
+    "trust_ratio": 1.124395014699984,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 35.116615848708506,
-    "three_inst_ratio_change_20": 3.7671452262104808
+    "three_inst_ratio": 35.26637465466357,
+    "three_inst_ratio_change_20": 3.506904032165547
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 34.31,
-    "trust_ratio": 1.2110735963285242,
+    "trust_ratio": 1.3608324022835931,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 35.703053236292114,
-    "three_inst_ratio_change_20": 3.9435826137940886
+    "three_inst_ratio": 35.85281204224718,
+    "three_inst_ratio_change_20": 3.9996787440351618
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 34.63,
-    "trust_ratio": 1.4661173810156416,
+    "trust_ratio": 1.6158761869707106,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 36.27809702097923,
-    "three_inst_ratio_change_20": 4.424963722767213
+    "three_inst_ratio": 36.4278558269343,
+    "three_inst_ratio_change_20": 4.584722528722278
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 33.83,
-    "trust_ratio": 1.7352294171712659,
+    "trust_ratio": 1.8849882231263346,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 35.74720905713485,
-    "three_inst_ratio_change_20": 3.9040757589228328
+    "three_inst_ratio": 35.89696786308992,
+    "three_inst_ratio_change_20": 3.9438345648779
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 33.88,
-    "trust_ratio": 1.9368882718664728,
+    "trust_ratio": 2.086647077821542,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 35.99886791183006,
-    "three_inst_ratio_change_20": 4.045734613618041
+    "three_inst_ratio": 36.14862671778513,
+    "three_inst_ratio_change_20": 3.709123936081106
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 34.1,
-    "trust_ratio": 2.1330405406481683,
+    "trust_ratio": 2.2827993466032375,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 36.415020180611755,
-    "three_inst_ratio_change_20": 3.9755173989077335
+    "three_inst_ratio": 36.56477898656682,
+    "three_inst_ratio_change_20": 3.885276204862805
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 33.82,
-    "trust_ratio": 2.5069828333432134,
+    "trust_ratio": 2.6567416392982826,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 36.5089624733068,
-    "three_inst_ratio_change_20": 3.8294596916027857
+    "three_inst_ratio": 36.65872127926187,
+    "three_inst_ratio_change_20": 3.8592184975578476
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "智易",
     "market": "TWSE",
     "foreign_ratio": 33.7,
-    "trust_ratio": 2.5257408045109315,
+    "trust_ratio": 2.6754996104660003,
     "dealer_ratio": 0.18197963996358393,
-    "three_inst_ratio": 36.40772044447452,
-    "three_inst_ratio_change_20": 3.6082176627704996
+    "three_inst_ratio": 36.55747925042959,
+    "three_inst_ratio_change_20": 3.73797646872557
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 33.74,
+    "trust_ratio": 2.6818530143550032,
+    "dealer_ratio": 0.18197963996358393,
+    "three_inst_ratio": 36.603832654318595,
+    "three_inst_ratio_change_20": 3.4843298726145733
   }
 ]

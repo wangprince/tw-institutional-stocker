@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": -3.554859927571693
   },
   {
+    "date": "2026-06-19",
+    "code": "2464",
+    "name": "盟立",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.352688985622988
+  },
+  {
     "date": "2026-06-22",
     "code": "2464",
     "name": "盟立",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.05271440862343181,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.302714408623432,
-    "three_inst_ratio_change_20": -4.049974576999556
+    "three_inst_ratio_change_20": -5.0399745769995565
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.05319883145973274,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.393198831459733,
-    "three_inst_ratio_change_20": -4.949490154163255
+    "three_inst_ratio_change_20": -7.139490154163255
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.05319883145973274,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.643198831459733,
-    "three_inst_ratio_change_20": -6.889490154163255
+    "three_inst_ratio_change_20": -5.879490154163255
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.05465209996863556,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.784652099968636,
-    "three_inst_ratio_change_20": -6.738036885654352
+    "three_inst_ratio_change_20": -6.178036885654351
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.05513652280493649,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.865136522804936,
-    "three_inst_ratio_change_20": -5.097552462818052
+    "three_inst_ratio_change_20": -5.7275524628180525
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.05513652280493649,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.105136522804936,
-    "three_inst_ratio_change_20": -5.487552462818052
+    "three_inst_ratio_change_20": -5.979451661226498
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.05513652280493649,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.985136522804936,
-    "three_inst_ratio_change_20": -6.099451661226498
+    "three_inst_ratio_change_20": -4.440774529451183
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": -0.03109074205663052,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.27890925794337,
-    "three_inst_ratio_change_20": -1.1470017943127484
+    "three_inst_ratio_change_20": -1.1170017943127473
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": -0.052405346853871805,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.927594653146128,
-    "three_inst_ratio_change_20": -0.46831639910998923
+    "three_inst_ratio_change_20": -0.8583163991099898
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2464",
+    "name": "盟立",
+    "market": "TWSE",
+    "foreign_ratio": 9.27,
+    "trust_ratio": -0.052405346853871805,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.217594653146127,
+    "three_inst_ratio_change_20": -2.218316399109991
   }
 ]

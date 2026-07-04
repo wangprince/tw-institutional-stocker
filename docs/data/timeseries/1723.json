@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": 0.7980905451851319
   },
   {
+    "date": "2026-06-19",
+    "code": "1723",
+    "name": "中碳",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.062479379030739
+  },
+  {
     "date": "2026-06-22",
     "code": "1723",
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.48,
-    "trust_ratio": 0.1297257021057601,
+    "trust_ratio": 0.12803725788554104,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.609725702105761,
-    "three_inst_ratio_change_20": 0.5472463230750222
+    "three_inst_ratio": 8.608037257885542,
+    "three_inst_ratio_change_20": 0.3355578788548019
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.38,
-    "trust_ratio": 0.1284593689405958,
+    "trust_ratio": 0.12677092472037677,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.508459368940597,
-    "three_inst_ratio_change_20": 0.23597998990985758
+    "three_inst_ratio": 8.506770924720378,
+    "three_inst_ratio_change_20": 0.3342915456896396
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.42,
-    "trust_ratio": 0.1284593689405958,
+    "trust_ratio": 0.12677092472037677,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.548459368940597,
-    "three_inst_ratio_change_20": 0.37597998990985815
+    "three_inst_ratio": 8.546770924720377,
+    "three_inst_ratio_change_20": 0.44429154568963725
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.32,
-    "trust_ratio": 0.1284593689405958,
+    "trust_ratio": 0.12677092472037677,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.448459368940597,
-    "three_inst_ratio_change_20": 0.345979989909857
+    "three_inst_ratio": 8.446770924720377,
+    "three_inst_ratio_change_20": 0.2142915456896386
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.43,
-    "trust_ratio": 0.1284593689405958,
+    "trust_ratio": 0.12677092472037677,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.558459368940596,
-    "three_inst_ratio_change_20": 0.32597998990985744
+    "three_inst_ratio": 8.556770924720377,
+    "three_inst_ratio_change_20": 0.3234473235795292
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.37,
-    "trust_ratio": 0.1284593689405958,
+    "trust_ratio": 0.12677092472037677,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.498459368940596,
-    "three_inst_ratio_change_20": 0.2651357677997481
+    "three_inst_ratio": 8.496770924720376,
+    "three_inst_ratio_change_20": 0.18344732357952864
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.29,
-    "trust_ratio": 0.1284593689405958,
+    "trust_ratio": 0.12677092472037677,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.418459368940596,
-    "three_inst_ratio_change_20": 0.10513576779974798
+    "three_inst_ratio": 8.416770924720376,
+    "three_inst_ratio_change_20": 0.1802312155515171
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.26,
-    "trust_ratio": 0.1284593689405958,
+    "trust_ratio": 0.12677092472037677,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.388459368940596,
-    "three_inst_ratio_change_20": 0.15191965977173716
+    "three_inst_ratio": 8.386770924720377,
+    "three_inst_ratio_change_20": 0.06854277133129827
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "中碳",
     "market": "TWSE",
     "foreign_ratio": 8.27,
-    "trust_ratio": 0.12550459155521246,
+    "trust_ratio": 0.12381614733499341,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.395504591555213,
-    "three_inst_ratio_change_20": 0.07727643816613394
+    "three_inst_ratio": 8.393816147334993,
+    "three_inst_ratio_change_20": 0.07376888440438023
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1723",
+    "name": "中碳",
+    "market": "TWSE",
+    "foreign_ratio": 8.2,
+    "trust_ratio": 0.12381614733499341,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.323816147334993,
+    "three_inst_ratio_change_20": 0.016592996468448362
   }
 ]

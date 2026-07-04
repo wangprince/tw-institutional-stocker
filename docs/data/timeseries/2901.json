@@ -1749,18 +1749,18 @@
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "2901",
     "name": "欣欣",
     "market": "TWSE",
-    "foreign_ratio": 0.35,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.3
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "2901",
     "name": "欣欣",
     "market": "TWSE",
@@ -1771,7 +1771,7 @@
     "three_inst_ratio_change_20": 0.06999999999999995
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-23",
     "code": "2901",
     "name": "欣欣",
     "market": "TWSE",
@@ -1782,6 +1782,17 @@
     "three_inst_ratio_change_20": 0.06
   },
   {
+    "date": "2026-06-24",
+    "code": "2901",
+    "name": "欣欣",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": 0.06999999999999995
+  },
+  {
     "date": "2026-06-25",
     "code": "2901",
     "name": "欣欣",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": 0.06
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-06-26",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-06-30",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-07-02",
@@ -1834,6 +1845,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": 0.02999999999999997
+    "three_inst_ratio_change_20": 0.019999999999999962
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2901",
+    "name": "欣欣",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.35,
+    "three_inst_ratio_change_20": 0.009999999999999953
   }
 ]

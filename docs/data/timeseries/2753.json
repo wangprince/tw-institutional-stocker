@@ -2046,15 +2046,26 @@
     "three_inst_ratio_change_20": 1.0894048405519907
   },
   {
+    "date": "2026-06-19",
+    "code": "2753",
+    "name": "八方雲集",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.514482184025292
+  },
+  {
     "date": "2026-06-22",
     "code": "2753",
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 5.23,
-    "trust_ratio": 0.4951564410220417,
+    "trust_ratio": 0.4912716665829392,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.725156441022042,
-    "three_inst_ratio_change_20": 1.2106742569967501
+    "three_inst_ratio": 5.72127166658294,
+    "three_inst_ratio_change_20": 1.3506367446904637
   },
   {
     "date": "2026-06-23",
@@ -2062,10 +2073,10 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 5.23,
-    "trust_ratio": 0.4925590889347159,
+    "trust_ratio": 0.48867431449561344,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.722559088934716,
-    "three_inst_ratio_change_20": 1.35192416704224
+    "three_inst_ratio": 5.718674314495614,
+    "three_inst_ratio_change_20": 1.3706052343531816
   },
   {
     "date": "2026-06-24",
@@ -2073,10 +2084,10 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 5.19,
-    "trust_ratio": 0.4886578090808471,
+    "trust_ratio": 0.4847730346417446,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.678657809080848,
-    "three_inst_ratio_change_20": 1.330588728938416
+    "three_inst_ratio": 5.674773034641745,
+    "three_inst_ratio_change_20": 1.483117058382173
   },
   {
     "date": "2026-06-25",
@@ -2084,10 +2095,10 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 5.53,
-    "trust_ratio": 0.4886578090808471,
+    "trust_ratio": 0.4847730346417446,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.018657809080848,
-    "three_inst_ratio_change_20": 1.827001832821276
+    "three_inst_ratio": 6.0147730346417445,
+    "three_inst_ratio_change_20": 1.9595316627572847
   },
   {
     "date": "2026-06-26",
@@ -2095,10 +2106,10 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 5.29,
-    "trust_ratio": 0.4901583013323351,
+    "trust_ratio": 0.4862735268932326,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.780158301332335,
-    "three_inst_ratio_change_20": 1.7249169294478754
+    "three_inst_ratio": 5.776273526893233,
+    "three_inst_ratio_change_20": 1.7661623380166098
   },
   {
     "date": "2026-06-29",
@@ -2106,10 +2117,10 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 4.88,
-    "trust_ratio": 0.4901583013323351,
+    "trust_ratio": 0.4862735268932326,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.370158301332335,
-    "three_inst_ratio_change_20": 1.360047112455712
+    "three_inst_ratio": 5.366273526893233,
+    "three_inst_ratio_change_20": 1.3812925210244473
   },
   {
     "date": "2026-06-30",
@@ -2117,10 +2128,10 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 4.65,
-    "trust_ratio": 0.4888528730735405,
+    "trust_ratio": 0.48496809863443796,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.1388528730735406,
-    "three_inst_ratio_change_20": 1.1538718672047552
+    "three_inst_ratio": 5.134968098634438,
+    "three_inst_ratio_change_20": 1.166400196648513
   },
   {
     "date": "2026-07-01",
@@ -2128,10 +2139,10 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 4.35,
-    "trust_ratio": 0.8834223155248311,
+    "trust_ratio": 0.8795375410857285,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.23342231552483,
-    "three_inst_ratio_change_20": 1.264854413538905
+    "three_inst_ratio": 5.229537541085728,
+    "three_inst_ratio_change_20": 1.3160998221076396
   },
   {
     "date": "2026-07-02",
@@ -2139,9 +2150,20 @@
     "name": "八方雲集",
     "market": "TWSE",
     "foreign_ratio": 4.21,
-    "trust_ratio": 0.8806989220883804,
+    "trust_ratio": 0.8768141476492778,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.0906989220883805,
-    "three_inst_ratio_change_20": 1.1772612031102923
+    "three_inst_ratio": 5.086814147649278,
+    "three_inst_ratio_change_20": 1.0559407699289833
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2753",
+    "name": "八方雲集",
+    "market": "TWSE",
+    "foreign_ratio": 4.27,
+    "trust_ratio": 0.8741867857169223,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.144186785716922,
+    "three_inst_ratio_change_20": 1.1797235108949837
   }
 ]

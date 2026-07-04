@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.3899999999999999
   },
   {
+    "date": "2026-06-19",
+    "code": "8110",
+    "name": "華東",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.265593928793694
+  },
+  {
     "date": "2026-06-22",
     "code": "8110",
     "name": "華東",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.635593928793694,
-    "three_inst_ratio_change_20": 0.3700000000000001
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.315593928793694,
-    "three_inst_ratio_change_20": -0.31000000000000005
+    "three_inst_ratio_change_20": -1.4100000000000001
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.075593928793694,
-    "three_inst_ratio_change_20": -1.6500000000000004
+    "three_inst_ratio_change_20": -0.96
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.345593928793694,
-    "three_inst_ratio_change_20": 0.31000000000000005
+    "three_inst_ratio_change_20": 0.7199999999999998
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.155593928793694,
-    "three_inst_ratio_change_20": 0.5299999999999998
+    "three_inst_ratio_change_20": 0.8300000000000001
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6455939287936943,
-    "three_inst_ratio_change_20": 0.3200000000000003
+    "three_inst_ratio_change_20": 0.7500000000000002
   },
   {
     "date": "2026-06-30",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.285593928793694,
-    "three_inst_ratio_change_20": 0.3899999999999999
+    "three_inst_ratio_change_20": 0.5599999999999998
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0055939287936940755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.975593928793694,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio_change_20": 0.28
+  },
+  {
+    "date": "2026-07-03",
+    "code": "8110",
+    "name": "華東",
+    "market": "TWSE",
+    "foreign_ratio": 1.72,
+    "trust_ratio": 0.0055939287936940755,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.725593928793694,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

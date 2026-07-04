@@ -2057,6 +2057,17 @@
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
+    "date": "2026-06-19",
+    "code": "2008",
+    "name": "高興昌",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.67
+  },
+  {
     "date": "2026-06-22",
     "code": "2008",
     "name": "高興昌",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.7,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.020000000000000462
   },
   {
     "date": "2026-06-24",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.7,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-06-26",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.7,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-29",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.7,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-06-30",
@@ -2153,6 +2164,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.7,
+    "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2008",
+    "name": "高興昌",
+    "market": "TWSE",
+    "foreign_ratio": 7.71,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.71,
     "three_inst_ratio_change_20": -0.009999999999999787
   }
 ]

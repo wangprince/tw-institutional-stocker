@@ -1892,6 +1892,17 @@
     "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
+    "date": "2026-06-19",
+    "code": "6887",
+    "name": "寶綠特-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -53.26
+  },
+  {
     "date": "2026-06-22",
     "code": "6887",
     "name": "寶綠特-KY",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.3,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-06-23",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.32,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-06-24",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.31,
-    "three_inst_ratio_change_20": 0.05000000000000426
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-06-25",
@@ -1933,7 +1944,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.29,
-    "three_inst_ratio_change_20": 0.00999999999999801
+    "three_inst_ratio_change_20": -0.00999999999999801
   },
   {
     "date": "2026-06-26",
@@ -1955,7 +1966,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.29,
-    "three_inst_ratio_change_20": -0.00999999999999801
+    "three_inst_ratio_change_20": -0.03999999999999915
   },
   {
     "date": "2026-06-30",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.3,
     "three_inst_ratio_change_20": -0.030000000000001137
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6887",
+    "name": "寶綠特-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.32,
+    "three_inst_ratio_change_20": -0.00999999999999801
   }
 ]

@@ -2046,18 +2046,18 @@
     "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "6914",
     "name": "阜爾運通",
     "market": "TWSE",
-    "foreign_ratio": 2.14,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.14,
-    "three_inst_ratio_change_20": -0.06999999999999984
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.21
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "6914",
     "name": "阜爾運通",
     "market": "TWSE",
@@ -2068,6 +2068,17 @@
     "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
+    "date": "2026-06-23",
+    "code": "6914",
+    "name": "阜爾運通",
+    "market": "TWSE",
+    "foreign_ratio": 2.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.14,
+    "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
     "date": "2026-06-24",
     "code": "6914",
     "name": "阜爾運通",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.16,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.19,
-    "three_inst_ratio_change_20": 0.10000000000000009
+    "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.17,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.14,
-    "three_inst_ratio_change_20": 0.010000000000000231
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-06-30",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.16,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-07-02",
@@ -2143,5 +2154,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.18,
     "three_inst_ratio_change_20": 0.0900000000000003
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6914",
+    "name": "阜爾運通",
+    "market": "TWSE",
+    "foreign_ratio": 2.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.18,
+    "three_inst_ratio_change_20": 0.06000000000000005
   }
 ]

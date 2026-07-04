@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.03999999999999959
   },
   {
+    "date": "2026-06-19",
+    "code": "1614",
+    "name": "三洋電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.23
+  },
+  {
     "date": "2026-06-22",
     "code": "1614",
     "name": "三洋電",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
-    "three_inst_ratio_change_20": 0.029999999999999805
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-06-29",
@@ -2198,5 +2209,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.25,
     "three_inst_ratio_change_20": -0.029999999999999805
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1614",
+    "name": "三洋電",
+    "market": "TWSE",
+    "foreign_ratio": 2.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.25,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

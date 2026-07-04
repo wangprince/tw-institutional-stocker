@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": -2.81397739423646
   },
   {
+    "date": "2026-06-19",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.987180700596483
+  },
+  {
     "date": "2026-06-22",
     "code": "2312",
     "name": "金寶",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.08447030622432172,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 8.4830300229055,
-    "three_inst_ratio_change_20": -3.5041506776909834
+    "three_inst_ratio_change_20": -3.5600601883323666
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.08447030622432172,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 8.073030022905499,
-    "three_inst_ratio_change_20": -3.9700601883323667
+    "three_inst_ratio_change_20": -5.795969698973751
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.08447030622432172,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 8.1230300229055,
-    "three_inst_ratio_change_20": -5.7459696989737505
+    "three_inst_ratio_change_20": -4.135969698973751
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.08427107409298124,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 6.682830790774158,
-    "three_inst_ratio_change_20": -5.576168931105093
+    "three_inst_ratio_change_20": -5.056168931105093
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.08427107409298124,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 6.5028307907741585,
-    "three_inst_ratio_change_20": -5.236168931105093
+    "three_inst_ratio_change_20": -4.766168931105092
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.08559928830191786,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 6.5341590049830955,
-    "three_inst_ratio_change_20": -4.734840716896155
+    "three_inst_ratio_change_20": -4.4342222681911245
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.08559928830191786,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 6.934159004983095,
-    "three_inst_ratio_change_20": -4.034222268191125
+    "three_inst_ratio_change_20": -3.9150191967164885
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.08559928830191786,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 6.894159004983095,
-    "three_inst_ratio_change_20": -3.9550191967164885
+    "three_inst_ratio_change_20": -4.125152018137383
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.08559928830191786,
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 6.774159004983096,
-    "three_inst_ratio_change_20": -4.245152018137382
+    "three_inst_ratio_change_20": -3.316214589504531
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 6.77,
+    "trust_ratio": 0.08559928830191786,
+    "dealer_ratio": -0.041440283318822733,
+    "three_inst_ratio": 6.814159004983095,
+    "three_inst_ratio_change_20": -3.875484071689616
   }
 ]

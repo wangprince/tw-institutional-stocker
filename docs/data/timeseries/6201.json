@@ -1958,6 +1958,17 @@
     "three_inst_ratio_change_20": 0.05999999999999983
   },
   {
+    "date": "2026-06-19",
+    "code": "6201",
+    "name": "亞弘電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.1
+  },
+  {
     "date": "2026-06-22",
     "code": "6201",
     "name": "亞弘電",
@@ -1966,7 +1977,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.14,
-    "three_inst_ratio_change_20": 0.039999999999999813
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-06-23",
@@ -1977,7 +1988,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.17,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-06-24",
@@ -1988,7 +1999,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.17,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-06-25",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
-    "three_inst_ratio_change_20": -0.019999999999999796
+    "three_inst_ratio_change_20": -0.029999999999999805
   },
   {
     "date": "2026-06-29",
@@ -2032,7 +2043,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
-    "three_inst_ratio_change_20": -0.029999999999999805
+    "three_inst_ratio_change_20": -0.039999999999999813
   },
   {
     "date": "2026-07-01",
@@ -2043,7 +2054,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.13,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-07-02",
@@ -2055,5 +2066,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.14,
     "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6201",
+    "name": "亞弘電",
+    "market": "TWSE",
+    "foreign_ratio": 1.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.14,
+    "three_inst_ratio_change_20": -0.030000000000000027
   }
 ]

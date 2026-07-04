@@ -1947,6 +1947,17 @@
     "three_inst_ratio_change_20": 0.7800000000000011
   },
   {
+    "date": "2026-06-19",
+    "code": "4807",
+    "name": "日成-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -66.58
+  },
+  {
     "date": "2026-06-22",
     "code": "4807",
     "name": "日成-KY",
@@ -1955,7 +1966,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.43,
-    "three_inst_ratio_change_20": 0.8500000000000085
+    "three_inst_ratio_change_20": 0.7700000000000102
   },
   {
     "date": "2026-06-23",
@@ -1966,7 +1977,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.39,
-    "three_inst_ratio_change_20": 0.730000000000004
+    "three_inst_ratio_change_20": 0.7399999999999949
   },
   {
     "date": "2026-06-24",
@@ -1977,7 +1988,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.3,
-    "three_inst_ratio_change_20": 0.6499999999999915
+    "three_inst_ratio_change_20": 0.5499999999999972
   },
   {
     "date": "2026-06-25",
@@ -1988,7 +1999,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.3,
-    "three_inst_ratio_change_20": 0.5499999999999972
+    "three_inst_ratio_change_20": 0.3100000000000023
   },
   {
     "date": "2026-06-26",
@@ -1999,7 +2010,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.23,
-    "three_inst_ratio_change_20": 0.2400000000000091
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-06-29",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.34,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio_change_20": 0.28000000000000114
   },
   {
     "date": "2026-06-30",
@@ -2021,7 +2032,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.54,
-    "three_inst_ratio_change_20": 0.480000000000004
+    "three_inst_ratio_change_20": 0.5600000000000023
   },
   {
     "date": "2026-07-01",
@@ -2043,6 +2054,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 67.46,
-    "three_inst_ratio_change_20": 0.47999999999998977
+    "three_inst_ratio_change_20": 0.28999999999999204
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4807",
+    "name": "日成-KY",
+    "market": "TWSE",
+    "foreign_ratio": 67.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 67.56,
+    "three_inst_ratio_change_20": 0.25
   }
 ]

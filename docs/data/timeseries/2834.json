@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": 1.2447439229855028
   },
   {
+    "date": "2026-06-19",
+    "code": "2834",
+    "name": "臺企銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.32525916750625
+  },
+  {
     "date": "2026-06-22",
     "code": "2834",
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 17.68,
-    "trust_ratio": 0.0903495073032849,
+    "trust_ratio": 0.08300806400846358,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.770349507303283,
-    "three_inst_ratio_change_20": 1.4450903397970336
+    "three_inst_ratio": 17.763008064008464,
+    "three_inst_ratio_change_20": 1.5773372917952102
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 17.78,
-    "trust_ratio": 0.09037008753863508,
+    "trust_ratio": 0.08302864424381376,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.870370087538635,
-    "three_inst_ratio_change_20": 1.684699315325382
+    "three_inst_ratio": 17.863028644243816,
+    "three_inst_ratio_change_20": 1.7975394102865856
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 17.9,
-    "trust_ratio": 0.08996927716507272,
+    "trust_ratio": 0.08262783387025138,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.98996927716507,
-    "three_inst_ratio_change_20": 1.92448004320784
+    "three_inst_ratio": 17.98262783387025,
+    "three_inst_ratio_change_20": 1.8542519936199255
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 18.1,
-    "trust_ratio": 0.08996927716507272,
+    "trust_ratio": 0.08262783387025138,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.189969277165073,
-    "three_inst_ratio_change_20": 2.061593436914748
+    "three_inst_ratio": 18.182627833870253,
+    "three_inst_ratio_change_20": 2.104251993619929
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 18.05,
-    "trust_ratio": 0.08996927716507272,
+    "trust_ratio": 0.08262783387025138,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.139969277165072,
-    "three_inst_ratio_change_20": 2.061593436914748
+    "three_inst_ratio": 18.132627833870252,
+    "three_inst_ratio_change_20": 2.0261026095430843
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 18.16,
-    "trust_ratio": 0.08877238212769477,
+    "trust_ratio": 0.08143093883287345,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.248772382127694,
-    "three_inst_ratio_change_20": 2.1422471578005258
+    "three_inst_ratio": 18.241430938832874,
+    "three_inst_ratio_change_20": 2.0949637713496294
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 18.12,
-    "trust_ratio": 0.08870852165740317,
+    "trust_ratio": 0.08136707836258185,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.208708521657403,
-    "three_inst_ratio_change_20": 2.0622413541741587
+    "three_inst_ratio": 18.201367078362583,
+    "three_inst_ratio_change_20": 1.955228433176238
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 18.0,
-    "trust_ratio": 0.08860006381710774,
+    "trust_ratio": 0.08125862052228641,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.088600063817108,
-    "three_inst_ratio_change_20": 1.8424614186307622
+    "three_inst_ratio": 18.081258620522288,
+    "three_inst_ratio_change_20": 1.3353389902005368
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "臺企銀",
     "market": "TWSE",
     "foreign_ratio": 18.04,
-    "trust_ratio": 0.08897050805341093,
+    "trust_ratio": 0.08162906475858961,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.12897050805341,
-    "three_inst_ratio_change_20": 1.3830508777316588
+    "three_inst_ratio": 18.12162906475859,
+    "three_inst_ratio_change_20": 1.1471353154628403
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2834",
+    "name": "臺企銀",
+    "market": "TWSE",
+    "foreign_ratio": 18.34,
+    "trust_ratio": 0.08172161407695935,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.421721614076958,
+    "three_inst_ratio_change_20": 1.3175806511755788
   }
 ]

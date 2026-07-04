@@ -2101,18 +2101,18 @@
     "three_inst_ratio_change_20": -0.7999999999999998
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "2417",
     "name": "圓剛",
     "market": "TWSE",
-    "foreign_ratio": 2.61,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.61,
-    "three_inst_ratio_change_20": -0.8700000000000001
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.48
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "2417",
     "name": "圓剛",
     "market": "TWSE",
@@ -2123,18 +2123,18 @@
     "three_inst_ratio_change_20": -1.2800000000000002
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-23",
     "code": "2417",
     "name": "圓剛",
     "market": "TWSE",
-    "foreign_ratio": 2.52,
+    "foreign_ratio": 2.61,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.52,
-    "three_inst_ratio_change_20": -0.7399999999999998
+    "three_inst_ratio": 2.61,
+    "three_inst_ratio_change_20": -0.6499999999999999
   },
   {
-    "date": "2026-06-25",
+    "date": "2026-06-24",
     "code": "2417",
     "name": "圓剛",
     "market": "TWSE",
@@ -2145,6 +2145,17 @@
     "three_inst_ratio_change_20": -1.0099999999999998
   },
   {
+    "date": "2026-06-25",
+    "code": "2417",
+    "name": "圓剛",
+    "market": "TWSE",
+    "foreign_ratio": 2.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.52,
+    "three_inst_ratio_change_20": -1.0899999999999999
+  },
+  {
     "date": "2026-06-26",
     "code": "2417",
     "name": "圓剛",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.47,
-    "three_inst_ratio_change_20": -1.1399999999999997
+    "three_inst_ratio_change_20": -1.3199999999999998
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.55,
-    "three_inst_ratio_change_20": -1.2400000000000002
+    "three_inst_ratio_change_20": -1.4400000000000004
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.66,
-    "three_inst_ratio_change_20": -1.33
+    "three_inst_ratio_change_20": -0.9899999999999998
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.66,
-    "three_inst_ratio_change_20": -0.9899999999999998
+    "three_inst_ratio_change_20": -0.5099999999999998
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.82,
-    "three_inst_ratio_change_20": -0.3500000000000001
+    "three_inst_ratio_change_20": -0.20000000000000018
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2417",
+    "name": "圓剛",
+    "market": "TWSE",
+    "foreign_ratio": 2.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.41,
+    "three_inst_ratio_change_20": -0.5899999999999999
   }
 ]

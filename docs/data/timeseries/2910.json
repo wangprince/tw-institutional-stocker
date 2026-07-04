@@ -1958,6 +1958,17 @@
     "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
+    "date": "2026-06-19",
+    "code": "2910",
+    "name": "統領",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.25
+  },
+  {
     "date": "2026-06-22",
     "code": "2910",
     "name": "統領",
@@ -1988,7 +1999,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-06-26",
@@ -2021,7 +2032,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-07-01",
@@ -2043,6 +2054,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
-    "three_inst_ratio_change_20": 0.03999999999999998
+    "three_inst_ratio_change_20": 0.02999999999999997
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2910",
+    "name": "統領",
+    "market": "TWSE",
+    "foreign_ratio": 0.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.31,
+    "three_inst_ratio_change_20": 0.02999999999999997
   }
 ]

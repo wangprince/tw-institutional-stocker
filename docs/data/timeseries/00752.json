@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": -0.18538807118041434
   },
   {
+    "date": "2026-06-19",
+    "code": "00752",
+    "name": "中信中國50",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.8197006034955718
+  },
+  {
     "date": "2026-06-22",
     "code": "00752",
     "name": "中信中國50",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.9943125323151574,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6243125323151575,
-    "three_inst_ratio_change_20": -0.19538807118041435
+    "three_inst_ratio_change_20": -0.21538807118041436
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.9943125323151574,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6543125323151573,
-    "three_inst_ratio_change_20": -0.18538807118041456
+    "three_inst_ratio_change_20": -0.265081167225764
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.9943125323151574,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.744312532315157,
-    "three_inst_ratio_change_20": 0.8249188327742358
+    "three_inst_ratio_change_20": 0.994918832774236
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 1.0042983971397583,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7742983971397583,
-    "three_inst_ratio_change_20": 0.024904697598837178
+    "three_inst_ratio_change_20": 0.14490469759883706
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 1.0042983971397583,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1942983971397583,
-    "three_inst_ratio_change_20": 0.564904697598837
+    "three_inst_ratio_change_20": 0.514904697598837
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 1.0213948167617697,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3413948167617695,
-    "three_inst_ratio_change_20": 0.6620011172208482
+    "three_inst_ratio_change_20": 0.5420011172208481
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 1.0213948167617697,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.28139481676177,
-    "three_inst_ratio_change_20": 0.4820011172208485
+    "three_inst_ratio_change_20": 0.3720011172208486
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 1.0213948167617697,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.32139481676177,
-    "three_inst_ratio_change_20": 0.41200111722084864
+    "three_inst_ratio_change_20": 0.5920011172208488
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 1.028397482482963,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.838397482482963,
-    "three_inst_ratio_change_20": 0.10900378294204183
+    "three_inst_ratio_change_20": 0.14900378294204186
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00752",
+    "name": "中信中國50",
+    "market": "TWSE",
+    "foreign_ratio": 0.85,
+    "trust_ratio": 1.028397482482963,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.878397482482963,
+    "three_inst_ratio_change_20": 0.16900378294204188
   }
 ]

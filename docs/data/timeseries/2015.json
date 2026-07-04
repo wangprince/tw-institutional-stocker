@@ -2101,18 +2101,18 @@
     "three_inst_ratio_change_20": 0.20470430837290543
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "2015",
     "name": "豐興",
     "market": "TWSE",
-    "foreign_ratio": 12.39,
-    "trust_ratio": -0.27920385285663557,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 12.110796147143365,
-    "three_inst_ratio_change_20": 0.21625176520119815
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.894544381942167
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "2015",
     "name": "豐興",
     "market": "TWSE",
@@ -2123,7 +2123,7 @@
     "three_inst_ratio_change_20": 0.15711146343913995
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-23",
     "code": "2015",
     "name": "豐興",
     "market": "TWSE",
@@ -2134,6 +2134,17 @@
     "three_inst_ratio_change_20": 0.18797116167707983
   },
   {
+    "date": "2026-06-24",
+    "code": "2015",
+    "name": "豐興",
+    "market": "TWSE",
+    "foreign_ratio": 12.39,
+    "trust_ratio": -0.27920385285663557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.110796147143365,
+    "three_inst_ratio_change_20": 0.18883085991502035
+  },
+  {
     "date": "2026-06-25",
     "code": "2015",
     "name": "豐興",
@@ -2142,7 +2153,7 @@
     "trust_ratio": -0.27920385285663557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.050796147143364,
-    "three_inst_ratio_change_20": 0.12883085991501986
+    "three_inst_ratio_change_20": 0.1096905581529608
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": -0.27920385285663557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.020796147143365,
-    "three_inst_ratio_change_20": 0.07969055815296144
+    "three_inst_ratio_change_20": 0.04055025639090104
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": -0.27920385285663557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.030796147143365,
-    "three_inst_ratio_change_20": 0.05055025639090083
+    "three_inst_ratio_change_20": 0.061409954628841135
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": -0.27920385285663557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.010796147143363,
-    "three_inst_ratio_change_20": 0.041409954628839785
+    "three_inst_ratio_change_20": 0.03140995462884
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": -0.27920385285663557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.010796147143363,
-    "three_inst_ratio_change_20": 0.03140995462884
+    "three_inst_ratio_change_20": 0.0072559026468344
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": -0.27920385285663557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.020796147143365,
-    "three_inst_ratio_change_20": 0.017255902646835963
+    "three_inst_ratio_change_20": 0.003101850664831929
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2015",
+    "name": "豐興",
+    "market": "TWSE",
+    "foreign_ratio": 12.32,
+    "trust_ratio": -0.27920385285663557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.040796147143364,
+    "three_inst_ratio_change_20": 0.05310185066483086
   }
 ]

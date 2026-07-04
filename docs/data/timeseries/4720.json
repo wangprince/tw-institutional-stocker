@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": -1.3221485168055551
   },
   {
+    "date": "2026-06-19",
+    "code": "4720",
+    "name": "德淵",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.7831583284706225
+  },
+  {
     "date": "2026-06-22",
     "code": "4720",
     "name": "德淵",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.011454290895518852,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.381454290895519,
-    "three_inst_ratio_change_20": -1.4017040375751035
+    "three_inst_ratio_change_20": -1.171704037575104
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.011454290895518852,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.8614542908955185,
-    "three_inst_ratio_change_20": -1.6917040375751045
+    "three_inst_ratio_change_20": -1.6291882327363458
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.007088090203470804,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.897088090203471,
-    "three_inst_ratio_change_20": -1.5935544334283938
+    "three_inst_ratio_change_20": -1.5731099541979443
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.005357328249142956,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.935357328249142,
-    "three_inst_ratio_change_20": -1.5348407161522726
+    "three_inst_ratio_change_20": -0.7548407161522723
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0014993533176493,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.00149935331765,
-    "three_inst_ratio_change_20": -0.6886986910837649
+    "three_inst_ratio_change_20": -0.15869869108376466
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": -0.00021481707404876401,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.919785182925951,
-    "three_inst_ratio_change_20": -0.24041286147546348
+    "three_inst_ratio_change_20": -0.4995396213370542
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": -0.0006383385411774247,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.329361661458822,
-    "three_inst_ratio_change_20": 0.9100368571958173
+    "three_inst_ratio_change_20": 0.8100368571958176
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": -0.11447479622439258,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.735525203775607,
-    "three_inst_ratio_change_20": 0.21620039951260228
+    "three_inst_ratio_change_20": -1.7029263603489877
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": -0.11534803636280216,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.234651963637197,
-    "three_inst_ratio_change_20": -0.20379960048739765
+    "three_inst_ratio_change_20": -0.7637996004873981
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4720",
+    "name": "德淵",
+    "market": "TWSE",
+    "foreign_ratio": 6.88,
+    "trust_ratio": -0.11534803636280216,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.764651963637197,
+    "three_inst_ratio_change_20": 0.07664487874305248
   }
 ]

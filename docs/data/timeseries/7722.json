@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": -0.8908823529411833
   },
   {
+    "date": "2026-06-19",
+    "code": "7722",
+    "name": "LINEPAY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -59.58176470588236
+  },
+  {
     "date": "2026-06-22",
     "code": "7722",
     "name": "LINEPAY",
@@ -2054,7 +2065,7 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.580882352941174,
-    "three_inst_ratio_change_20": -1.0008823529411828
+    "three_inst_ratio_change_20": -0.9308823529411825
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.59088235294117,
-    "three_inst_ratio_change_20": -0.9208823529411845
+    "three_inst_ratio_change_20": -0.9508823529411856
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.62088235294117,
-    "three_inst_ratio_change_20": -0.9208823529411845
+    "three_inst_ratio_change_20": -0.8908823529411833
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.650882352941174,
-    "three_inst_ratio_change_20": -0.8608823529411822
+    "three_inst_ratio_change_20": -0.8008823529411799
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.63088235294118,
-    "three_inst_ratio_change_20": -0.820882352941176
+    "three_inst_ratio_change_20": -0.8908823529411762
   },
   {
     "date": "2026-06-29",
@@ -2120,7 +2131,7 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.650882352941174,
-    "three_inst_ratio_change_20": -0.8708823529411802
+    "three_inst_ratio_change_20": -0.8208823529411831
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.640882352941176,
-    "three_inst_ratio_change_20": -0.8308823529411811
+    "three_inst_ratio_change_20": -0.8408823529411791
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": -0.06911764705882353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.63088235294118,
-    "three_inst_ratio_change_20": -0.8508823529411771
+    "three_inst_ratio_change_20": -0.8008823529411799
+  },
+  {
+    "date": "2026-07-03",
+    "code": "7722",
+    "name": "LINEPAY",
+    "market": "TWSE",
+    "foreign_ratio": 58.72,
+    "trust_ratio": -0.06029411764705882,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 58.65970588235294,
+    "three_inst_ratio_change_20": -0.7820588235294181
   }
 ]

@@ -1980,6 +1980,17 @@
     "three_inst_ratio_change_20": 0.120000000000001
   },
   {
+    "date": "2026-06-19",
+    "code": "6641",
+    "name": "基士德-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -29.91
+  },
+  {
     "date": "2026-06-22",
     "code": "6641",
     "name": "基士德-KY",
@@ -1999,7 +2010,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.04,
-    "three_inst_ratio_change_20": 0.129999999999999
+    "three_inst_ratio_change_20": 0.11999999999999744
   },
   {
     "date": "2026-06-24",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.02,
-    "three_inst_ratio_change_20": 0.09999999999999787
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-06-25",
@@ -2032,7 +2043,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.96,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
     "date": "2026-06-29",
@@ -2043,7 +2054,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.95,
-    "three_inst_ratio_change_20": 0.00999999999999801
+    "three_inst_ratio_change_20": -0.05000000000000071
   },
   {
     "date": "2026-06-30",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.9,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.08000000000000185
   },
   {
     "date": "2026-07-01",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.89,
-    "three_inst_ratio_change_20": -0.08999999999999986
+    "three_inst_ratio_change_20": -0.09999999999999787
   },
   {
     "date": "2026-07-02",
@@ -2076,6 +2087,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.52,
-    "three_inst_ratio_change_20": -1.4699999999999989
+    "three_inst_ratio_change_20": -1.5100000000000016
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6641",
+    "name": "基士德-KY",
+    "market": "TWSE",
+    "foreign_ratio": 28.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 28.56,
+    "three_inst_ratio_change_20": -1.4800000000000004
   }
 ]

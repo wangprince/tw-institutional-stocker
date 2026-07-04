@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.22999999999999998
   },
   {
+    "date": "2026-06-19",
+    "code": "6216",
+    "name": "居易",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.13
+  },
+  {
     "date": "2026-06-22",
     "code": "6216",
     "name": "居易",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.35,
-    "three_inst_ratio_change_20": 0.2200000000000002
+    "three_inst_ratio_change_20": 0.3799999999999999
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.26,
-    "three_inst_ratio_change_20": 0.2899999999999996
+    "three_inst_ratio_change_20": 0.2799999999999998
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3,
-    "three_inst_ratio_change_20": 0.31999999999999984
+    "three_inst_ratio_change_20": 0.44999999999999973
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.23,
-    "three_inst_ratio_change_20": 0.3799999999999999
+    "three_inst_ratio_change_20": 0.31999999999999984
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.06,
-    "three_inst_ratio_change_20": 0.1499999999999999
+    "three_inst_ratio_change_20": 0.16000000000000014
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.03,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.03,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.06,
-    "three_inst_ratio_change_20": -0.06999999999999984
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.05,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6216",
+    "name": "居易",
+    "market": "TWSE",
+    "foreign_ratio": 3.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.12,
+    "three_inst_ratio_change_20": 0.08000000000000007
   }
 ]

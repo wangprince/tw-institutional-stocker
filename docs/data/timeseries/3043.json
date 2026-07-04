@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.5102628221519117
   },
   {
+    "date": "2026-06-19",
+    "code": "3043",
+    "name": "科風",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.36
+  },
+  {
     "date": "2026-06-22",
     "code": "3043",
     "name": "科風",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7302628221519116,
-    "three_inst_ratio_change_20": 0.37026282215191153
+    "three_inst_ratio_change_20": 0.39026282215191155
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7702628221519117,
-    "three_inst_ratio_change_20": 0.4302628221519116
+    "three_inst_ratio_change_20": 0.4402628221519116
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5302628221519117,
-    "three_inst_ratio_change_20": 0.2002628221519116
+    "three_inst_ratio_change_20": 0.24026282215191164
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4602628221519116,
-    "three_inst_ratio_change_20": 0.17026282215191157
+    "three_inst_ratio_change_20": 0.07026282215191171
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4802628221519116,
-    "three_inst_ratio_change_20": 0.09026282215191173
+    "three_inst_ratio_change_20": 0.0602628221519117
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5002628221519116,
-    "three_inst_ratio_change_20": 0.08026282215191172
+    "three_inst_ratio_change_20": -0.23973717784808835
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5302628221519117,
-    "three_inst_ratio_change_20": -0.20973717784808832
+    "three_inst_ratio_change_20": -0.14973717784808827
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4602628221519116,
-    "three_inst_ratio_change_20": -0.21973717784808833
+    "three_inst_ratio_change_20": -0.4397371778480883
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.010262822151911627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3802628221519118,
-    "three_inst_ratio_change_20": -0.5197371778480881
+    "three_inst_ratio_change_20": -0.879737177848088
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3043",
+    "name": "科風",
+    "market": "TWSE",
+    "foreign_ratio": 1.28,
+    "trust_ratio": 0.010262822151911627,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2902628221519117,
+    "three_inst_ratio_change_20": -0.9197371778480883
   }
 ]

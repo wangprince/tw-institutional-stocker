@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.19999999999999996
   },
   {
+    "date": "2026-06-19",
+    "code": "00728",
+    "name": "第一金工業30",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.95
+  },
+  {
     "date": "2026-06-22",
     "code": "00728",
     "name": "第一金工業30",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.39,
-    "three_inst_ratio_change_20": 0.43999999999999995
+    "three_inst_ratio_change_20": 0.2999999999999998
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.42,
-    "three_inst_ratio_change_20": 0.32999999999999985
+    "three_inst_ratio_change_20": 0.4899999999999999
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.22,
-    "three_inst_ratio_change_20": 0.2899999999999999
+    "three_inst_ratio_change_20": -0.3500000000000001
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.17,
-    "three_inst_ratio_change_20": -0.40000000000000013
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2,
-    "three_inst_ratio_change_20": 0.07000000000000006
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.19,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.24,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.82,
-    "three_inst_ratio_change_20": -0.38
+    "three_inst_ratio_change_20": -0.31999999999999995
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00728",
+    "name": "第一金工業30",
+    "market": "TWSE",
+    "foreign_ratio": 0.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.86,
+    "three_inst_ratio_change_20": -0.16000000000000003
   }
 ]

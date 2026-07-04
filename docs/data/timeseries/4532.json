@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": 0.9391845895303419
   },
   {
+    "date": "2026-06-19",
+    "code": "4532",
+    "name": "瑞智",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.340128746777562
+  },
+  {
     "date": "2026-06-22",
     "code": "4532",
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.06,
-    "trust_ratio": -0.6994140707857678,
+    "trust_ratio": -0.7033116643980546,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.36058592921423,
-    "three_inst_ratio_change_20": 1.0204571824366688
+    "three_inst_ratio": 17.356688335601945,
+    "three_inst_ratio_change_20": 0.9404183863366349
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.0,
-    "trust_ratio": -0.7020200775677504,
+    "trust_ratio": -0.7059176711800372,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.29797992243225,
-    "three_inst_ratio_change_20": 0.8817099731669416
+    "three_inst_ratio": 17.29408232881996,
+    "three_inst_ratio_change_20": 0.8803856521272309
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.07,
-    "trust_ratio": -0.7059330279696341,
+    "trust_ratio": -0.7098306215819208,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.364066972030365,
-    "three_inst_ratio_change_20": 0.9503702953376347
+    "three_inst_ratio": 17.360169378418078,
+    "three_inst_ratio_change_20": 0.9229055800622632
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.23,
-    "trust_ratio": -0.7059330279696341,
+    "trust_ratio": -0.7098306215819208,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.524066972030365,
-    "three_inst_ratio_change_20": 1.08680317367455
+    "three_inst_ratio": 17.52016937841808,
+    "three_inst_ratio_change_20": 1.0393398728403263
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.17,
-    "trust_ratio": -0.7059330279696341,
+    "trust_ratio": -0.7098306215819208,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.464066972030366,
-    "three_inst_ratio_change_20": 0.9832374664526142
+    "three_inst_ratio": 17.46016937841808,
+    "three_inst_ratio_change_20": 0.9244860138594397
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.46,
-    "trust_ratio": -0.7059330279696341,
+    "trust_ratio": -0.7098306215819208,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.754066972030365,
-    "three_inst_ratio_change_20": 1.2183836074717256
+    "three_inst_ratio": 17.75016937841808,
+    "three_inst_ratio_change_20": 0.9996329631306402
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.66,
-    "trust_ratio": -0.7072425984088083,
+    "trust_ratio": -0.711140192021095,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.952757401591192,
-    "three_inst_ratio_change_20": 1.2022209863037538
+    "three_inst_ratio": 17.948859807978906,
+    "three_inst_ratio_change_20": 1.194756675154423
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.72,
-    "trust_ratio": -0.3546068615893867,
+    "trust_ratio": -0.35850445520167346,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.365393138410614,
-    "three_inst_ratio_change_20": 1.611290005586131
+    "three_inst_ratio": 18.361495544798327,
+    "three_inst_ratio_change_20": 1.4525379468039006
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "瑞智",
     "market": "TWSE",
     "foreign_ratio": 18.6,
-    "trust_ratio": -0.35723044785419733,
+    "trust_ratio": -0.3611280414664841,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.242769552145806,
-    "three_inst_ratio_change_20": 1.333811954151379
+    "three_inst_ratio": 18.23887195853352,
+    "three_inst_ratio_change_20": 1.10248702692261
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4532",
+    "name": "瑞智",
+    "market": "TWSE",
+    "foreign_ratio": 18.88,
+    "trust_ratio": -0.3637629432604713,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.516237056739527,
+    "three_inst_ratio_change_20": 1.386282578709281
   }
 ]

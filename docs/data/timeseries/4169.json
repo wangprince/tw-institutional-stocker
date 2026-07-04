@@ -561,6 +561,17 @@
     "three_inst_ratio_change_20": -0.03000000000000025
   },
   {
+    "date": "2026-06-19",
+    "code": "4169",
+    "name": "泰宗",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.48
+  },
+  {
     "date": "2026-06-22",
     "code": "4169",
     "name": "泰宗",
@@ -569,7 +580,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.48,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.0600000000000005
   },
   {
     "date": "2026-06-23",
@@ -580,7 +591,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.49,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-06-24",
@@ -591,7 +602,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.64,
-    "three_inst_ratio_change_20": 0.1899999999999995
+    "three_inst_ratio_change_20": 0.1999999999999993
   },
   {
     "date": "2026-06-25",
@@ -613,7 +624,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.58,
-    "three_inst_ratio_change_20": 0.13999999999999968
+    "three_inst_ratio_change_20": 0.11000000000000032
   },
   {
     "date": "2026-06-29",
@@ -624,7 +635,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.65,
-    "three_inst_ratio_change_20": 0.1800000000000006
+    "three_inst_ratio_change_20": 0.10000000000000053
   },
   {
     "date": "2026-06-30",
@@ -635,7 +646,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.67,
-    "three_inst_ratio_change_20": 0.1200000000000001
+    "three_inst_ratio_change_20": 0.05999999999999961
   },
   {
     "date": "2026-07-01",
@@ -646,7 +657,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.63,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-07-02",
@@ -657,6 +668,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.55,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": -0.020000000000000462
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4169",
+    "name": "泰宗",
+    "market": "TWSE",
+    "foreign_ratio": 6.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.55,
+    "three_inst_ratio_change_20": -0.009999999999999787
   }
 ]

@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.8900000000000006
   },
   {
+    "date": "2026-06-19",
+    "code": "00683L",
+    "name": "期元大美元指正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.41
+  },
+  {
     "date": "2026-06-22",
     "code": "00683L",
     "name": "期元大美元指正2",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.36,
-    "three_inst_ratio_change_20": 0.9499999999999993
+    "three_inst_ratio_change_20": 0.9600000000000009
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.51,
-    "three_inst_ratio_change_20": 1.110000000000003
+    "three_inst_ratio_change_20": 1.1800000000000033
   },
   {
     "date": "2026-06-25",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.71,
-    "three_inst_ratio_change_20": 1.3800000000000026
+    "three_inst_ratio_change_20": 1.3900000000000006
   },
   {
     "date": "2026-06-30",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.04,
-    "three_inst_ratio_change_20": 1.7199999999999989
+    "three_inst_ratio_change_20": 1.6899999999999977
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.04,
-    "three_inst_ratio_change_20": 1.6899999999999977
+    "three_inst_ratio_change_20": 1.5799999999999983
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00683L",
+    "name": "期元大美元指正2",
+    "market": "TWSE",
+    "foreign_ratio": 20.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.04,
+    "three_inst_ratio_change_20": 1.5799999999999983
   }
 ]

@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
+    "date": "2026-06-19",
+    "code": "9937",
+    "name": "全國",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.8572906359309223
+  },
+  {
     "date": "2026-06-22",
     "code": "9937",
     "name": "全國",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.16729063593092225,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9372906359309223,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.16729063593092225,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9172906359309223,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.16729063593092225,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9272906359309223,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.16729063593092225,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9272906359309223,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.16729063593092225,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9172906359309223,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-07-02",
@@ -2198,5 +2209,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9172906359309223,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-07-03",
+    "code": "9937",
+    "name": "全國",
+    "market": "TWSE",
+    "foreign_ratio": 1.75,
+    "trust_ratio": 0.16729063593092225,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9172906359309223,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.5082148657229482
   },
   {
+    "date": "2026-06-19",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.388128536960657
+  },
+  {
     "date": "2026-06-22",
     "code": "3209",
     "name": "全科",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.10700230585096368,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.46700230585096,
-    "three_inst_ratio_change_20": 0.07887376889030406
+    "three_inst_ratio_change_20": 0.3088737688903045
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.1074271305881377,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.47742713058814,
-    "three_inst_ratio_change_20": 0.31929859362748303
+    "three_inst_ratio_change_20": -0.5370886968075901
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.1014795842677017,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.2814795842677,
-    "three_inst_ratio_change_20": -0.73303624312803
+    "three_inst_ratio_change_20": -0.8823977315480604
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.09939879270502347,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.249398792705023,
-    "three_inst_ratio_change_20": -0.9144785231107377
+    "three_inst_ratio_change_20": -0.8854513717588652
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.09385865330753734,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.23385865330754,
-    "three_inst_ratio_change_20": -0.9009915111563487
+    "three_inst_ratio_change_20": -0.4009915111563487
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.04379815592842772,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.063798155928428,
-    "three_inst_ratio_change_20": -0.5710520085354602
+    "three_inst_ratio_change_20": -0.5697775343239364
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": -0.005257206122528231,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.094742793877472,
-    "three_inst_ratio_change_20": -0.5388328963748918
+    "three_inst_ratio_change_20": -0.7488328963748927
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": -0.21877114525301966,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.951228854746983,
-    "three_inst_ratio_change_20": -0.8923468355053821
+    "three_inst_ratio_change_20": -0.9214971860310364
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": -0.21962079472736765,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.11037920527263,
-    "three_inst_ratio_change_20": -0.7623468355053902
+    "three_inst_ratio_change_20": -0.7223468355053875
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 18.92,
+    "trust_ratio": -0.21919596999019367,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.70080403000981,
+    "three_inst_ratio_change_20": -0.9512839240129729
   }
 ]

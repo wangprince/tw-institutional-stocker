@@ -2101,18 +2101,18 @@
     "three_inst_ratio_change_20": -0.9681734131924387
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "2929",
     "name": "淘帝-KY",
     "market": "TWSE",
-    "foreign_ratio": 16.91,
-    "trust_ratio": 0.0018265868075608054,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.91182658680756,
-    "three_inst_ratio_change_20": -0.7181734131924387
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -17.63
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "2929",
     "name": "淘帝-KY",
     "market": "TWSE",
@@ -2123,7 +2123,7 @@
     "three_inst_ratio_change_20": -0.668173413192438
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-23",
     "code": "2929",
     "name": "淘帝-KY",
     "market": "TWSE",
@@ -2134,6 +2134,17 @@
     "three_inst_ratio_change_20": -0.7381734131924382
   },
   {
+    "date": "2026-06-24",
+    "code": "2929",
+    "name": "淘帝-KY",
+    "market": "TWSE",
+    "foreign_ratio": 16.91,
+    "trust_ratio": 0.0018265868075608054,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.91182658680756,
+    "three_inst_ratio_change_20": -1.31817341319244
+  },
+  {
     "date": "2026-06-25",
     "code": "2929",
     "name": "淘帝-KY",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0018265868075608054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.90182658680756,
-    "three_inst_ratio_change_20": -1.3281734131924416
+    "three_inst_ratio_change_20": -0.37817341319244235
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0018265868075608054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.85182658680756,
-    "three_inst_ratio_change_20": -0.4281734131924395
+    "three_inst_ratio_change_20": -0.29817341319243695
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0018265868075608054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.84182658680756,
-    "three_inst_ratio_change_20": -0.3081734131924385
+    "three_inst_ratio_change_20": -0.38817341319244036
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0018265868075608054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.83182658680756,
-    "three_inst_ratio_change_20": -0.3981734131924419
+    "three_inst_ratio_change_20": -0.37817341319244235
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0018265868075608054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.81182658680756,
-    "three_inst_ratio_change_20": -0.3981734131924419
+    "three_inst_ratio_change_20": -0.4881734131924418
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0018265868075608054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.81182658680756,
-    "three_inst_ratio_change_20": -0.4881734131924418
+    "three_inst_ratio_change_20": -0.4181734131924415
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2929",
+    "name": "淘帝-KY",
+    "market": "TWSE",
+    "foreign_ratio": 16.9,
+    "trust_ratio": 0.0018265868075608054,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.90182658680756,
+    "three_inst_ratio_change_20": -0.32817341319244164
   }
 ]

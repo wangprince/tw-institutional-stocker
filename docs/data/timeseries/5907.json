@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.44999999999999574
   },
   {
+    "date": "2026-06-19",
+    "code": "5907",
+    "name": "大洋-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -52.09
+  },
+  {
     "date": "2026-06-22",
     "code": "5907",
     "name": "大洋-KY",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.37,
-    "three_inst_ratio_change_20": 0.27999999999999403
+    "three_inst_ratio_change_20": 0.3200000000000003
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.38,
-    "three_inst_ratio_change_20": 0.3300000000000054
+    "three_inst_ratio_change_20": 0.3400000000000034
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.32,
-    "three_inst_ratio_change_20": 0.28000000000000114
+    "three_inst_ratio_change_20": 0.25
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.27,
-    "three_inst_ratio_change_20": 0.20000000000000284
+    "three_inst_ratio_change_20": 0.11000000000000654
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.26,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.24,
-    "three_inst_ratio_change_20": 0.05000000000000426
+    "three_inst_ratio_change_20": 0.010000000000005116
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.26,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": -0.03999999999999915
+  },
+  {
+    "date": "2026-07-03",
+    "code": "5907",
+    "name": "大洋-KY",
+    "market": "TWSE",
+    "foreign_ratio": 52.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.28,
+    "three_inst_ratio_change_20": 0.00999999999999801
   }
 ]

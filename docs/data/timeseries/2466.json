@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.09999999999999964
   },
   {
+    "date": "2026-06-19",
+    "code": "2466",
+    "name": "冠西電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.479800604002001
+  },
+  {
     "date": "2026-06-22",
     "code": "2466",
     "name": "冠西電",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.009800604002000545,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.759800604002,
-    "three_inst_ratio_change_20": 0.27999999999999936
+    "three_inst_ratio_change_20": 0.3100000000000005
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.009800604002000545,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.769800604002,
-    "three_inst_ratio_change_20": 0.3200000000000003
+    "three_inst_ratio_change_20": 0.3100000000000005
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.009800604002000545,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.649800604002001,
-    "three_inst_ratio_change_20": 0.19000000000000128
+    "three_inst_ratio_change_20": 0.17999999999999972
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.009800604002000545,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.749800604002,
-    "three_inst_ratio_change_20": 0.27999999999999936
+    "three_inst_ratio_change_20": 0.2699999999999996
   },
   {
     "date": "2026-06-29",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.009800604002000545,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.129800604002,
-    "three_inst_ratio_change_20": 0.6499999999999986
+    "three_inst_ratio_change_20": 0.6399999999999988
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.009800604002000545,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.779800604002,
-    "three_inst_ratio_change_20": 1.2899999999999991
+    "three_inst_ratio_change_20": 1.2400000000000002
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.009800604002000545,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.019800604002,
-    "three_inst_ratio_change_20": 1.4800000000000004
+    "three_inst_ratio_change_20": 1.5199999999999996
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2466",
+    "name": "冠西電",
+    "market": "TWSE",
+    "foreign_ratio": 12.21,
+    "trust_ratio": 0.009800604002000545,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.219800604002002,
+    "three_inst_ratio_change_20": 1.7200000000000006
   }
 ]

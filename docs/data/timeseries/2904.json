@@ -1936,6 +1936,17 @@
     "three_inst_ratio_change_20": 0.019999999999999907
   },
   {
+    "date": "2026-06-19",
+    "code": "2904",
+    "name": "匯僑",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.57
+  },
+  {
     "date": "2026-06-22",
     "code": "2904",
     "name": "匯僑",
@@ -1955,7 +1966,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.61,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-06-24",
@@ -1977,7 +1988,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-06-26",
@@ -1988,7 +1999,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.58,
-    "three_inst_ratio_change_20": -0.030000000000000027
+    "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
     "date": "2026-06-29",
@@ -1999,7 +2010,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.58,
-    "three_inst_ratio_change_20": -0.050000000000000044
+    "three_inst_ratio_change_20": -0.09000000000000008
   },
   {
     "date": "2026-06-30",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.57,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio_change_20": -0.1100000000000001
   },
   {
     "date": "2026-07-01",
@@ -2021,7 +2032,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.57,
-    "three_inst_ratio_change_20": -0.1100000000000001
+    "three_inst_ratio_change_20": -0.14
   },
   {
     "date": "2026-07-02",
@@ -2032,6 +2043,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.56,
-    "three_inst_ratio_change_20": -0.1499999999999999
+    "three_inst_ratio_change_20": -0.15999999999999992
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2904",
+    "name": "匯僑",
+    "market": "TWSE",
+    "foreign_ratio": 0.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.59,
+    "three_inst_ratio_change_20": -0.13
   }
 ]

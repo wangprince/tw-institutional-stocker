@@ -2101,18 +2101,18 @@
     "three_inst_ratio_change_20": 0.2930250185673118
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "6281",
     "name": "全國電",
     "market": "TWSE",
-    "foreign_ratio": 2.42,
-    "trust_ratio": 0.002955443140263708,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.4229554431402636,
-    "three_inst_ratio_change_20": 0.23302501856731173
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.189930424572952
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "6281",
     "name": "全國電",
     "market": "TWSE",
@@ -2123,6 +2123,17 @@
     "three_inst_ratio_change_20": 0.35302501856731183
   },
   {
+    "date": "2026-06-23",
+    "code": "6281",
+    "name": "全國電",
+    "market": "TWSE",
+    "foreign_ratio": 2.42,
+    "trust_ratio": 0.002955443140263708,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.4229554431402636,
+    "three_inst_ratio_change_20": 0.3130250185673118
+  },
+  {
     "date": "2026-06-24",
     "code": "6281",
     "name": "全國電",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.002955443140263708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.432955443140264,
-    "three_inst_ratio_change_20": 0.32302501856731203
+    "three_inst_ratio_change_20": 0.3330250185673118
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.002955443140263708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4029554431402635,
-    "three_inst_ratio_change_20": 0.30302501856731157
+    "three_inst_ratio_change_20": 0.17302501856731167
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.002955443140263708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3829554431402635,
-    "three_inst_ratio_change_20": 0.15302501856731165
+    "three_inst_ratio_change_20": 0.11302501856731162
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.002955443140263708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4029554431402635,
-    "three_inst_ratio_change_20": 0.13302501856731164
+    "three_inst_ratio_change_20": 0.11302501856731162
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.002955443140263708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4029554431402635,
-    "three_inst_ratio_change_20": 0.11302501856731162
+    "three_inst_ratio_change_20": 0.053025018567311566
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.002955443140263708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.412955443140264,
-    "three_inst_ratio_change_20": 0.0630250185673118
+    "three_inst_ratio_change_20": 0.05302501856731201
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.002955443140263708,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.412955443140264,
-    "three_inst_ratio_change_20": 0.05302501856731201
+    "three_inst_ratio_change_20": 0.02302501856731176
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6281",
+    "name": "全國電",
+    "market": "TWSE",
+    "foreign_ratio": 2.52,
+    "trust_ratio": 0.002955443140263708,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.5229554431402637,
+    "three_inst_ratio_change_20": 0.053025018567311566
   }
 ]

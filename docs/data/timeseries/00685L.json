@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": -0.04000000000000001
   },
   {
+    "date": "2026-06-19",
+    "code": "00685L",
+    "name": "群益臺灣加權正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.05
+  },
+  {
     "date": "2026-06-22",
     "code": "00685L",
     "name": "群益臺灣加權正2",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.17,
-    "three_inst_ratio_change_20": 0.12000000000000001
+    "three_inst_ratio_change_20": 0.13
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.16,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.12,
-    "three_inst_ratio_change_20": -0.03
+    "three_inst_ratio_change_20": -0.12
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.07,
-    "three_inst_ratio_change_20": -0.16999999999999998
+    "three_inst_ratio_change_20": -0.21000000000000002
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.17,
-    "three_inst_ratio_change_20": -0.11000000000000001
+    "three_inst_ratio_change_20": -0.11999999999999997
   },
   {
     "date": "2026-06-30",
@@ -2175,6 +2186,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.13,
-    "three_inst_ratio_change_20": -0.15999999999999998
+    "three_inst_ratio_change_20": -0.07
   }
 ]

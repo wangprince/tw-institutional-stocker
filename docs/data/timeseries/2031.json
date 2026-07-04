@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": 0.06989084063704176
   },
   {
+    "date": "2026-06-19",
+    "code": "2031",
+    "name": "新光鋼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.03349354523706
+  },
+  {
     "date": "2026-06-22",
     "code": "2031",
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.68,
-    "trust_ratio": 0.4645492753722515,
+    "trust_ratio": 0.4609820542840935,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.14454927537225,
-    "three_inst_ratio_change_20": 0.11105573013518999
+    "three_inst_ratio": 8.140982054284093,
+    "three_inst_ratio_change_20": -0.008356998655639103
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.7,
-    "trust_ratio": 0.4621640699309727,
+    "trust_ratio": 0.4585968488428146,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.162164069930974,
-    "three_inst_ratio_change_20": 0.012825016991241611
+    "three_inst_ratio": 8.158596848842814,
+    "three_inst_ratio_change_20": 0.12161310843021589
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.71,
-    "trust_ratio": 0.45858252515478604,
+    "trust_ratio": 0.455015304066628,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.168582525154786,
-    "three_inst_ratio_change_20": 0.131598784742188
+    "three_inst_ratio": 8.165015304066628,
+    "three_inst_ratio_change_20": 0.14485337576989643
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.69,
-    "trust_ratio": 0.45858252515478604,
+    "trust_ratio": 0.455015304066628,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.148582525154787,
-    "three_inst_ratio_change_20": 0.12842059685805474
+    "three_inst_ratio": 8.145015304066629,
+    "three_inst_ratio_change_20": 0.2107425912412939
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.67,
-    "trust_ratio": 0.45858252515478604,
+    "trust_ratio": 0.455015304066628,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.128582525154785,
-    "three_inst_ratio_change_20": 0.19430981232945044
+    "three_inst_ratio": 8.125015304066627,
+    "three_inst_ratio_change_20": 0.016386747093593
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.53,
-    "trust_ratio": 0.45827114063242586,
+    "trust_ratio": 0.45470391954426786,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.988271140632426,
-    "three_inst_ratio_change_20": -0.12035741634060848
+    "three_inst_ratio": 7.984703919544268,
+    "three_inst_ratio_change_20": -0.21921370098997883
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.32,
-    "trust_ratio": 0.4570726216058616,
+    "trust_ratio": 0.4535054005177035,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.777072621605862,
-    "three_inst_ratio_change_20": -0.42684499892838446
+    "three_inst_ratio": 7.773505400517704,
+    "three_inst_ratio_change_20": -0.36390116965399155
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.25,
-    "trust_ratio": 0.46521532686558,
+    "trust_ratio": 0.4616481057774219,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.71521532686558,
-    "three_inst_ratio_change_20": -0.42219124330611546
+    "three_inst_ratio": 7.711648105777422,
+    "three_inst_ratio_change_20": -0.9810487734935771
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "新光鋼",
     "market": "TWSE",
     "foreign_ratio": 7.3,
-    "trust_ratio": 0.47215546509994333,
+    "trust_ratio": 0.4685882440117852,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.772155465099943,
-    "three_inst_ratio_change_20": -0.9205414141710557
+    "three_inst_ratio": 7.768588244011785,
+    "three_inst_ratio_change_20": -1.1214425609787666
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2031",
+    "name": "新光鋼",
+    "market": "TWSE",
+    "foreign_ratio": 7.46,
+    "trust_ratio": 0.49731502312212233,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.957315023122122,
+    "three_inst_ratio_change_20": -1.116207222582057
   }
 ]

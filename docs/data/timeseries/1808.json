@@ -2024,18 +2024,18 @@
     "three_inst_ratio_change_20": 0.15999999999999925
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "1808",
     "name": "潤隆",
     "market": "TWSE",
-    "foreign_ratio": 4.09,
-    "trust_ratio": -2.0188226388723116,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.0711773611276882,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.8911773611276885
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "1808",
     "name": "潤隆",
     "market": "TWSE",
@@ -2046,18 +2046,18 @@
     "three_inst_ratio_change_20": 0.20999999999999996
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-06-23",
     "code": "1808",
     "name": "潤隆",
     "market": "TWSE",
-    "foreign_ratio": 4.08,
+    "foreign_ratio": 4.09,
     "trust_ratio": -2.0188226388723116,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.0611773611276885,
-    "three_inst_ratio_change_20": 0.18999999999999995
+    "three_inst_ratio": 2.0711773611276882,
+    "three_inst_ratio_change_20": 0.19999999999999973
   },
   {
-    "date": "2026-06-25",
+    "date": "2026-06-24",
     "code": "1808",
     "name": "潤隆",
     "market": "TWSE",
@@ -2068,7 +2068,7 @@
     "three_inst_ratio_change_20": 0.26000000000000023
   },
   {
-    "date": "2026-06-26",
+    "date": "2026-06-25",
     "code": "1808",
     "name": "潤隆",
     "market": "TWSE",
@@ -2079,6 +2079,17 @@
     "three_inst_ratio_change_20": 0.33999999999999986
   },
   {
+    "date": "2026-06-26",
+    "code": "1808",
+    "name": "潤隆",
+    "market": "TWSE",
+    "foreign_ratio": 4.08,
+    "trust_ratio": -2.0188226388723116,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.0611773611276885,
+    "three_inst_ratio_change_20": 0.16999999999999993
+  },
+  {
     "date": "2026-06-29",
     "code": "1808",
     "name": "潤隆",
@@ -2087,7 +2098,7 @@
     "trust_ratio": -2.0188226388723116,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0111773611276886,
-    "three_inst_ratio_change_20": 0.1200000000000001
+    "three_inst_ratio_change_20": 0.1900000000000004
   },
   {
     "date": "2026-06-30",
@@ -2098,7 +2109,7 @@
     "trust_ratio": -2.0188226388723116,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.001177361127688,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio_change_20": 0.16999999999999948
   },
   {
     "date": "2026-07-01",
@@ -2109,7 +2120,7 @@
     "trust_ratio": -2.0188226388723116,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9611773611276884,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": -0.0900000000000003
   },
   {
     "date": "2026-07-02",
@@ -2120,6 +2131,17 @@
     "trust_ratio": -2.0188226388723116,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9211773611276883,
-    "three_inst_ratio_change_20": -0.13000000000000034
+    "three_inst_ratio_change_20": -0.18000000000000016
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1808",
+    "name": "潤隆",
+    "market": "TWSE",
+    "foreign_ratio": 3.98,
+    "trust_ratio": -2.0188226388723116,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9611773611276884,
+    "three_inst_ratio_change_20": -0.14000000000000012
   }
 ]

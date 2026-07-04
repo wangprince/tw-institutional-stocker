@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": -0.2566471921099285
   },
   {
+    "date": "2026-06-19",
+    "code": "00985A",
+    "name": "主動野村台灣50",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.62
+  },
+  {
     "date": "2026-06-22",
     "code": "00985A",
     "name": "主動野村台灣50",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.013366537182621856,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9133665371826218,
-    "three_inst_ratio_change_20": 0.29336653718262173
+    "three_inst_ratio_change_20": -0.28663346281737834
   },
   {
     "date": "2026-06-23",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.013547621975493394,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5235476219754933,
-    "three_inst_ratio_change_20": -0.6764523780245069
+    "three_inst_ratio_change_20": -0.48645237802450647
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.013561755016284538,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5335617550162846,
-    "three_inst_ratio_change_20": -0.47643824498371523
+    "three_inst_ratio_change_20": -0.6664382449837156
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.013561755016284538,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6935617550162845,
-    "three_inst_ratio_change_20": -0.5064382449837157
+    "three_inst_ratio_change_20": -0.7564382449837157
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.013561755016284538,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9835617550162845,
-    "three_inst_ratio_change_20": -0.46643824498371567
+    "three_inst_ratio_change_20": -0.8764382449837154
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.01360433161918755,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3736043316191875,
-    "three_inst_ratio_change_20": -0.4863956683808124
+    "three_inst_ratio_change_20": 0.2936043316191874
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.013719187233135425,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9237191872331354,
-    "three_inst_ratio_change_20": -0.15628081276686467
+    "three_inst_ratio_change_20": -0.48628081276686475
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.013880317496246975,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.013880317496247,
-    "three_inst_ratio_change_20": -1.3961196825037532
+    "three_inst_ratio_change_20": -1.276119682503753
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00985A",
+    "name": "主動野村台灣50",
+    "market": "TWSE",
+    "foreign_ratio": 1.01,
+    "trust_ratio": 0.013880317496246975,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.023880317496247,
+    "three_inst_ratio_change_20": -0.916119682503753
   }
 ]

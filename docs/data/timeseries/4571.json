@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.75
   },
   {
+    "date": "2026-06-19",
+    "code": "4571",
+    "name": "鈞興-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -65.57915513697793
+  },
+  {
     "date": "2026-06-22",
     "code": "4571",
     "name": "鈞興-KY",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.27915513697793626,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.79915513697793,
-    "three_inst_ratio_change_20": 0.21999999999999886
+    "three_inst_ratio_change_20": 0.4899999999999949
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.27915513697793626,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.67915513697794,
-    "three_inst_ratio_change_20": 0.37000000000000455
+    "three_inst_ratio_change_20": -0.009999999999990905
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.27915513697793626,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.36915513697794,
-    "three_inst_ratio_change_20": -0.3199999999999932
+    "three_inst_ratio_change_20": -1.25
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.28104132033589535,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.2910413203359,
-    "three_inst_ratio_change_20": -1.3281138166420305
+    "three_inst_ratio_change_20": -1.668113816642034
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.28104132033589535,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.4410413203359,
-    "three_inst_ratio_change_20": -1.5181138166420425
+    "three_inst_ratio_change_20": -1.4081138166420288
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.28104132033589535,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.4510413203359,
-    "three_inst_ratio_change_20": -1.3981138166420237
+    "three_inst_ratio_change_20": -1.2981138166420294
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.28104132033589535,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.3610413203359,
-    "three_inst_ratio_change_20": -1.3881138166420328
+    "three_inst_ratio_change_20": -1.218113816642031
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.28104132033589535,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 65.3010413203359,
-    "three_inst_ratio_change_20": -1.2781138166420334
+    "three_inst_ratio_change_20": -1.398113816642038
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.28104132033589535,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 64.9710413203359,
-    "three_inst_ratio_change_20": -1.7281138166420362
+    "three_inst_ratio_change_20": -1.8281138166420305
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4571",
+    "name": "鈞興-KY",
+    "market": "TWSE",
+    "foreign_ratio": 64.66,
+    "trust_ratio": 0.28104132033589535,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 64.9410413203359,
+    "three_inst_ratio_change_20": -1.68811381664203
   }
 ]

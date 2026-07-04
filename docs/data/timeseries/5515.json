@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.09420635995370041
   },
   {
+    "date": "2026-06-19",
+    "code": "5515",
+    "name": "建國",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.386428489583366
+  },
+  {
     "date": "2026-06-22",
     "code": "5515",
     "name": "建國",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.17509913339123412,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.275099133391233,
-    "three_inst_ratio_change_20": -0.11132935619213313
+    "three_inst_ratio_change_20": -0.18033729311343016
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.1711308810764186,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.13113088107642,
-    "three_inst_ratio_change_20": -0.32430554542824375
+    "three_inst_ratio_change_20": -0.31430554542824396
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.17013881799771471,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.690138817997715,
-    "three_inst_ratio_change_20": -0.7552976085069485
+    "three_inst_ratio_change_20": -0.8738095138888919
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.16914675491901085,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.729146754919011,
-    "three_inst_ratio_change_20": -0.834801576967596
+    "three_inst_ratio_change_20": -0.8538095138888941
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.16567453414354727,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.945674534143546,
-    "three_inst_ratio_change_20": -0.6372817346643593
+    "three_inst_ratio_change_20": -0.6262896715856545
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.1607142187500279,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.920714218750028,
-    "three_inst_ratio_change_20": -0.6512499869791721
+    "three_inst_ratio_change_20": -0.6812499869791715
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.1607142187500279,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.020714218750028,
-    "three_inst_ratio_change_20": -0.5812499869791719
+    "three_inst_ratio_change_20": -0.46124998697917086
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.15079358796298914,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.970793587962989,
-    "three_inst_ratio_change_20": -0.5111706177662096
+    "three_inst_ratio_change_20": -0.537202365451396
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.1408729571759504,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.950872957175951,
-    "three_inst_ratio_change_20": -0.5571229962384336
+    "three_inst_ratio_change_20": -0.6271229962384339
+  },
+  {
+    "date": "2026-07-03",
+    "code": "5515",
+    "name": "建國",
+    "market": "TWSE",
+    "foreign_ratio": 11.83,
+    "trust_ratio": 0.10119043402779535,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.931190434027796,
+    "three_inst_ratio_change_20": -0.7448213932291807
   }
 ]

@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.05999999999999872
   },
   {
+    "date": "2026-06-19",
+    "code": "6933",
+    "name": "AMAX-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -28.263895264340047
+  },
+  {
     "date": "2026-06-22",
     "code": "6933",
     "name": "AMAX-KY",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.303895264340046,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.263895264340047,
-    "three_inst_ratio_change_20": 0.020000000000003126
+    "three_inst_ratio_change_20": 0.030000000000001137
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.313895264340044,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.263895264340047,
-    "three_inst_ratio_change_20": 0.0400000000000027
+    "three_inst_ratio_change_20": 0.13000000000000256
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.253895264340045,
-    "three_inst_ratio_change_20": 0.120000000000001
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.293895264340044,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": -0.13000000000000256
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.323895264340045,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.19000000000000128
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.333895264340043,
-    "three_inst_ratio_change_20": -0.18000000000000327
+    "three_inst_ratio_change_20": -0.11000000000000298
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.003895264340046432,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.333895264340043,
-    "three_inst_ratio_change_20": -0.11000000000000298
+    "three_inst_ratio_change_20": -0.0400000000000027
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6933",
+    "name": "AMAX-KY",
+    "market": "TWSE",
+    "foreign_ratio": 28.24,
+    "trust_ratio": 0.003895264340046432,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 28.243895264340043,
+    "three_inst_ratio_change_20": -0.16000000000000014
   }
 ]

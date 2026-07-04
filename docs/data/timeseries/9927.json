@@ -2024,18 +2024,18 @@
     "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "9927",
     "name": "泰銘",
     "market": "TWSE",
-    "foreign_ratio": 6.57,
-    "trust_ratio": 0.12166666666666667,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.691666666666667,
-    "three_inst_ratio_change_20": 0.15000000000000036
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.541666666666667
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "9927",
     "name": "泰銘",
     "market": "TWSE",
@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
+    "date": "2026-06-23",
+    "code": "9927",
+    "name": "泰銘",
+    "market": "TWSE",
+    "foreign_ratio": 6.57,
+    "trust_ratio": 0.12166666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.691666666666667,
+    "three_inst_ratio_change_20": 0.07000000000000028
+  },
+  {
     "date": "2026-06-24",
     "code": "9927",
     "name": "泰銘",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.12166666666666667,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.661666666666667,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-06-25",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.12166666666666667,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.671666666666667,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-06-26",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.12166666666666667,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.621666666666667,
-    "three_inst_ratio_change_20": -0.019999999999999574
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-06-29",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.12166666666666667,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.611666666666667,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
     "date": "2026-06-30",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.12166666666666667,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.591666666666667,
-    "three_inst_ratio_change_20": -0.10000000000000053
+    "three_inst_ratio_change_20": -0.15000000000000036
   },
   {
     "date": "2026-07-01",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.12166666666666667,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.591666666666667,
-    "three_inst_ratio_change_20": -0.15000000000000036
+    "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
     "date": "2026-07-02",
@@ -2120,6 +2131,17 @@
     "trust_ratio": 0.12166666666666667,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.591666666666667,
+    "three_inst_ratio_change_20": -0.23000000000000043
+  },
+  {
+    "date": "2026-07-03",
+    "code": "9927",
+    "name": "泰銘",
+    "market": "TWSE",
+    "foreign_ratio": 6.5,
+    "trust_ratio": 0.12166666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.621666666666667,
     "three_inst_ratio_change_20": -0.20999999999999996
   }
 ]

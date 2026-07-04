@@ -2046,18 +2046,18 @@
     "three_inst_ratio_change_20": 0.6299999999999999
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "00949",
     "name": "復華日本龍頭",
     "market": "TWSE",
-    "foreign_ratio": 0.42,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": -0.74
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.16
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "00949",
     "name": "復華日本龍頭",
     "market": "TWSE",
@@ -2068,6 +2068,17 @@
     "three_inst_ratio_change_20": -0.97
   },
   {
+    "date": "2026-06-23",
+    "code": "00949",
+    "name": "復華日本龍頭",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": -1.1300000000000001
+  },
+  {
     "date": "2026-06-24",
     "code": "00949",
     "name": "復華日本龍頭",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": -1.17
+    "three_inst_ratio_change_20": -1.38
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.52,
-    "three_inst_ratio_change_20": -1.24
+    "three_inst_ratio_change_20": -0.13
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": -0.21000000000000002
+    "three_inst_ratio_change_20": -0.45
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.52,
-    "three_inst_ratio_change_20": -0.37
+    "three_inst_ratio_change_20": -0.7
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.53,
-    "three_inst_ratio_change_20": -0.69
+    "three_inst_ratio_change_20": -0.8
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.58,
-    "three_inst_ratio_change_20": -0.7500000000000001
+    "three_inst_ratio_change_20": -0.88
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.64,
-    "three_inst_ratio_change_20": -0.82
+    "three_inst_ratio_change_20": -0.7999999999999999
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00949",
+    "name": "復華日本龍頭",
+    "market": "TWSE",
+    "foreign_ratio": 0.9,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9,
+    "three_inst_ratio_change_20": -0.4999999999999999
   }
 ]

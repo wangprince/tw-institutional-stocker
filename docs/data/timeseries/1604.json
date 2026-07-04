@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": -0.019999999999999574
   },
   {
+    "date": "2026-06-19",
+    "code": "1604",
+    "name": "聲寶",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.500260281103592
+  },
+  {
     "date": "2026-06-22",
     "code": "1604",
     "name": "聲寶",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.510260281103592,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": 0.02999999999999936
   },
   {
     "date": "2026-06-23",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.5202602811035915,
-    "three_inst_ratio_change_20": 0.03999999999999915
+    "three_inst_ratio_change_20": 0.09999999999999964
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.570260281103592,
-    "three_inst_ratio_change_20": 0.15000000000000036
+    "three_inst_ratio_change_20": 0.16999999999999993
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.530260281103592,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.540260281103592,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": 0.17999999999999972
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.5602602811035915,
-    "three_inst_ratio_change_20": 0.1999999999999993
+    "three_inst_ratio_change_20": 0.1899999999999995
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.590260281103592,
-    "three_inst_ratio_change_20": 0.21999999999999975
+    "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0002602811035918792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.620260281103592,
-    "three_inst_ratio_change_20": 0.11000000000000032
+    "three_inst_ratio_change_20": 0.0600000000000005
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1604",
+    "name": "聲寶",
+    "market": "TWSE",
+    "foreign_ratio": 7.77,
+    "trust_ratio": 0.0002602811035918792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.7702602811035915,
+    "three_inst_ratio_change_20": 0.22999999999999954
   }
 ]

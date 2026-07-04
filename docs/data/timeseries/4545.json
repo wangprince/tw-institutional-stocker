@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.4200000000000017
   },
   {
+    "date": "2026-06-19",
+    "code": "4545",
+    "name": "銘鈺",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -28.96
+  },
+  {
     "date": "2026-06-22",
     "code": "4545",
     "name": "銘鈺",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.47,
-    "three_inst_ratio_change_20": 0.509999999999998
+    "three_inst_ratio_change_20": 0.5899999999999999
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.5,
-    "three_inst_ratio_change_20": 0.620000000000001
+    "three_inst_ratio_change_20": 0.5399999999999991
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.24,
-    "three_inst_ratio_change_20": 0.2799999999999976
+    "three_inst_ratio_change_20": 0.25
   },
   {
     "date": "2026-06-25",
@@ -2142,7 +2153,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.18,
-    "three_inst_ratio_change_20": 0.19000000000000128
+    "three_inst_ratio_change_20": 0.14999999999999858
   },
   {
     "date": "2026-06-26",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.3,
-    "three_inst_ratio_change_20": 0.2699999999999996
+    "three_inst_ratio_change_20": 0.40000000000000213
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.28,
-    "three_inst_ratio_change_20": 0.38000000000000256
+    "three_inst_ratio_change_20": 0.26000000000000156
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.28,
-    "three_inst_ratio_change_20": 0.26000000000000156
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.34,
-    "three_inst_ratio_change_20": 0.16999999999999815
+    "three_inst_ratio_change_20": 0.07000000000000028
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.36,
-    "three_inst_ratio_change_20": 0.08999999999999986
+    "three_inst_ratio_change_20": 0.14999999999999858
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4545",
+    "name": "銘鈺",
+    "market": "TWSE",
+    "foreign_ratio": 29.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.37,
+    "three_inst_ratio_change_20": -0.14000000000000057
   }
 ]

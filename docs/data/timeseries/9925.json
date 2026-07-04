@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.0400000000000027
   },
   {
+    "date": "2026-06-19",
+    "code": "9925",
+    "name": "新保",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -17.39
+  },
+  {
     "date": "2026-06-22",
     "code": "9925",
     "name": "新保",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.46,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.060000000000002274
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.48,
-    "three_inst_ratio_change_20": 0.08000000000000185
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.48,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.16000000000000014
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.48,
-    "three_inst_ratio_change_20": 0.16000000000000014
+    "three_inst_ratio_change_20": 0.120000000000001
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.49,
-    "three_inst_ratio_change_20": 0.129999999999999
+    "three_inst_ratio_change_20": 0.16000000000000014
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.47,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.129999999999999
   },
   {
     "date": "2026-07-01",
@@ -2186,7 +2197,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.52,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio_change_20": 0.14999999999999858
   },
   {
     "date": "2026-07-02",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.53,
-    "three_inst_ratio_change_20": 0.16000000000000014
+    "three_inst_ratio_change_20": 0.14000000000000057
+  },
+  {
+    "date": "2026-07-03",
+    "code": "9925",
+    "name": "新保",
+    "market": "TWSE",
+    "foreign_ratio": 17.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.58,
+    "three_inst_ratio_change_20": 0.21999999999999886
   }
 ]

@@ -2024,6 +2024,17 @@
     "three_inst_ratio_change_20": 0.02276824250878462
   },
   {
+    "date": "2026-06-19",
+    "code": "2433",
+    "name": "互盛電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.89
+  },
+  {
     "date": "2026-06-22",
     "code": "2433",
     "name": "互盛電",
@@ -2032,7 +2043,7 @@
     "trust_ratio": 0.0027682425087845507,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9227682425087846,
-    "three_inst_ratio_change_20": 0.03276824250878463
+    "three_inst_ratio_change_20": 0.04276824250878464
   },
   {
     "date": "2026-06-23",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0027682425087845507,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9027682425087846,
-    "three_inst_ratio_change_20": 0.02276824250878462
+    "three_inst_ratio_change_20": 0.01276824250878461
   },
   {
     "date": "2026-06-29",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.0027682425087845507,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9027682425087846,
-    "three_inst_ratio_change_20": 0.01276824250878461
+    "three_inst_ratio_change_20": -0.017231757491215416
   },
   {
     "date": "2026-06-30",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0027682425087845507,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9127682425087846,
-    "three_inst_ratio_change_20": -0.007231757491215407
+    "three_inst_ratio_change_20": -0.017231757491215416
   },
   {
     "date": "2026-07-01",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.0027682425087845507,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9627682425087846,
-    "three_inst_ratio_change_20": 0.03276824250878452
+    "three_inst_ratio_change_20": 0.02276824250878462
   },
   {
     "date": "2026-07-02",
@@ -2121,5 +2132,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9427682425087845,
     "three_inst_ratio_change_20": 0.002768242508784602
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2433",
+    "name": "互盛電",
+    "market": "TWSE",
+    "foreign_ratio": 0.93,
+    "trust_ratio": 0.0027682425087845507,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9327682425087847,
+    "three_inst_ratio_change_20": -0.017231757491215305
   }
 ]

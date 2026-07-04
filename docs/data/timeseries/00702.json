@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
+    "date": "2026-06-19",
+    "code": "00702",
+    "name": "國泰標普低波高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.42
+  },
+  {
     "date": "2026-06-22",
     "code": "00702",
     "name": "國泰標普低波高息",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.43,
-    "three_inst_ratio_change_20": 0.00999999999999801
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.43,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.019999999999999574
   },
   {
     "date": "2026-07-01",
@@ -2190,6 +2201,17 @@
   },
   {
     "date": "2026-07-02",
+    "code": "00702",
+    "name": "國泰標普低波高息",
+    "market": "TWSE",
+    "foreign_ratio": 18.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.43,
+    "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-07-03",
     "code": "00702",
     "name": "國泰標普低波高息",
     "market": "TWSE",

@@ -2101,6 +2101,17 @@
     "three_inst_ratio_change_20": 0.16000000000000014
   },
   {
+    "date": "2026-06-19",
+    "code": "2107",
+    "name": "厚生",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.147457560012833
+  },
+  {
     "date": "2026-06-22",
     "code": "2107",
     "name": "厚生",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.017457560012832954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.387457560012833,
-    "three_inst_ratio_change_20": 0.2400000000000002
+    "three_inst_ratio_change_20": 0.3100000000000005
   },
   {
     "date": "2026-06-23",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.017457560012832954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.377457560012833,
-    "three_inst_ratio_change_20": 0.3000000000000007
+    "three_inst_ratio_change_20": 0.3200000000000003
   },
   {
     "date": "2026-06-24",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.017457560012832954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.477457560012833,
-    "three_inst_ratio_change_20": 0.41999999999999993
+    "three_inst_ratio_change_20": 0.4400000000000004
   },
   {
     "date": "2026-06-25",
@@ -2153,7 +2164,7 @@
     "trust_ratio": 0.017457560012832954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.487457560012833,
-    "three_inst_ratio_change_20": 0.4500000000000002
+    "three_inst_ratio_change_20": 0.4299999999999997
   },
   {
     "date": "2026-06-29",
@@ -2164,7 +2175,7 @@
     "trust_ratio": 0.017457560012832954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.417457560012833,
-    "three_inst_ratio_change_20": 0.3600000000000003
+    "three_inst_ratio_change_20": 0.3000000000000007
   },
   {
     "date": "2026-06-30",
@@ -2175,7 +2186,7 @@
     "trust_ratio": 0.017457560012832954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.397457560012833,
-    "three_inst_ratio_change_20": 0.28000000000000025
+    "three_inst_ratio_change_20": 0.3099999999999996
   },
   {
     "date": "2026-07-01",
@@ -2197,6 +2208,17 @@
     "trust_ratio": 0.017457560012832954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.387457560012833,
-    "three_inst_ratio_change_20": 0.2999999999999998
+    "three_inst_ratio_change_20": 0.28000000000000025
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2107",
+    "name": "厚生",
+    "market": "TWSE",
+    "foreign_ratio": 6.47,
+    "trust_ratio": 0.017457560012832954,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.487457560012833,
+    "three_inst_ratio_change_20": 0.3700000000000001
   }
 ]

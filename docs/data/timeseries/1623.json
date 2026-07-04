@@ -1056,18 +1056,18 @@
     "three_inst_ratio_change_20": 0.22999999999999998
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "1623",
     "name": "大東電",
     "market": "TWSE",
-    "foreign_ratio": 0.44,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.32
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "1623",
     "name": "大東電",
     "market": "TWSE",
@@ -1078,6 +1078,17 @@
     "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
+    "date": "2026-06-23",
+    "code": "1623",
+    "name": "大東電",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.44,
+    "three_inst_ratio_change_20": 0.07
+  },
+  {
     "date": "2026-06-24",
     "code": "1623",
     "name": "大東電",
@@ -1086,7 +1097,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": 0.06
+    "three_inst_ratio_change_20": -0.06
   },
   {
     "date": "2026-06-25",
@@ -1097,7 +1108,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": -0.07
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-06-26",
@@ -1108,7 +1119,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
-    "three_inst_ratio_change_20": -0.04999999999999999
+    "three_inst_ratio_change_20": 0.14
   },
   {
     "date": "2026-06-29",
@@ -1119,7 +1130,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.18
+    "three_inst_ratio_change_20": 0.15000000000000002
   },
   {
     "date": "2026-06-30",
@@ -1141,7 +1152,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.76,
-    "three_inst_ratio_change_20": 0.47000000000000003
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-07-02",
@@ -1152,6 +1163,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.15000000000000002
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1623",
+    "name": "大東電",
+    "market": "TWSE",
+    "foreign_ratio": 0.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.99,
+    "three_inst_ratio_change_20": 0.53
   }
 ]

@@ -2002,6 +2002,17 @@
     "three_inst_ratio_change_20": -0.02999999999999997
   },
   {
+    "date": "2026-06-19",
+    "code": "1583",
+    "name": "程泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.36
+  },
+  {
     "date": "2026-06-22",
     "code": "1583",
     "name": "程泰",
@@ -2021,7 +2032,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": -0.019999999999999962
+    "three_inst_ratio_change_20": -0.04999999999999999
   },
   {
     "date": "2026-06-24",
@@ -2032,7 +2043,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-06-25",
@@ -2043,7 +2054,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.04999999999999999
   },
   {
     "date": "2026-06-26",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
-    "three_inst_ratio_change_20": -0.07
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-06-29",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.37,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-06-30",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-07-01",
@@ -2098,6 +2109,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.36,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1583",
+    "name": "程泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.36,
+    "three_inst_ratio_change_20": -0.010000000000000009
   }
 ]

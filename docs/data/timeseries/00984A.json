@@ -2046,6 +2046,17 @@
     "three_inst_ratio_change_20": 0.45021323871220864
   },
   {
+    "date": "2026-06-19",
+    "code": "00984A",
+    "name": "主動安聯台灣高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.43
+  },
+  {
     "date": "2026-06-22",
     "code": "00984A",
     "name": "主動安聯台灣高息",
@@ -2054,7 +2065,7 @@
     "trust_ratio": 0.00021278497227411814,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4502127849722741,
-    "three_inst_ratio_change_20": 0.02021278497227419
+    "three_inst_ratio_change_20": -0.09978721502772592
   },
   {
     "date": "2026-06-23",
@@ -2065,7 +2076,7 @@
     "trust_ratio": 0.0002090047611284585,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7202090047611285,
-    "three_inst_ratio_change_20": -0.8297909952388716
+    "three_inst_ratio_change_20": 0.020209004761128524
   },
   {
     "date": "2026-06-24",
@@ -2076,7 +2087,7 @@
     "trust_ratio": 0.0002085688423177838,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6202085688423178,
-    "three_inst_ratio_change_20": -0.07979143115768217
+    "three_inst_ratio_change_20": -0.1097914311576822
   },
   {
     "date": "2026-06-25",
@@ -2087,7 +2098,7 @@
     "trust_ratio": 0.00020770243718039788,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5302077024371804,
-    "three_inst_ratio_change_20": -0.19979229756281958
+    "three_inst_ratio_change_20": 0.12020770243718043
   },
   {
     "date": "2026-06-26",
@@ -2098,7 +2109,7 @@
     "trust_ratio": 0.0002068432004434718,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.37020684320044345,
-    "three_inst_ratio_change_20": -0.03979315679955653
+    "three_inst_ratio_change_20": -0.26979315679955657
   },
   {
     "date": "2026-06-29",
@@ -2109,7 +2120,7 @@
     "trust_ratio": 0.00020409912686393528,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.540204099126864,
-    "three_inst_ratio_change_20": -0.09979590087313606
+    "three_inst_ratio_change_20": -0.17979590087313602
   },
   {
     "date": "2026-06-30",
@@ -2120,7 +2131,7 @@
     "trust_ratio": 0.00020389105693046093,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9602038910569304,
-    "three_inst_ratio_change_20": 0.2402038910569304
+    "three_inst_ratio_change_20": 0.21020389105693038
   },
   {
     "date": "2026-07-01",
@@ -2131,7 +2142,7 @@
     "trust_ratio": 0.00020389105693046093,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2402038910569304,
-    "three_inst_ratio_change_20": 0.4902038910569304
+    "three_inst_ratio_change_20": 0.4702038910569304
   },
   {
     "date": "2026-07-02",
@@ -2142,6 +2153,17 @@
     "trust_ratio": 0.0001978403744722608,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1901978403744722,
-    "three_inst_ratio_change_20": 0.42019784037447216
+    "three_inst_ratio_change_20": 0.6301978403744721
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00984A",
+    "name": "主動安聯台灣高息",
+    "market": "TWSE",
+    "foreign_ratio": 1.18,
+    "trust_ratio": 0.00019551947569497398,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.180195519475695,
+    "three_inst_ratio_change_20": 0.590195519475695
   }
 ]

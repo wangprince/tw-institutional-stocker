@@ -1936,18 +1936,18 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
-    "date": "2026-06-22",
+    "date": "2026-06-19",
     "code": "3168",
     "name": "眾福科",
     "market": "TWSE",
-    "foreign_ratio": 1.25,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.25,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.23
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-06-22",
     "code": "3168",
     "name": "眾福科",
     "market": "TWSE",
@@ -1958,6 +1958,17 @@
     "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
+    "date": "2026-06-23",
+    "code": "3168",
+    "name": "眾福科",
+    "market": "TWSE",
+    "foreign_ratio": 1.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.25,
+    "three_inst_ratio_change_20": -0.030000000000000027
+  },
+  {
     "date": "2026-06-24",
     "code": "3168",
     "name": "眾福科",
@@ -1966,7 +1977,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.36,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.13000000000000012
   },
   {
     "date": "2026-06-25",
@@ -1988,7 +1999,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3,
-    "three_inst_ratio_change_20": 0.07000000000000006
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-06-29",
@@ -1999,7 +2010,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.28,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-06-30",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.28,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-07-01",
@@ -2021,7 +2032,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.28,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-07-02",
@@ -2033,5 +2044,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
     "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3168",
+    "name": "眾福科",
+    "market": "TWSE",
+    "foreign_ratio": 1.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.23,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

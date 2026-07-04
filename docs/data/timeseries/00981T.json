@@ -1947,6 +1947,17 @@
     "three_inst_ratio_change_20": -0.09000000000000008
   },
   {
+    "date": "2026-06-19",
+    "code": "00981T",
+    "name": "平衡凱基雙核收息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.66
+  },
+  {
     "date": "2026-06-22",
     "code": "00981T",
     "name": "平衡凱基雙核收息",
@@ -1966,7 +1977,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
     "date": "2026-06-24",
@@ -1977,7 +1988,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.54,
-    "three_inst_ratio_change_20": -0.10999999999999999
+    "three_inst_ratio_change_20": -0.14
   },
   {
     "date": "2026-06-25",
@@ -1988,7 +1999,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.56,
-    "three_inst_ratio_change_20": -0.12
+    "three_inst_ratio_change_20": -0.09999999999999998
   },
   {
     "date": "2026-06-26",
@@ -1999,7 +2010,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.51,
-    "three_inst_ratio_change_20": -0.15000000000000002
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-06-29",
@@ -2010,7 +2021,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6,
-    "three_inst_ratio_change_20": 0.04999999999999993
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-06-30",
@@ -2021,7 +2032,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.59,
-    "three_inst_ratio_change_20": -0.050000000000000044
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-07-01",
@@ -2043,6 +2054,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.55,
-    "three_inst_ratio_change_20": -0.06999999999999995
+    "three_inst_ratio_change_20": -0.05999999999999994
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00981T",
+    "name": "平衡凱基雙核收息",
+    "market": "TWSE",
+    "foreign_ratio": 0.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.55,
+    "three_inst_ratio_change_20": -0.039999999999999925
   }
 ]

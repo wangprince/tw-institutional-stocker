@@ -682,6 +682,17 @@
     "three_inst_ratio_change_20": -0.04000000000000001
   },
   {
+    "date": "2026-06-19",
+    "code": "2881C",
+    "name": "富邦金丙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.15
+  },
+  {
     "date": "2026-06-24",
     "code": "2881C",
     "name": "富邦金丙特",
@@ -690,7 +701,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.11,
-    "three_inst_ratio_change_20": -0.039999999999999994
+    "three_inst_ratio_change_20": -0.030000000000000013
   },
   {
     "date": "2026-06-25",
@@ -701,7 +712,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.12,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-06-26",
@@ -734,7 +745,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.11,
-    "three_inst_ratio_change_20": -0.020000000000000004
+    "three_inst_ratio_change_20": -0.009999999999999995
   },
   {
     "date": "2026-07-01",
@@ -756,6 +767,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.12,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.009999999999999995
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2881C",
+    "name": "富邦金丙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.13,
+    "three_inst_ratio_change_20": 0.03
   }
 ]

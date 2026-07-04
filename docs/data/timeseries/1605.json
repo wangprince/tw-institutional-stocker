@@ -2101,15 +2101,26 @@
     "three_inst_ratio_change_20": 1.3017126915194748
   },
   {
+    "date": "2026-06-19",
+    "code": "1605",
+    "name": "華新",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.950026207617745
+  },
+  {
     "date": "2026-06-22",
     "code": "1605",
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 16.7,
-    "trust_ratio": 0.02132421578537637,
+    "trust_ratio": 0.018864459290455465,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.721324215785376,
-    "three_inst_ratio_change_20": 1.7712980081676317
+    "three_inst_ratio": 16.718864459290455,
+    "three_inst_ratio_change_20": 1.51883825167271
   },
   {
     "date": "2026-06-23",
@@ -2117,10 +2128,10 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 16.2,
-    "trust_ratio": 0.021009840852066797,
+    "trust_ratio": 0.018550084357145894,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.221009840852066,
-    "three_inst_ratio_change_20": 1.0209836332343212
+    "three_inst_ratio": 16.218550084357144,
+    "three_inst_ratio_change_20": 0.9787204090266854
   },
   {
     "date": "2026-06-24",
@@ -2128,10 +2139,10 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 16.13,
-    "trust_ratio": 0.021009840852066797,
+    "trust_ratio": 0.018550084357145894,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.151009840852065,
-    "three_inst_ratio_change_20": 0.911180165521607
+    "three_inst_ratio": 16.148550084357144,
+    "three_inst_ratio_change_20": 0.9487490046572749
   },
   {
     "date": "2026-06-25",
@@ -2139,10 +2150,10 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 16.11,
-    "trust_ratio": 0.02058107595845673,
+    "trust_ratio": 0.018121319463535828,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.130581075958457,
-    "three_inst_ratio_change_20": 0.9307799962585879
+    "three_inst_ratio": 16.128121319463535,
+    "three_inst_ratio_change_20": 0.9983171030099722
   },
   {
     "date": "2026-06-26",
@@ -2150,10 +2161,10 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 15.85,
-    "trust_ratio": 0.02059202074653046,
+    "trust_ratio": 0.018132264251609558,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.87059202074653,
-    "three_inst_ratio_change_20": 0.7407878042929674
+    "three_inst_ratio": 15.86813226425161,
+    "three_inst_ratio_change_20": 0.1281791058052537
   },
   {
     "date": "2026-06-29",
@@ -2161,10 +2172,10 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 15.81,
-    "trust_ratio": 0.020348482286959946,
+    "trust_ratio": 0.017888725792039043,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.83034848228696,
-    "three_inst_ratio_change_20": 0.09039532384060323
+    "three_inst_ratio": 15.82788872579204,
+    "three_inst_ratio_change_20": 0.6378904341989884
   },
   {
     "date": "2026-06-30",
@@ -2172,10 +2183,10 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 15.87,
-    "trust_ratio": 0.020348482286959946,
+    "trust_ratio": 0.017888725792039043,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.890348482286958,
-    "three_inst_ratio_change_20": 0.7003501906939071
+    "three_inst_ratio": 15.887888725792038,
+    "three_inst_ratio_change_20": 0.3274646773122569
   },
   {
     "date": "2026-07-01",
@@ -2183,10 +2194,10 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 15.65,
-    "trust_ratio": 0.020348482286959946,
+    "trust_ratio": 0.017888725792039043,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.67034848228696,
-    "three_inst_ratio_change_20": 0.10992443380717809
+    "three_inst_ratio": 15.66788872579204,
+    "three_inst_ratio_change_20": -0.1533477193282664
   },
   {
     "date": "2026-07-02",
@@ -2194,9 +2205,20 @@
     "name": "華新",
     "market": "TWSE",
     "foreign_ratio": 15.54,
-    "trust_ratio": 0.019471522680087273,
+    "trust_ratio": 0.01701176618516637,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.559471522680086,
-    "three_inst_ratio_change_20": -0.26176492244021965
+    "three_inst_ratio": 15.557011766185166,
+    "three_inst_ratio_change_20": -0.34955039024524304
+  },
+  {
+    "date": "2026-07-03",
+    "code": "1605",
+    "name": "華新",
+    "market": "TWSE",
+    "foreign_ratio": 15.61,
+    "trust_ratio": 0.017185370833931752,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.627185370833931,
+    "three_inst_ratio_change_20": -0.18241544239749174
   }
 ]
