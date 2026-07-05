@@ -805,17 +805,17 @@
     "change": 0.7621531154820431
   },
   {
-    "code": "00917",
-    "name": "中信特選金融",
-    "market": "TWSE",
-    "three_inst_ratio": 2.84,
-    "change": 0.75
-  },
-  {
     "code": "2483",
     "name": "百容",
     "market": "TWSE",
     "three_inst_ratio": 6.14,
+    "change": 0.75
+  },
+  {
+    "code": "00917",
+    "name": "中信特選金融",
+    "market": "TWSE",
+    "three_inst_ratio": 2.84,
     "change": 0.75
   },
   {
@@ -903,17 +903,17 @@
     "change": 0.6750183276167414
   },
   {
-    "code": "00943",
-    "name": "兆豐電子高息等權",
-    "market": "TWSE",
-    "three_inst_ratio": 28.43,
-    "change": 0.6699999999999982
-  },
-  {
     "code": "6165",
     "name": "浪凡",
     "market": "TWSE",
     "three_inst_ratio": 17.74,
+    "change": 0.6699999999999982
+  },
+  {
+    "code": "00943",
+    "name": "兆豐電子高息等權",
+    "market": "TWSE",
+    "three_inst_ratio": 28.43,
     "change": 0.6699999999999982
   },
   {
@@ -1029,17 +1029,17 @@
     "change": 0.5900000000000007
   },
   {
-    "code": "2429",
-    "name": "銘旺科",
-    "market": "TWSE",
-    "three_inst_ratio": 1.25,
-    "change": 0.59
-  },
-  {
     "code": "1623",
     "name": "大東電",
     "market": "TWSE",
     "three_inst_ratio": 0.99,
+    "change": 0.59
+  },
+  {
+    "code": "2429",
+    "name": "銘旺科",
+    "market": "TWSE",
+    "three_inst_ratio": 1.25,
     "change": 0.59
   },
   {
@@ -1057,13 +1057,6 @@
     "change": 0.5812503751125337
   },
   {
-    "code": "00901",
-    "name": "永豐智能車供應鏈",
-    "market": "TWSE",
-    "three_inst_ratio": 1.08,
-    "change": 0.5800000000000001
-  },
-  {
     "code": "2397",
     "name": "友通",
     "market": "TWSE",
@@ -1075,6 +1068,13 @@
     "name": "富邦臺灣加權正2",
     "market": "TWSE",
     "three_inst_ratio": 1.31,
+    "change": 0.5800000000000001
+  },
+  {
+    "code": "00901",
+    "name": "永豐智能車供應鏈",
+    "market": "TWSE",
+    "three_inst_ratio": 1.08,
     "change": 0.5800000000000001
   },
   {
@@ -1092,10 +1092,10 @@
     "change": 0.5614165440546959
   },
   {
-    "code": "8438",
-    "name": "昶昕",
+    "code": "00905",
+    "name": "FT臺灣Smart",
     "market": "TWSE",
-    "three_inst_ratio": 3.827148678209399,
+    "three_inst_ratio": 0.74,
     "change": 0.56
   },
   {
@@ -1106,10 +1106,10 @@
     "change": 0.56
   },
   {
-    "code": "00905",
-    "name": "FT臺灣Smart",
+    "code": "8438",
+    "name": "昶昕",
     "market": "TWSE",
-    "three_inst_ratio": 0.74,
+    "three_inst_ratio": 3.827148678209399,
     "change": 0.56
   },
   {
@@ -1197,17 +1197,17 @@
     "change": 0.5202945317621708
   },
   {
-    "code": "2457",
-    "name": "飛宏",
-    "market": "TWSE",
-    "three_inst_ratio": 7.179512680220742,
-    "change": 0.5199999999999996
-  },
-  {
     "code": "2332",
     "name": "友訊",
     "market": "TWSE",
     "three_inst_ratio": 11.243393889988008,
+    "change": 0.5199999999999996
+  },
+  {
+    "code": "2457",
+    "name": "飛宏",
+    "market": "TWSE",
+    "three_inst_ratio": 7.179512680220742,
     "change": 0.5199999999999996
   },
   {
@@ -1260,17 +1260,17 @@
     "change": 0.5013500981956795
   },
   {
-    "code": "3588",
-    "name": "通嘉",
-    "market": "TWSE",
-    "three_inst_ratio": 6.86,
-    "change": 0.5
-  },
-  {
     "code": "4142",
     "name": "國光生",
     "market": "TWSE",
     "three_inst_ratio": 4.816030519821819,
+    "change": 0.5
+  },
+  {
+    "code": "9136",
+    "name": "巨騰-DR",
+    "market": "TWSE",
+    "three_inst_ratio": 3.5,
     "change": 0.5
   },
   {
@@ -1281,10 +1281,10 @@
     "change": 0.5
   },
   {
-    "code": "9136",
-    "name": "巨騰-DR",
+    "code": "3588",
+    "name": "通嘉",
     "market": "TWSE",
-    "three_inst_ratio": 3.5,
+    "three_inst_ratio": 6.86,
     "change": 0.5
   },
   {
@@ -1372,17 +1372,17 @@
     "change": 0.46
   },
   {
-    "code": "6873",
-    "name": "泓德能源",
-    "market": "TWSE",
-    "three_inst_ratio": 6.708723775465277,
-    "change": 0.45999999999999996
-  },
-  {
     "code": "4564",
     "name": "元翎",
     "market": "TWSE",
     "three_inst_ratio": 3.0426952254985076,
+    "change": 0.45999999999999996
+  },
+  {
+    "code": "6873",
+    "name": "泓德能源",
+    "market": "TWSE",
+    "three_inst_ratio": 6.708723775465277,
     "change": 0.45999999999999996
   },
   {
