@@ -2303,10 +2303,21 @@
     "code": "6579",
     "name": "研揚",
     "market": "TWSE",
-    "foreign_ratio": 4.2,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.4083084416370184
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6579",
+    "name": "研揚",
+    "market": "TWSE",
+    "foreign_ratio": 4.07,
     "trust_ratio": 0.026538020637809395,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.226538020637809,
-    "three_inst_ratio_change_20": 0.818229579000791
+    "three_inst_ratio": 4.0965380206378095,
+    "three_inst_ratio_change_20": 0.648229579000791
   }
 ]

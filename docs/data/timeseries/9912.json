@@ -1973,10 +1973,21 @@
     "code": "9912",
     "name": "偉聯",
     "market": "TWSE",
-    "foreign_ratio": 16.14,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.14,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.96
+  },
+  {
+    "date": "2026-07-17",
+    "code": "9912",
+    "name": "偉聯",
+    "market": "TWSE",
+    "foreign_ratio": 16.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.15,
+    "three_inst_ratio_change_20": 0.20999999999999908
   }
 ]

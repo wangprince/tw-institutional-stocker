@@ -2248,10 +2248,21 @@
     "code": "6472",
     "name": "保瑞",
     "market": "TWSE",
-    "foreign_ratio": 10.79,
-    "trust_ratio": 0.27243337718435795,
-    "dealer_ratio": 0.028905895451126106,
-    "three_inst_ratio": 11.091339272635484,
-    "three_inst_ratio_change_20": -0.2606925922861727
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.352031864921656
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6472",
+    "name": "保瑞",
+    "market": "TWSE",
+    "foreign_ratio": 10.95,
+    "trust_ratio": 0.2713914335757649,
+    "dealer_ratio": 0.028961444403979304,
+    "three_inst_ratio": 11.250352877979743,
+    "three_inst_ratio_change_20": -0.27729556961351776
   }
 ]

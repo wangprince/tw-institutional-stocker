@@ -2303,10 +2303,21 @@
     "code": "6449",
     "name": "鈺邦",
     "market": "TWSE",
-    "foreign_ratio": 6.01,
-    "trust_ratio": 5.802787353470356,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.812787353470355,
-    "three_inst_ratio_change_20": 1.0648020883787588
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.747985265091597
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6449",
+    "name": "鈺邦",
+    "market": "TWSE",
+    "foreign_ratio": 6.79,
+    "trust_ratio": 5.850672769416247,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.640672769416247,
+    "three_inst_ratio_change_20": 2.852687504324651
   }
 ]

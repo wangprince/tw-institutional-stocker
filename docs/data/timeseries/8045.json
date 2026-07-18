@@ -2248,10 +2248,21 @@
     "code": "8045",
     "name": "達運光電",
     "market": "TWSE",
-    "foreign_ratio": 1.43,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.43,
-    "three_inst_ratio_change_20": 0.19999999999999996
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.23
+  },
+  {
+    "date": "2026-07-17",
+    "code": "8045",
+    "name": "達運光電",
+    "market": "TWSE",
+    "foreign_ratio": 1.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.33,
+    "three_inst_ratio_change_20": 0.08000000000000007
   }
 ]

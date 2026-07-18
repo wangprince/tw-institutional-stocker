@@ -2303,10 +2303,21 @@
     "code": "8114",
     "name": "振樺電",
     "market": "TWSE",
-    "foreign_ratio": 12.34,
-    "trust_ratio": 2.466500135472635,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.19297318060199
+  },
+  {
+    "date": "2026-07-17",
+    "code": "8114",
+    "name": "振樺電",
+    "market": "TWSE",
+    "foreign_ratio": 12.42,
+    "trust_ratio": 2.4704223310361297,
     "dealer_ratio": -0.0013073985211649254,
-    "three_inst_ratio": 14.80519273695147,
-    "three_inst_ratio_change_20": 0.6122195563494799
+    "three_inst_ratio": 14.889114932514964,
+    "three_inst_ratio_change_20": 1.056141751912973
   }
 ]

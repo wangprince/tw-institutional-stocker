@@ -2248,10 +2248,21 @@
     "code": "6672",
     "name": "騰輝電子-KY",
     "market": "TWSE",
-    "foreign_ratio": 25.9,
-    "trust_ratio": 0.1441875378711018,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.0441875378711,
-    "three_inst_ratio_change_20": 6.576001209915425
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.468186327955674
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6672",
+    "name": "騰輝電子-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.39,
+    "trust_ratio": 0.13858802183727262,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.528588021837272,
+    "three_inst_ratio_change_20": 2.4804016938815963
   }
 ]

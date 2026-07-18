@@ -2303,10 +2303,21 @@
     "code": "9934",
     "name": "成霖",
     "market": "TWSE",
-    "foreign_ratio": 13.42,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.42,
-    "three_inst_ratio_change_20": 0.2599999999999998
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.16
+  },
+  {
+    "date": "2026-07-17",
+    "code": "9934",
+    "name": "成霖",
+    "market": "TWSE",
+    "foreign_ratio": 13.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.48,
+    "three_inst_ratio_change_20": 0.33999999999999986
   }
 ]

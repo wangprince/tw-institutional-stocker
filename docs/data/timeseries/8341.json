@@ -2303,10 +2303,21 @@
     "code": "8341",
     "name": "日友",
     "market": "TWSE",
-    "foreign_ratio": 5.0,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.0,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.95
+  },
+  {
+    "date": "2026-07-17",
+    "code": "8341",
+    "name": "日友",
+    "market": "TWSE",
+    "foreign_ratio": 5.12,
+    "trust_ratio": 0.02923076923076923,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.149230769230769,
+    "three_inst_ratio_change_20": 0.33923076923076945
   }
 ]

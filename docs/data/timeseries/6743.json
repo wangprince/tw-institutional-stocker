@@ -2248,10 +2248,21 @@
     "code": "6743",
     "name": "安普新",
     "market": "TWSE",
-    "foreign_ratio": 3.69,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.77
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6743",
+    "name": "安普新",
+    "market": "TWSE",
+    "foreign_ratio": 3.58,
     "trust_ratio": 0.33179933333333334,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.021799333333333,
-    "three_inst_ratio_change_20": 0.25179933333333304
+    "three_inst_ratio": 3.9117993333333336,
+    "three_inst_ratio_change_20": 0.17179933333333341
   }
 ]

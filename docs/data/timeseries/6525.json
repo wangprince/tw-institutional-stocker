@@ -2303,10 +2303,21 @@
     "code": "6525",
     "name": "捷敏-KY",
     "market": "TWSE",
-    "foreign_ratio": 14.63,
-    "trust_ratio": 0.40745731040933,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.186338949730278
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6525",
+    "name": "捷敏-KY",
+    "market": "TWSE",
+    "foreign_ratio": 15.46,
+    "trust_ratio": 0.4314794943847912,
     "dealer_ratio": -0.0028384922549069265,
-    "three_inst_ratio": 15.034618818154422,
-    "three_inst_ratio_change_20": 1.8482798684241448
+    "three_inst_ratio": 15.888641002129884,
+    "three_inst_ratio_change_20": 2.286600473512893
   }
 ]

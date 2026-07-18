@@ -1489,10 +1489,21 @@
     "code": "6272",
     "name": "驊陞",
     "market": "TWSE",
-    "foreign_ratio": 1.86,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.86,
-    "three_inst_ratio_change_20": -0.5199999999999998
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.38
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6272",
+    "name": "驊陞",
+    "market": "TWSE",
+    "foreign_ratio": 2.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.13,
+    "three_inst_ratio_change_20": -0.16999999999999993
   }
 ]

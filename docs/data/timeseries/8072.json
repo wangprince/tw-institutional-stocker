@@ -2248,10 +2248,21 @@
     "code": "8072",
     "name": "陞泰",
     "market": "TWSE",
-    "foreign_ratio": 1.82,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.82,
-    "three_inst_ratio_change_20": -0.28
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.1
+  },
+  {
+    "date": "2026-07-17",
+    "code": "8072",
+    "name": "陞泰",
+    "market": "TWSE",
+    "foreign_ratio": 1.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.78,
+    "three_inst_ratio_change_20": -0.3600000000000001
   }
 ]

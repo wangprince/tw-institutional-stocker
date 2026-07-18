@@ -2237,10 +2237,21 @@
     "code": "8467",
     "name": "波力-KY",
     "market": "TWSE",
-    "foreign_ratio": 46.47,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -46.5406759889051
+  },
+  {
+    "date": "2026-07-17",
+    "code": "8467",
+    "name": "波力-KY",
+    "market": "TWSE",
+    "foreign_ratio": 46.48,
     "trust_ratio": 0.00067598890509953,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.4706759889051,
-    "three_inst_ratio_change_20": -0.07000000000000028
+    "three_inst_ratio": 46.4806759889051,
+    "three_inst_ratio_change_20": -0.060000000000002274
   }
 ]

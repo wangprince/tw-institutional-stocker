@@ -2248,10 +2248,21 @@
     "code": "6830",
     "name": "汎銓",
     "market": "TWSE",
-    "foreign_ratio": 9.01,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.278475453987143
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6830",
+    "name": "汎銓",
+    "market": "TWSE",
+    "foreign_ratio": 9.24,
     "trust_ratio": 1.7132297768206821,
     "dealer_ratio": 0.20019874683816952,
-    "three_inst_ratio": 10.923428523658853,
-    "three_inst_ratio_change_20": 0.6449530696717094
+    "three_inst_ratio": 11.153428523658853,
+    "three_inst_ratio_change_20": 0.6949530696717083
   }
 ]

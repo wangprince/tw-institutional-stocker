@@ -2248,10 +2248,21 @@
     "code": "6799",
     "name": "來頡",
     "market": "TWSE",
-    "foreign_ratio": 11.12,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.665876294691541
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6799",
+    "name": "來頡",
+    "market": "TWSE",
+    "foreign_ratio": 10.62,
     "trust_ratio": 0.45587629469154045,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.57587629469154,
-    "three_inst_ratio_change_20": 1.9099999999999984
+    "three_inst_ratio": 11.07587629469154,
+    "three_inst_ratio_change_20": 0.6799999999999997
   }
 ]

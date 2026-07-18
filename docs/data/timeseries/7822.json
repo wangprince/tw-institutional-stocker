@@ -818,10 +818,21 @@
     "code": "7822",
     "name": "倍利科",
     "market": "TWSE",
-    "foreign_ratio": 0.57,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.57,
-    "three_inst_ratio_change_20": -0.29000000000000004
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.86
+  },
+  {
+    "date": "2026-07-17",
+    "code": "7822",
+    "name": "倍利科",
+    "market": "TWSE",
+    "foreign_ratio": 0.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.58,
+    "three_inst_ratio_change_20": -0.32000000000000006
   }
 ]

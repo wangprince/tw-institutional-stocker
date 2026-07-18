@@ -2248,10 +2248,21 @@
     "code": "8438",
     "name": "昶昕",
     "market": "TWSE",
-    "foreign_ratio": 3.02,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.1471486782093994
+  },
+  {
+    "date": "2026-07-17",
+    "code": "8438",
+    "name": "昶昕",
+    "market": "TWSE",
+    "foreign_ratio": 3.08,
     "trust_ratio": 0.007148678209399082,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.0271486782093993,
-    "three_inst_ratio_change_20": -0.1200000000000001
+    "three_inst_ratio": 3.0871486782093993,
+    "three_inst_ratio_change_20": -0.20999999999999996
   }
 ]

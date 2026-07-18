@@ -2149,10 +2149,21 @@
     "code": "9944",
     "name": "新麗",
     "market": "TWSE",
-    "foreign_ratio": 1.2,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2,
-    "three_inst_ratio_change_20": 0.10999999999999988
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.09
+  },
+  {
+    "date": "2026-07-17",
+    "code": "9944",
+    "name": "新麗",
+    "market": "TWSE",
+    "foreign_ratio": 1.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.22,
+    "three_inst_ratio_change_20": 0.1399999999999999
   }
 ]

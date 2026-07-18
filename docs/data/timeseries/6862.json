@@ -2248,10 +2248,21 @@
     "code": "6862",
     "name": "三集瑞-KY",
     "market": "TWSE",
-    "foreign_ratio": 64.56,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 64.56,
-    "three_inst_ratio_change_20": -2.469999999999999
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -67.03
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6862",
+    "name": "三集瑞-KY",
+    "market": "TWSE",
+    "foreign_ratio": 64.57,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 64.57,
+    "three_inst_ratio_change_20": -2.6500000000000057
   }
 ]

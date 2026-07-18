@@ -2303,10 +2303,21 @@
     "code": "9914",
     "name": "美利達",
     "market": "TWSE",
-    "foreign_ratio": 23.17,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.23643292379052
+  },
+  {
+    "date": "2026-07-17",
+    "code": "9914",
+    "name": "美利達",
+    "market": "TWSE",
+    "foreign_ratio": 24.94,
     "trust_ratio": 0.3171412631721183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.48714126317212,
-    "three_inst_ratio_change_20": 0.25070833938159964
+    "three_inst_ratio": 25.25714126317212,
+    "three_inst_ratio_change_20": 2.1507083393816018
   }
 ]

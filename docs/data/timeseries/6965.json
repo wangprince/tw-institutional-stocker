@@ -2248,10 +2248,21 @@
     "code": "6965",
     "name": "中傑-KY",
     "market": "TWSE",
-    "foreign_ratio": 77.32,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 77.32,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -77.24
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6965",
+    "name": "中傑-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 77.33,
+    "three_inst_ratio_change_20": 0.09000000000000341
   }
 ]

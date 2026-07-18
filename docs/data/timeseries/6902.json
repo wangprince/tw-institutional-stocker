@@ -2248,10 +2248,21 @@
     "code": "6902",
     "name": "GOGOLOOK",
     "market": "TWSE",
-    "foreign_ratio": 3.63,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.63,
-    "three_inst_ratio_change_20": -0.06000000000000005
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.69
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6902",
+    "name": "GOGOLOOK",
+    "market": "TWSE",
+    "foreign_ratio": 3.57,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.57,
+    "three_inst_ratio_change_20": -0.10000000000000009
   }
 ]

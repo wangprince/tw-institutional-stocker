@@ -2248,10 +2248,21 @@
     "code": "6794",
     "name": "向榮生技",
     "market": "TWSE",
-    "foreign_ratio": 0.58,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.58,
-    "three_inst_ratio_change_20": 0.13999999999999996
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.44
+  },
+  {
+    "date": "2026-07-17",
+    "code": "6794",
+    "name": "向榮生技",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6,
+    "three_inst_ratio_change_20": 0.16999999999999998
   }
 ]

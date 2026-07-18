@@ -2303,10 +2303,21 @@
     "code": "9939",
     "name": "宏全",
     "market": "TWSE",
-    "foreign_ratio": 13.92,
-    "trust_ratio": 1.3634436801074152,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.283443680107416,
-    "three_inst_ratio_change_20": -0.1075181640742695
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.390961844181685
+  },
+  {
+    "date": "2026-07-17",
+    "code": "9939",
+    "name": "宏全",
+    "market": "TWSE",
+    "foreign_ratio": 14.26,
+    "trust_ratio": 1.4209175723805492,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.68091757238055,
+    "three_inst_ratio_change_20": 0.3213949420777258
   }
 ]
