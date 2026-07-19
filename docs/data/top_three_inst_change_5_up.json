@@ -854,17 +854,17 @@
     "change": 0.5790543471094676
   },
   {
-    "code": "00674R",
-    "name": "期元大S&P黃金反1",
-    "market": "TWSE",
-    "three_inst_ratio": 7.73,
-    "change": 0.5700000000000003
-  },
-  {
     "code": "2367",
     "name": "燿華",
     "market": "TWSE",
     "three_inst_ratio": 10.376038556216049,
+    "change": 0.5700000000000003
+  },
+  {
+    "code": "00674R",
+    "name": "期元大S&P黃金反1",
+    "market": "TWSE",
+    "three_inst_ratio": 7.73,
     "change": 0.5700000000000003
   },
   {
@@ -1211,6 +1211,13 @@
     "change": 0.4140228766526768
   },
   {
+    "code": "00665L",
+    "name": "富邦恒生國企正2",
+    "market": "TWSE",
+    "three_inst_ratio": 2.08,
+    "change": 0.41000000000000014
+  },
+  {
     "code": "7740",
     "name": "熙特爾-創",
     "market": "TWSE",
@@ -1222,13 +1229,6 @@
     "name": "連宇",
     "market": "TWSE",
     "three_inst_ratio": 2.04,
-    "change": 0.41000000000000014
-  },
-  {
-    "code": "00665L",
-    "name": "富邦恒生國企正2",
-    "market": "TWSE",
-    "three_inst_ratio": 2.08,
     "change": 0.41000000000000014
   },
   {
@@ -1379,17 +1379,17 @@
     "change": 0.36
   },
   {
-    "code": "6937",
-    "name": "天虹",
-    "market": "TWSE",
-    "three_inst_ratio": 2.7828231367602547,
-    "change": 0.3599999999999999
-  },
-  {
     "code": "1733",
     "name": "五鼎",
     "market": "TWSE",
     "three_inst_ratio": 3.616002989969244,
+    "change": 0.3599999999999999
+  },
+  {
+    "code": "6937",
+    "name": "天虹",
+    "market": "TWSE",
+    "three_inst_ratio": 2.7828231367602547,
     "change": 0.3599999999999999
   },
   {
