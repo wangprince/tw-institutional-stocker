@@ -819,17 +819,17 @@
     "change": -0.5999999999999996
   },
   {
-    "code": "3694",
-    "name": "海華",
-    "market": "TWSE",
-    "three_inst_ratio": 0.9181956316461646,
-    "change": -0.5899999999999999
-  },
-  {
     "code": "1304",
     "name": "台聚",
     "market": "TWSE",
     "three_inst_ratio": 28.042786395275428,
+    "change": -0.5899999999999999
+  },
+  {
+    "code": "3694",
+    "name": "海華",
+    "market": "TWSE",
+    "three_inst_ratio": 0.9181956316461646,
     "change": -0.5899999999999999
   },
   {
@@ -987,17 +987,17 @@
     "change": -0.46986461589542117
   },
   {
-    "code": "8103",
-    "name": "瀚荃",
-    "market": "TWSE",
-    "three_inst_ratio": 19.135753260232065,
-    "change": -0.46000000000000085
-  },
-  {
     "code": "00661",
     "name": "元大日經225",
     "market": "TWSE",
     "three_inst_ratio": 7.778537886872998,
+    "change": -0.46000000000000085
+  },
+  {
+    "code": "8103",
+    "name": "瀚荃",
+    "market": "TWSE",
+    "three_inst_ratio": 19.135753260232065,
     "change": -0.46000000000000085
   },
   {
@@ -1099,17 +1099,17 @@
     "change": -0.4219107474467769
   },
   {
-    "code": "00739",
-    "name": "元大MSCI A股",
-    "market": "TWSE",
-    "three_inst_ratio": 2.41,
-    "change": -0.41999999999999993
-  },
-  {
     "code": "00905",
     "name": "FT臺灣Smart",
     "market": "TWSE",
     "three_inst_ratio": 0.16,
+    "change": -0.41999999999999993
+  },
+  {
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "market": "TWSE",
+    "three_inst_ratio": 2.41,
     "change": -0.41999999999999993
   },
   {
@@ -1379,10 +1379,10 @@
     "change": -0.2900000000000009
   },
   {
-    "code": "3528",
-    "name": "安馳",
+    "code": "2338",
+    "name": "光罩",
     "market": "TWSE",
-    "three_inst_ratio": 5.79,
+    "three_inst_ratio": 4.88026386865362,
     "change": -0.29000000000000004
   },
   {
@@ -1393,10 +1393,10 @@
     "change": -0.29000000000000004
   },
   {
-    "code": "2338",
-    "name": "光罩",
+    "code": "3528",
+    "name": "安馳",
     "market": "TWSE",
-    "three_inst_ratio": 4.88026386865362,
+    "three_inst_ratio": 5.79,
     "change": -0.29000000000000004
   }
 ]
