@@ -1204,17 +1204,17 @@
     "change": -0.2900000000000009
   },
   {
-    "code": "00929",
-    "name": "復華台灣科技優息",
-    "market": "TWSE",
-    "three_inst_ratio": 0.58,
-    "change": -0.29000000000000004
-  },
-  {
     "code": "4576",
     "name": "大銀微系統",
     "market": "TWSE",
     "three_inst_ratio": 6.140810458950517,
+    "change": -0.29000000000000004
+  },
+  {
+    "code": "00929",
+    "name": "復華台灣科技優息",
+    "market": "TWSE",
+    "three_inst_ratio": 0.58,
     "change": -0.29000000000000004
   },
   {
@@ -1223,13 +1223,6 @@
     "market": "TWSE",
     "three_inst_ratio": 0.3329787282291954,
     "change": -0.28024974347597764
-  },
-  {
-    "code": "2889",
-    "name": "國票金",
-    "market": "TWSE",
-    "three_inst_ratio": 9.58023331898748,
-    "change": -0.28000000000000114
   },
   {
     "code": "3130",
@@ -1243,6 +1236,13 @@
     "name": "元晶",
     "market": "TWSE",
     "three_inst_ratio": 14.054470308732272,
+    "change": -0.28000000000000114
+  },
+  {
+    "code": "2889",
+    "name": "國票金",
+    "market": "TWSE",
+    "three_inst_ratio": 9.58023331898748,
     "change": -0.28000000000000114
   },
   {
@@ -1267,10 +1267,10 @@
     "change": -0.2720180000000001
   },
   {
-    "code": "2488",
-    "name": "漢平",
+    "code": "00996A",
+    "name": "主動兆豐台灣豐收",
     "market": "TWSE",
-    "three_inst_ratio": 6.85,
+    "three_inst_ratio": 5.26,
     "change": -0.27000000000000046
   },
   {
@@ -1281,10 +1281,10 @@
     "change": -0.27000000000000046
   },
   {
-    "code": "00996A",
-    "name": "主動兆豐台灣豐收",
+    "code": "2488",
+    "name": "漢平",
     "market": "TWSE",
-    "three_inst_ratio": 5.26,
+    "three_inst_ratio": 6.85,
     "change": -0.27000000000000046
   },
   {
@@ -1337,13 +1337,6 @@
     "change": -0.26
   },
   {
-    "code": "00642U",
-    "name": "期元大S&P石油",
-    "market": "TWSE",
-    "three_inst_ratio": 2.49,
-    "change": -0.2599999999999998
-  },
-  {
     "code": "1737",
     "name": "臺鹽",
     "market": "TWSE",
@@ -1362,6 +1355,13 @@
     "name": "聯策",
     "market": "TWSE",
     "three_inst_ratio": 2.18,
+    "change": -0.2599999999999998
+  },
+  {
+    "code": "00642U",
+    "name": "期元大S&P石油",
+    "market": "TWSE",
+    "three_inst_ratio": 2.49,
     "change": -0.2599999999999998
   },
   {
@@ -1393,10 +1393,10 @@
     "change": -0.25
   },
   {
-    "code": "3312",
-    "name": "弘憶股",
+    "code": "1310",
+    "name": "台苯",
     "market": "TWSE",
-    "three_inst_ratio": 2.44,
+    "three_inst_ratio": 4.81,
     "change": -0.25
   }
 ]

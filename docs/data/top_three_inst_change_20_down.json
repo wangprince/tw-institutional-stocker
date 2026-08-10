@@ -840,17 +840,17 @@
     "change": -1.0406234238897767
   },
   {
-    "code": "3501",
-    "name": "維熹",
-    "market": "TWSE",
-    "three_inst_ratio": 3.13,
-    "change": -1.04
-  },
-  {
     "code": "00918",
     "name": "大華優利高填息30",
     "market": "TWSE",
     "three_inst_ratio": 0.72,
+    "change": -1.04
+  },
+  {
+    "code": "3501",
+    "name": "維熹",
+    "market": "TWSE",
+    "three_inst_ratio": 3.13,
     "change": -1.04
   },
   {
@@ -1120,17 +1120,17 @@
     "change": -0.7599999999999999
   },
   {
-    "code": "00985B",
-    "name": "群益ESG投等債0-5",
-    "market": "TWSE",
-    "three_inst_ratio": 0.22,
-    "change": -0.75
-  },
-  {
     "code": "1529",
     "name": "樂事綠能",
     "market": "TWSE",
     "three_inst_ratio": 1.2024204508261815,
+    "change": -0.75
+  },
+  {
+    "code": "00985B",
+    "name": "群益ESG投等債0-5",
+    "market": "TWSE",
+    "three_inst_ratio": 0.22,
     "change": -0.75
   },
   {
@@ -1302,13 +1302,6 @@
     "change": -0.6300000000000001
   },
   {
-    "code": "1611",
-    "name": "中電",
-    "market": "TWSE",
-    "three_inst_ratio": 9.900045548100465,
-    "change": -0.629999999999999
-  },
-  {
     "code": "1337",
     "name": "再生-KY",
     "market": "TWSE",
@@ -1320,6 +1313,13 @@
     "name": "台耀",
     "market": "TWSE",
     "three_inst_ratio": 10.962629640328107,
+    "change": -0.629999999999999
+  },
+  {
+    "code": "1611",
+    "name": "中電",
+    "market": "TWSE",
+    "three_inst_ratio": 9.900045548100465,
     "change": -0.629999999999999
   },
   {
@@ -1386,17 +1386,17 @@
     "change": -0.5699999999999994
   },
   {
-    "code": "3051",
-    "name": "力特",
-    "market": "TWSE",
-    "three_inst_ratio": 2.0332934131736526,
-    "change": -0.56
-  },
-  {
     "code": "00919",
     "name": "群益台灣精選高息",
     "market": "TWSE",
     "three_inst_ratio": 0.24,
+    "change": -0.56
+  },
+  {
+    "code": "3051",
+    "name": "力特",
+    "market": "TWSE",
+    "three_inst_ratio": 2.0332934131736526,
     "change": -0.56
   }
 ]
