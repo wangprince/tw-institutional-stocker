@@ -350,17 +350,17 @@
     "change": -1.1091502279827843
   },
   {
-    "code": "00916",
-    "name": "國泰全球品牌50",
-    "market": "TWSE",
-    "three_inst_ratio": 1.23,
-    "change": -1.1
-  },
-  {
     "code": "4989",
     "name": "榮科",
     "market": "TWSE",
     "three_inst_ratio": 2.58,
+    "change": -1.1
+  },
+  {
+    "code": "00916",
+    "name": "國泰全球品牌50",
+    "market": "TWSE",
+    "three_inst_ratio": 1.23,
     "change": -1.1
   },
   {
@@ -910,10 +910,10 @@
     "change": -0.009999999999999898
   },
   {
-    "code": "02001L",
-    "name": "富邦蘋果正二N",
+    "code": "00682U",
+    "name": "期元大美元指數",
     "market": "TWSE",
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 2.18,
     "change": 0.0
   },
   {
@@ -924,22 +924,22 @@
     "change": 0.0
   },
   {
-    "code": "00668K",
-    "name": "國泰美國道瓊+U",
+    "code": "00636K",
+    "name": "國泰中國A50+U",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
   },
   {
-    "code": "00682U",
-    "name": "期元大美元指數",
+    "code": "02001L",
+    "name": "富邦蘋果正二N",
     "market": "TWSE",
-    "three_inst_ratio": 2.18,
+    "three_inst_ratio": 0.0,
     "change": 0.0
   },
   {
-    "code": "00636K",
-    "name": "國泰中國A50+U",
+    "code": "00668K",
+    "name": "國泰美國道瓊+U",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1008,6 +1008,13 @@
     "change": 0.02
   },
   {
+    "code": "00771",
+    "name": "元大US高息特別股",
+    "market": "TWSE",
+    "three_inst_ratio": 0.37,
+    "change": 0.020000000000000018
+  },
+  {
     "code": "00728",
     "name": "第一金工業30",
     "market": "TWSE",
@@ -1019,13 +1026,6 @@
     "name": "中宇",
     "market": "TWSE",
     "three_inst_ratio": 0.97,
-    "change": 0.020000000000000018
-  },
-  {
-    "code": "00771",
-    "name": "元大US高息特別股",
-    "market": "TWSE",
-    "three_inst_ratio": 0.37,
     "change": 0.020000000000000018
   },
   {
@@ -1232,17 +1232,17 @@
     "change": 0.12760849820280562
   },
   {
-    "code": "6901",
-    "name": "鑽石投資",
-    "market": "TWSE",
-    "three_inst_ratio": 0.61,
-    "change": 0.13
-  },
-  {
     "code": "6645",
     "name": "金萬林-創",
     "market": "TWSE",
     "three_inst_ratio": 0.73,
+    "change": 0.13
+  },
+  {
+    "code": "6901",
+    "name": "鑽石投資",
+    "market": "TWSE",
+    "three_inst_ratio": 0.61,
     "change": 0.13
   },
   {
@@ -1281,17 +1281,17 @@
     "change": 0.14457592827400134
   },
   {
-    "code": "2722",
-    "name": "夏都",
-    "market": "TWSE",
-    "three_inst_ratio": 0.42,
-    "change": 0.14999999999999997
-  },
-  {
     "code": "7732",
     "name": "金興精密",
     "market": "TWSE",
     "three_inst_ratio": 0.4315460729746444,
+    "change": 0.14999999999999997
+  },
+  {
+    "code": "2722",
+    "name": "夏都",
+    "market": "TWSE",
+    "three_inst_ratio": 0.42,
     "change": 0.14999999999999997
   },
   {
@@ -1337,15 +1337,15 @@
     "change": 0.1699999999999875
   },
   {
-    "code": "00706L",
-    "name": "期元大S&P日圓正2",
+    "code": "00671R",
+    "name": "富邦NASDAQ反1",
     "market": "TWSE",
     "three_inst_ratio": 0.17,
     "change": 0.17
   },
   {
-    "code": "00671R",
-    "name": "富邦NASDAQ反1",
+    "code": "00706L",
+    "name": "期元大S&P日圓正2",
     "market": "TWSE",
     "three_inst_ratio": 0.17,
     "change": 0.17
@@ -1379,13 +1379,6 @@
     "change": 0.1724854619119114
   },
   {
-    "code": "8481",
-    "name": "政伸",
-    "market": "TWSE",
-    "three_inst_ratio": 0.49,
-    "change": 0.18
-  },
-  {
     "code": "6655",
     "name": "科定",
     "market": "TWSE",
@@ -1397,6 +1390,13 @@
     "name": "復華台灣科技優息",
     "market": "TWSE",
     "three_inst_ratio": 0.61,
+    "change": 0.18
+  },
+  {
+    "code": "8481",
+    "name": "政伸",
+    "market": "TWSE",
+    "three_inst_ratio": 0.49,
     "change": 0.18
   }
 ]

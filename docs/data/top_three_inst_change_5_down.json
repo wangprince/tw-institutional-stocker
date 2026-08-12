@@ -609,17 +609,17 @@
     "change": -0.6873361494076526
   },
   {
-    "code": "00963",
-    "name": "中信全球高股息",
-    "market": "TWSE",
-    "three_inst_ratio": 2.24,
-    "change": -0.6799999999999997
-  },
-  {
     "code": "2485",
     "name": "兆赫",
     "market": "TWSE",
     "three_inst_ratio": 5.588426133917866,
+    "change": -0.6799999999999997
+  },
+  {
+    "code": "00963",
+    "name": "中信全球高股息",
+    "market": "TWSE",
+    "three_inst_ratio": 2.24,
     "change": -0.6799999999999997
   },
   {
@@ -805,17 +805,17 @@
     "change": -0.523605786953731
   },
   {
-    "code": "8110",
-    "name": "華東",
-    "market": "TWSE",
-    "three_inst_ratio": 1.175593928793694,
-    "change": -0.52
-  },
-  {
     "code": "3011",
     "name": "今皓",
     "market": "TWSE",
     "three_inst_ratio": 2.66,
+    "change": -0.52
+  },
+  {
+    "code": "8110",
+    "name": "華東",
+    "market": "TWSE",
+    "three_inst_ratio": 1.175593928793694,
     "change": -0.52
   },
   {
@@ -896,17 +896,17 @@
     "change": -0.46000000000000085
   },
   {
-    "code": "3717",
-    "name": "聯嘉投控",
-    "market": "TWSE",
-    "three_inst_ratio": 4.96,
-    "change": -0.45999999999999996
-  },
-  {
     "code": "00735",
     "name": "國泰臺韓科技",
     "market": "TWSE",
     "three_inst_ratio": 2.98,
+    "change": -0.45999999999999996
+  },
+  {
+    "code": "3717",
+    "name": "聯嘉投控",
+    "market": "TWSE",
+    "three_inst_ratio": 4.96,
     "change": -0.45999999999999996
   },
   {
@@ -1281,17 +1281,10 @@
     "change": -0.26288294122738165
   },
   {
-    "code": "1737",
-    "name": "臺鹽",
+    "code": "00909",
+    "name": "國泰數位支付服務",
     "market": "TWSE",
-    "three_inst_ratio": 8.55,
-    "change": -0.2599999999999998
-  },
-  {
-    "code": "00714",
-    "name": "群益道瓊美國地產",
-    "market": "TWSE",
-    "three_inst_ratio": 9.99,
+    "three_inst_ratio": 2.37,
     "change": -0.2599999999999998
   },
   {
@@ -1302,10 +1295,17 @@
     "change": -0.2599999999999998
   },
   {
-    "code": "00909",
-    "name": "國泰數位支付服務",
+    "code": "00714",
+    "name": "群益道瓊美國地產",
     "market": "TWSE",
-    "three_inst_ratio": 2.37,
+    "three_inst_ratio": 9.99,
+    "change": -0.2599999999999998
+  },
+  {
+    "code": "1737",
+    "name": "臺鹽",
+    "market": "TWSE",
+    "three_inst_ratio": 8.55,
     "change": -0.2599999999999998
   },
   {
@@ -1323,10 +1323,10 @@
     "change": -0.25
   },
   {
-    "code": "3130",
-    "name": "一零四",
+    "code": "2488",
+    "name": "漢平",
     "market": "TWSE",
-    "three_inst_ratio": 16.236154705986916,
+    "three_inst_ratio": 6.88,
     "change": -0.25
   },
   {
@@ -1337,17 +1337,17 @@
     "change": -0.25
   },
   {
-    "code": "2488",
-    "name": "漢平",
-    "market": "TWSE",
-    "three_inst_ratio": 6.88,
-    "change": -0.25
-  },
-  {
     "code": "00406A",
     "name": "主動中信台灣收益",
     "market": "TWSE",
     "three_inst_ratio": 0.35,
+    "change": -0.25
+  },
+  {
+    "code": "3130",
+    "name": "一零四",
+    "market": "TWSE",
+    "three_inst_ratio": 16.236154705986916,
     "change": -0.25
   },
   {
@@ -1379,17 +1379,17 @@
     "change": -0.240000000000002
   },
   {
-    "code": "2505",
-    "name": "國揚",
-    "market": "TWSE",
-    "three_inst_ratio": 3.61,
-    "change": -0.2400000000000002
-  },
-  {
     "code": "6209",
     "name": "今國光",
     "market": "TWSE",
     "three_inst_ratio": 3.7334723731835204,
+    "change": -0.2400000000000002
+  },
+  {
+    "code": "2505",
+    "name": "國揚",
+    "market": "TWSE",
+    "three_inst_ratio": 3.61,
     "change": -0.2400000000000002
   },
   {
