@@ -1183,13 +1183,6 @@
     "change": -0.5800000000000001
   },
   {
-    "code": "3041",
-    "name": "揚智",
-    "market": "TWSE",
-    "three_inst_ratio": 6.216978776340056,
-    "change": -0.5800000000000001
-  },
-  {
     "code": "6426",
     "name": "統新",
     "market": "TWSE",
@@ -1201,6 +1194,13 @@
     "name": "台苯",
     "market": "TWSE",
     "three_inst_ratio": 5.11,
+    "change": -0.5800000000000001
+  },
+  {
+    "code": "3041",
+    "name": "揚智",
+    "market": "TWSE",
+    "three_inst_ratio": 6.216978776340056,
     "change": -0.5800000000000001
   },
   {
@@ -1330,17 +1330,17 @@
     "change": -0.5015783595617211
   },
   {
-    "code": "2390",
-    "name": "云辰",
-    "market": "TWSE",
-    "three_inst_ratio": 3.1730781190820814,
-    "change": -0.5
-  },
-  {
     "code": "2538",
     "name": "基泰",
     "market": "TWSE",
     "three_inst_ratio": 9.5,
+    "change": -0.5
+  },
+  {
+    "code": "2390",
+    "name": "云辰",
+    "market": "TWSE",
+    "three_inst_ratio": 3.1730781190820814,
     "change": -0.5
   },
   {
