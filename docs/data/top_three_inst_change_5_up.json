@@ -595,17 +595,17 @@
     "change": 0.6984190568399953
   },
   {
-    "code": "3019",
-    "name": "亞光",
-    "market": "TWSE",
-    "three_inst_ratio": 9.38899428206312,
-    "change": 0.6699999999999999
-  },
-  {
     "code": "2030",
     "name": "彰源",
     "market": "TWSE",
     "three_inst_ratio": 12.84,
+    "change": 0.6699999999999999
+  },
+  {
+    "code": "3019",
+    "name": "亞光",
+    "market": "TWSE",
+    "three_inst_ratio": 9.38899428206312,
     "change": 0.6699999999999999
   },
   {
@@ -614,6 +614,13 @@
     "market": "TWSE",
     "three_inst_ratio": 34.74058933012621,
     "change": 0.6636730625317
+  },
+  {
+    "code": "2476",
+    "name": "鉅祥",
+    "market": "TWSE",
+    "three_inst_ratio": 9.337839212873643,
+    "change": 0.6600000000000001
   },
   {
     "code": "2103",
@@ -627,13 +634,6 @@
     "name": "聯成",
     "market": "TWSE",
     "three_inst_ratio": 7.981277382855207,
-    "change": 0.6600000000000001
-  },
-  {
-    "code": "2476",
-    "name": "鉅祥",
-    "market": "TWSE",
-    "three_inst_ratio": 9.337839212873643,
     "change": 0.6600000000000001
   },
   {
@@ -973,10 +973,10 @@
     "change": 0.40063676164206896
   },
   {
-    "code": "4142",
-    "name": "國光生",
+    "code": "2025",
+    "name": "千興",
     "market": "TWSE",
-    "three_inst_ratio": 5.966030519821819,
+    "three_inst_ratio": 2.99,
     "change": 0.40000000000000036
   },
   {
@@ -987,10 +987,10 @@
     "change": 0.40000000000000036
   },
   {
-    "code": "2025",
-    "name": "千興",
+    "code": "4142",
+    "name": "國光生",
     "market": "TWSE",
-    "three_inst_ratio": 2.99,
+    "three_inst_ratio": 5.966030519821819,
     "change": 0.40000000000000036
   },
   {
@@ -1113,6 +1113,13 @@
     "change": 0.3346690695525689
   },
   {
+    "code": "00410A",
+    "name": "主動永豐科技趨勢",
+    "market": "TWSE",
+    "three_inst_ratio": 10.33,
+    "change": 0.33000000000000007
+  },
+  {
     "code": "0057",
     "name": "富邦摩台",
     "market": "TWSE",
@@ -1127,24 +1134,17 @@
     "change": 0.33000000000000007
   },
   {
-    "code": "00410A",
-    "name": "主動永豐科技趨勢",
+    "code": "6202",
+    "name": "盛群",
     "market": "TWSE",
-    "three_inst_ratio": 10.33,
-    "change": 0.33000000000000007
+    "three_inst_ratio": 17.271575992173208,
+    "change": 0.3299999999999983
   },
   {
     "code": "6862",
     "name": "三集瑞-KY",
     "market": "TWSE",
     "three_inst_ratio": 65.140016,
-    "change": 0.3299999999999983
-  },
-  {
-    "code": "6202",
-    "name": "盛群",
-    "market": "TWSE",
-    "three_inst_ratio": 17.271575992173208,
     "change": 0.3299999999999983
   },
   {
@@ -1197,13 +1197,6 @@
     "change": 0.31000000000000005
   },
   {
-    "code": "3305",
-    "name": "昇貿",
-    "market": "TWSE",
-    "three_inst_ratio": 4.620971943035398,
-    "change": 0.3099999999999996
-  },
-  {
     "code": "1308",
     "name": "亞聚",
     "market": "TWSE",
@@ -1215,6 +1208,13 @@
     "name": "允強",
     "market": "TWSE",
     "three_inst_ratio": 6.84,
+    "change": 0.3099999999999996
+  },
+  {
+    "code": "3305",
+    "name": "昇貿",
+    "market": "TWSE",
+    "three_inst_ratio": 4.620971943035398,
     "change": 0.3099999999999996
   },
   {
@@ -1253,17 +1253,17 @@
     "change": 0.30000000000000004
   },
   {
-    "code": "00407A",
-    "name": "主動凱基台灣",
-    "market": "TWSE",
-    "three_inst_ratio": 3.42,
-    "change": 0.2999999999999998
-  },
-  {
     "code": "4949",
     "name": "有成精密",
     "market": "TWSE",
     "three_inst_ratio": 3.8859242158421003,
+    "change": 0.2999999999999998
+  },
+  {
+    "code": "00407A",
+    "name": "主動凱基台灣",
+    "market": "TWSE",
+    "three_inst_ratio": 3.42,
     "change": 0.2999999999999998
   },
   {
